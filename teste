@@ -80,3 +80,157 @@ http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/129.m3u8
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/149.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="Canais | Globos",Globo SP
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/134.m3u8
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="Canais | Infantil",Gloob
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14420.m3u8
+#EXTINF:-1 tvg-id="History2" tvg-name="H2" tvg-logo="https://i.imgur.com/rn97sHI.png" group-title="Canais | Documentários",H2
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14430.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.imgur.com/LQryo2I.png" group-title=" Canais | Variedades",HGTV
+http://xcui.vitvabc.xyz:8880/live/287994003356/287994003356/16734.m3u8
+#EXTINF:-1 tvg-id="The History Channel" tvg-name="History" tvg-logo="https://i.imgur.com/rnFN35w.png" group-title="Canais | Documentários",History
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14431.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.imgur.com/9WI5b5a.png" group-title=" Canais | Variedades",MTV
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14425.m3u8
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/3ktP2Pi.png" group-title="Canais | Backup",MTV Live
+http://xcui.vitvabc.xyz:8880/live/287994003356/287994003356/16739.m3u8
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="https://i.imgur.com/awRBCdt.png" group-title=" Canais | Variedades",Multishow
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14424.m3u8
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="Canais | Infantil",NatGeo Kids
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14416.m3u8
+#EXTINF:-1 tvg-id="Natgeo Wild" tvg-name="NatGeo Wild" tvg-logo="https://i.imgur.com/m3VoPNf.png" group-title="Canais | Documentários",NatGeo Wild
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="" group-title="Canais | Documentários",Natgeo FHD
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14427.m3u8
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="Canais | Infantil",Nick Jr
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14412.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/z9U8Fen.png" group-title="Canais | Infantil",Nickelodeon
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14411.m3u8
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount" tvg-logo="https://i.imgur.com/kueRjeD.png" group-title="Canais | Filmes e Séries",Paramount
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14402.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://i.imgur.com/hrXjbRA.png" group-title="Canais | Notícias",Record News
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/136.m3u8
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="Canais | Record",Record
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/135.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/Wb4m14k.png" group-title="Canais | Abertos",SBT
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/110.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://i.imgur.com/3YX8kyd.png" group-title="Canais | Filmes e Séries",Space
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14376.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1" tvg-logo="https://i.imgur.com/AteHq6i.png" group-title="Canais | Esportes",SporTV 1
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14360.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/kEwerSr.png" group-title="Canais | Esportes",SporTV 2
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14361.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/uQ6p9eQ.png" group-title="Canais | Esportes",SporTV 3
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14362.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://i.imgur.com/Nx6Mjje.png" group-title="Canais | Filmes e Séries",Studio Universal
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14406.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://i.imgur.com/dMSyEOO.png" group-title="Canais | Filmes e Séries",Syfy
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14400.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="https://i.imgur.com/9KwMN9L.png" group-title="Canais | Telecine",Telecine Fun
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14386.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="https://i.imgur.com/xW8O7oi.png" group-title="Canais | Telecine",Telecine Pipoca
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14384.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="https://i.imgur.com/FFs1Ncd.png" group-title="Canais | Telecine",Telecine Premium
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14383.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/TyvbUsJ.png" group-title="Canais | Telecine",Telecine Touch
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14385.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.imgur.com/UL6lOZA.png" group-title="Canais | Filmes e Séries",TNT
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14374.m3u8
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://i.imgur.com/hvvUdTF.png" group-title="Canais | Filmes e Séries",TNT Series
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14375.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/OwqPlhS.png" group-title="Canais | Infantil",Tooncast
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14422.m3u8
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV" tvg-logo="https://i.imgur.com/pK0zf3s.png" group-title="Canais | Filmes e Séries",Universal Channel
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14403.m3u8
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="https://i.imgur.com/MHtM4B2.png" group-title=" Canais | Variedades",Viva
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14444.m3u8
+#EXTINF:-1 tvg-id="Warner" tvg-name="Warner Channel" tvg-logo="https://i.imgur.com/jCMMmP9.png" group-title="Canais | Filmes e Séries",Warner Channel
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14404.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/caJAhY0.png" group-title="Canais | Premiere FC",Premiere Clubes
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14365.m3u8
+#EXTINF:-1 tvg-id="tv morena" tvg-name="Globo TV Morena" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="Canais | Globos",Globo TV Morena
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/128.m3u8
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/7DGORKn.png" group-title="Canais | Abertos",RedeTV
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/106.m3u8
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="https://i.imgur.com/siI6PCU.png" group-title="Canais | Abertos",TV Cultura
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/15030.m3u8
+#EXTINF:-1 tvg-id="CANAL29" tvg-name="CANAL 29" tvg-logo="" group-title="Canais | Abertos",CANAL 29
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14998.m3u8
+#EXTINF:-1 tvg-id="MANCHETE" tvg-name="MANCHETE" tvg-logo="" group-title="Canais | Abertos",MANCHETE
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/15003.m3u8
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="Canais | Notícias",CNN Brasil
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/150.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://i.imgur.com/hrXjbRA.png" group-title="Canais | Notícias",Record News
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="All Sports" tvg-logo="https://i.imgur.com/eD2DQMT.png" group-title="Canais | Esportes",All Sports
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/15051.m3u8
+#EXTINF:-1 tvg-id="FISH TV" tvg-name="Fish TV" tvg-logo="https://i.imgur.com/MQenprP.png" group-title=" Canais | Variedades",Fish TV
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14440.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://i.imgur.com/dxWbCux.png" group-title="Canais | Esportes",ESPN Extra
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14357.m3u8
+#EXTINF:-1 tvg-id="The Golf Channel" tvg-name="Golf Channel" tvg-logo="https://i.ibb.co/DGCv3HT/unnamed-3.png" group-title="Canais | Esportes",Golf Channel
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/1212.m3u8
+#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Ra Tim Bum" tvg-logo="https://i.imgur.com/S0CVIGJ.png" group-title="Canais | Infantil",TV Ra Tim Bum
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/15214.m3u8
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/R1qxumF.png" group-title="Canais | Infantil",ZooMoo
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/15217.m3u8
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Globinho" tvg-logo="https://i.imgur.com/XW6nfP0.png" group-title="Canais | Infantil",Globinho
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14421.m3u8
+#EXTINF:-1 tvg-id="RETROCARTOON" tvg-name="RETROCARTOON" tvg-logo="https://i.imgur.com/XW6nfP0.png" group-title="Canais | Infantil",RETROCARTOON
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/15214.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="Canais | Filmes e Séries",AMC HD
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14481.m3u8
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="Canais | Filmes e Séries",MegaPix
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14401.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/MzwNfMh.png" group-title="Canais | Filmes e Séries",TCM HD
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14409.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO1" tvg-logo="https://i.imgur.com/Xsy08Sy.png" group-title="Canais | HBO",HBO
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14388.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2" tvg-logo="https://i.imgur.com/ANMLrfe.png" group-title="Canais | HBO",HBO2
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14389.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/A4J0RL4.png" group-title="Canais | HBO",HBO Family
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14392.m3u8
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/E1IMv80.png" group-title="Canais | HBO",HBO+
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14390.m3u8
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/jYmTr52.png" group-title="Canais | HBO",HBO Signature
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14391.m3u8
+#EXTINF:-1 tvg-id="Hbo Mundi" tvg-name="HBO Mundi" tvg-logo="https://i.imgur.com/tr2iT2o.png" group-title="Canais | HBO",HBO Mundi
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14393.m3u8
+#EXTINF:-1 tvg-id="hBO Xtreme" tvg-name="HBO Xtreme" tvg-logo="https://i.imgur.com/y7uzQsv.png" group-title="Canais | HBO",HBO Xtreme
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14395.m3u8
+#EXTINF:-1 tvg-id="Hbo Pop" tvg-name="HBO POP" tvg-logo="https://i.imgur.com/Re1nqCh.png" group-title="Canais | HBO",HBO POP
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14394.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/QA0pfnG.png" group-title="Canais | Telecine",Telecine Cult
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14387.m3u8
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://i.imgur.com/caJAhY0.png" group-title="Canais | Premiere FC",Premiere 2
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14366.m3u8
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="https://i.imgur.com/caJAhY0.png" group-title="Canais | Premiere FC",Premiere 3
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14367.m3u8
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="https://i.imgur.com/caJAhY0.png" group-title="Canais | Premiere FC",Premiere 4
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14368.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="https://i.imgur.com/caJAhY0.png" group-title="Canais | Premiere FC",Premiere 5
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14369.m3u8
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="https://i.imgur.com/caJAhY0.png" group-title="Canais | Premiere FC",Premiere 6
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14370.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="https://i.imgur.com/caJAhY0.png" group-title="Canais | Premiere FC",Premiere 7
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14371.m3u8
+#EXTINF:-1 tvg-id="Conmenbol 01" tvg-name="Conmebol TV 01 FHD" tvg-logo="https://i.imgur.com/lQzTjm4.png" group-title="Canais | Libertadores 2021",Conmebol TV 01
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/15235.m3u8
+#EXTINF:-1 tvg-id="Conmenbol 02" tvg-name="Conmebol TV 02 FHD" tvg-logo="https://i.imgur.com/lQzTjm4.png" group-title="Canais | Libertadores 2021",Conmebol TV 02
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/158.m3u8
+#EXTINF:-1 tvg-id="Conmenbol 03" tvg-name="Conmebol TV 03 FHD" tvg-logo="https://i.imgur.com/lQzTjm4.png" group-title="Canais | Libertadores 2021",Conmebol TV 03
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/15233.m3u8
+#EXTINF:-1 tvg-id="Conmenbol 04" tvg-name="Conmebol TV 04 FHD*" tvg-logo="https://i.imgur.com/lQzTjm4.png" group-title="Canais | Libertadores 2021",Conmebol TV 04
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/15234.m3u8
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://i.imgur.com/6HaCDmT.png" group-title=" Canais | Variedades",E!
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14441.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://i.imgur.com/2yvAE2U.png" group-title=" Canais | Variedades",Lifetime
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14446.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.imgur.com/xxsWf5u.png" group-title=" Canais | Variedades",VH1
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14426.m3u8
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="https://i.imgur.com/Ji152FZ.png" group-title="Canais | Documentários",Curta!
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14561.m3u8
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="https://i.imgur.com/lOsnnTH.png" group-title="Canais | Documentários",Discovery Civilization
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14437.m3u8
+#EXTINF:-1 tvg-id="TV Cancao Nova" tvg-name="Canção Nova" tvg-logo="https://i.imgur.com/pkttYOs.png" group-title="Canais | Religiosos",Canção Nova
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14972.m3u8
+#EXTINF:-1 tvg-id="Tv Aparecida" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/LoYvPze.png" group-title="Canais | Religiosos",TV Aparecida
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/15065.m3u8
