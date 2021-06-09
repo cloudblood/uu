@@ -1,5 +1,7 @@
 #EXTM3U
 
+## Links encontrados na internet ##
+
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title=" Canais | Variedades",A&E
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14408.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="Canais | Filmes e Séries",AMC
