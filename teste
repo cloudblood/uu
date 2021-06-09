@@ -110,7 +110,7 @@ http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14411.m3u8
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14402.m3u8
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://i.imgur.com/hrXjbRA.png" group-title="Canais | Notícias",Record News
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/136.m3u8
-#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="Canais | Record",Record
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://i.imgur.com/jGnG48Y.png" group-title="Canais | Abertos",Record
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/135.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/Wb4m14k.png" group-title="Canais | Abertos",SBT
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/110.m3u8
