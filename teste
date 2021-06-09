@@ -90,7 +90,7 @@ http://xcui.vitvabc.xyz:8880/live/287994003356/287994003356/16734.m3u8
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14431.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.imgur.com/9WI5b5a.png" group-title=" Canais | Variedades",MTV
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14425.m3u8
-#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/3ktP2Pi.png" group-title="Canais | Backup",MTV Live
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/9WI5b5a.png" group-title=" Canais | Variedades",MTV Live
 http://xcui.vitvabc.xyz:8880/live/287994003356/287994003356/16739.m3u8
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="https://i.imgur.com/awRBCdt.png" group-title=" Canais | Variedades",Multishow
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14424.m3u8
