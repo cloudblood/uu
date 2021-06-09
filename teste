@@ -46,7 +46,7 @@ http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14434.m3u8
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14435.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="Canais | Infantil",Disney Channel
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="Canais | Backup",Disney JR
+#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney JR" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="Canais | Infantil",Disney JR
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14414.m3u8
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="Canais | Infantil",Disney XD
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/108.m3u8
@@ -66,3 +66,17 @@ http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14380.m3u8
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14377.m3u8
 #EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-name="Star Hits 2" tvg-logo="https://i.imgur.com/n7PaxQU.png" group-title="Canais | Filmes e Séries",Star Hits 2
 http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14378.m3u8
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="Canais | Esportes",FOX Sports 1
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14358.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | Esportes",FOX Sports 2
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14359.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://i.imgur.com/s5s08uV.png" group-title="Canais | Filmes e Séries",FX
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14381.m3u8
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News" tvg-logo="https://i.imgur.com/j0FNDRP.png" group-title="Canais | Notícias",Globo News
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/14562.m3u8
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="Canais | Globos",Globo Nordeste
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/129.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo RJ" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="Canais | Globos",Globo RJ
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/149.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="Canais | Globos",Globo SP
+http://massud.homelinux.com:80/live/lilNXK3jRCOJ2Q1q/vG3d6WyQ5dx62A2r/134.m3u8
