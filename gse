@@ -353,7 +353,7 @@ http://pfsv.io:80/00826082/94250/49127
 http://pfsv.io:80/00826082/94250/548
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP HD
 http://pfsv.io:80/00826082/94250/56
-#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Variedades",TV Gazeta SP SD
+#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP SD
 http://pfsv.io:80/00826082/94250/82
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM HD
 http://pfsv.io:80/00826082/94250/148
