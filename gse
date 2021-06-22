@@ -139,6 +139,8 @@ http://pfsv.io:80/00826082/94250/66
 http://pfsv.io:80/33732940/14864/308
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX SD
 http://pfsv.io:80/00826082/94250/333
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP FHD
+http://b5.vc:80/live/252781/yE3CmY/104938.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP HD
 http://pfsv.io:80/00826082/94250/394
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP SD
