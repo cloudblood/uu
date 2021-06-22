@@ -1,147 +1,147 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",A&E HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",A&E HD
 http://pfsv.io:80/00826082/94250/299
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",A&E SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",A&E SD
 http://pfsv.io:80/00826082/94250/324
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",AMC HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",AMC HD
 http://pfsv.io:80/00826082/94250/300
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",AMC SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",AMC SD
 http://pfsv.io:80/00826082/94250/325
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Animal Planet HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Animal Planet HD
 http://pfsv.io:80/00826082/94250/179
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Animal Planet SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Animal Planet SD
 http://pfsv.io:80/00826082/94250/194
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",AXN HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",AXN HD
 http://pfsv.io:80/00826082/94250/301
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",AXN SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",AXN SD
 http://pfsv.io:80/00826082/94250/326
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Notícias",Band News HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Notícias",Band News HD
 http://pfsv.io:80/00826082/94250/514
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Notícias",Band News SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Notícias",Band News SD
 http://pfsv.io:80/00826082/94250/520
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Abertos",Band SP HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Abertos",Band SP HD
 http://pfsv.io:80/00826082/94250/50
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Abertos",Band SP SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Abertos",Band SP SD
 http://pfsv.io:80/00826082/94250/65
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",Band Sports HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",Band Sports HD
 http://pfsv.io:80/00826082/94250/256
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",Band Sports HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",Band Sports HD
 http://pfsv.io:80/00826082/94250/265
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Arte e música",BIS HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Arte e música",BIS HD
 http://pfsv.io:80/00826082/94250/18
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Arte e música",BIS SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Arte e música",BIS SD
 http://pfsv.io:80/00826082/94250/12
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Sony Channel HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Sony Channel HD
 http://pfsv.io:80/00826082/94250/302
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Sony Channel SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Sony Channel SD
 http://pfsv.io:80/00826082/94250/327
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Infantis",Cartoon Network HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Infantis",Cartoon Network HD
 http://pfsv.io:80/00826082/94250/139
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Infantis",Cartoon Network SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Infantis",Cartoon Network SD
 http://pfsv.io:80/00826082/94250/151
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Notícias",CNN Brasil HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Notícias",CNN Brasil HD
 http://pfsv.io:80/00826082/94250/517
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Notícias",CNN Brasil SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Notícias",CNN Brasil SD
 http://pfsv.io:80/00826082/94250/523
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Internacionais",CNN INTERNACIONAL SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Internacionais",CNN INTERNACIONAL SD
 http://pfsv.io:80/00826082/94250/33405
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",Combate HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",Combate HD
 http://pfsv.io:80/00826082/94250/257
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",Combate SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",Combate SD
 http://pfsv.io:80/00826082/94250/266
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Variedades",Comedy Central HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Variedades",Comedy Central HD
 http://pfsv.io:80/00826082/94250/106
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Variedades",Comedy Central SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Variedades",Comedy Central SD
 http://pfsv.io:80/00826082/94250/115
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery Channel HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery Channel HD
 http://pfsv.io:80/00826082/94250/181
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery Channel SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery Channel SD
 http://pfsv.io:80/00826082/94250/196
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery Home & Health HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery Home & Health HD
 http://pfsv.io:80/00826082/94250/183
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery Home & Health SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery Home & Health SD
 http://pfsv.io:80/00826082/94250/198
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery Science HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery Science HD
 http://pfsv.io:80/00826082/94250/184
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery Science SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery Science SD
 http://pfsv.io:80/00826082/94250/199
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery Theatre HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery Theatre HD
 http://pfsv.io:80/00826082/94250/185
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery Theatre SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery Theatre SD
 http://pfsv.io:80/00826082/94250/200
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery Turbo HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery Turbo HD
 http://pfsv.io:80/00826082/94250/186
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery Turbo SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery Turbo SD
 http://pfsv.io:80/00826082/94250/201
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery World HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery World HD
 http://pfsv.io:80/00826082/94250/187
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Documentários",Discovery World SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Documentários",Discovery World SD
 http://pfsv.io:80/00826082/94250/202
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Infantis",Disney Channel HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Infantis",Disney Channel HD
 http://pfsv.io:80/00826082/94250/141
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Infantis",Disney Channel SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Infantis",Disney Channel SD
 http://pfsv.io:80/00826082/94250/153
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Infantis",Disney XD HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Infantis",Disney XD HD
 http://pfsv.io:80/00826082/94250/49125
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Infantis",Disney XD SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Infantis",Disney XD SD
 http://pfsv.io:80/00826082/94250/155
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Variedades",E! HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Variedades",E! HD
 http://pfsv.io:80/00826082/94250/108
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Variedades",E! SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Variedades",E! SD
 http://pfsv.io:80/00826082/94250/117
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Jogos & Eventos",EI Plus HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Jogos & Eventos",EI Plus HD
 http://pfsv.io:80/00826082/94250/488
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Jogos & Eventos",EI Plus SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Jogos & Eventos",EI Plus SD
 http://pfsv.io:80/00826082/94250/489
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",ESPN 2 HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",ESPN 2 HD
 http://pfsv.io:80/00826082/94250/258
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",ESPN 2 SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",ESPN 2 SD
 http://pfsv.io:80/00826082/94250/268
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",ESPN Brasil HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",ESPN Brasil HD
 http://pfsv.io:80/00826082/94250/259
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",ESPN Brasil SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",ESPN Brasil SD
 http://pfsv.io:80/00826082/94250/269
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",ESPN Extra HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",ESPN Extra HD
 http://pfsv.io:80/00826082/94250/260
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",ESPN Extra SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",ESPN Extra SD
 http://pfsv.io:80/00826082/94250/270
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",ESPN HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",ESPN HD
 http://pfsv.io:80/00826082/94250/261
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",ESPN SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",ESPN SD
 http://pfsv.io:80/00826082/94250/267
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Star Channel HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Star Channel HD
 http://pfsv.io:80/00826082/94250/304
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Star Channel SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Star Channel SD
 http://pfsv.io:80/00826082/94250/329
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Star Life HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Star Life HD
 http://pfsv.io:80/00826082/94250/305
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Star Life SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Star Life SD
 http://pfsv.io:80/00826082/94250/330
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Star Hits 1 HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Star Hits 1 HD
 http://pfsv.io:80/00826082/94250/306
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Star Hits 1 SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Star Hits 1 SD
 http://pfsv.io:80/00826082/94250/331
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Star Hits 2 HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Star Hits 2 HD
 http://pfsv.io:80/00826082/94250/307
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Star Hits 2 SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Star Hits 2 SD
 http://pfsv.io:80/00826082/94250/332
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",Fox Sports 2 HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",Fox Sports 2 HD
 http://pfsv.io:80/00826082/94250/263
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",Fox Sports 2 SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",Fox Sports 2 SD
 http://pfsv.io:80/00826082/94250/272
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",Fox Sports HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",Fox Sports HD
 http://pfsv.io:80/00826082/94250/262
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Esportes",Fox Sports SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Esportes",Fox Sports SD
 http://pfsv.io:80/00826082/94250/271
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Abertos",Futura HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Abertos",Futura HD
 http://pfsv.io:80/00826082/94250/51
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Abertos",Futura SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Abertos",Futura SD
 http://pfsv.io:80/00826082/94250/66
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",FX SD
 http://pfsv.io:80/00826082/94250/333
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title=" Canais | Globo",Globo SP HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Abertos",Globo SP HD
 http://pfsv.io:80/00826082/94250/394
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title=" Canais | Globo",Globo SP SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Abertos",Globo SP SD
 http://pfsv.io:80/00826082/94250/429
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Variedades",GNT HD
 http://pfsv.io:80/00826082/94250/111
@@ -287,27 +287,27 @@ http://pfsv.io:80/00826082/94250/560
 http://pfsv.io:80/00826082/94250/558
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | SporTV",SporTV 3 SD
 http://pfsv.io:80/00826082/94250/561
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | SporTV",SporTV HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | SporTV",SporTV HD
 http://pfsv.io:80/00826082/94250/556
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | SporTV",SporTV SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | SporTV",SporTV SD
 http://pfsv.io:80/00826082/94250/559
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Studio Universal HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Studio Universal HD
 http://pfsv.io:80/00826082/94250/320
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Studio Universal SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Studio Universal SD
 http://pfsv.io:80/00826082/94250/346
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",SYFY HD
 http://pfsv.io:80/00826082/94250/312
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",SYFY SD
 http://pfsv.io:80/00826082/94250/337
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",TBS HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",TBS HD
 http://pfsv.io:80/00826082/94250/321
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",TBS SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",TBS SD
 http://pfsv.io:80/00826082/94250/347
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",TCM HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",TCM HD
 http://pfsv.io:80/00826082/94250/50884
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",TCM SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",TCM SD
 http://pfsv.io:80/00826082/94250/339
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Telecine",Telecine Action HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Telecine",Telecine Action HD
 http://pfsv.io:80/00826082/94250/568
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Telecine",Telecine Action SD
 http://pfsv.io:80/00826082/94250/574
@@ -349,330 +349,29 @@ http://pfsv.io:80/00826082/94250/48755
 http://pfsv.io:80/00826082/94250/160
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Religiosos",Tv Aparecida HD
 http://pfsv.io:80/00826082/94250/49127
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Religiosos",Tv Aparecida SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Religiosos",Tv Aparecida SD
 http://pfsv.io:80/00826082/94250/548
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Abertos",TV Gazeta SP HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Abertos",TV Gazeta SP HD
 http://pfsv.io:80/00826082/94250/56
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Variedades",TV Gazeta SP SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Variedades",TV Gazeta SP SD
 http://pfsv.io:80/00826082/94250/82
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Infantis",TV RA-TIM-BUM HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Infantis",TV RA-TIM-BUM HD
 http://pfsv.io:80/00826082/94250/148
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Infantis",TV RA-TIM-BUM SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Infantis",TV RA-TIM-BUM SD
 http://pfsv.io:80/00826082/94250/161
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Variedades",Viva HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Variedades",Viva HD
 http://pfsv.io:80/00826082/94250/114
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Variedades",Viva SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Variedades",Viva SD
 http://pfsv.io:80/00826082/94250/123
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Warner Channel HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Warner Channel HD
 http://pfsv.io:80/00826082/94250/319
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries",Warner Channel SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Warner Channel SD
 http://pfsv.io:80/00826082/94250/345
-#EXTINF:-1 tvg-name="CONMEBOL 1" tvg-logo="http://aosd.fun:8080/images/2718473e7493451e976f975c4da57d48.png" group-title="CANAIS | ESPORTES PAY PER VIEW",CONMEBOL 1
-http://aosd.fun:8080/live/Catia2021/2021catia/84410.m3u8
-#EXTINF:-1 tvg-name="CONMEBOL 2" tvg-logo="http://aosd.fun:8080/images/2718473e7493451e976f975c4da57d48.png" group-title="CANAIS | ESPORTES PAY PER VIEW",CONMEBOL 2
-http://aosd.fun:8080/live/Catia2021/2021catia/84411.m3u8
-#EXTINF:-1 tvg-name="CONMEBOL 3" tvg-logo="http://aosd.fun:8080/images/2718473e7493451e976f975c4da57d48.png" group-title="CANAIS | ESPORTES PAY PER VIEW",CONMEBOL 3
-http://aosd.fun:8080/live/Catia2021/2021catia/84412.m3u8
-#EXTINF:-1 tvg-name="CONMEBOL 4" tvg-logo="http://aosd.fun:8080/images/2718473e7493451e976f975c4da57d48.png" group-title="CANAIS | ESPORTES PAY PER VIEW",CONMEBOL 4
-http://aosd.fun:8080/live/Catia2021/2021catia/84413.m3u8
-
-############### CANAIS 24H #################
-
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] 3 Palavrinhas
-http://pfsv.io:80/33732940/14864/43931
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] A Grande Família
-http://pfsv.io:80/33732940/14864/43932
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] A historia de Deus com Morgan Freeman 1 TEMP
-http://pfsv.io:80/33732940/14864/43973
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] A historia de Deus com Morgan Freeman 2 TEMP
-http://pfsv.io:80/33732940/14864/43974
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] A Mumia
-http://pfsv.io:80/33732940/14864/43942
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] A Pantera Cor De Rosa
-http://pfsv.io:80/33732940/14864/43950
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] A Turma Da Monica
-http://pfsv.io:80/33732940/14864/43964
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] A Turma Do Pateta
-http://pfsv.io:80/33732940/14864/43943
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Aladdin
-http://pfsv.io:80/33732940/14864/43857
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] American Horror 3 TEMP
-http://pfsv.io:80/33732940/14864/43976
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] American Horror 5 TEMP
-http://pfsv.io:80/33732940/14864/43978
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] American Horror 6 TEMP
-http://pfsv.io:80/33732940/14864/43979
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] American Horror 7 TEMP
-http://pfsv.io:80/33732940/14864/43980
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] As Aventuras De Jackie Chan
-http://pfsv.io:80/33732940/14864/43884
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] As Aventuras De Piggley Winks
-http://pfsv.io:80/33732940/14864/43945
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] As Meninas Superpoderosas
-http://pfsv.io:80/33732940/14864/43858
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Como Tartarugas Ninja 
-http://pfsv.io:80/33732940/14864/43918
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Como Telefonistas 1 TEMP
-http://pfsv.io:80/33732940/14864/43982
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Como Telefonistas 2 TEMP
-http://pfsv.io:80/33732940/14864/43983
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Como Telefonistas 3 TEMP
-http://pfsv.io:80/33732940/14864/43984
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Bebê Tubarão
-http://pfsv.io:80/33732940/14864/43961
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Bates Motel 1 TEMP
-http://pfsv.io:80/33732940/14864/43986
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Bates Motel 2 TEMP
-http://pfsv.io:80/33732940/14864/43987
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Bates Motel 3 TEMP
-http://pfsv.io:80/33732940/14864/43988
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Bates Motel 4 TEMP
-http://pfsv.io:80/33732940/14864/43989
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Bates Motel 5 TEMP
-http://pfsv.io:80/33732940/14864/43990
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] BEN 10
-http://pfsv.io:80/33732940/14864/43859
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Ben E Holly
-http://pfsv.io:80/33732940/14864/43969
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Boca Grande
-http://pfsv.io:80/33732940/14864/43936
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Black Lightning
-http://pfsv.io:80/33732940/14864/43991
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] BOB ESPONJA
-http://pfsv.io:80/33732940/14864/43860
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Bob Zoom
-http://pfsv.io:80/33732940/14864/43992
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Breaking Bad
-http://pfsv.io:80/33732940/14864/43861
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Capitão Tsubasa
-http://pfsv.io:80/33732940/14864/43954
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Carcereiros
-http://pfsv.io:80/33732940/14864/43996
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Cascão Maratona
-http://pfsv.io:80/33732940/14864/43997
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Cavalo de Fogo
-http://pfsv.io:80/33732940/14864/43998
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Caverna do Dragão
-http://pfsv.io:80/33732940/14864/43863
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Chapolin Colorado
-http://pfsv.io:80/33732940/14864/43864
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] CHAVES
-http://pfsv.io:80/33732940/14864/43865
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] CHAVES DESENHO
-http://pfsv.io:80/33732940/14864/43866
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Chicago Med 1 TEMP
-http://pfsv.io:80/33732940/14864/43999
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Chicago Med 2 TEMP
-http://pfsv.io:80/33732940/14864/44000
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Coragem o Cao Covarde
-http://pfsv.io:80/33732940/14864/43862
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] CSI Las Vegas
-http://pfsv.io:80/33732940/14864/43948
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Daniel Tigre
-http://pfsv.io:80/33732940/14864/43970
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Demolidor 1 TEMP
-http://pfsv.io:80/33732940/14864/44005
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Demolidor 2 TEMP
-http://pfsv.io:80/33732940/14864/44006
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Denis o Pimentinha
-http://pfsv.io:80/33732940/14864/43867
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Desenhos Biblicos
-http://pfsv.io:80/33732940/14864/43971
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Desenhos Disney
-http://pfsv.io:80/33732940/14864/43868
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Mickey e Donald
-http://pfsv.io:80/33732940/14864/44008
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Digimon
-http://pfsv.io:80/33732940/14864/43869
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Doctor Who 1 TEMP
-http://pfsv.io:80/33732940/14864/44011
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Doctor Who 2 TEMP
-http://pfsv.io:80/33732940/14864/44012
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Doctor Who 3 TEMP
-http://pfsv.io:80/33732940/14864/44013
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Doctor Who 4 TEMP
-http://pfsv.io:80/33732940/14864/44014
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Doctor Who 5 TEMP
-http://pfsv.io:80/33732940/14864/44015
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Doctor Who 6 TEMP
-http://pfsv.io:80/33732940/14864/44016
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Doctor Who 7 TEMP
-http://pfsv.io:80/33732940/14864/44017
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Doctor Who 8 TEMP
-http://pfsv.io:80/33732940/14864/44018
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Dois Homens e Meio
-http://pfsv.io:80/33732940/14864/43870
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Doug
-http://pfsv.io:80/33732940/14864/43871
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] DRAGON BALL
-http://pfsv.io:80/33732940/14864/43872
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Dragon Ball Super
-http://pfsv.io:80/33732940/14864/43951
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] DRAGON BALL Z
-http://pfsv.io:80/33732940/14864/43873
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Eu a Patroa e as Criancas
-http://pfsv.io:80/33732940/14864/43939
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Faisca E Fumaça
-http://pfsv.io:80/33732940/14864/43963
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Flash Gordon
-http://pfsv.io:80/33732940/14864/43957
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Formiga Atómica
-http://pfsv.io:80/33732940/14864/43874
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Galinha Pintadinha
-http://pfsv.io:80/33732940/14864/43875
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Clássicos Disney
-http://pfsv.io:80/33732940/14864/44129
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Guardiões da Galaxia
-http://pfsv.io:80/33732940/14864/43876
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] He-Man
-http://pfsv.io:80/33732940/14864/43877
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Menina com pontuações altas
-http://pfsv.io:80/33732940/14864/43956
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Histórias Disney
-http://pfsv.io:80/33732940/14864/43879
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Homem Aranha
-http://pfsv.io:80/33732940/14864/43880
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Homem de Ferro
-http://pfsv.io:80/33732940/14864/43881
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] HOMEMS DE PRETO
-http://pfsv.io:80/33732940/14864/43882
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Os Flinstones
-http://pfsv.io:80/33732940/14864/44148
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Hércules
-http://pfsv.io:80/33732940/14864/43878
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Incrível Hulk
-http://pfsv.io:80/33732940/14864/43883
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Jaspion
-http://pfsv.io:80/33732940/14864/43885
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] JIRAYA O Incrível Ninja
-http://pfsv.io:80/33732940/14864/43886
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Jonny Quest
-http://pfsv.io:80/33732940/14864/43937
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] José Rei do Egito
-http://pfsv.io:80/33732940/14864/43934
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Kenan e Kel
-http://pfsv.io:80/33732940/14864/43887
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Futurama
-http://pfsv.io:80/33732940/14864/44131
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Log Horizon
-http://pfsv.io:80/33732940/14864/43965
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Luluzinha
-http://pfsv.io:80/33732940/14864/43888
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Masha e o Urso
-http://pfsv.io:80/33732940/14864/44056
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Medabots
-http://pfsv.io:80/33732940/14864/43889
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] MegaMan
-http://pfsv.io:80/33732940/14864/43890
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Meu Amigoozao
-http://pfsv.io:80/33732940/14864/43972
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Mickey Mouse
-http://pfsv.io:80/33732940/14864/43953
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Mortal Kombat
-http://pfsv.io:80/33732940/14864/43891
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Mr.Ben
-http://pfsv.io:80/33732940/14864/43892
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Mundo Bita
-http://pfsv.io:80/33732940/14864/43959
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Naruto
-http://pfsv.io:80/33732940/14864/43893
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Naruto Shippuden DUB
-http://pfsv.io:80/33732940/14864/43894
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] O Fantástico Mundo de Bobby
-http://pfsv.io:80/33732940/14864/43895
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] O INSPETOR
-http://pfsv.io:80/33732940/14864/43896
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] O Maskara
-http://pfsv.io:80/33732940/14864/43935
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Rugrats Os Anjinhos
-http://pfsv.io:80/33732940/14864/43898
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco 
-http://pfsv.io:80/33732940/14864/43899
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] OS FLINTSTONES
-http://pfsv.io:80/33732940/14864/43900
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Os Padrinhos Mágicos
-http://pfsv.io:80/33732940/14864/43968
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Os Simpsons
-http://pfsv.io:80/33732940/14864/43901
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Os Trapalhoes
-http://pfsv.io:80/33732940/14864/43949
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Os Vingadores
-http://pfsv.io:80/33732940/14864/43902
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Papa-Leguas
-http://pfsv.io:80/33732940/14864/43903
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Patati Patata
-http://pfsv.io:80/33732940/14864/43960
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Patrulha Canina
-http://pfsv.io:80/33732940/14864/43938
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Peppa Pig
-http://pfsv.io:80/33732940/14864/43904
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] PERNALONGA
-http://pfsv.io:80/33732940/14864/43905
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Phineas e Ferb
-http://pfsv.io:80/33732940/14864/43906
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Pica Pau
-http://pfsv.io:80/33732940/14864/43907
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Pica Pau Clássico
-http://pfsv.io:80/33732940/14864/44150
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Pink-e-Cerebro
-http://pfsv.io:80/33732940/14864/43908
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] POKEMON
-http://pfsv.io:80/33732940/14864/43909
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Popeye O Marinheiro
-http://pfsv.io:80/33732940/14864/43910
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Rambo
-http://pfsv.io:80/33732940/14864/43911
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Retro Cartoon
-http://pfsv.io:80/33732940/14864/44149
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Rick e Morty
-http://pfsv.io:80/33732940/14864/43955
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Rick e Morty 2TEMP
-http://pfsv.io:80/33732940/14864/43966
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Scooby-Doo
-http://pfsv.io:80/33732940/14864/43912
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Senran Kagura Shinovi
-http://pfsv.io:80/33732940/14864/43967
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Sitio Do Pica Pau Amarelo
-http://pfsv.io:80/33732940/14864/43947
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Smallville
-http://pfsv.io:80/33732940/14864/43913
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Sobrenatural
-http://pfsv.io:80/33732940/14864/43914
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] South Park
-http://pfsv.io:80/33732940/14864/43915
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Universo Steven
-http://pfsv.io:80/33732940/14864/43916
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Superman
-http://pfsv.io:80/33732940/14864/43917
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] A Teoria do Big Bang
-http://pfsv.io:80/33732940/14864/44082
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Thundercats
-http://pfsv.io:80/33732940/14864/43919
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] TIMAO E PUMBA
-http://pfsv.io:80/33732940/14864/43920
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] TODO MUNDO ODEIA O CHRIS
-http://pfsv.io:80/33732940/14864/43921
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Tom e Jerry
-http://pfsv.io:80/33732940/14864/43922
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Icarly
-http://pfsv.io:80/33732940/14864/44138
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Tres Espias Demais
-http://pfsv.io:80/33732940/14864/43923
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Um Maluco No Pedaço
-http://pfsv.io:80/33732940/14864/43924
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Uma Família da Pesada
-http://pfsv.io:80/33732940/14864/43925
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Ursinhos Carinhos
-http://pfsv.io:80/33732940/14864/43926
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] X-MAN
-http://pfsv.io:80/33732940/14864/44151
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] X-MAN Classico
-http://pfsv.io:80/33732940/14864/43927
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] X-Men Antigo
-http://pfsv.io:80/33732940/14864/43952
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] Xena
-http://pfsv.io:80/33732940/14864/43928
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] YU-GI-OH
-http://pfsv.io:80/33732940/14864/43929
-#EXTINF: -1 tvg-logo = "" group-title = "Canais | 24 Horas",[24H] YU-YU-Hakusho
-http://pfsv.io:80/33732940/14864/43930
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Conmebol",Conmebol 1
+http://srv.maxptv.net:8080/Danilooo/Camisaa/18835
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Conmebol",Conmebol 2
+http://srv.maxptv.net:8080/Danilooo/Camisaa/18836
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Conmebol",Conmebol 3
+http://srv.maxptv.net:8080/Danilooo/Camisaa/18837
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Conmebol",Conmebol 4
+http://srv.maxptv.net:8080/Danilooo/Camisaa/19042
