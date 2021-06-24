@@ -111,6 +111,8 @@ http://srv.maxptv.net:8080/Danilooo/Camisaa/164
 http://pfsv.io:80/07720253/51853/261
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN SD
 http://pfsv.io:80/07720253/51853/267
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel FHD
+http://srv.maxptv.net:8080/Danilooo/Camisaa/20274
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD
 http://pfsv.io:80/00826082/94250/304
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel SD
