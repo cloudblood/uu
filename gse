@@ -387,25 +387,19 @@ http://pfsv.io:80/07720253/51853/123
 http://pfsv.io:80/07720253/51853/319
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel SD
 http://pfsv.io:80/07720253/51853/345
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol 1
-http://lb.kstream.org/aovivo/SD_CONMEBOL_01/video.m3u8?token=896023545937fa3fd8abeaaf37a232a2
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 01 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_01/video.m3u8?token=896023545937fa3fd8abeaaf37a232a2
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol 2
-http://srv.maxptv.net:8080/Danilooo/Camisaa/18836
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 02
-http://lb.kstream.org/aovivo/SD_CONMEBOL_02/video.m3u8?token=896023545937fa3fd8abeaaf37a232a2
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 02 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_02/video.m3u8?token=896023545937fa3fd8abeaaf37a232a2
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol 3
-http://srv.maxptv.net:8080/Danilooo/Camisaa/18837
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 03
-http://lb.kstream.org/aovivo/SD_CONMEBOL_03/video.m3u8?token=896023545937fa3fd8abeaaf37a232a2
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 03 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_03/video.m3u8?token=896023545937fa3fd8abeaaf37a232a2
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol 4
-http://srv.maxptv.net:8080/Danilooo/Camisaa/19042
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 04
-http://lb.kstream.org/aovivo/SD_CONMEBOL_04/video.m3u8?token=896023545937fa3fd8abeaaf37a232a2
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 04 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_04/video.m3u8?token=896023545937fa3fd8abeaaf37a232a2
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Conmebol TV",CONMEBOL TV 01
+http://lb.kstream.org/aovivo/SD_CONMEBOL_01/video.m3u8?token=7e3110f11574ee1ada64226d6f60661e
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Conmebol TV",CONMEBOL TV 01 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_01/video.m3u8?token=7e3110f11574ee1ada64226d6f60661e
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Conmebol TV",CONMEBOL TV 02
+http://lb.kstream.org/aovivo/SD_CONMEBOL_02/video.m3u8?token=7e3110f11574ee1ada64226d6f60661e
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Conmebol TV",CONMEBOL TV 02 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_02/video.m3u8?token=7e3110f11574ee1ada64226d6f60661e
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Conmebol TV",CONMEBOL TV 03
+http://lb.kstream.org/aovivo/SD_CONMEBOL_03/video.m3u8?token=7e3110f11574ee1ada64226d6f60661e
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Conmebol TV",CONMEBOL TV 03 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_03/video.m3u8?token=7e3110f11574ee1ada64226d6f60661e
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Conmebol TV",CONMEBOL TV 04
+http://lb.kstream.org/aovivo/SD_CONMEBOL_04/video.m3u8?token=7e3110f11574ee1ada64226d6f60661e
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Conmebol TV",CONMEBOL TV 04 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_04/video.m3u8?token=7e3110f11574ee1ada64226d6f60661e
