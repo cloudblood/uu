@@ -173,8 +173,10 @@ http://pfsv.io:80/07720253/51853/483
 http://pfsv.io:80/07720253/51853/474
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO SD
 http://pfsv.io:80/07720253/51853/480
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD
+http://srv.maxptv.net:8080/Danilooo/Camisaa/20316
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
-http://pfsv.io:80/07720253/51853/477
+http://srv.maxptv.net:8080/Danilooo/Camisaa/521
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD
 http://pfsv.io:80/07720253/51853/485
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
