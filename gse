@@ -80,13 +80,13 @@ http://pfsv.io:80/07720253/51853/187
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
 http://pfsv.io:80/07720253/51853/202
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel HD
-http://pfsv.io:80/07720253/51853/49125
+http://pfsv.io:80/07720253/51853/141
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel SD
-http://pfsv.io:80/07720253/51853/155
+http://pfsv.io:80/00826082/94250/153
+#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD FHD
+http://srvuhd.top:80/FAMILIA/12345/5211
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD HD
-http://pfsv.io:80/07720253/51853/49125
-#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD SD
-http://pfsv.io:80/07720253/51853/155
+http://srvuhd.top:80/FAMILIA/12345/5420
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! HD
 http://pfsv.io:80/07720253/51853/108
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! SD
