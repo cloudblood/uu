@@ -8,9 +8,9 @@ http://pfsv.io:80/07720253/51853/300
 #EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD
 http://pfsv.io:80/07720253/51853/325
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
-http://pfsv.io:80/07720253/51853/179
-#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet SD
 http://pfsv.io:80/07720253/51853/194
+#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet SD
+http://pfsv.io:80/07720253/51853/179
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
 http://pfsv.io:80/07720253/51853/301
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN SD
@@ -25,19 +25,19 @@ http://pfsv.io:80/07720253/51853/50
 http://pfsv.io:80/07720253/51853/65
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
 http://pfsv.io:80/07720253/51853/256
-#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
+#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
 http://pfsv.io:80/07720253/51853/265
+#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e música",BIS FHD
+http://pfsv.io:80/07720253/51853/12
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e música",BIS HD
 http://pfsv.io:80/07720253/51853/18
-#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e música",BIS SD
-http://pfsv.io:80/07720253/51853/12
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel HD
 http://pfsv.io:80/07720253/51853/302
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel SD
 http://pfsv.io:80/07720253/51853/327
-#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
+#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network FHD
 http://pfsv.io:80/07720253/51853/151
-#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network SD
+#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
 http://pfsv.io:80/07720253/51853/139
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD
 http://pfsv.io:80/07720253/51853/303
@@ -56,9 +56,9 @@ http://pfsv.io:80/07720253/51853/106
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central SD
 http://pfsv.io:80/07720253/51853/115
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
-http://pfsv.io:80/07720253/51853/181
-#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
 http://pfsv.io:80/07720253/51853/196
+#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
+http://pfsv.io:80/07720253/51853/181
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health HD
 http://pfsv.io:80/07720253/51853/183
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health SD
@@ -80,9 +80,9 @@ http://pfsv.io:80/07720253/51853/187
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
 http://pfsv.io:80/07720253/51853/202
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel HD
-http://pfsv.io:80/07720253/51853/141
+http://pfsv.io:80/07720253/51853/49125
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel SD
-http://pfsv.io:80/07720253/51853/153
+http://pfsv.io:80/07720253/51853/155
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD HD
 http://pfsv.io:80/07720253/51853/49125
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD SD
