@@ -147,6 +147,12 @@ http://pfsv.io:80/07720253/51853/333
 http://pfsv.io:80/07720253/51853/516
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News SD
 http://pfsv.io:80/07720253/51853/522
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",GLOBO SP FHD
+http://forceie.com:25461/force112179/2179force11/1023
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",GLOBO SP FHD
+http://forceie.com:25461/force112179/2179force11/126
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP FHD
+http://b5.vc:80/live/252781/yE3CmY/104938.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP HD
 http://pfsv.io:80/07720253/51853/394
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP SD
