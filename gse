@@ -111,8 +111,6 @@ http://srv.maxptv.net:8080/Danilooo/Camisaa/164
 http://pfsv.io:80/07720253/51853/261
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN SD
 http://pfsv.io:80/07720253/51853/267
-#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel FHD
-http://srv.maxptv.net:8080/Danilooo/Camisaa/20274
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD
 http://pfsv.io:80/07720253/51853/304
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel SD
@@ -130,9 +128,9 @@ http://pfsv.io:80/07720253/51853/307
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 SD
 http://pfsv.io:80/07720253/51853/332
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 HD
-http://pfsv.io:80/07720253/51853/263
+http://pfsv.io:80/00826082/94250/263
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 SD
-http://pfsv.io:80/07720253/51853/272
+http://pfsv.io:80/00826082/94250/272
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports HD
 http://pfsv.io:80/07720253/51853/262
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports SD
