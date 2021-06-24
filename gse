@@ -83,10 +83,10 @@ http://pfsv.io:80/07720253/51853/202
 http://pfsv.io:80/07720253/51853/141
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel SD
 http://pfsv.io:80/00826082/94250/153
-#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD FHD
-http://srv.maxptv.net:8080/Danilooo/Camisaa/174
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD HD
 http://srv.maxptv.net:8080/Danilooo/Camisaa/175
+#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD SD
+http://srv.maxptv.net:8080/Danilooo/Camisaa/174
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! HD
 http://pfsv.io:80/07720253/51853/108
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! SD
