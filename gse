@@ -147,6 +147,8 @@ http://pfsv.io:80/07720253/51853/333
 http://pfsv.io:80/07720253/51853/516
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News SD
 http://pfsv.io:80/07720253/51853/522
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP FHD
+http://b5.vc:80/live/252781/yE3CmY/104938.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP HD
 http://pfsv.io:80/07720253/51853/394
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP SD
@@ -267,6 +269,8 @@ http://pfsv.io:80/07720253/51853/542
 http://pfsv.io:80/07720253/51853/536
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
 http://pfsv.io:80/07720253/51853/543
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
+http://b5.vc:80/live/472140/eCtqK9/72262.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
 http://pfsv.io:80/07720253/51853/537
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
