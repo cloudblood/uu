@@ -314,9 +314,9 @@ http://pfsv.io:80/07720253/51853/556
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
 http://pfsv.io:80/07720253/51853/559
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
-http://pfsv.io:80/07720253/51853/320
-#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal SD
 http://pfsv.io:80/07720253/51853/346
+#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal SD
+http://pfsv.io:80/07720253/51853/320
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY HD
 http://pfsv.io:80/07720253/51853/312
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY SD
