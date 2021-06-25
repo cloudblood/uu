@@ -364,7 +364,7 @@ http://pfsv.io:80/07720253/51853/548
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Religiosos",TV Aparecida SD
 http://pfsv.io:80/07720253/51853/49127
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos", TV Cultura HD
-http://pfsv.io:80/07720253/51853/64
+http://pfsv.io:80/33732940/14864/64
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos", TV Cultura SD
 http://pfsv.io:80/07720253/51853/90
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP HD
@@ -387,38 +387,29 @@ http://pfsv.io:80/07720253/51853/123
 http://pfsv.io:80/07720253/51853/319
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel SD
 http://pfsv.io:80/07720253/51853/345
-
-#EXTINF:-1,CONMEBOL 1 FHD
-http://b2p.li:80/amgRoberto/verdao19/173803
-#EXTINF:-1,CONMEBOL 1 FHD
-http://forceie.com:25461/force112179/2179force11/42426
-#EXTINF:-1,CONMEBOL 2 FHD
-http://forceie.com:25461/force112179/2179force11/42427
-#EXTINF:-1,CONMEBOL 3 FHD
-http://forceie.com:25461/force112179/2179force11/42428
-#EXTINF:-1,CONMEBOL 4 FHD
-http://forceie.com:25461/force112179/2179force11/42429
-#EXTINF:-1,CONMEBOL 1 FHD
-http://forceie.com:25461/force112179/2179force11/42430
-#EXTINF:-1,CONMEBOL 2 FHD
-http://forceie.com:25461/force112179/2179force11/42431
-#EXTINF:-1,CONMEBOL 3 FHD
-http://forceie.com:25461/force112179/2179force11/42432
-#EXTINF:-1,CONMEBOL 4 FHD
-http://forceie.com:25461/force112179/2179force11/42433
-#EXTINF:-1,CONMEBOL 1 SD
-http://forceie.com:25461/force112179/2179force11/45631
-#EXTINF:-1,CONMEBOL 2 SD
-http://forceie.com:25461/force112179/2179force11/45632
-#EXTINF:-1,CONMEBOL 3 SD
-http://forceie.com:25461/force112179/2179force11/45633
-#EXTINF:-1,CONMEBOL 4 SD
-http://forceie.com:25461/force112179/2179force11/45634
-#EXTINF:-1,CONMEBOL 1 HD
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 1 HD
 http://forceie.com:25461/force112179/2179force11/45635
-#EXTINF:-1,CONMEBOL 2 HD
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 1 HD
+http://b2p.li:80/amgRoberto/verdao19/173803
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 1 HD
+http://forceie.com:25461/force112179/2179force11/42430
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 1 HD
+http://forceie.com:25461/force112179/2179force11/45631
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 2 HD
 http://forceie.com:25461/force112179/2179force11/45636
-#EXTINF:-1,CONMEBOL 3 HD
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 2 HD
+http://forceie.com:25461/force112179/2179force11/42431
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 2 SD
+http://forceie.com:25461/force112179/2179force11/42427
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 3 HD
 http://forceie.com:25461/force112179/2179force11/45637
-#EXTINF:-1,CONMEBOL 4 HD
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 3 SD
+http://forceie.com:25461/force112179/2179force11/42428
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 4 FHD
+http://forceie.com:25461/force112179/2179force11/42429
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 4 HD
 http://forceie.com:25461/force112179/2179force11/45638
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 4 HD
+http://forceie.com:25461/force112179/2179force11/42433
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 4 HD
+http://forceie.com:25461/force112179/2179force11/45634
