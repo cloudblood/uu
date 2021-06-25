@@ -71,14 +71,20 @@ http://srvuhd.top:80/FAMILIA/12345/5285
 http://pfsv.io:80/07720253/51853/517
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil SD
 http://pfsv.io:80/07720253/51853/523
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD*
+http://srvuhd.top:80/FAMILIA/12345/5201
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
 http://pfsv.io:80/07720253/51853/257
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate SD
 http://pfsv.io:80/07720253/51853/266
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central FHD*
+http://srvuhd.top:80/FAMILIA/12345/5202
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central HD
 http://pfsv.io:80/07720253/51853/106
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central SD
 http://pfsv.io:80/07720253/51853/115
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD*
+http://srvuhd.top:80/FAMILIA/12345/5203
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
 http://pfsv.io:80/07720253/51853/196
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
