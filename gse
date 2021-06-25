@@ -107,8 +107,6 @@ http://srvuhd.top:80/FAMILIA/12345/5208
 http://pfsv.io:80/07720253/51853/185
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater SD
 http://pfsv.io:80/07720253/51853/200
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo FHD*
-http://xsrv.me:8080/Elizabeth/Elizabeth/29890
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo HD
 http://pfsv.io:80/07720253/51853/186
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo SD
@@ -119,10 +117,14 @@ http://srvuhd.top:80/FAMILIA/12345/5210
 http://pfsv.io:80/07720253/51853/187
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
 http://pfsv.io:80/07720253/51853/202
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel FHD*
+http://srvuhd.top:80/FAMILIA/12345/5211
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel HD
-http://pfsv.io:80/07720253/51853/141
+http://pfsv.io:80/00826082/94250/141
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel SD
 http://pfsv.io:80/00826082/94250/153
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD FHD*
+http://xsrv.me:8080/Elizabeth/Elizabeth/25058
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD HD
 http://srv.maxptv.net:8080/Danilooo/Camisaa/175
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD SD
