@@ -111,8 +111,10 @@ http://srv.maxptv.net:8080/Danilooo/Camisaa/164
 http://pfsv.io:80/07720253/51853/261
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN SD
 http://pfsv.io:80/07720253/51853/267
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel FHD
 http://srv.maxptv.net:8080/Danilooo/Camisaa/20274
+#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD
+http://pfsv.io:80/00826082/94250/304
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel SD
 http://pfsv.io:80/07720253/51853/329
 #EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life HD
@@ -153,6 +155,8 @@ http://pfsv.io:80/07720253/51853/516
 http://pfsv.io:80/07720253/51853/522
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP FHD
 http://b5.vc:80/live/252781/yE3CmY/104938.m3u8
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_SP/video.m3u8?token=67797bd9f9bfd8086458a7551f59f6f4
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP HD
 http://pfsv.io:80/07720253/51853/394
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP SD
