@@ -401,39 +401,3 @@ http://srv.maxptv.net:8080/Danilooo/Camisaa/18837
 http://srv.maxptv.net:8080/Danilooo/Camisaa/19041
 #EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Conmebol TV",CONMEBOL TV 4 SD
 http://srv.maxptv.net:8080/Danilooo/Camisaa/19042
-
-#EXTINF:-1,CONMEBOL 1 HD
-http://srvuhd.top:80/FAMILIA/12345/47849
-#EXTINF:-1,CONMEBOL 2 HD
-http://srvuhd.top:80/FAMILIA/12345/47851
-#EXTINF:-1,CONMEBOL 3 HD
-http://srvuhd.top:80/FAMILIA/12345/47853
-#EXTINF:-1,CONMEBOL 4 HD
-http://srvuhd.top:80/FAMILIA/12345/47855
-#EXTINF:-1,Conmebol TV FHD (JOGO 2)
-http://srvuhd.top:80/FAMILIA/12345/62113
-#EXTINF:-1,Copa do Nordeste 1 HD
-http://srvuhd.top:80/FAMILIA/12345/47857
-#EXTINF:-1,Copa do Nordeste 2 HD
-http://srvuhd.top:80/FAMILIA/12345/47859
-#EXTINF:-1,Copa do Nordeste 3 HD
-http://srvuhd.top:80/FAMILIA/12345/47861
-#EXTINF:-1,Copa do Nordeste 4 HD
-http://srvuhd.top:80/FAMILIA/12345/47863
-#EXTINF:-1,Copa do Nordeste 5 HD
-http://srvuhd.top:80/FAMILIA/12345/47865
-#EXTINF:-1,COPA LIBERTADORES 2 HD
-http://srvuhd.top:80/FAMILIA/12345/47869
-#EXTINF:-1,COPA LIBERTADORES 3 HD
-http://srvuhd.top:80/FAMILIA/12345/47871
-#EXTINF:-1,COPA LIBERTADORES 4 HD
-http://srvuhd.top:80/FAMILIA/12345/47873
-
-#EXTINF:-1,TV Conmebol 1 - HD
-http://xsrv.me:8080/Elizabeth/Elizabeth/86077
-#EXTINF:-1,TV Conmebol 2 - HD
-http://xsrv.me:8080/Elizabeth/Elizabeth/86078
-#EXTINF:-1,TV Conmebol 3 - HD
-http://xsrv.me:8080/Elizabeth/Elizabeth/86079
-#EXTINF:-1,TV Conmebol 4 - HD
-http://xsrv.me:8080/Elizabeth/Elizabeth/86080
