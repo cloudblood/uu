@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E FHD
-http://xsrv.me:8080/Elizabeth/Elizabeth/24798
+http://srvuhd.top:80/FAMILIA/12345/5189
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E HD
 http://pfsv.io:80/07720253/51853/299
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E SD
@@ -17,14 +17,20 @@ http://srvuhd.top:80/FAMILIA/12345/5191
 http://pfsv.io:80/07720253/51853/194
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet SD
 http://pfsv.io:80/07720253/51853/179
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
+http://srvuhd.top:80/FAMILIA/12345/5192
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
 http://pfsv.io:80/07720253/51853/301
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN SD
 http://pfsv.io:80/07720253/51853/326
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
+http://srvuhd.top:80/FAMILIA/12345/5193
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
 http://pfsv.io:80/07720253/51853/514
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News SD
 http://pfsv.io:80/07720253/51853/520
+#EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP FHD
+http://srvuhd.top:80/FAMILIA/12345/5289
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP HD
 http://pfsv.io:80/07720253/51853/50
 #EXTINF: -1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP SD
