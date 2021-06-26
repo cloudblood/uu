@@ -135,9 +135,9 @@ http://pfsv.io:80/00826082/94250/272
 http://pfsv.io:80/07720253/51853/262
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports SD
 http://pfsv.io:80/07720253/51853/271
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Abertos",Futura HD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura HD
 http://srv.maxptv.net:8080/Ricardo1/123456/211
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Abertos",Futura SD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura SD
 http://srv.maxptv.net:8080/Ricardo1/123456/210
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries", FX HD
 http://pfsv.io:80/07720253/51853/308
