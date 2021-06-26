@@ -36,9 +36,9 @@ http://pfsv.io:80/07720253/51853/302
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel SD
 http://pfsv.io:80/07720253/51853/327
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
-http://pfsv.io:80/07720253/51853/151
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
 http://pfsv.io:80/07720253/51853/139
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network SD
+http://pfsv.io:80/07720253/51853/151
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD
 http://pfsv.io:80/07720253/51853/303
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax SD
@@ -136,9 +136,9 @@ http://pfsv.io:80/07720253/51853/262
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports SD
 http://pfsv.io:80/07720253/51853/271
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Abertos",Futura HD
-http://pfsv.io:80/00826082/94250/51
+http://srv.maxptv.net:8080/Ricardo1/123456/211
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Abertos",Futura SD
-http://pfsv.io:80/00826082/94250/66
+http://srv.maxptv.net:8080/Ricardo1/123456/210
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries", FX HD
 http://pfsv.io:80/07720253/51853/308
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX SD
