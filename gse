@@ -8,9 +8,9 @@ http://pfsv.io:80/07720253/51853/300
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD
 http://pfsv.io:80/07720253/51853/325
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
-http://pfsv.io:80/07720253/51853/194
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet SD
 http://pfsv.io:80/07720253/51853/179
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet SD
+http://pfsv.io:80/07720253/51853/194
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
 http://pfsv.io:80/07720253/51853/301
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN SD
