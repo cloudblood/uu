@@ -28,9 +28,9 @@ http://pfsv.io:80/07720253/51853/256
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
 http://pfsv.io:80/07720253/51853/265
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e música",BIS HD
-http://pfsv.io:80/07720253/51853/18
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e música",BIS SD
 http://pfsv.io:80/07720253/51853/12
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e música",BIS SD
+http://pfsv.io:80/07720253/51853/18
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel HD
 http://pfsv.io:80/07720253/51853/302
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel SD
