@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E HD
 http://pfsv.io:80/07720253/51853/299
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E SD
-http://pfsv.io:80/07720253/51853/324
+http://srv.maxptv.net:8080/Danilooo/Camisaa/235
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC HD
 http://pfsv.io:80/07720253/51853/300
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD
@@ -20,7 +20,7 @@ http://pfsv.io:80/07720253/51853/514
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News SD
 http://pfsv.io:80/07720253/51853/520
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP HD
-http://pfsv.io:80/00826082/94250/50
+http://srv.maxptv.net:8080/Danilooo/Camisaa/130
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP SD
 http://pfsv.io:80/07720253/51853/65
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
