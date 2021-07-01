@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Libertadores HD
+http://pfsv.io:80/07720253/51853/490
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 1
+http://pfsv.io:80/07720253/51853/492
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 2
+http://pfsv.io:80/07720253/51853/493
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 3
+http://pfsv.io:80/07720253/51853/494
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 1
+http://pfsv.io:80/07720253/51853/504
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 2
+http://pfsv.io:80/07720253/51853/505
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 3
+http://pfsv.io:80/07720253/51853/506
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 4
+http://pfsv.io:80/07720253/51853/507
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 5
+http://pfsv.io:80/07720253/51853/508
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",DAZN 6
+http://pfsv.io:80/07720253/51853/509
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 2 FHD
+http://pfsv.io:80/07720253/51853/525
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://pfsv.io:80/07720253/51853/30284
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 2 HD
+http://pfsv.io:80/07720253/51853/531
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 2 SD
+http://pfsv.io:80/07720253/51853/538
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 3  FHD [H265]
+http://pfsv.io:80/07720253/51853/30285
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 3 FHD
+http://pfsv.io:80/07720253/51853/526
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 3 HD
+http://pfsv.io:80/07720253/51853/532
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 3 SD
+http://pfsv.io:80/07720253/51853/539
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 4 FHD
+http://pfsv.io:80/07720253/51853/527
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+http://pfsv.io:80/07720253/51853/30288
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 4 HD
+http://pfsv.io:80/07720253/51853/533
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 4 SD
+http://pfsv.io:80/07720253/51853/540
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 5 FHD
+http://pfsv.io:80/07720253/51853/528
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+http://pfsv.io:80/07720253/51853/30286
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 5 HD
+http://pfsv.io:80/07720253/51853/534
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 5 SD
+http://pfsv.io:80/07720253/51853/541
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 6 FHD
+http://pfsv.io:80/07720253/51853/529
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+http://pfsv.io:80/07720253/51853/30289
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 6 HD
+http://pfsv.io:80/07720253/51853/535
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 6 SD
+http://pfsv.io:80/07720253/51853/542
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 7 FHD
+http://pfsv.io:80/07720253/51853/530
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+http://pfsv.io:80/07720253/51853/30290
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 7 HD
+http://pfsv.io:80/07720253/51853/536
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere 7 SD
+http://pfsv.io:80/07720253/51853/543
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | 4K",Premiere Club [4K]
+http://pfsv.io:80/07720253/51853/584
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere Clubes FHD
+http://pfsv.io:80/07720253/51853/524
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+http://pfsv.io:80/07720253/51853/30287
+#EXTINF:-1 tvg-logo="http://z4.vc/l5p" group-title="Canais | Premiere",Premiere Clubes HD
+http://pfsv.io:80/07720253/51853/537
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a" group-title="Canais | Premiere",Premiere Clubes SD
+http://pfsv.io:80/07720253/51853/544
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Premiere Internacional
+http://pfsv.io:80/07720253/51853/501
