@@ -267,6 +267,8 @@ http://pfsv.io:80/07720253/51853/536
 http://pfsv.io:80/07720253/51853/584
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
 http://pfsv.io:80/07720253/51853/537
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD[ALT]
+http://pfsv.io:80/07720253/51853/524
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News FHD
 http://pfsv.io:80/07720253/51853/511
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD
