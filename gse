@@ -34,7 +34,7 @@ http://pfsv.io:80/07720253/51853/5
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel FHD
 http://pfsv.io:80/07720253/51853/30216
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel HD
-http://pfsv.io:80/07720253/51853/274
+http://pfsv.io:80/07720253/51853/302
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network FHD
 http://pfsv.io:80/07720253/51853/30268
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
@@ -385,8 +385,8 @@ http://pfsv.io:80/07720253/51853/297
 ####### TESTE ######
 #EXTINF:-1 tvg-logo="https://bleez.com.br/wp-content/uploads/2015/08/tv-diario-bleez.png" group-title=" Canais | Globo Fortaleza-CE",TV Diário Fortaleza FHD
 http://pfsv.io:80/07720253/51853/383
-#EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/wellitonrocha/J4uJUyjhoQHn.png" group-title=" Canais | Globo Fortaleza-CE",Globo TV Verdes Mares Fortaleza HD
-http://pfsv.io:80/07720253/51853/43778
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Logotipo_da_TV_Verdes_Mares.png" group-title=" Canais | Globo Fortaleza-CE",Globo TV Verdes Mares Fortaleza SD
+http://pfsv.io:80/07720253/51853/461
 
 ###### CONMEBOL TESTE ######
 #EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 1 4K
