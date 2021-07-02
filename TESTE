@@ -1,84 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://p6.vc/f0w" group-title="Canais | HBO",HBO 2 FHD
-http://pfsv.io:80/07720253/51853/470
-#EXTINF:-1 tvg-logo="http://p6.vc/f0w" group-title="Canais | HBO",HBO 2 FHD [H265]
-http://pfsv.io:80/07720253/51853/30234
-#EXTINF:-1 tvg-logo="http://p6.vc/f0w" group-title="Canais | HBO",HBO 2 HD
-http://pfsv.io:80/07720253/51853/472
-#EXTINF:-1 tvg-logo="http://p6.vc/f0w" group-title="Canais | HBO",HBO 2 SD
-http://pfsv.io:80/07720253/51853/481
-#EXTINF:-1 tvg-logo="http://p6.vc/f0x" group-title="Canais | HBO",HBO Family FHD
-http://pfsv.io:80/07720253/51853/464
-#EXTINF:-1 tvg-logo="http://p6.vc/f0x" group-title="Canais | HBO",HBO Family FHD [H265]
-http://pfsv.io:80/07720253/51853/30235
-#EXTINF:-1 tvg-logo="http://p6.vc/f0x" group-title="Canais | HBO",HBO Family HD
-http://pfsv.io:80/07720253/51853/473
-#EXTINF:-1 tvg-logo="http://p6.vc/f0x" group-title="Canais | HBO",HBO Family SD
-http://pfsv.io:80/07720253/51853/483
-#EXTINF:-1 tvg-logo="http://p6.vc/f0y" group-title="Canais | HBO",HBO FHD
-http://pfsv.io:80/07720253/51853/471
-#EXTINF:-1 tvg-logo="http://p6.vc/f0y" group-title="Canais | HBO",HBO FHD [H265]
-http://pfsv.io:80/07720253/51853/30236
-#EXTINF:-1 tvg-logo="http://p6.vc/f0y" group-title="Canais | HBO",HBO HD
-http://pfsv.io:80/07720253/51853/474
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",HBO HD [LEG]
-http://pfsv.io:80/07720253/51853/213
-#EXTINF:-1 tvg-logo="http://p6.vc/f0B" group-title="Canais | HBO",HBO Mundi FHD
-http://pfsv.io:80/07720253/51853/467
-#EXTINF:-1 tvg-logo="http://p6.vc/f0B" group-title="Canais | HBO",HBO Mundi FHD [H265]
-http://pfsv.io:80/07720253/51853/30239
-#EXTINF:-1 tvg-logo="http://p6.vc/f0B" group-title="Canais | HBO",HBO Mundi HD
-http://pfsv.io:80/07720253/51853/477
-#EXTINF:-1 tvg-logo="http://p6.vc/f0B" group-title="Canais | HBO",HBO Mundi SD
-http://pfsv.io:80/07720253/51853/485
-#EXTINF:-1 tvg-logo="http://p6.vc/f0z" group-title="Canais | HBO",HBO Plus FHD
-http://pfsv.io:80/07720253/51853/465
-#EXTINF:-1 tvg-logo="http://p6.vc/f0z" group-title="Canais | HBO",HBO Plus FHD [H265]
-http://pfsv.io:80/07720253/51853/30237
-#EXTINF:-1 tvg-logo="http://p6.vc/f0z" group-title="Canais | HBO",HBO Plus HD
-http://pfsv.io:80/07720253/51853/475
-#EXTINF:-1 tvg-logo="http://p6.vc/f0z" group-title="Canais | Legendados",HBO PLUS HD [LEG]
-http://pfsv.io:80/07720253/51853/215
-#EXTINF:-1 tvg-logo="http://p6.vc/f0z" group-title="Canais | HBO",HBO Plus SD
-http://pfsv.io:80/07720253/51853/482
-#EXTINF:-1 tvg-logo="http://p6.vc/f0z" group-title="Canais | Legendados",HBO PLUS SD [LEG]
-http://pfsv.io:80/07720253/51853/216
-#EXTINF:-1 tvg-logo="http://p6.vc/f0D" group-title="Canais | HBO",HBO POP FHD
-http://pfsv.io:80/07720253/51853/469
-#EXTINF:-1 tvg-logo="http://p6.vc/f0D" group-title="Canais | HBO",HBO Pop FHD [H265]
-http://pfsv.io:80/07720253/51853/30241
-#EXTINF:-1 tvg-logo="http://p6.vc/f0D" group-title="Canais | HBO",HBO Pop HD
-http://pfsv.io:80/07720253/51853/479
-#EXTINF:-1 tvg-logo="http://p6.vc/f0D" group-title="Canais | Legendados",HBO POP HD [LEG]
-http://pfsv.io:80/07720253/51853/233
-#EXTINF:-1 tvg-logo="http://p6.vc/f0D" group-title="Canais | HBO",HBO Pop SD
-http://pfsv.io:80/07720253/51853/487
-#EXTINF:-1 tvg-logo="http://p6.vc/f0D" group-title="Canais | Legendados",HBO POP SD [LEG]
-http://pfsv.io:80/07720253/51853/234
-#EXTINF:-1 tvg-logo="http://p6.vc/f0y" group-title="Canais | HBO",HBO SD
-http://pfsv.io:80/07720253/51853/480
-#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",HBO SD [LEG]
-http://pfsv.io:80/07720253/51853/214
-#EXTINF:-1 tvg-logo="http://p6.vc/f0A" group-title="Canais | HBO",HBO Signature FHD
-http://pfsv.io:80/07720253/51853/466
-#EXTINF:-1 tvg-logo="http://p6.vc/f0A" group-title="Canais | HBO",HBO Signature FHD [H265]
-http://pfsv.io:80/07720253/51853/30238
-#EXTINF:-1 tvg-logo="http://p6.vc/f0A" group-title="Canais | HBO",HBO Signature HD
-http://pfsv.io:80/07720253/51853/476
-#EXTINF:-1 tvg-logo="http://p6.vc/f0A" group-title="Canais | HBO",HBO Signature SD
-http://pfsv.io:80/07720253/51853/484
-#EXTINF:-1 tvg-logo="http://p6.vc/f0C" group-title="Canais | HBO",HBO Xtreme FHD
-http://pfsv.io:80/07720253/51853/468
-#EXTINF:-1 tvg-logo="http://p6.vc/f0C" group-title="Canais | HBO",HBO Xtreme FHD [H265]
-http://pfsv.io:80/07720253/51853/30240
-#EXTINF:-1 tvg-logo="http://p6.vc/f0C" group-title="Canais | HBO",HBO Xtreme HD
-http://pfsv.io:80/07720253/51853/478
-#EXTINF:-1 tvg-logo="http://p6.vc/f0C" group-title="Canais | HBO",HBO Xtreme SD
-http://pfsv.io:80/07720253/51853/486
-#EXTINF:-1 tvg-logo="http://p6.vc/f0C" group-title="Canais | Legendados",HBO XTREME SD [LEG]
-http://pfsv.io:80/07720253/51853/217
-#EXTINF:-1 tvg-logo="http://p6.vc/f0C" group-title="Canais | 4K",HBO Xtreme [4K]
-http://pfsv.io:80/07720253/51853/5344
-#EXTINF:-1 tvg-logo="http://p6.vc/f0y" group-title="Canais | 4K",HBO [4K]
-http://pfsv.io:80/07720253/51853/599
+#EXTINF:-1 tvg-logo="" group-title="Art & Music",MTV  FHD[H265]
+http://pfsv.io:80/07720253/51853/30175
+#EXTINF:-1 tvg-logo="http://z4.vc/zg9" group-title="Art & Music",MTV FHD
+http://pfsv.io:80/07720253/51853/1
+#EXTINF:-1 tvg-logo="http://z4.vc/zg9" group-title="Art & Music",MTV HD
+http://pfsv.io:80/07720253/51853/15
+#EXTINF:-1 tvg-logo="http://z4.vc/PWM" group-title="Art & Music",MTV Live FHD [H265]
+http://pfsv.io:80/07720253/51853/30172
+#EXTINF:-1 tvg-logo="http://z4.vc/PWM" group-title="Art & Music",MTV Live FHD
+http://pfsv.io:80/07720253/51853/2
+#EXTINF:-1 tvg-logo="http://z4.vc/PWM" group-title="Art & Music",MTV Live HD
+http://pfsv.io:80/07720253/51853/13
+#EXTINF:-1 tvg-logo="http://z4.vc/PWM" group-title="Art & Music",MTV Live SD
+http://pfsv.io:80/07720253/51853/6
+#EXTINF:-1 tvg-logo="http://z4.vc/zg9" group-title="Art & Music",MTV SD
+http://pfsv.io:80/07720253/51853/9
