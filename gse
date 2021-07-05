@@ -12,13 +12,13 @@ http://pfsv.io:80/07720253/51853/588
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
 http://pfsv.io:80/07720253/51853/164
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
-hhttp://pfsv.io:80/8092863/74963/30206
+http://diretogo.com:80/cristinasantos9823/8912459x/5901
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
 http://pfsv.io:80/07720253/51853/30206
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
-http://pfsv.io:80/07720253/51853/510
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10048416
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
+http://diretogo.com:80/cristinasantos9823/8912459x/4996
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP FHD
 http://pfsv.io:80/8092863/74963/580
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP HD
@@ -48,9 +48,9 @@ http://pfsv.io:80/07720253/51853/30198
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil HD
 http://pfsv.io:80/07720253/51853/513
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central FHD
-http://pfsv.io:80/07720253/51853/30191
+http://pfsv.io:80/07720253/51853/50868
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central HD
-http://pfsv.io:80/07720253/51853/97
+http://diretogo.com:80/cristinasantos9823/8912459x/10048429
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
 http://b5.vc:80/5860306580/fireurl.co/71864
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
@@ -80,17 +80,17 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054850
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10054851
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD FHD
-http://diretogo.com:80/cristinasantos9823/8912459x/10047325
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD HD
 http://pfsv.io:80/8092863/74963/30273
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD HD
+http://pfsv.io:80/07720253/51853/49126
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! FHD
-http://diretogo.com:80/cristinasantos9823/8912459x/17306
+http://pfsv.io:80/07720253/51853/30186
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! HD
-http://diretogo.com:80/cristinasantos9823/8912459x/10054837
+http://diretogo.com:80/cristinasantos9823/8912459x/17306
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 FHD
-http://pfsv.io:80/07720253/51853/254
+http://pfsv.io:80/07720253/51853/30277
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 HD
-http://pfsv.io:80/07720253/51853/258
+http://pfsv.io:80/07720253/51853/254
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil FHD
 http://pfsv.io:80/07720253/51853/50872
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil HD
@@ -110,7 +110,7 @@ http://pfsv.io:80/07720253/51853/30207
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life FHD
 http://pfsv.io:80/07720253/51853/30208
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life HD
-http://pfsv.io:80/07720253/51853/276
+http://pfsv.io:80/07720253/51853/305
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 1 FHD
 http://pfsv.io:80/07720253/51853/30209
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 1 HD
@@ -126,15 +126,15 @@ http://diretogo.com:80/cristinasantos9823/8912459x/2976
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports FHD
 http://pfsv.io:80/07720253/51853/30283
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports HD
-http://diretogo.com:80/cristinasantos9823/8912459x/5775
+http://pfsv.io:80/07720253/51853/255
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura FHD
 http://pfsv.io:80/07720253/51853/43
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9616
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX FHD
-http://pfsv.io:80/07720253/51853/30211
+http://pfsv.io:80/07720253/51853/279
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX HD
-http://diretogo.com:80/cristinasantos9823/8912459x/9617
+http://diretogo.com:80/cristinasantos9823/8912459x/10054798
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News FHD
 http://pfsv.io:80/07720253/51853/30196
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News HD
@@ -176,7 +176,7 @@ http://pfsv.io:80/07720253/51853/466
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
 http://pfsv.io:80/07720253/51853/476
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD
-http://pfsv.io:80/07720253/51853/468
+http://pfsv.io:80/07720253/51853/30240
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
 http://pfsv.io:80/07720253/51853/478
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV FHD
@@ -209,16 +209,16 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047269
 http://pfsv.io:80/07720253/51853/281
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Art & Music",MTV FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10047267
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Art & Music",MTV HD
-http://pfsv.io:80/07720253/51853/15
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Art & Music",MTV SD
+http://pfsv.io:80/07720253/51853/9
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Art & Music",MTV Live FHD
 http://pfsv.io:80/07720253/51853/30172
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Art & Music",MTV Live HD
 http://pfsv.io:80/07720253/51853/2
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Art & Music",MultiShow FHD
-http://pfsv.io:80/07720253/51853/30173
+http://pfsv.io:80/07720253/51853/590
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Art & Music",MultiShow HD
-http://pfsv.io:80/07720253/51853/16
+http://pfsv.io:80/07720253/51853/30173
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic FHD
 http://pfsv.io:80/07720253/51853/30251
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic HD
@@ -260,10 +260,8 @@ http://pfsv.io:80/07720253/51853/30290
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
 http://pfsv.io:80/07720253/51853/536
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
-http://pfsv.io:80/07720253/51853/584
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
 http://pfsv.io:80/07720253/51853/537
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD[ALT]
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
 http://pfsv.io:80/07720253/51853/524
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/7097
@@ -280,9 +278,9 @@ http://pfsv.io:80/07720253/51853/46
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP HD
 http://pfsv.io:80/07720253/51853/55
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space FHD
-http://srv.maxptv.net:8080/Danilooo/Camisaa/20271
+http://pfsv.io:80/07720253/51853/596
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space HD
-http://pfsv.io:80/07720253/51853/313
+http://pfsv.io:80/07720253/51853/30214
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
 http://pfsv.io:80/07720253/51853/30291
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
@@ -292,9 +290,9 @@ http://pfsv.io:80/07720253/51853/30292
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
 http://pfsv.io:80/07720253/51853/558
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
-http://pfsv.io:80/07720253/51853/30293
+http://pfsv.io:80/07720253/51853/589
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
-http://pfsv.io:80/07720253/51853/555
+http://pfsv.io:80/07720253/51853/30293
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
 http://pfsv.io:80/07720253/51853/30221
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
