@@ -36,9 +36,9 @@ http://pfsv.io:80/07720253/51853/30216
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel HD
 http://pfsv.io:80/8092863/74963/274
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network FHD
-http://pfsv.io:80/07720253/51853/591
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
 http://pfsv.io:80/07720253/51853/30268
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
+http://diretogo.com:80/cristinasantos9823/8912459x/10054931
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10054926
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD
