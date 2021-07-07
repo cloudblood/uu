@@ -1,386 +1,196 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E FHD
-http://pfsv.io:80/07720253/51853/30227
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E HD
-http://b5.vc:80/5860306580/fireurl.co/71760
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
-http://pfsv.io:80/07720253/51853/30228
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
-http://b5.vc:80/5860306580/fireurl.co/71768
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet FHD
-http://b5.vc:80/5860306580/fireurl.co/71774
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
-http://pfsv.io:80/07720253/51853/30248
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
-http://b5.vc:80/5860306580/fireurl.co/90645
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
-http://b5.vc:80/5860306580/fireurl.co/71781
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
-http://b5.vc:80/5860306580/fireurl.co/71790
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
-http://b5.vc:80/5860306580/fireurl.co/71789
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
+http://pfsv.io:80/07720253/51853/293
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
+http://pfsv.io:80/07720253/51853/294
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet
+http://pfsv.io:80/07720253/51853/164
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN
+http://pfsv.io:80/07720253/51853/30206
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
+http://pfsv.io:80/07720253/51853/510
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
 http://pfsv.io:80/07720253/51853/30181
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP HD
-http://b5.vc:80/5860306580/fireurl.co/79311
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
 http://pfsv.io:80/07720253/51853/30275
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
-http://pfsv.io:80/07720253/51853/30195
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e música",BIS FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e música",BIS
 http://pfsv.io:80/07720253/51853/5
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e música",BIS HD
-http://b5.vc:80/5860306580/fireurl.co/71806
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel FHD
-http://b5.vc:80/5860306580/fireurl.co/71824
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel HD
-http://b5.vc:80/5860306580/fireurl.co/71825
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network FHD
-http://b5.vc:80/5860306580/fireurl.co/71830
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network
 http://pfsv.io:80/07720253/51853/30268
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD
-http://b5.vc:80/5860306580/fireurl.co/90643
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD
-http://b5.vc:80/5860306580/fireurl.co/71833
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax
+http://pfsv.io:80/07720253/51853/30215
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil
 http://pfsv.io:80/07720253/51853/30198
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil HD
-http://pfsv.io:80/07720253/51853/513
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central FHD
-http://b5.vc:80/5860306580/fireurl.co/90642
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central HD
-http://b5.vc:80/5860306580/fireurl.co/71847
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
-http://b5.vc:80/5860306580/fireurl.co/71864
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
-http://b5.vc:80/5860306580/fireurl.co/71862
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health FHD
-http://b5.vc:80/5860306580/fireurl.co/90251
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health HD
-http://pfsv.io:80/07720253/51853/30254
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central
+http://pfsv.io:80/07720253/51853/97
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel
+http://pfsv.io:80/07720253/51853/166
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health
+http://pfsv.io:80/07720253/51853/50866
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
 http://b5.vc:80/5860306580/fireurl.co/71875
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
 http://b5.vc:80/5860306580/fireurl.co/71876
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD
-http://b5.vc:80/5860306580/fireurl.co/71879
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
-http://b5.vc:80/5860306580/fireurl.co/71880
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo FHD
-http://b5.vc:80/5860306580/fireurl.co/90641
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater
+http://pfsv.io:80/07720253/51853/30256
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo
 http://pfsv.io:80/07720253/51853/30257
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD
-http://b5.vc:80/5860306580/fireurl.co/71887
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
-http://b5.vc:80/5860306580/fireurl.co/71888
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel FHD
-http://b5.vc:80/5860306580/fireurl.co/71891
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel HD
-http://b5.vc:80/5860306580/fireurl.co/71892
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World
+http://pfsv.io:80/07720253/51853/30258
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel
+http://pfsv.io:80/07720253/51853/135
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD
 http://pfsv.io:80/07720253/51853/30273
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD HD
-http://pfsv.io:80/07720253/51853/49125
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! FHD
-http://pfsv.io:80/07720253/51853/30186
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! HD
-http://b5.vc:80/5860306580/fireurl.co/71900
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E!
+http://pfsv.io:80/07720253/51853/108
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2
 http://pfsv.io:80/07720253/51853/30277
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 HD
-http://b5.vc:80/5860306580/fireurl.co/71907
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil FHD
-http://b5.vc:80/5860306580/fireurl.co/90640
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil
 http://pfsv.io:80/07720253/51853/30280
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra
 http://pfsv.io:80/07720253/51853/30278
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra HD
-http://b5.vc:80/5860306580/fireurl.co/71915
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN FHD
-http://b5.vc:80/5860306580/fireurl.co/71921
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN HD
-http://b5.vc:80/5860306580/fireurl.co/71919
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel FHD
-http://b5.vc:80/5860306580/fireurl.co/71936
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN
+http://pfsv.io:80/07720253/51853/30281
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel
+http://pfsv.io:80/07720253/51853/274
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
 http://pfsv.io:80/07720253/51853/30207
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life FHD
-http://b5.vc:80/5860306580/fireurl.co/71939
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life HD
-http://b5.vc:80/5860306580/fireurl.co/71940
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 1 FHD
-http://b5.vc:80/5860306580/fireurl.co/71943
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life
+http://pfsv.io:80/07720253/51853/305
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 1 HD
 http://pfsv.io:80/07720253/51853/277
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 FHD
-http://b5.vc:80/5860306580/fireurl.co/71947
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 HD
-http://b5.vc:80/5860306580/fireurl.co/71948
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2
+http://pfsv.io:80/07720253/51853/30210
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2
 http://pfsv.io:80/07720253/51853/30282
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 HD
-http://b5.vc:80/5860306580/fireurl.co/71954
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports FHD
-http://b5.vc:80/5860306580/fireurl.co/71959
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports HD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports
 http://pfsv.io:80/07720253/51853/30283
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura
 http://pfsv.io:80/07720253/51853/43
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura HD
-http://b5.vc:80/5860306580/fireurl.co/71962
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX
 http://pfsv.io:80/07720253/51853/279
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX HD
-http://b5.vc:80/5860306580/fireurl.co/90639
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News
 http://pfsv.io:80/07720253/51853/30196
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News HD
-http://pfsv.io:80/07720253/51853/516
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP FHD
-http://pfsv.io:80/07720253/51853/394
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP HD
-http://b5.vc:80/5860306580/fireurl.co/72041
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP
+http://pfsv.io:80/07720253/51853/30205
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT
 http://pfsv.io:80/07720253/51853/30187
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD
-http://pfsv.io:80/07720253/51853/102
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
-http://b5.vc:80/5860306580/fireurl.co/90246
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
-http://b5.vc:80/5860306580/fireurl.co/72110
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
-http://b5.vc:80/5860306580/fireurl.co/90637
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
-http://b5.vc:80/5860306580/fireurl.co/72114
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD
-http://b5.vc:80/5860306580/fireurl.co/90247
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
-http://b5.vc:80/5860306580/fireurl.co/72118
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD
-http://b5.vc:80/5860306580/fireurl.co/72121
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
-http://b5.vc:80/5860306580/fireurl.co/72122
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
-http://b5.vc:80/5860306580/fireurl.co/90635
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
-http://b5.vc:80/5860306580/fireurl.co/72125
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop FHD
-http://b5.vc:80/5860306580/fireurl.co/72129
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop HD
-http://b5.vc:80/5860306580/fireurl.co/72130
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2
+http://pfsv.io:80/07720253/51853/30234
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family
+http://pfsv.io:80/07720253/51853/464
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO
+http://pfsv.io:80/07720253/51853/30236
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi
+http://pfsv.io:80/07720253/51853/467
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus
+http://pfsv.io:80/07720253/51853/30237
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop
+http://pfsv.io:80/07720253/51853/469
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
-http://b5.vc:80/5860306580/fireurl.co/72134
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
-http://b5.vc:80/5860306580/fireurl.co/72135
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD
-http://b5.vc:80/5860306580/fireurl.co/90636
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
-http://b5.vc:80/5860306580/fireurl.co/72138
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV FHD
-http://b5.vc:80/5860306580/fireurl.co/72142
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV HD
-http://b5.vc:80/5860306580/fireurl.co/72143
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2 FHD
+http://pfsv.io:80/07720253/51853/30238
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme
+http://pfsv.io:80/07720253/51853/468
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV
+http://pfsv.io:80/07720253/51853/30253
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2
 http://pfsv.io:80/07720253/51853/30262
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2 HD
-http://pfsv.io:80/07720253/51853/173
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel FHD
-http://b5.vc:80/5860306580/fireurl.co/90244
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel HD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel
 http://pfsv.io:80/07720253/51853/30250
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery FHD
-http://b5.vc:80/5860306580/fireurl.co/90243
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery HD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery
 http://pfsv.io:80/07720253/51853/175
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",Life Time FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",LifeTime
 http://pfsv.io:80/07720253/51853/30217
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",Life Time HD
-http://b5.vc:80/5860306580/fireurl.co/72154
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" group-title="Canais | Variedades",Mais GloboSat FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" group-title="Canais | Variedades",Mais GloboSat
 http://pfsv.io:80/07720253/51853/30194
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" group-title="Canais | Variedades",Mais GloboSat HD
-http://pfsv.io:80/07720253/51853/103
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
-http://b5.vc:80/5860306580/fireurl.co/72168
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",MegaPix HD
-http://pfsv.io:80/07720253/51853/281
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Art & Music",MTV FHD
-http://b5.vc:80/5860306580/fireurl.co/72171
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Art & Music",MTV HD
-http://b5.vc:80/5860306580/fireurl.co/72172
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Art & Music",MTV Live FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix
+http://pfsv.io:80/07720253/51853/30218
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Art & Music",MTV
+http://pfsv.io:80/07720253/51853/30175
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Art & Music",MTV Live
 http://pfsv.io:80/07720253/51853/30172
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Art & Music",MTV Live HD
-http://pfsv.io:80/07720253/51853/2
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Art & Music",MultiShow FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Art & Music",MultiShow
 http://pfsv.io:80/07720253/51853/590
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Art & Music",MultiShow HD
-http://pfsv.io:80/07720253/51853/30173
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic FHD
-http://b5.vc:80/5860306580/fireurl.co/72198
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic
 http://pfsv.io:80/07720253/51853/30251
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild FHD
-http://b5.vc:80/5860306580/fireurl.co/90242
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild
 http://pfsv.io:80/07720253/51853/30252
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon
 http://pfsv.io:80/07720253/51853/30264
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
-http://b5.vc:80/5860306580/fireurl.co/90241
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
-http://b5.vc:80/5860306580/fireurl.co/90634
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
-http://b5.vc:80/5860306580/fireurl.co/72217
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel
+http://pfsv.io:80/07720253/51853/30213
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2
 http://pfsv.io:80/07720253/51853/526
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
-http://pfsv.io:80/07720253/51853/531
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3
 http://pfsv.io:80/07720253/51853/30285
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
-http://srv.maxptv.net:8080/Danilooo/Camisaa/82
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4
 http://pfsv.io:80/07720253/51853/30288
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
-http://pfsv.io:80/07720253/51853/527
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
-http://b5.vc:80/5860306580/fireurl.co/72249
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5
 http://pfsv.io:80/07720253/51853/528
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
-http://b5.vc:80/5860306580/fireurl.co/72253
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
-http://b5.vc:80/5860306580/fireurl.co/90364
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6
+http://pfsv.io:80/07720253/51853/30289
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7
 http://pfsv.io:80/07720253/51853/30290
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
-http://pfsv.io:80/07720253/51853/536
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
-http://b5.vc:80/5860306580/fireurl.co/72264
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes
 http://pfsv.io:80/07720253/51853/524
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News FHD
-http://b5.vc:80/5860306580/fireurl.co/72271
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD
-http://b5.vc:80/5860306580/fireurl.co/72272
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News
+http://pfsv.io:80/07720253/51853/511
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV
 http://pfsv.io:80/07720253/51853/583
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP HD
-http://b5.vc:80/5860306580/fireurl.co/77654
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV!
 http://pfsv.io:80/07720253/51853/30180
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP FHD
-http://b5.vc:80/5860306580/fireurl.co/77963
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP HD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT
 http://pfsv.io:80/07720253/51853/55
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space FHD
-http://b5.vc:80/5860306580/fireurl.co/90633
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space HD
-http://b5.vc:80/5860306580/fireurl.co/72317
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space
+http://pfsv.io:80/07720253/51853/313
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2
 http://pfsv.io:80/07720253/51853/30291
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
-http://b5.vc:80/5860306580/fireurl.co/72321
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3
 http://pfsv.io:80/07720253/51853/30292
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
-http://b5.vc:80/5860306580/fireurl.co/72325
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV
 http://pfsv.io:80/07720253/51853/589
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
-http://pfsv.io:80/07720253/51853/30293
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal
 http://pfsv.io:80/07720253/51853/30221
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
-http://pfsv.io:80/07720253/51853/283
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY
 http://pfsv.io:80/07720253/51853/30222
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY HD
-http://pfsv.io:80/07720253/51853/284
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS
 http://pfsv.io:80/07720253/51853/30223
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS HD
-http://b5.vc:80/5860306580/fireurl.co/72343
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM HD
-http://b5.vc:80/5860306580/fireurl.co/73251
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM SD
-http://b5.vc:80/5860306580/fireurl.co/73252
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
-http://b5.vc:80/5860306580/fireurl.co/90239
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM
+http://pfsv.io:80/07720253/51853/339
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action
 http://pfsv.io:80/07720253/51853/30242
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
-http://b5.vc:80/5860306580/fireurl.co/72350
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult
 http://pfsv.io:80/07720253/51853/567
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun
 http://pfsv.io:80/07720253/51853/30244
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
-http://pfsv.io:80/07720253/51853/563
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca
 http://pfsv.io:80/07720253/51853/30245
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
-http://pfsv.io:80/07720253/51853/564
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
-http://b5.vc:80/5860306580/fireurl.co/90237
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium
 http://pfsv.io:80/07720253/51853/565
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch
 http://pfsv.io:80/07720253/51853/30247
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
-http://pfsv.io:80/07720253/51853/566
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC
 http://pfsv.io:80/07720253/51853/30229
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC HD
-http://b5.vc:80/5860306580/fireurl.co/72371
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
-http://b5.vc:80/5860306580/fireurl.co/72377
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
-http://b5.vc:80/5860306580/fireurl.co/72375
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series FHD
-http://pfsv.io:80/07720253/51853/30225
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT
+http://pfsv.io:80/07720253/51853/30224
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series
 http://pfsv.io:80/07720253/51853/288
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast SD
 http://pfsv.io:80/07720253/51853/160
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Religiosos",TV Aparecida FHD
-http://b5.vc:80/5860306580/fireurl.co/72394
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Religiosos",TV Aparecida HD
-http://pfsv.io:80/07720253/51853/49127
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Religiosos",TV Aparecida
+http://pfsv.io:80/07720253/51853/548
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura
 http://pfsv.io:80/07720253/51853/30183
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura HD
-http://pfsv.io:80/07720253/51853/47
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP FHD
-http://b5.vc:80/5860306580/fireurl.co/72406
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP HD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP
 http://pfsv.io:80/33732940/14864/56
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM FHD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM
 http://pfsv.io:80/07720253/51853/132
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM HD
-http://pfsv.io:80/07720253/51853/148
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel FHD
-http://b5.vc:80/5860306580/fireurl.co/90632
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel HD
-http://b5.vc:80/5860306580/fireurl.co/72419
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",Viva FHD
-http://b5.vc:80/5860306580/fireurl.co/72427
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",Viva HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel
+http://pfsv.io:80/07720253/51853/30230
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",Viva
 http://pfsv.io:80/07720253/51853/105
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
-http://b5.vc:80/5860306580/fireurl.co/90236
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
-http://b5.vc:80/5860306580/fireurl.co/72431
-
-####### TESTE ######
-#EXTINF:-1 tvg-logo="https://bleez.com.br/wp-content/uploads/2015/08/tv-diario-bleez.png" group-title=" Canais | Globo Fortaleza-CE",TV Diário Fortaleza FHD
-http://b5.vc:80/5860306580/fireurl.co/72593
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Logotipo_da_TV_Verdes_Mares.png" group-title=" Canais | Globo Fortaleza-CE",Globo TV Verdes Mares Fortaleza SD
-http://b5.vc:80/5860306580/fireurl.co/72080
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel
+http://pfsv.io:80/07720253/51853/319
 
 ###### CONMEBOL TESTE ######
 #EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 1 4K
