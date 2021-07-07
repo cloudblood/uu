@@ -9,8 +9,8 @@ http://pfsv.io:80/07720253/51853/164
 http://pfsv.io:80/07720253/51853/30206
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
 http://pfsv.io:80/07720253/51853/510
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
-http://pfsv.io:80/07720253/51853/30181
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band
+http://pfsv.io:80/07720253/51853/44
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
 http://pfsv.io:80/07720253/51853/30275
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e música",BIS
