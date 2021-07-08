@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
 http://pfsv.io:80/334979935/96795/30227
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
@@ -13,7 +14,7 @@ http://pfsv.io:80/334979935/96795/510
 http://pfsv.io:80/07720253/51853/50
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
 http://pfsv.io:80/07720253/51853/30275
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e música",BIS
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e Música",BIS
 http://pfsv.io:80/07720253/51853/5
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network
 http://pfsv.io:80/07720253/51853/30268
@@ -85,7 +86,7 @@ http://pfsv.io:80/07720253/51853/467
 http://pfsv.io:80/07720253/51853/30237
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop
 http://pfsv.io:80/07720253/51853/469
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature
 http://pfsv.io:80/07720253/51853/30238
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme
 http://pfsv.io:80/07720253/51853/468
@@ -103,11 +104,11 @@ http://pfsv.io:80/07720253/51853/30217
 http://pfsv.io:80/07720253/51853/30194
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix
 http://pfsv.io:80/07720253/51853/30218
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Art & Music",MTV
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Arte e Música",MTV
 http://pfsv.io:80/07720253/51853/30175
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Art & Music",MTV Live
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Arte e Música",MTV Live
 http://pfsv.io:80/07720253/51853/30172
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Art & Music",MultiShow
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Arte e Música",MultiShow
 http://pfsv.io:80/07720253/51853/590
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic
 http://pfsv.io:80/07720253/51853/30251
@@ -173,7 +174,7 @@ http://pfsv.io:80/07720253/51853/30229
 http://pfsv.io:80/07720253/51853/30224
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series
 http://pfsv.io:80/07720253/51853/288
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast SD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast
 http://pfsv.io:80/07720253/51853/160
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Religiosos",TV Aparecida
 http://pfsv.io:80/07720253/51853/548
