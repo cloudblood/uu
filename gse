@@ -26,11 +26,9 @@ http://pfsv.io:80/07720253/51853/97
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel
 http://pfsv.io:80/07720253/51853/166
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health
-http://pfsv.io:80/07720253/51853/50866
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
-http://b5.vc:80/5860306580/fireurl.co/71875
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
-http://b5.vc:80/5860306580/fireurl.co/71876
+http://pfsv.io:80/334979935/96795/30254
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science
+http://pfsv.io:80/334979935/96795/169
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater
 http://pfsv.io:80/07720253/51853/30256
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo
@@ -50,7 +48,7 @@ http://pfsv.io:80/07720253/51853/30280
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra
 http://pfsv.io:80/07720253/51853/30278
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN
-http://pfsv.io:80/07720253/51853/30281
+http://pfsv.io:80/334979935/96795/251
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel
 http://pfsv.io:80/334979935/96795/302
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
