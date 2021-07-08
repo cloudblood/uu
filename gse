@@ -18,7 +18,7 @@ http://pfsv.io:80/07720253/51853/5
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network
 http://pfsv.io:80/07720253/51853/30268
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax
-http://pfsv.io:80/07720253/51853/30215
+http://pfsv.io:80/334979935/96795/275
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil
 http://pfsv.io:80/07720253/51853/30198
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central
@@ -28,13 +28,13 @@ http://pfsv.io:80/07720253/51853/166
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health
 http://pfsv.io:80/334979935/96795/30254
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science
-http://pfsv.io:80/334979935/96795/169
+http://pfsv.io:80/334979935/96795/30255
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater
 http://pfsv.io:80/07720253/51853/30256
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo
 http://pfsv.io:80/07720253/51853/30257
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World
-http://pfsv.io:80/07720253/51853/30258
+http://pfsv.io:80/334979935/96795/30258
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel
 http://rec2.distv.net:80/live/ibl/ibl/138.ts
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD
@@ -50,11 +50,11 @@ http://pfsv.io:80/07720253/51853/30278
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN
 http://pfsv.io:80/334979935/96795/251
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel
-http://pfsv.io:80/334979935/96795/302
+http://pfsv.io:80/334979935/96795/30216
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
 http://pfsv.io:80/07720253/51853/30207
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life
-http://pfsv.io:80/07720253/51853/305
+http://pfsv.io:80/334979935/96795/276
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 1 HD
 http://pfsv.io:80/07720253/51853/277
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2
@@ -62,7 +62,7 @@ http://pfsv.io:80/07720253/51853/30210
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2
 http://pfsv.io:80/07720253/51853/30282
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports
-http://pfsv.io:80/07720253/51853/30283
+http://pfsv.io:80/334979935/96795/30283
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura
 http://pfsv.io:80/07720253/51853/43
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX
