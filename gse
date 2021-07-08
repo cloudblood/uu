@@ -9,7 +9,7 @@ http://pfsv.io:80/07720253/51853/164
 http://pfsv.io:80/07720253/51853/30206
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
 http://pfsv.io:80/07720253/51853/510
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
 http://pfsv.io:80/07720253/51853/50
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
 http://pfsv.io:80/07720253/51853/30275
@@ -71,7 +71,7 @@ http://pfsv.io:80/07720253/51853/43
 http://pfsv.io:80/07720253/51853/279
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News
 http://pfsv.io:80/07720253/51853/30196
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP
 http://pfsv.io:80/07720253/51853/394
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT
 http://pfsv.io:80/07720253/51853/30187
@@ -135,11 +135,11 @@ http://pfsv.io:80/07720253/51853/30290
 http://pfsv.io:80/07720253/51853/524
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News
 http://pfsv.io:80/07720253/51853/511
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP
 http://pfsv.io:80/07720253/51853/583
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV!
 http://pfsv.io:80/07720253/51853/30180
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP
 http://pfsv.io:80/07720253/51853/55
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space
 http://pfsv.io:80/07720253/51853/313
