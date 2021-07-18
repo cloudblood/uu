@@ -9,7 +9,7 @@ http://pfsv.io:80/33732940/14864/30248
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN
 http://pfsv.io:80/33732940/14864/30206
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
-http://pfsv.io:80/33732940/14864/514
+http://pfsv.io:80/00826082/94250/514
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
 http://pfsv.io:80/33732940/14864/30181
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
@@ -24,6 +24,8 @@ http://pfsv.io:80/33732940/14864/30268
 http://pfsv.io:80/33732940/14864/30215
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil
 http://pfsv.io:80/33732940/14864/30198
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate
+http://pfsv.io:80/33732940/14864/249
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central
 http://pfsv.io:80/33732940/14864/106
 ###### CONMEBOL TESTE ######
@@ -95,9 +97,9 @@ http://pfsv.io:80/33732940/14864/465
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop
 http://pfsv.io:80/33732940/14864/469
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature
-http://pfsv.io:80/33732940/14864/466
+http://pfsv.io:80/07720253/51853/476
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme
-http://pfsv.io:80/33732940/14864/468
+http://pfsv.io:80/07720253/51853/478
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV
 http://pfsv.io:80/33732940/14864/30253
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel
@@ -183,7 +185,7 @@ http://pfsv.io:80/07720253/51853/30244
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca
 http://pfsv.io:80/33732940/14864/30245
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium
-http://pfsv.io:80/33732940/14864/565
+http://pfsv.io:80/00826082/94250/573
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch
 http://pfsv.io:80/33732940/14864/30247
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC
@@ -207,4 +209,4 @@ http://pfsv.io:80/33732940/14864/30230
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",Viva
 http://pfsv.io:80/33732940/14864/30298
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel
-http://pfsv.io:80/33732940/14864/30226
+http://pfsv.io:80/33732940/14864/297
