@@ -29,20 +29,30 @@ http://pfsv.io:80/33732940/14864/249
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central
 http://pfsv.io:80/33732940/14864/106
 ###### CONMEBOL TESTE ######
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 1
-http://list.deeplist.nl:80/min01405/1626202115/73394
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 1 [ALT]
-http://list.deeplist.nl:80/min01405/1626202115/72741
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 2
-http://list.deeplist.nl:80/min01405/1626202115/73395
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 2 [ALT]
-http://list.deeplist.nl:80/min01405/1626202115/72742
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 3
-http://list.deeplist.nl:80/min01405/1626202115/72745
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 3 [ALT]
-http://list.deeplist.nl:80/min01405/1626202115/74426
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL 4
-http://list.deeplist.nl:80/min01405/1626202115/72746
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 1 ALT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956452
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 1 HD
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956448
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 1 HD ALT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956453
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 2 ALT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956454
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 2 HD
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956449
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 2 HD ALT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956455
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 3 ALT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956456
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 3 HD
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956450
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 3 HD ALT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956457
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 4 ALT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956458
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 4 HD
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956451
+#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol", CONMEBOL 4 HD ALT
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/956459
 ###########################
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel
 http://pfsv.io:80/33732940/14864/30260
