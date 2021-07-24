@@ -14,7 +14,7 @@ http://dnslist.ca:80/live/9wwfro9c/smj8voyz/48.m3u8
 http://pfsv.io:80/33732940/14864/30181
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
 http://pfsv.io:80/33732940/14864/30275
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Arte e Música",BIS
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
 http://pfsv.io:80/33732940/14864/30177
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang
 http://pfsv.io:80/33732940/14864/30267
@@ -132,11 +132,11 @@ http://pfsv.io:80/33732940/14864/30217
 http://pfsv.io:80/33732940/14864/30194
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix
 http://pfsv.io:80/33732940/14864/281
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Arte e Música",MTV
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais | Arte e Música",MTV
 http://pfsv.io:80/33732940/14864/15
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Arte e Música",MTV Live
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais| Arte e Música",MTV Live
 http://pfsv.io:80/07720253/51853/30172
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Arte e Música",MultiShow
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",MultiShow
 http://pfsv.io:80/33732940/14864/30173
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic
 http://pfsv.io:80/33732940/14864/30251
@@ -214,7 +214,7 @@ http://pfsv.io:80/07720253/51853/287
 http://pfsv.io:80/33732940/14864/288
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast
 http://pfsv.io:80/33732940/14864/48756
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Religiosos",TV Aparecida
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida
 http://pfsv.io:80/07720253/51853/548
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura
 http://pfsv.io:80/07720253/51853/30183
