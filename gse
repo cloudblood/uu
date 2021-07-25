@@ -75,11 +75,11 @@ http://pfsv.io:80/33732940/14864/30211
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News
 http://pfsv.io:80/33732940/14864/30196
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP
-http://pfsv.io:80/33732940/14864/394
+http://pfsv.io:80/66363671122/7140/394
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT
 http://pfsv.io:80/33732940/14864/111
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO
-http://pfsv.io:80/33732940/14864/474
+http://esrv.cc:80/live/eugeniotururu/96204115/271.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2
 http://pfsv.io:80/33732940/14864/470
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family
@@ -195,7 +195,7 @@ http://pfsv.io:80/07720253/51853/548
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura
 http://pfsv.io:80/07720253/51853/30183
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP
-http://elitex.me:80/live/gustavomenezes/2IN7Qgm9v5/4914.m3u8
+http://pfsv.io:80/66363671122/7140/56
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM
 http://pfsv.io:80/07720253/51853/132
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel
