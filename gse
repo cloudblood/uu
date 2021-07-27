@@ -41,7 +41,7 @@ http://rv.therevenge.co:80/307200114044/307200114044/82351
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel
 http://pfsv.io:80/33732940/14864/30260
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health
-http://pfsv.io:80/33732940/14864/30254
+http://pfsv.io:80/66363671122/7140/168
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science
 http://pfsv.io:80/33732940/14864/30255
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater
@@ -79,7 +79,7 @@ http://pfsv.io:80/66363671122/7140/394
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT
 http://pfsv.io:80/33732940/14864/111
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO
-http://esrv.cc:80/live/eugeniotururu/96204115/271.m3u8
+http://pfsv.io:80/66363671122/7140/471
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2
 http://pfsv.io:80/33732940/14864/470
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family
@@ -129,11 +129,11 @@ http://pfsv.io:80/07720253/51853/525
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3
 http://pfsv.io:80/33732940/14864/526
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4
-http://pfsv.io:80/00826082/94250/533
+http://pfsv.io:80/66363671122/7140/533
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5
 http://pfsv.io:80/33732940/14864/528
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6
-http://pfsv.io:80/00826082/94250/535
+http://pfsv.io:80/66363671122/7140/529
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7
 http://pfsv.io:80/33732940/14864/530
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News
@@ -145,19 +145,19 @@ http://pfsv.io:80/33732940/14864/48
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP
 http://pfsv.io:80/66363671122/7140/55
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel
-http://pfsv.io:80/33732940/14864/30216
+http://pfsv.io:80/66363671122/7140/274
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space
-http://pfsv.io:80/33732940/14864/313
+http://pfsv.io:80/66363671122/7140/282
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV
-http://pfsv.io:80/33732940/14864/30293
+http://pfsv.io:80/66363671122/7140/555
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2
-http://pfsv.io:80/33732940/14864/30291
+http://pfsv.io:80/66363671122/7140/553
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3
-http://pfsv.io:80/33732940/14864/30292
+http://pfsv.io:80/66363671122/7140/554
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
 http://pfsv.io:80/33732940/14864/30207
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 1 HD
-http://pfsv.io:80/33732940/14864/306
+http://pfsv.io:80/66363671122/7140/277
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2
 http://pfsv.io:80/33732940/14864/307
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life
