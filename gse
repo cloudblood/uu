@@ -69,13 +69,13 @@ http://pfsv.io:80/33732940/14864/262
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2
 http://pfsv.io:80/66363671122/7140/252
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura
-http://pfsv.io:80/33732940/14864/43
+http://pfsv.io:80/33732940/14864/51
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX
 http://pfsv.io:80/33732940/14864/30211
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News
 http://pfsv.io:80/33732940/14864/30196
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP
-http://pfsv.io:80/66363671122/7140/354
+http://pfsv.io:80/33732940/14864/394
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT
 http://pfsv.io:80/66363671122/7140/30187
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO
@@ -97,9 +97,9 @@ http://pfsv.io:80/66363671122/7140/468
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV
 http://pfsv.io:80/66363671122/7140/167
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel
-http://pfsv.io:80/33732940/14864/30250
+http://pfsv.io:80/33732940/14864/189
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2
-http://pfsv.io:80/33732940/14864/30262
+http://pfsv.io:80/33732940/14864/188
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery
 http://pfsv.io:80/33732940/14864/175
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",LifeTime
@@ -113,7 +113,7 @@ http://pfsv.io:80/33732940/14864/15
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live
 http://pfsv.io:80/07720253/51853/30172
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",MultiShow
-http://pfsv.io:80/66363671122/7140/3
+http://pfsv.io:80/33732940/14864/16
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic
 http://pfsv.io:80/33732940/14864/30251
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild
