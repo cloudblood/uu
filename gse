@@ -125,13 +125,13 @@ http://pfsv.io:80/33732940/14864/524
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2
 http://pfsv.io:80/07720253/51853/525
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3
-http://pfsv.io:80/33732940/14864/526
+http://pfsv.io:80/33732940/14864/532
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4
 http://pfsv.io:80/66363671122/7140/533
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5
 http://pfsv.io:80/33732940/14864/528
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6
-http://pfsv.io:80/66363671122/7140/529
+http://pfsv.io:80/33732940/14864/535
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7
 http://pfsv.io:80/33732940/14864/530
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News
@@ -141,11 +141,11 @@ http://pfsv.io:80/66363671122/7140/45
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV!
 http://pfsv.io:80/33732940/14864/48
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP
-http://pfsv.io:80/66363671122/7140/46
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2197
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel
 http://pfsv.io:80/66363671122/7140/274
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space
-http://pfsv.io:80/66363671122/7140/282
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2192
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV
 http://pfsv.io:80/66363671122/7140/555
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2
@@ -161,7 +161,7 @@ http://pfsv.io:80/33732940/14864/307
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life
 http://pfsv.io:80/33732940/14864/305
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal
-http://pfsv.io:80/33732940/14864/30221
+http://pfsv.io:80/33732940/14864/320
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY
 http://pfsv.io:80/33732940/14864/30222
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS
@@ -189,7 +189,7 @@ http://pfsv.io:80/33732940/14864/288
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast
 http://pfsv.io:80/33732940/14864/48756
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida
-http://pfsv.io:80/07720253/51853/548
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2341
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura
 http://pfsv.io:80/07720253/51853/30183
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP
@@ -197,7 +197,7 @@ http://pfsv.io:80/66363671122/7140/56
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM
 http://pfsv.io:80/07720253/51853/132
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel
-http://pfsv.io:80/66363671122/7140/290
+http://pfsv.io:80/33732940/14864/317
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",Viva
 http://pfsv.io:80/33732940/14864/30298
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel
