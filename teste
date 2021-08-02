@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,TESTE SBT
-https://www.youtube.com/watch?v=ABVQXgr2LW4
+plugin://plugin.video.youtube/play/?video_id=ABVQXgr2LW4
