@@ -141,8 +141,7 @@ http://pfsv.io:80/66363671122/7140/45
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV!
 http://pfsv.io:80/33732940/14864/48
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP
-https://www.youtube.com/embed/ABVQXgr2LW4?controls=1&enablejsapi=1&rel=0&showinfo=0&autoplay=0&mute=0&modestbranding=1&embed_config=%7B%22autonavRelatedVideos%22%3Afalse%2C%22disableRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22primaryThemeColor%22%3A%22%22%2C%22relatedChannels%22%3A%5B%5D%2C%22relatedVideos%22%3A%5B%5D%2C%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F1011235%2FSBT_Videos%2FEspeciais%2FSBT_Live%2Fvideo%22%2C%22cust_params%22%3A%22%22%2C%22ppid%22%3A%22%22%2C%22pp%22%3A%22%22%7D%2C%22disableAds%22%3Afalse%2C%22nonPersonalizedAd%22%3Afalse%7D%7D&origin=https%3A%2F%2Fwww.sbt.com.br&widgetid=1
-##http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2197
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2197
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2324
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space
