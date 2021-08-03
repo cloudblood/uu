@@ -15,11 +15,11 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
 http://pfsv.io:80/07720253/51853/256
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
-http://pfsv.io:80/33732940/14864/30177
+http://pfsv.io:80/33732940/14864/18
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang
-http://pfsv.io:80/33732940/14864/30267
+http://pfsv.io:80/33732940/14864/138
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network
-http://pfsv.io:80/33732940/14864/30268
+http://pfsv.io:80/33732940/14864/139
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7089
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil
