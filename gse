@@ -1,5 +1,7 @@
 #EXTM3U
 
+##EPG - http://epg.liveiptv.net/epg.xml
+
 #EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
 http://pfsv.io:80/07720253/51853/299
 #EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
