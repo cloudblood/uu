@@ -10,9 +10,9 @@ http://pfsv.io:80/66363671122/7140/164
 http://pfsv.io:80/33732940/14864/301
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7150
-#EXTINF:-1 tvg-id="BandnBandRedeews.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
 http://pfsv.io:80/33732940/14864/50
-#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
 http://pfsv.io:80/07720253/51853/256
 #EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
 http://pfsv.io:80/33732940/14864/18
@@ -110,7 +110,7 @@ http://pfsv.io:80/33732940/14864/310
 http://pfsv.io:80/33732940/14864/15
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live
 http://pfsv.io:80/07720253/51853/30172
-#EXTINF:-1 tvg-id="MultiShow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",MultiShow
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",MultiShow
 http://pfsv.io:80/33732940/14864/16
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7327
