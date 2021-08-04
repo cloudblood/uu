@@ -3,21 +3,21 @@
 ##EPG - http://epg.liveiptv.net/epg.xml
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
-http://pfsv.io:80/07720253/51853/299
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/26420
 #EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2344
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet
-http://pfsv.io:80/66363671122/7140/164
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7151
 #EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN
-http://pfsv.io:80/33732940/14864/301
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22275
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7150
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
 http://pfsv.io:80/33732940/14864/50
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
-http://pfsv.io:80/07720253/51853/256
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22272
 #EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
-http://pfsv.io:80/33732940/14864/18
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22271
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang
 http://pfsv.io:80/33732940/14864/138
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network
@@ -27,9 +27,9 @@ http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7089
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil
 http://pfsv.io:80/33732940/14864/517
 #EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate
-http://pfsv.io:80/33732940/14864/249
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7187
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central
-http://pfsv.io:80/66363671122/7140/97
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22266
 ###### CONMEBOL TESTE ######
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 1 HD
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/21761
@@ -51,19 +51,19 @@ http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13716
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22259
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel
-http://pfsv.io:80/66363671122/7140/141
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22258
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD
 http://pfsv.io:80/66363671122/7140/49126
 #EXTINF:-1 tvg-id="E.br" tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E!
-http://pfsv.io:80/33732940/14864/99
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7090
 #EXTINF:-1 tvg-id="Espn.br" tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN
-http://pfsv.io:80/33732940/14864/30281
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22255
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2
 http://pfsv.io:80/33732940/14864/30277
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil
-http://pfsv.io:80/33732940/14864/30280
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22256
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra
-http://pfsv.io:80/33732940/14864/30278
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7136
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22250
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2
@@ -73,11 +73,11 @@ http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7404
 #EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2280
 #EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News
-http://pfsv.io:80/33732940/14864/516
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22248
 #EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP
 http://dnslist.ca:80/live/9wwfro9c/smj8voyz/89.m3u8
 #EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT
-http://pfsv.io:80/33732940/14864/111
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2270
 #EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2262
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2
@@ -95,7 +95,7 @@ http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2257
 #EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7092
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV
-http://pfsv.io:80/66363671122/7140/167
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22264
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/36487
 #EXTINF:-1 tvg-id="H2.br" tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2
@@ -115,11 +115,11 @@ http://pfsv.io:80/07720253/51853/30172
 #EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",MultiShow
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22232
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic
-http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7327
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22231
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild
-http://pfsv.io:80/33732940/14864/192
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22229
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon
-http://pfsv.io:80/33732940/14864/131
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7141
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22226
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes
@@ -151,11 +151,11 @@ http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2324
 #EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2192
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV
-http://pfsv.io:80/66363671122/7140/555
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22220
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2
-http://pfsv.io:80/66363671122/7140/553
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22222
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3
-http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7153
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22221
 #EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/46267
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 1 HD
@@ -195,14 +195,14 @@ http://pfsv.io:80/33732940/14864/48756
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2341
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura
-http://pfsv.io:80/07720253/51853/30183
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/46422
 #EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP
 http://pfsv.io:80/66363671122/7140/56
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM
-http://pfsv.io:80/07720253/51853/132
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7239
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2154
 #EXTINF:-1 tvg-id="Viva.br" tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",Viva
-http://pfsv.io:80/33732940/14864/30298
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7152
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-id="Warnerchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2149
