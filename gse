@@ -1,204 +1,204 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
 http://pfsv.io:80/07720253/51853/299
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2344
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet
 http://pfsv.io:80/66363671122/7140/164
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN
 http://pfsv.io:80/33732940/14864/301
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7150
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
+#EXTINF:-1 tvg-id="BandnBandRedeews.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
 http://pfsv.io:80/33732940/14864/50
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
 http://pfsv.io:80/07720253/51853/256
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
 http://pfsv.io:80/33732940/14864/18
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang
 http://pfsv.io:80/33732940/14864/138
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network
 http://pfsv.io:80/33732940/14864/139
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7089
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil
 http://pfsv.io:80/33732940/14864/517
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate
 http://pfsv.io:80/33732940/14864/249
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central
 http://pfsv.io:80/66363671122/7140/97
 ###### CONMEBOL TESTE ######
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 1 HD
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 1 HD
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/21761
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 2 HD
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 2 HD
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/36198
-#EXTINF:-1 tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 3 HD
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 3 HD
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/36199
 ###########################
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2315
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2313
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science
 http://pfsv.io:80/66363671122/7140/184
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2311
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13716
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World
 http://pfsv.io:80/66363671122/7140/172
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel
 http://pfsv.io:80/66363671122/7140/141
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD
 http://pfsv.io:80/66363671122/7140/49126
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E!
+#EXTINF:-1 tvg-id="E.br" tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E!
 http://pfsv.io:80/33732940/14864/99
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN
 http://pfsv.io:80/33732940/14864/30281
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2
 http://pfsv.io:80/33732940/14864/30277
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil
 http://pfsv.io:80/33732940/14864/30280
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra
 http://pfsv.io:80/33732940/14864/30278
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports
 http://pfsv.io:80/33732940/14864/262
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2
 http://pfsv.io:80/66363671122/7140/252
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7404
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2280
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News
 http://pfsv.io:80/33732940/14864/516
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP
-http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13632
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP
+http://cmsppv.life:80/live/26513779/00109948/857360.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT
 http://pfsv.io:80/33732940/14864/111
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2262
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2265
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2263
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi
+#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7091
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2259
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2247
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2257
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7092
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV
 http://pfsv.io:80/66363671122/7140/167
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/36487
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2
 http://pfsv.io:80/33732940/14864/188
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery
 http://pfsv.io:80/33732940/14864/175
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",LifeTime
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",LifeTime
 http://pfsv.io:80/33732940/14864/30217
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" group-title="Canais | Variedades",Mais GloboSat
+#EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" group-title="Canais | Variedades",Mais GloboSat
 http://pfsv.io:80/33732940/14864/30194
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix
 http://pfsv.io:80/33732940/14864/310
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais | Arte e Música",MTV
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais | Arte e Música",MTV
 http://pfsv.io:80/33732940/14864/15
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live
 http://pfsv.io:80/07720253/51853/30172
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",MultiShow
+#EXTINF:-1 tvg-id="MultiShow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",MultiShow
 http://pfsv.io:80/33732940/14864/16
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7327
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild
 http://pfsv.io:80/33732940/14864/192
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon
 http://pfsv.io:80/33732940/14864/131
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel
 http://pfsv.io:80/33732940/14864/30213
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes
 http://pfsv.io:80/33732940/14864/524
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2
 http://pfsv.io:80/33732940/14864/531
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3
 http://pfsv.io:80/33732940/14864/532
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4
 http://pfsv.io:80/66363671122/7140/533
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5
 http://pfsv.io:80/33732940/14864/528
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6
 http://pfsv.io:80/33732940/14864/535
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7
 http://pfsv.io:80/33732940/14864/530
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News
 http://pfsv.io:80/66363671122/7140/511
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP
 http://pfsv.io:80/66363671122/7140/45
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV!
+#EXTINF:-1 tvg-id="RedeTV! SP" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV!
 http://pfsv.io:80/33732940/14864/48
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2197
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2324
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2192
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV
 http://pfsv.io:80/66363671122/7140/555
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2
 http://pfsv.io:80/66363671122/7140/553
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7153
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
 http://pfsv.io:80/33732940/14864/30207
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 1 HD
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 1 HD
 http://pfsv.io:80/66363671122/7140/277
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2
 http://pfsv.io:80/33732940/14864/307
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life
 http://pfsv.io:80/33732940/14864/305
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal
 http://pfsv.io:80/33732940/14864/320
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY
 http://pfsv.io:80/33732940/14864/30222
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS
 http://pfsv.io:80/33732940/14864/30223
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM
+#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM
 http://pfsv.io:80/33732940/14864/59978
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2179
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2122
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2176
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2174
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2172
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2170
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC
+#EXTINF:-1 tvg-id="Tlc.br" tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC
 http://pfsv.io:80/33732940/14864/30229
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT
 http://pfsv.io:80/66363671122/7140/315
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series
 http://pfsv.io:80/33732940/14864/288
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast
 http://pfsv.io:80/33732940/14864/48756
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2341
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura
 http://pfsv.io:80/07720253/51853/30183
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP
+#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP
 http://pfsv.io:80/66363671122/7140/56
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM
 http://pfsv.io:80/07720253/51853/132
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2154
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",Viva
+#EXTINF:-1 tvg-id="Viva.br" tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",Viva
 http://pfsv.io:80/33732940/14864/30298
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-id="Warnerchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2149
