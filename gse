@@ -5,11 +5,11 @@
 #EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
 http://canaishd.servidor.tv:8080/fernando21/fernando21/1521
 #EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
-http://dnsl.me:80/aroldo/aroldo123/63878
+http://dnsl.me:80/aroldo/aroldo123/3705
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet
-http://dnsl.me:80/aroldo/aroldo123/63879
+http://dnsl.me:80/aroldo/aroldo123/3601
 #EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN
-http://dnsl.me:80/aroldo/aroldo123/63880
+http://dnsl.me:80/aroldo/aroldo123/3707
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
 http://canaishd.servidor.tv:8080/fernando21/fernando21/1494
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
@@ -139,7 +139,7 @@ http://canaishd.servidor.tv:8080/fernando21/fernando21/1506
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News
 http://canaishd.servidor.tv:8080/fernando21/fernando21/1513
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+http://dnsl.me:80/aroldo/aroldo123/48911
 #EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Abertos",Rede Vida
 http://canaishd.servidor.tv:8080/fernando21/fernando21/22506
 #EXTINF:-1 tvg-id="RedeTV! SP" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV!
@@ -159,39 +159,39 @@ http://dnsl.me:80/aroldo/aroldo123/3699
 ##EXTINF:-1 tvg-id="SPORTV 4" tvg-logo="https://www.nowonline.com.br/img/channels/sportv_4.png" group-title="Canais | SporTV",SporTV 4
 #http://dnsl.me:80/aroldo/aroldo123/65790
 #EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
-http://dnsl.me:80/aroldo/aroldo123/63907
+http://dnsl.me:80/aroldo/aroldo123/3711
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 1
-http://dnsl.me:80/aroldo/aroldo123/63908
+http://dnsl.me:80/aroldo/aroldo123/3716
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2
-http://dnsl.me:80/aroldo/aroldo123/63909
+http://dnsl.me:80/aroldo/aroldo123/3718
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life
-http://dnsl.me:80/aroldo/aroldo123/5986
+http://dnsl.me:80/aroldo/aroldo123/4139
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal
-http://dnsl.me:80/aroldo/aroldo123/63950
+http://dnsl.me:80/aroldo/aroldo123/3736
 #EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY
-http://dnsl.me:80/aroldo/aroldo123/63951
+http://dnsl.me:80/aroldo/aroldo123/11173
 #EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS
 http://dnsl.me:80/aroldo/aroldo123/5998
 #EXTINF:-1 tvg-id="Tcm.br" tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM
 http://dnsl.me:80/aroldo/aroldo123/49284
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action
-http://dnsl.me:80/aroldo/aroldo123/63953
+http://dnsl.me:80/aroldo/aroldo123/3895
 #EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult
 http://dnsl.me:80/aroldo/aroldo123/3897
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun
-http://dnsl.me:80/aroldo/aroldo123/63955
+http://dnsl.me:80/aroldo/aroldo123/3899
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca
-http://dnsl.me:80/aroldo/aroldo123/63956
+http://dnsl.me:80/aroldo/aroldo123/3901
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium
-http://dnsl.me:80/aroldo/aroldo123/63957
+http://dnsl.me:80/aroldo/aroldo123/3903
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch
-http://dnsl.me:80/aroldo/aroldo123/63958
+http://dnsl.me:80/aroldo/aroldo123/3905
 #EXTINF:-1 tvg-id="Tlc.br" tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC
-http://dnsl.me:80/aroldo/aroldo123/63959
+http://dnsl.me:80/aroldo/aroldo123/4182
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT
 http://dnsl.me:80/aroldo/aroldo123/3740
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series
-http://dnsl.me:80/aroldo/aroldo123/63961
+http://dnsl.me:80/aroldo/aroldo123/3742
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast
 http://pfsv.io:80/33732940/14864/48756
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida
@@ -203,8 +203,8 @@ http://dnsl.me:80/aroldo/aroldo123/34172
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM
 http://dnsl.me:80/aroldo/aroldo123/4560
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel
-http://dnsl.me:80/aroldo/aroldo123/63962
+http://dnsl.me:80/aroldo/aroldo123/3744
 #EXTINF:-1 tvg-id="Viva.br" tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",Viva
 http://dnsl.me:80/aroldo/aroldo123/4195
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-id="Warnerchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel
-http://dnsl.me:80/aroldo/aroldo123/63964
+http://dnsl.me:80/aroldo/aroldo123/3745
