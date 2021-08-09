@@ -151,11 +151,11 @@ http://dnsl.me:80/aroldo/aroldo123/63885
 #EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space
 http://dnsl.me:80/aroldo/aroldo123/64033
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV
-http://dnsl.me:80/aroldo/aroldo123/3700
+http://canaishd.servidor.tv:8080/fernando21/fernando21/1444
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2
-http://dnsl.me:80/aroldo/aroldo123/63947
+http://dnsl.me:80/aroldo/aroldo123/3696
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3
-http://dnsl.me:80/aroldo/aroldo123/63948
+http://dnsl.me:80/aroldo/aroldo123/3699
 ##EXTINF:-1 tvg-id="SPORTV 4" tvg-logo="https://www.nowonline.com.br/img/channels/sportv_4.png" group-title="Canais | SporTV",SporTV 4
 #http://dnsl.me:80/aroldo/aroldo123/65790
 #EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
