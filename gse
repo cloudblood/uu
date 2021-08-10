@@ -3,33 +3,33 @@
 ##EPG - http://epg.liveiptv.net/epg.xml
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
-http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7494
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13682
 #EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
-http://dnsl.me:80/aroldo/aroldo123/3705
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13686
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet
-http://dnsl.me:80/aroldo/aroldo123/3601
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7490
 #EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN
-http://dnsl.me:80/aroldo/aroldo123/3707
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13698
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
-http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7481
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13771
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7483
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
-http://dnsl.me:80/aroldo/aroldo123/3572
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/26422
 #EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
-http://dnsl.me:80/aroldo/aroldo123/4106
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7162
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang
-http://dnsl.me:80/aroldo/aroldo123/64084
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7474
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network
-http://dnsl.me:80/aroldo/aroldo123/3861
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7467
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax
-http://dnsl.me:80/aroldo/aroldo123/3709
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22268
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil
-http://dnsl.me:80/aroldo/aroldo123/63966
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/28738
 #EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate
-http://dnsl.me:80/aroldo/aroldo123/3670
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22267
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central
-http://dnsl.me:80/aroldo/aroldo123/4112
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7461
 ###### CONMEBOL TESTE ######
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 1 HD
 http://dnsl.me:80/aroldo/aroldo123/38561
