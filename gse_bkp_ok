@@ -1,0 +1,210 @@
+#EXTM3U
+
+##EPG - http://epg.liveiptv.net/epg.xml
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7494
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
+http://dnsl.me:80/aroldo/aroldo123/3705
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet
+http://dnsl.me:80/aroldo/aroldo123/3601
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN
+http://dnsl.me:80/aroldo/aroldo123/3707
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7481
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7483
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
+http://dnsl.me:80/aroldo/aroldo123/3572
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
+http://dnsl.me:80/aroldo/aroldo123/4106
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang
+http://dnsl.me:80/aroldo/aroldo123/64084
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network
+http://dnsl.me:80/aroldo/aroldo123/3861
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax
+http://dnsl.me:80/aroldo/aroldo123/3709
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil
+http://dnsl.me:80/aroldo/aroldo123/63966
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate
+http://dnsl.me:80/aroldo/aroldo123/3670
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central
+http://dnsl.me:80/aroldo/aroldo123/4112
+###### CONMEBOL TESTE ######
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 1 HD
+http://dnsl.me:80/aroldo/aroldo123/38561
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 2 HD
+http://dnsl.me:80/aroldo/aroldo123/38563
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 3 HD
+http://dnsl.me:80/aroldo/aroldo123/38568
+###########################
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel
+http://dnsl.me:80/aroldo/aroldo123/4461
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health
+http://dnsl.me:80/aroldo/aroldo123/4465
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science
+http://dnsl.me:80/aroldo/aroldo123/4469
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater
+http://dnsl.me:80/aroldo/aroldo123/4473
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo
+http://dnsl.me:80/aroldo/aroldo123/4120
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World
+http://dnsl.me:80/aroldo/aroldo123/4477
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel
+http://dnsl.me:80/aroldo/aroldo123/3855
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD
+http://dnsl.me:80/aroldo/aroldo123/3859
+#EXTINF:-1 tvg-id="E.br" tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E!
+http://dnsl.me:80/aroldo/aroldo123/4126
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN
+http://dnsl.me:80/aroldo/aroldo123/4053
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2
+http://dnsl.me:80/aroldo/aroldo123/3682
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7430
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra
+http://dnsl.me:80/aroldo/aroldo123/28850
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports
+http://dnsl.me:80/aroldo/aroldo123/3695
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2
+http://dnsl.me:80/aroldo/aroldo123/3693
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura
+http://dnsl.me:80/aroldo/aroldo123/49278
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX
+http://dnsl.me:80/aroldo/aroldo123/3720
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News
+http://dnsl.me:80/aroldo/aroldo123/3779
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13632
+#EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT
+http://dnsl.me:80/aroldo/aroldo123/4143
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO
+http://dnsl.me:80/aroldo/aroldo123/64053
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2
+http://dnsl.me:80/aroldo/aroldo123/3824
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family
+http://dnsl.me:80/aroldo/aroldo123/3826
+#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi
+http://dnsl.me:80/aroldo/aroldo123/3830
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus
+http://dnsl.me:80/aroldo/aroldo123/3832
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop
+http://dnsl.me:80/aroldo/aroldo123/3834
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature
+http://dnsl.me:80/aroldo/aroldo123/3836
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme
+http://dnsl.me:80/aroldo/aroldo123/3837
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV
+http://dnsl.me:80/aroldo/aroldo123/4485
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel
+http://dnsl.me:80/aroldo/aroldo123/4489
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2
+http://dnsl.me:80/aroldo/aroldo123/4481
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery
+http://dnsl.me:80/aroldo/aroldo123/4147
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",LifeTime
+http://dnsl.me:80/aroldo/aroldo123/4151
+#EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" group-title="Canais | Variedades",Mais GloboSat
+http://pfsv.io:80/33732940/14864/112
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7335
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais | Arte e Música",MTV
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7333
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/36462
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",MultiShow
+http://dnsl.me:80/aroldo/aroldo123/4167
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic
+http://dnsl.me:80/aroldo/aroldo123/4493
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild
+http://dnsl.me:80/aroldo/aroldo123/4497
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon
+http://dnsl.me:80/aroldo/aroldo123/3848
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7314
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes
+http://dnsl.me:80/aroldo/aroldo123/3882
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2
+http://dnsl.me:80/aroldo/aroldo123/3872
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3
+http://dnsl.me:80/aroldo/aroldo123/3874
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4
+http://dnsl.me:80/aroldo/aroldo123/3875
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5
+http://dnsl.me:80/aroldo/aroldo123/3877
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6
+http://dnsl.me:80/aroldo/aroldo123/3878
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7
+http://dnsl.me:80/aroldo/aroldo123/3879
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7294
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP
+http://dnsl.me:80/aroldo/aroldo123/48911
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Abertos",Rede Vida
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7288
+#EXTINF:-1 tvg-id="RedeTV! SP" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV!
+http://dnsl.me:80/aroldo/aroldo123/48632
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP
+http://dnsl.me:80/aroldo/aroldo123/48928
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel
+http://dnsl.me:80/aroldo/aroldo123/3727
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space
+http://dnsl.me:80/aroldo/aroldo123/64033
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7275
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2
+http://dnsl.me:80/aroldo/aroldo123/3697
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3
+http://dnsl.me:80/aroldo/aroldo123/3699
+##EXTINF:-1 tvg-id="SPORTV 4" tvg-logo="https://www.nowonline.com.br/img/channels/sportv_4.png" group-title="Canais | SporTV",SporTV 4
+#http://dnsl.me:80/aroldo/aroldo123/65790
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
+http://dnsl.me:80/aroldo/aroldo123/3712
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 1
+http://dnsl.me:80/aroldo/aroldo123/3716
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2
+http://dnsl.me:80/aroldo/aroldo123/3718
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life
+http://dnsl.me:80/aroldo/aroldo123/4139
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal
+http://dnsl.me:80/aroldo/aroldo123/3737
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY
+http://dnsl.me:80/aroldo/aroldo123/5996
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS
+http://dnsl.me:80/aroldo/aroldo123/5998
+#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM
+http://dnsl.me:80/aroldo/aroldo123/25663
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action
+http://dnsl.me:80/aroldo/aroldo123/3896
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult
+http://dnsl.me:80/aroldo/aroldo123/3898
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun
+http://dnsl.me:80/aroldo/aroldo123/3900
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca
+http://dnsl.me:80/aroldo/aroldo123/3902
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium
+http://dnsl.me:80/aroldo/aroldo123/3904
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch
+http://dnsl.me:80/aroldo/aroldo123/3906
+#EXTINF:-1 tvg-id="Tlc.br" tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC
+http://dnsl.me:80/aroldo/aroldo123/4184
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT
+http://dnsl.me:80/aroldo/aroldo123/3740
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series
+http://dnsl.me:80/aroldo/aroldo123/3742
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast
+http://pfsv.io:80/33732940/14864/48756
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida
+http://dnsl.me:80/aroldo/aroldo123/48637
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura
+http://dnsl.me:80/aroldo/aroldo123/49587
+#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP
+http://dnsl.me:80/aroldo/aroldo123/34172
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM
+http://dnsl.me:80/aroldo/aroldo123/4560
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel
+http://dnsl.me:80/aroldo/aroldo123/3744
+#EXTINF:-1 tvg-id="Viva.br" tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",Viva
+http://dnsl.me:80/aroldo/aroldo123/4195
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-id="Warnerchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel
+http://dnsl.me:80/aroldo/aroldo123/4333
