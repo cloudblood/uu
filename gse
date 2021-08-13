@@ -69,7 +69,8 @@ http://dnsl.me:80/aroldo/aroldo123/3695
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2
 http://dnsl.me:80/aroldo/aroldo123/3693
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura
-http://dnsl.me:80/aroldo/aroldo123/49278
+http://origin-02.nxplay.com.br/FUTURA_NX/index.m3u8
+#http://dnsl.me:80/aroldo/aroldo123/49278
 #EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX
 http://dnsl.me:80/aroldo/aroldo123/3720
 #EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News
