@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml"
 
 ##EPG - http://epg.liveiptv.net/epg.xml
 
@@ -75,7 +75,8 @@ http://dnsl.me:80/aroldo/aroldo123/3720
 #EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News
 http://dnsl.me:80/aroldo/aroldo123/3779
 #EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP
-http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/32510
+https://origin-02.nxplay.com.br/Glob_13131313131316_1_/tracks-v1a1/mono.m3u8
+#http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/32510
 #EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT
 http://dnsl.me:80/aroldo/aroldo123/4143
 #EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO
