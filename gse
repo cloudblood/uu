@@ -13,7 +13,7 @@ http://dnsl.me:80/aroldo/aroldo123/3707
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7150
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
-http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2334
+http://api.magiaiptv.com/live/800195/918609/m3_3zFNpotNh0Q0iR_720p
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
 http://dnsl.me:80/aroldo/aroldo123/3572
 #EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
@@ -55,11 +55,11 @@ http://dnsl.me:80/aroldo/aroldo123/3855
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD
 http://dnsl.me:80/aroldo/aroldo123/3859
 #EXTINF:-1 tvg-id="E.br" tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E!
-http://dnsl.me:80/aroldo/aroldo123/4126
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7435
 #EXTINF:-1 tvg-id="Espn.br" tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN
-http://dnsl.me:80/aroldo/aroldo123/4053
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/22255
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2
-http://dnsl.me:80/aroldo/aroldo123/3682
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7099
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2300
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra
