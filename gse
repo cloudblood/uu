@@ -86,15 +86,15 @@ http://api.magiaiptv.com/live/800195/918609/m1_A5D79DC7E8E54A078_1080p
 http://api.magiaiptv.com/live/800195/918609/m3_yArOBHXOdkSTpJHqW_1080p
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family
 http://api.magiaiptv.com/live/800195/918609/m1_12lcPN9AZmu4stMvYfbwLpEC_1080p
-#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi
 http://api.magiaiptv.com/live/800195/918609/m1_5WH0Gjho4rRixEgqd6AytkQK_1080p
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus
 http://api.magiaiptv.com/live/800195/918609/m3_e3NCvF9iM4mAJLqPnXcgDKOQ_1080p
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop
 http://api.magiaiptv.com/live/800195/918609/m4_LQkKYu0HSy8qaItnDb4MEOxR_1080p
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature
 http://api.magiaiptv.com/live/800195/918609/m1_OdPulekED31pKzSVvn5a6xcZ_1080p
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme
 http://api.magiaiptv.com/live/800195/918609/m4_QlfKVdFeENbB8wAhXUWnrTkD_1080p
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV
 http://api.magiaiptv.com/live/800195/918609/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p
@@ -110,7 +110,7 @@ http://api.magiaiptv.com/live/800195/918609/m2_hrRidPDANy3S52Ljmwtx978F_720p
 http://api.magiaiptv.com/live/800195/918609/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_1080p
 #EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais | Arte e Música",MTV
 http://api.magiaiptv.com/live/800195/918609/m1_G78hbKTqXvwtlVHfAMF0k5p9_720p
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live
 http://api.magiaiptv.com/live/800195/918609/m3_dfEeZjblbyTWgEZydjYv_720p
 #EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",MultiShow
 http://api.magiaiptv.com/live/800195/918609/m1_xBEDmuNinjXaf4ZHcGkRsr7h_1080p
@@ -194,11 +194,11 @@ http://api.magiaiptv.com/live/800195/918609/m2_hrXYNmAD2GitKZd_1080p
 http://api.magiaiptv.com/live/800195/918609/m3_sRbp5StxJynqjZmGAElF28Br_1080p
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast
 http://api.magiaiptv.com/live/800195/918609/m3_KGR10hqwafADCENgJjbZ34TS_720p
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida
+#EXTINF:-1 tvg-id="Tv Aparecida" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida
 http://api.magiaiptv.com/live/800195/918609/m1_dTOv464HlnrYIj9MYyE2_720p
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura
 http://api.magiaiptv.com/live/800195/918609/m2_MvNKiUyrzsEqeSBDdgmf7LIG_720p
-#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP
 http://api.magiaiptv.com/live/800195/918609/m3_kfSX64Fvn1EIg85ms9OitVY2_720p
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM
 http://api.magiaiptv.com/live/800195/918609/m2_wC7Sm4H6P5xspG3aOoTXu28c_720p
