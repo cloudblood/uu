@@ -15,7 +15,7 @@ http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_1080p
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
 http://api.magiaiptv.com/live/800195/918609/m3_3zFNpotNh0Q0iR_1080p
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
-http://api.magiaiptv.com/live/800195/918609/m1_JCr0n6KJkWbSR5_1080p
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13774
 #EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
 http://api.magiaiptv.com/live/800195/918609/m4_AHRTkrZ8VGUFaC1ctW0db5O6_720p
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang
@@ -137,7 +137,7 @@ http://api.magiaiptv.com/live/800195/918609/m3_Z60O0vqPgGWm5AZ_1080p_4M
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7
 http://api.magiaiptv.com/live/800195/918609/m4_UjpdfkIRnXrYxZ6oGgq8NPJl_720p
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News
-http://api.magiaiptv.com/live/800195/918609/m2_dHYy9wieO2jb1QALkn30rI7u_720p
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7294
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP
 http://api.magiaiptv.com/live/800195/918609/m2_bjDfsjmxE9MVSgq_1080p
 #EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Abertos",Rede Vida
