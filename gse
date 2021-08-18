@@ -3,7 +3,7 @@
 ##EPG - http://epg.liveiptv.net/epg.xml / http://fwd.epg.bz/epg.xml
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
-http://igrejauniversalsp.fr34you.top:2095/alex_001922/YEAqaooawppq/1
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13682
 #EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
 http://api.magiaiptv.com/live/800195/918609/m3_xRBGDPf12puWsC8kV6FAETN_720p
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet
@@ -15,7 +15,7 @@ http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_1080p
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
 http://api.magiaiptv.com/live/800195/918609/m3_3zFNpotNh0Q0iR_1080p
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
-http://igrejauniversalsp.fr34you.top:2095/alex_001922/YEAqaooawppq/23
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13774
 #EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
 http://api.magiaiptv.com/live/800195/918609/m4_AHRTkrZ8VGUFaC1ctW0db5O6_720p
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang
@@ -139,9 +139,9 @@ http://api.magiaiptv.com/live/800195/918609/m4_UjpdfkIRnXrYxZ6oGgq8NPJl_720p
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7294
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP
-http://api.magiaiptv.com/live/800195/918609/m2_bjDfsjmxE9MVSgq_1080p
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/26383
 #EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Abertos",Rede Vida
-http://api.magiaiptv.com/live/800195/918609/m4_U41xTcfkKEg5wSdFHCzXamLv_720p
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7288
 #EXTINF:-1 tvg-id="RedeTV! SP" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV!
 http://api.magiaiptv.com/live/800195/918609/m3_NF1sEbwngvMJk7fW9CRyOxQd_1080p
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP
