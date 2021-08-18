@@ -3,7 +3,7 @@
 ##EPG - http://epg.liveiptv.net/epg.xml / http://fwd.epg.bz/epg.xml
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
-http://api.magiaiptv.com/live/800195/918609/p3_ae_265
+http://igrejauniversalsp.fr34you.top:2095/alex_001922/YEAqaooawppq/1
 #EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC
 http://api.magiaiptv.com/live/800195/918609/m3_xRBGDPf12puWsC8kV6FAETN_720p
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet
@@ -15,7 +15,7 @@ http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_1080p
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP
 http://api.magiaiptv.com/live/800195/918609/m3_3zFNpotNh0Q0iR_1080p
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports
-http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13774
+http://igrejauniversalsp.fr34you.top:2095/alex_001922/YEAqaooawppq/23
 #EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS
 http://api.magiaiptv.com/live/800195/918609/m4_AHRTkrZ8VGUFaC1ctW0db5O6_720p
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang
@@ -41,7 +41,7 @@ http://api.magiaiptv.com/live/800195/918609/m1_6ciY4GBUyDczLxioSo_720p
 http://api.magiaiptv.com/live/800195/918609/m1_bLyQSHesKIXQoFVH_720p
 ###########################
 #EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel
-http://api.magiaiptv.com/live/800195/918609/m3_E3D2EB66-67DF-49EC-8eea_1080p
+http://api.magiaiptv.com/live/800195/918609/m3_E3D2EB66-67DF-49EC-8eea_720p_2M
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health
 http://api.magiaiptv.com/live/800195/918609/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science
