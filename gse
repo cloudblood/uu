@@ -145,7 +145,7 @@ http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7288
 #EXTINF:-1 tvg-id="RedeTV! SP" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV!
 http://api.magiaiptv.com/live/800195/918609/m3_NF1sEbwngvMJk7fW9CRyOxQd_1080p
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP
-http://api.magiaiptv.com/live/800195/918609/m3_rsI9CDLnZie79TEY50_1080p
+http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2197
 #EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel
 http://api.magiaiptv.com/live/800195/918609/m3_kMewqpTKfyYadI1gm05U8cv_720p_2M
 #EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space
