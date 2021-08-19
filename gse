@@ -58,9 +58,9 @@ http://dazul.me:80/Marquinhos/marquinhos/856806
 http://dazul.me:80/Marquinhos/marquinhos/847847
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS SD ¹" tvg-logo="https://i.imgur.com/lIwPTDV.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857110
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP FHD ¹
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | ABERTOS",BAND SP FHD ¹
 http://dazul.me:80/Marquinhos/marquinhos/861629
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP HD ¹
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD ¹" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | ABERTOS",BAND SP HD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857015
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD [H265] ¹" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD [H265] ¹
 http://dazul.me:80/Marquinhos/marquinhos/856917
@@ -384,7 +384,7 @@ http://dazul.me:80/Marquinhos/marquinhos/856720
 http://dazul.me:80/Marquinhos/marquinhos/847748
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD ¹" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="CANAIS | FILMES/SÉRIES",FX SD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857145
-#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="GAZETA HD ¹ SP ²" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GAZETA HD ¹ SP ²
+#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="GAZETA HD ¹ SP ²" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | ABERTOS",GAZETA HD ¹ SP ²
 http://dazul.me:80/Marquinhos/marquinhos/857024
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD [H265] ¹" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD [H265] ¹
 http://dazul.me:80/Marquinhos/marquinhos/856949
@@ -398,13 +398,13 @@ http://dazul.me:80/Marquinhos/marquinhos/856721
 http://dazul.me:80/Marquinhos/marquinhos/847745
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD ¹" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857148
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | ABERTOS",GLOBO SP FHD
 http://dazul.me:80/Marquinhos/marquinhos/857360
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD [H265] ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD [H265] ¹
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD [H265] ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | ABERTOS",GLOBO SP FHD [H265] ¹
 http://dazul.me:80/Marquinhos/marquinhos/857359
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP HD ¹
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | ABERTOS",GLOBO SP HD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857387
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP SD ¹
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD ¹" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | ABERTOS",GLOBO SP SD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857151
 #EXTINF:-1 tvg-id="" tvg-name="GNT FHD [H265] ¹" tvg-logo="https://i.imgur.com/q7F7LPD.png" group-title="CANAIS | VARIEDADES",GNT FHD [H265] ¹
 http://dazul.me:80/Marquinhos/marquinhos/856951
@@ -662,16 +662,6 @@ http://dazul.me:80/Marquinhos/marquinhos/847664
 http://dazul.me:80/Marquinhos/marquinhos/857177
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON [H265]" tvg-logo="https://i.imgur.com/U1XnvRq.png" group-title="CANAIS | INFANTIS",NICKELODEON [H265]
 http://dazul.me:80/Marquinhos/marquinhos/856971
-#EXTINF:-1 tvg-id="CPNordeste" tvg-name="NORDESTE FC 01 HD ²" tvg-logo="https://i.imgur.com/UDROipa.png" group-title="CANAIS | CONMEBOL",NORDESTE FC 01 HD ²
-http://dazul.me:80/Marquinhos/marquinhos/847478
-#EXTINF:-1 tvg-id="CPNordeste" tvg-name="NORDESTE FC 02 HD ²" tvg-logo="https://i.imgur.com/UDROipa.png" group-title="CANAIS | CONMEBOL",NORDESTE FC 02 HD ²
-http://dazul.me:80/Marquinhos/marquinhos/847477
-#EXTINF:-1 tvg-id="CPNordeste" tvg-name="NORDESTE FC 03 HD ²" tvg-logo="https://i.imgur.com/UDROipa.png" group-title="CANAIS | CONMEBOL",NORDESTE FC 03 HD ²
-http://dazul.me:80/Marquinhos/marquinhos/847476
-#EXTINF:-1 tvg-id="CPNordeste" tvg-name="NORDESTE FC 04 HD ²" tvg-logo="https://i.imgur.com/UDROipa.png" group-title="CANAIS | CONMEBOL",NORDESTE FC 04 HD ²
-http://dazul.me:80/Marquinhos/marquinhos/847475
-#EXTINF:-1 tvg-id="CPNordeste" tvg-name="NORDESTE FC 05 HD ²" tvg-logo="https://i.imgur.com/UDROipa.png" group-title="CANAIS | CONMEBOL",NORDESTE FC 05 HD ²
-http://dazul.me:80/Marquinhos/marquinhos/847474
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL FHD ¹" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="CANAIS | FILMES/SÉRIES",PARAMOUNT CHANNEL FHD ¹
 http://dazul.me:80/Marquinhos/marquinhos/847657
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD ²" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="CANAIS | FILMES/SÉRIES",PARAMOUNT CHANNEL HD ²
@@ -778,18 +768,14 @@ http://dazul.me:80/Marquinhos/marquinhos/856807
 http://dazul.me:80/Marquinhos/marquinhos/857193
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP FHD [H265] ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD SP FHD [H265] ¹
 http://dazul.me:80/Marquinhos/marquinhos/857372
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD SP HD ¹
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP HD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | ABERTOS",RECORD SP HD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857371
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV SD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV SD ¹
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV SD ¹" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | ABERTOS",RECORD TV SD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857194
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD [H265] ¹" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV FHD [H265] ¹
 http://dazul.me:80/Marquinhos/marquinhos/856983
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD ¹" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV HD ¹
 http://dazul.me:80/Marquinhos/marquinhos/856755
-#EXTINF:-1 tvg-id="rede.belem.br" tvg-name="REDE TV RS FHD ¹" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV RS FHD ¹
-http://dazul.me:80/Marquinhos/marquinhos/847498
-#EXTINF:-1 tvg-id="rede.belem.br" tvg-name="REDE TV RS HD ²" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV RS HD ²
-http://dazul.me:80/Marquinhos/marquinhos/847497
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD ¹" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV SD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857197
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHD ¹" tvg-logo="https://i.imgur.com/38ysEWi.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA FHD ¹
@@ -800,9 +786,9 @@ http://dazul.me:80/Marquinhos/marquinhos/847626
 http://dazul.me:80/Marquinhos/marquinhos/847625
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE VIDA SD ¹" tvg-logo="https://i.imgur.com/38ysEWi.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857198
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT SD ¹
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT SD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857200
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT SP HD ¹
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD ¹" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT SP HD ¹
 http://dazul.me:80/Marquinhos/marquinhos/857041
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL FHD ¹" tvg-logo="https://i.imgur.com/tw58wz3.png" group-title="CANAIS | FILMES/SÉRIES",SONY CHANNEL FHD ¹
 http://dazul.me:80/Marquinhos/marquinhos/847831
