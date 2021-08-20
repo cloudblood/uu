@@ -148,8 +148,6 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/4404.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/61437.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",ALADIN 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34864.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALEXANDRE PIRES FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",ALEXANDRE PIRES FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58493.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS | SERIES",AMC FHD H265
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/61194.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS | SERIES",AMC FHD H265
@@ -264,34 +262,10 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/61027.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/61028.ts
 #EXTINF:-1 tvg-id="Bandeirantes" tvg-name="BAND TV TAROBA PARANA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND TV TAROBA PARANA HD
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/24924.ts
-#EXTINF:-1 tvg-id="BBB21 - CAM 8" tvg-name="BBB 2021 (Academia)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Academia)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75646.ts
-#EXTINF:-1 tvg-id="BBB21 - CASA 2" tvg-name="BBB 2021 (Acompanhe a casa 2)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Acompanhe a casa 2)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75650.ts
-#EXTINF:-1 tvg-id="BBB21 - CASA 1" tvg-name="BBB 2021 (Acompanhe a Casa)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Acompanhe a Casa)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75645.ts
-#EXTINF:-1 tvg-id="BBB21 - CAM 7" tvg-name="BBB 2021 (Confessionario )" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Confessionario )
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75648.ts
-#EXTINF:-1 tvg-id="BBB21 - CAM 5" tvg-name="BBB 2021 (Cozinha Vip/Xepa)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Cozinha Vip/Xepa)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75652.ts
-#EXTINF:-1 tvg-id="BBB21 - CAM 3" tvg-name="BBB 2021 (Jardim)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Jardim)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75655.ts
-#EXTINF:-1 tvg-id="BBB21 - CAM 9" tvg-name="BBB 2021 (Piscina)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Piscina)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75654.ts
-#EXTINF:-1 tvg-id="BBB21 - CAM 6" tvg-name="BBB 2021 (Quarto Cordel)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Quarto Cordel)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75649.ts
-#EXTINF:-1 tvg-id="BBB21 - CAM 4" tvg-name="BBB 2021 (Sala de Estar)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Sala de Estar)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75653.ts
-#EXTINF:-1 tvg-id="BBB21 - CAM 2" tvg-name="BBB 21 (CHUVEIRO)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 21 (CHUVEIRO)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75717.ts
-#EXTINF:-1 tvg-id="BBB21 - CAM 1" tvg-name="BBB 21 (QUARTO COLORIDO)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 21 (QUARTO COLORIDO)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75718.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBC WORLD FHD H264" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/bbc-logo-5.png" group-title="CANAIS NOTICIA",BBC WORLD FHD H264
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75482.ts
 #EXTINF:-1 tvg-id="AE" tvg-name="BBC WORLD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/bbc-logo-5.png" group-title="CANAIS NOTICIA",BBC WORLD HD
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75481.ts
-#EXTINF:-1 tvg-id="" tvg-name="BELO FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",BELO FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58495.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",BEN 10 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34866.ts
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-16.png" group-title="CANAIS MUSICA",BIS FHD
@@ -320,8 +294,6 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/61101.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/4396.ts
 #EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Breaking Bad 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34868.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRUNO E MARRONE FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",BRUNO E MARRONE FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58496.ts
 #EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" group-title="Esporte PPV",Campeonato Carioca 2021
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/76664.ts
 #EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO (JOGO 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Sergipano2020.png" group-title="Esporte PPV",CAMPEONATO SERGIPANO (JOGO 1)
@@ -730,8 +702,6 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/4381.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/32162.ts
 #EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Eu a Patroa e as Crianças 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34883.ts
-#EXTINF:-1 tvg-id="" tvg-name="FABIO JR FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",FABIO JR FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58488.ts
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD" tvg-logo="" group-title="CANAIS ENTRETENIMENTO",FASHION TV HD
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75491.ts
 #EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="CANAIS | SERIES",FILM & ARTS HD
@@ -1392,10 +1362,6 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/30696.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34893.ts
 #EXTINF:-1 tvg-id="InterTVCabugi" tvg-name="InterTv Cabo Frio  HD" tvg-logo="https://www.vegasbrazil.com/wp-content/uploads/2015/05/icone-Rede-Globo.png" group-title="CANAIS GLOBO",InterTv Cabo Frio  HD
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34531.ts
-#EXTINF:-1 tvg-id="" tvg-name="IVETE SANGALO FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",IVETE SANGALO FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58484.ts
-#EXTINF:-1 tvg-id="" tvg-name="J.QUEST FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",J.QUEST FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58485.ts
 #EXTINF:-1 tvg-id="" tvg-name="Jack-Chan 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Jack-Chan 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34894.ts
 #EXTINF:-1 tvg-id="" tvg-name="Jaspion 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Jaspion 24HRS
@@ -1404,8 +1370,6 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34895.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/60724.ts
 #EXTINF:-1 tvg-id="" tvg-name="JIRAYA O Incrível Ninja 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",JIRAYA O Incrível Ninja 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34896.ts
-#EXTINF:-1 tvg-id="" tvg-name="JOELMA FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",JOELMA FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58491.ts
 #EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Kenan e Kel 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34897.ts
 #EXTINF:-1 tvg-id="" tvg-name="LADY NIGHT 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",LADY NIGHT 24HRS
@@ -1450,8 +1414,6 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/61172.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/6953.ts
 #EXTINF:-1 tvg-id="" tvg-name="MALHAÇÃO 1999  24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",MALHAÇÃO 1999  24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/60743.ts
-#EXTINF:-1 tvg-id="" tvg-name="MARILIA MENDONÇA FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",MARILIA MENDONÇA FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58494.ts
 #EXTINF:-1 tvg-id="Max.br" tvg-name="MAX FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/max.png" group-title="CANAIS | SERIES",MAX FHD H265
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/13189.ts
 #EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="MAX UP DUAL AUDIO H.265" tvg-logo="https://cdn.mitvstatic.com/channels/br_max-up-1_m.png" group-title="CANAIS | SERIES",MAX UP DUAL AUDIO H.265
@@ -1552,8 +1514,6 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/13188.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/6098.ts
 #EXTINF:-1 tvg-id="NationalGeographic" tvg-name="NATIONAL GEOGRAPHY SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png" group-title="CANAIS DOCUMENTARIOS",NATIONAL GEOGRAPHY SD
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/4348.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIRUTS FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",NATIRUTS FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58492.ts
 #EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nhkworld.png" group-title="CANAIS NOTICIA",NHK SD
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/6949.ts
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS INFANTIS",NICK FHD
@@ -1608,8 +1568,6 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34908.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34909.ts
 #EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",OS FLINTSTONES 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34910.ts
-#EXTINF:-1 tvg-id="" tvg-name="OS MENOTTI FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",OS MENOTTI FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58487.ts
 #EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",OS SIMPSONS 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34911.ts
 #EXTINF:-1 tvg-id="" tvg-name="OS SNORKS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",OS SNORKS 24HRS
@@ -1894,14 +1852,10 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/45590.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/61151.ts
 #EXTINF:-1 tvg-id="RedeVida" tvg-name="REDE VIDA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redevida.png" group-title="CANAIS RELIGIOSOS",REDE VIDA SD
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/6939.ts
-#EXTINF:-1 tvg-id="" tvg-name="ROBERTO CARLOS FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",ROBERTO CARLOS FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58483.ts
 #EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="RPC FOZ DO IGUAÇU FHD" tvg-logo="https://www.vegasbrazil.com/wp-content/uploads/2015/05/icone-Rede-Globo.png" group-title="CANAIS GLOBO",RPC FOZ DO IGUAÇU FHD
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/68942.ts
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="RPC PR HD" tvg-logo="https://www.vegasbrazil.com/wp-content/uploads/2015/05/icone-Rede-Globo.png" group-title="CANAIS GLOBO",RPC PR HD
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/20483.ts
-#EXTINF:-1 tvg-id="" tvg-name="SANDY & JUNIOR FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",SANDY & JUNIOR FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58481.ts
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT 4K" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS 4K",SBT 4K
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/33757.ts
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT BRASILIA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTOS",SBT BRASILIA HD
@@ -1930,10 +1884,6 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/33284.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/33768.ts
 #EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Scooby-Doo 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34922.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIMONE E SIMARAIA FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",SIMONE E SIMARAIA FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58497.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKANK FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",SKANK FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58489.ts
 #EXTINF:-1 tvg-id="" tvg-name="Smallville 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Smallville 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34923.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Sobrenatural 24HRS
@@ -2034,8 +1984,6 @@ http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/7795.ts
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/60999.ts
 #EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="CANAIS | SERIES",SYFY SD
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/4323.ts
-#EXTINF:-1 tvg-id="" tvg-name="SÉRGIO REIS FIQUE EM CASA" tvg-logo="https://www.citypng.com/public/uploads/preview/-11591132334ablj5tnwdl.png" group-title="LIVE FIQUE EM CASA",SÉRGIO REIS FIQUE EM CASA
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/58490.ts
 #EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",TARTARUGAS NINJAS 24HRS
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/34928.ts
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="CANAIS | SERIES",TBS HD
