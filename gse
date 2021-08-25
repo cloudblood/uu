@@ -774,7 +774,7 @@ http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13424
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7300
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes [Alter 2]
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/13425
-#EXTINF:-1 group-title="Canais| Principais",Premiere Clubes [Alter]
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes [Alter]
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7301
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2222
