@@ -2277,42 +2277,9 @@ http://propdsrv.com:80/live/Kleiton01/1612972@2/81570.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL HD²" tvg-logo="https://sba1.com/img/canais/ac.png" group-title="CANAIS ABERTOS",AGRO CANAL HD²
 http://propdsrv.com:80/live/Kleiton01/1612972@2/81571.m3u8
 
-
-#EXTINF:0,XXX: PLAYBOY TV FHD_BY  : mrcrackpro.blogspot.com
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7656
-#EXTINF:0,XXX: PLAYBOY TV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2203
-#EXTINF:0,XXX: PLAYBOY TV SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3762
-#EXTINF:0,XXX: SEXY HOT_BY  : mrcrackpro.blogspot.com
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2204
-#EXTINF:0,XXX: BRAZZERS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3717
-#EXTINF:0,XXX: SEXTREME
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2206
-#EXTINF:0,XXX: PENHOUSE
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2216
-#EXTINF:0,XXX: PRIVATE
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3716
-#EXTINF:0,XXX: REDLIGHT_BY  : mrcrackpro.blogspot.com
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2210
-#EXTINF:0,XXX: VENUS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2212
-#EXTINF:0,XXX: VENUS H265_BY  : mrcrackpro.blogspot.com
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11246
-#EXTINF:0,XXX: PLAYBOY H265
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11265
-#EXTINF:0,XXX: SEX HOT H265
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11266
-#EXTINF:0,XXX: SEXTREME H265_BY  : mrcrackpro.blogspot.com
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11267
-#EXTINF:38,hustlerhd_By : mrcrackpro.blogspot.com
-http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
-#EXTINF:36,redlightHD_By : mrcrackpro.blogspot.com
-http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-#EXTINF:0,XXX: PENHOUSE
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2216
-#EXTINF:0,XXX: PRIVATE
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3716
-#EXTINF:0,XXX: REDLIGHT_BY  : mrcrackpro.blogspot.com
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2210
+#EXTINF:-1 tvg-ID="Venus.mx" tvg-name="Venus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png",Venus
+https://tv.teleclub.xyz/live/1/XXX_2.m3u8
+#EXTINF:-1 tvg-ID="Playboy.mx" tvg-name="Playboy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/playboy_m.png",Playboy TV
+http://185.134.22.131:8080/pedro123/pedro321/13617
+#EXTINF:-1 tvg-ID="HustlerTV(English).ar" tvg-name="HustlerTV(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hustler_m.png",Hustler TV
+http://185.134.22.131:8080/pedro123/pedro321/6166
