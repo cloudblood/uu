@@ -1,1170 +1,1140 @@
 #EXTM3U
 
-#EXTINF:-1,A&E FHD [H265]
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71761.ts
-#EXTINF:-1,A&E 4K FHDR
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90647.ts
-#EXTINF:-1,A&E FHD
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E FHD
 http://cdn99.one:80/Marina10/10Marina/71760.ts
-#EXTINF:-1,A&E HD
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E HD
 http://cdn99.one:80/Marina10/10Marina/71762.ts
-#EXTINF:-1,A&E SD
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E SD
 http://cdn99.one:80/Marina10/10Marina/71763.ts
-#EXTINF:-1,AMC FHD [H265]
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71769.ts
-#EXTINF:-1,AMC 4K FHDR
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90646.ts
-#EXTINF:-1,AMC FHD
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
 http://cdn99.one:80/Marina10/10Marina/71768.ts
-#EXTINF:-1,AMC HD
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
 http://cdn99.one:80/Marina10/10Marina/71770.ts
-#EXTINF:-1,AMC SD
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://s.eyplay.io/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC SD
 http://cdn99.one:80/Marina10/10Marina/71771.ts
-#EXTINF:-1,Animal Planet FHD [H265]
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71773.ts
-#EXTINF:-1,Animal Planet 4K FHDR
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/71774.ts
-#EXTINF:-1,Animal Planet FHD
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet FHD
 http://cdn99.one:80/Marina10/10Marina/71772.ts
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
 http://cdn99.one:80/Marina10/10Marina/71775.ts
-#EXTINF:-1,Animal Planet SD
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet SD
 http://cdn99.one:80/Marina10/10Marina/71776.ts
-#EXTINF:-1,Arte 1 FHD [H265]
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="http://s.eyplay.io/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71778.ts
-#EXTINF:-1,Arte 1 4K FHDR
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="http://s.eyplay.io/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103531.ts
-#EXTINF:-1,Arte 1 FHD
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="http://s.eyplay.io/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD
 http://cdn99.one:80/Marina10/10Marina/71777.ts
-#EXTINF:-1,Arte 1 HD
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="http://s.eyplay.io/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 HD
 http://cdn99.one:80/Marina10/10Marina/71779.ts
-#EXTINF:-1,Arte 1 SD
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="http://s.eyplay.io/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 SD
 http://cdn99.one:80/Marina10/10Marina/71780.ts
-#EXTINF:-1,AXN FHD [H265]
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71782.ts
-#EXTINF:-1,AXN 4K FHDR
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90645.ts
-#EXTINF:-1,AXN FHD
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
 http://cdn99.one:80/Marina10/10Marina/71781.ts
-#EXTINF:-1,AXN FHD [LEG]
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90716.ts
-#EXTINF:-1,AXN HD
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
 http://cdn99.one:80/Marina10/10Marina/71783.ts
-#EXTINF:-1,AXN HD [LEG]
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90715.ts
-#EXTINF:-1,AXN SD
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN SD
 http://cdn99.one:80/Marina10/10Marina/71784.ts
-#EXTINF:-1,AXN SD [LEG]
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90714.ts
-#EXTINF:-1,Band BA SD
-http://cdn99.one:80/Marina10/10Marina/72620.ts
-#EXTINF:-1,Band Maringa FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/71786.ts
-#EXTINF:-1,Band Maringa FHD
-http://cdn99.one:80/Marina10/10Marina/71785.ts
-#EXTINF:-1,Band Maringa HD
-http://cdn99.one:80/Marina10/10Marina/71787.ts
-#EXTINF:-1,Band Maringa SD
-http://cdn99.one:80/Marina10/10Marina/71788.ts
-#EXTINF:-1,Band News FHD [H265]
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71790.ts
-#EXTINF:-1,Band News 4K FHDR
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103526.ts
-#EXTINF:-1,Band News FHD
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
 http://cdn99.one:80/Marina10/10Marina/71789.ts
-#EXTINF:-1,Band News HD
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
 http://cdn99.one:80/Marina10/10Marina/71791.ts
-#EXTINF:-1,Band News SD
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News SD
 http://cdn99.one:80/Marina10/10Marina/71792.ts
-#EXTINF:-1,Band SP FHD [H265]
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/104943.ts
-#EXTINF:-1,Band SP FHD
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP FHD
 http://cdn99.one:80/Marina10/10Marina/79311.ts
-#EXTINF:-1,Band SP HD
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP HD
 http://cdn99.one:80/Marina10/10Marina/72597.ts
-#EXTINF:-1,Band Sports FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/71802.ts
-#EXTINF:-1,Band Sports 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/103525.ts
-#EXTINF:-1,Band Sports FHD
-http://cdn99.one:80/Marina10/10Marina/71801.ts
-#EXTINF:-1,Band Sports HD
-http://cdn99.one:80/Marina10/10Marina/71803.ts
-#EXTINF:-1,Band Sports SD
-http://cdn99.one:80/Marina10/10Marina/71804.ts
-#EXTINF:-1,Band SP SD
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band SP SD
 http://cdn99.one:80/Marina10/10Marina/79312.ts
-#EXTINF:-1,BIS FHD [H265]
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/71802.ts
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/103525.ts
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
+http://cdn99.one:80/Marina10/10Marina/71801.ts
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
+http://cdn99.one:80/Marina10/10Marina/71803.ts
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
+http://cdn99.one:80/Marina10/10Marina/71804.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71807.ts
-#EXTINF:-1,BIS 4K FHDR
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103527.ts
-#EXTINF:-1,BIS FHD
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS FHD
 http://cdn99.one:80/Marina10/10Marina/71806.ts
-#EXTINF:-1,BIS HD
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS HD
 http://cdn99.one:80/Marina10/10Marina/71808.ts
-#EXTINF:-1,BIS SD
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS SD
 http://cdn99.one:80/Marina10/10Marina/71809.ts
-#EXTINF:-1,Bloomberg SD
-http://cdn99.one:80/Marina10/10Marina/71810.ts
-#EXTINF:-1,Boa Vontade TV SD
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-logo="http://s.eyplay.io/logos/canais/boavontade.png" group-title="Canais | Abertos",Boa Vontade TV SD
 http://cdn99.one:80/Marina10/10Marina/71811.ts
-#EXTINF:-1,Boomerang FHD [H265]
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71813.ts
-#EXTINF:-1,Boomerang 4K FHDR
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90644.ts
-#EXTINF:-1,Boomerang FHD
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang FHD
 http://cdn99.one:80/Marina10/10Marina/71812.ts
-#EXTINF:-1,Boomerang HD
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang HD
 http://cdn99.one:80/Marina10/10Marina/71814.ts
-#EXTINF:-1,Boomerang SD
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang SD
 http://cdn99.one:80/Marina10/10Marina/71815.ts
-#EXTINF:-1,Canal Sony FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/71825.ts
-#EXTINF:-1,Canal Sony 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/103517.ts
-#EXTINF:-1,Canal Sony FHD
-http://cdn99.one:80/Marina10/10Marina/71824.ts
-#EXTINF:-1,Canal Sony FHD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90713.ts
-#EXTINF:-1,Canal Sony HD
-http://cdn99.one:80/Marina10/10Marina/71826.ts
-#EXTINF:-1,Canal Sony HD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90712.ts
-#EXTINF:-1,Canal Sony SD
-http://cdn99.one:80/Marina10/10Marina/71827.ts
-#EXTINF:-1,Canal Sony SD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90711.ts
-#EXTINF:-1,Cartoon Network FHD [H265]
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71829.ts
-#EXTINF:-1,Cartoon Network 4K FHDR
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/71830.ts
-#EXTINF:-1,Cartoon Network FHD
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network FHD
 http://cdn99.one:80/Marina10/10Marina/71828.ts
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
 http://cdn99.one:80/Marina10/10Marina/71831.ts
-#EXTINF:-1,Cartoon Network SD
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network SD
 http://cdn99.one:80/Marina10/10Marina/71832.ts
-#EXTINF:-1,Cinemax FHD [H265]
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71834.ts
-#EXTINF:-1,Cinemax 4K FHDR
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90643.ts
-#EXTINF:-1,Cinemax FHD
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD
 http://cdn99.one:80/Marina10/10Marina/71833.ts
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
 http://cdn99.one:80/Marina10/10Marina/71835.ts
-#EXTINF:-1,Cinemax SD
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax SD
 http://cdn99.one:80/Marina10/10Marina/71836.ts
-#EXTINF:-1,CNN Brasil FHD [H265]
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71838.ts
-#EXTINF:-1,CNN Brasil 4K FHDR
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/71798.ts
-#EXTINF:-1,CNN Brasil FHD
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil FHD
 http://cdn99.one:80/Marina10/10Marina/71837.ts
-#EXTINF:-1,CNN Brasil HD
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil HD
 http://cdn99.one:80/Marina10/10Marina/71839.ts
-#EXTINF:-1,CNN Brasil SD
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil SD
 http://cdn99.one:80/Marina10/10Marina/71840.ts
-#EXTINF:-1,Combate FHD [H265]
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71843.ts
-#EXTINF:-1,Combate 4K FHDR
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/71844.ts
-#EXTINF:-1,Combate FHD
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD
 http://cdn99.one:80/Marina10/10Marina/71842.ts
-#EXTINF:-1,Combate HD
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
 http://cdn99.one:80/Marina10/10Marina/71845.ts
-#EXTINF:-1,Combate SD
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",Combate SD
 http://cdn99.one:80/Marina10/10Marina/71846.ts
-#EXTINF:-1,Comedy Central FHD [H265]
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71848.ts
-#EXTINF:-1,Comedy Central 4K FHDR
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90642.ts
-#EXTINF:-1,Comedy Central FHD
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central FHD
 http://cdn99.one:80/Marina10/10Marina/71847.ts
-#EXTINF:-1,Comedy Central HD
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central HD
 http://cdn99.one:80/Marina10/10Marina/71849.ts
-#EXTINF:-1,Comedy Central SD
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central SD
 http://cdn99.one:80/Marina10/10Marina/71850.ts
-#EXTINF:-1,Conmebol TV 1 FHD [H265]
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 1 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72978.ts
-#EXTINF:-1,CONMEBOL TV 1 4K FHDR
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 1 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103524.ts
-#EXTINF:-1,Conmebol TV 1 FHD
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 1 FHD
 http://cdn99.one:80/Marina10/10Marina/72977.ts
-#EXTINF:-1,Conmebol TV 1 HD
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 1 HD
 http://cdn99.one:80/Marina10/10Marina/72979.ts
-#EXTINF:-1,Conmebol TV 1 SD
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 1 SD
 http://cdn99.one:80/Marina10/10Marina/72980.ts
-#EXTINF:-1,Conmebol TV 2 FHD [H265]
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 2 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72982.ts
-#EXTINF:-1,CONMEBOL TV 2 4K FHDR
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 2 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103523.ts
-#EXTINF:-1,Conmebol TV 2 FHD
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 2 FHD
 http://cdn99.one:80/Marina10/10Marina/72981.ts
-#EXTINF:-1,Conmebol TV 2 HD
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 2 HD
 http://cdn99.one:80/Marina10/10Marina/72983.ts
-#EXTINF:-1,Conmebol TV 2 SD
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 2 SD
 http://cdn99.one:80/Marina10/10Marina/72984.ts
-#EXTINF:-1,Conmebol TV 3 FHD [H265]
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 3 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72986.ts
-#EXTINF:-1,CONMEBOL TV 3 4K FHDR
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 3 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103522.ts
-#EXTINF:-1,Conmebol TV 3 FHD
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 3 FHD
 http://cdn99.one:80/Marina10/10Marina/72985.ts
-#EXTINF:-1,Conmebol TV 3 HD
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 3 HD
 http://cdn99.one:80/Marina10/10Marina/72987.ts
-#EXTINF:-1,Conmebol TV 3 SD
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 3 SD
 http://cdn99.one:80/Marina10/10Marina/72988.ts
-#EXTINF:-1,Conmebol TV 4 FHD [H265]
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 4 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72990.ts
-#EXTINF:-1,CONMEBOL TV 4 4K FHDR
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",CONMEBOL TV 4 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103521.ts
-#EXTINF:-1,Conmebol TV 4 FHD
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 4 FHD
 http://cdn99.one:80/Marina10/10Marina/72989.ts
-#EXTINF:-1,Conmebol TV 4 HD
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 4 HD
 http://cdn99.one:80/Marina10/10Marina/72991.ts
-#EXTINF:-1,Conmebol TV 4 SD
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",Conmebol TV 4 SD
 http://cdn99.one:80/Marina10/10Marina/72992.ts
-#EXTINF:-1,Cultura FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/71852.ts
-#EXTINF:-1,Cultura 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/103513.ts
-#EXTINF:-1,Cultura FHD
-http://cdn99.one:80/Marina10/10Marina/71851.ts
-#EXTINF:-1,Cultura HD
-http://cdn99.one:80/Marina10/10Marina/71853.ts
-#EXTINF:-1,Cultura SD
-http://cdn99.one:80/Marina10/10Marina/71854.ts
-#EXTINF:-1,Curta FHD [H265]
+#EXTINF:-1 tvg-id="Curta!" tvg-logo="http://s.eyplay.io/logos/canais/curta.png" group-title="Canais | Variedades",Curta FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71856.ts
-#EXTINF:-1,Curta! 4K FHDR
+#EXTINF:-1 tvg-id="Curta!" tvg-logo="http://s.eyplay.io/logos/canais/curta.png" group-title="Canais | Variedades",Curta! 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103512.ts
-#EXTINF:-1,Curta FHD
+#EXTINF:-1 tvg-id="Curta!" tvg-logo="http://s.eyplay.io/logos/canais/curta.png" group-title="Canais | Variedades",Curta FHD
 http://cdn99.one:80/Marina10/10Marina/71855.ts
-#EXTINF:-1,Curta HD
+#EXTINF:-1 tvg-id="Curta!" tvg-logo="http://s.eyplay.io/logos/canais/curta.png" group-title="Canais | Variedades",Curta HD
 http://cdn99.one:80/Marina10/10Marina/71857.ts
-#EXTINF:-1,Curta SD
+#EXTINF:-1 tvg-id="Curta!" tvg-logo="http://s.eyplay.io/logos/canais/curta.png" group-title="Canais | Variedades",Curta SD
 http://cdn99.one:80/Marina10/10Marina/71858.ts
-#EXTINF:-1,Discovery Channel FHD [H265]
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71863.ts
-#EXTINF:-1,Discovery Channel 4K FHDR
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/71864.ts
-#EXTINF:-1,Discovery Channel FHD
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
 http://cdn99.one:80/Marina10/10Marina/71862.ts
-#EXTINF:-1,Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
 http://cdn99.one:80/Marina10/10Marina/71865.ts
-#EXTINF:-1,Discovery Channel SD
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
 http://cdn99.one:80/Marina10/10Marina/71866.ts
-#EXTINF:-1,Discovery H&H FHD [H265]
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71868.ts
-#EXTINF:-1,Discovery H&H 4K FHDR
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90251.ts
-#EXTINF:-1,Discovery H&H FHD
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health FHD
 http://cdn99.one:80/Marina10/10Marina/71867.ts
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health HD
 http://cdn99.one:80/Marina10/10Marina/71869.ts
-#EXTINF:-1,Discovery H&H SD
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health SD
 http://cdn99.one:80/Marina10/10Marina/71870.ts
-#EXTINF:-1,Discovery Science FHD [H265]
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71876.ts
-#EXTINF:-1,Discovery Science 4K FHDR
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103511.ts
-#EXTINF:-1,Discovery Science FHD
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
 http://cdn99.one:80/Marina10/10Marina/71875.ts
-#EXTINF:-1,Discovery Science HD
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
 http://cdn99.one:80/Marina10/10Marina/71877.ts
-#EXTINF:-1,Discovery Science SD
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science SD
 http://cdn99.one:80/Marina10/10Marina/71878.ts
-#EXTINF:-1,Discovery Theater FHD [H265]
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71880.ts
-#EXTINF:-1,Discovery Theater 4K FHDR
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103510.ts
-#EXTINF:-1,Discovery Theater FHD
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD
 http://cdn99.one:80/Marina10/10Marina/71879.ts
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
 http://cdn99.one:80/Marina10/10Marina/71881.ts
-#EXTINF:-1,Discovery Theater SD
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater SD
 http://cdn99.one:80/Marina10/10Marina/71882.ts
-#EXTINF:-1,Discovery Turbo FHD [H265]
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71884.ts
-#EXTINF:-1,Discovery Turbo 4K FHDR
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90641.ts
-#EXTINF:-1,Discovery Turbo FHD
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo FHD
 http://cdn99.one:80/Marina10/10Marina/71883.ts
-#EXTINF:-1,Discovery Turbo HD
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo HD
 http://cdn99.one:80/Marina10/10Marina/71885.ts
-#EXTINF:-1,Discovery Turbo SD
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo SD
 http://cdn99.one:80/Marina10/10Marina/71886.ts
-#EXTINF:-1,Discovery World FHD [H265]
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71888.ts
-#EXTINF:-1,Discovery World 4K FHDR
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103509.ts
-#EXTINF:-1,Discovery World FHD
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD
 http://cdn99.one:80/Marina10/10Marina/71887.ts
-#EXTINF:-1,Discovery World HD
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
 http://cdn99.one:80/Marina10/10Marina/71889.ts
-#EXTINF:-1,Discovery World SD
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
 http://cdn99.one:80/Marina10/10Marina/71890.ts
-#EXTINF:-1,Disney Channel FHD [H265]
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71892.ts
-#EXTINF:-1,Disney Channel 4K FHDR
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103508.ts
-#EXTINF:-1,Disney Channel FHD
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel FHD
 http://cdn99.one:80/Marina10/10Marina/71891.ts
-#EXTINF:-1,Disney Channel HD
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel HD
 http://cdn99.one:80/Marina10/10Marina/71893.ts
-#EXTINF:-1,Disney Channel SD
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="http://s.eyplay.io/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel SD
 http://cdn99.one:80/Marina10/10Marina/71894.ts
-#EXTINF:-1,Disney XD SD
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD SD
 http://cdn99.one:80/Marina10/10Marina/71899.ts
-#EXTINF:-1,E! FHD [H265]
+#EXTINF:-1 tvg-id="E.br" tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71901.ts
-#EXTINF:-1,E! 4K FHDR
+#EXTINF:-1 tvg-id="E.br" tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103506.ts
-#EXTINF:-1,E! FHD
+#EXTINF:-1 tvg-id="E.br" tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! FHD
 http://cdn99.one:80/Marina10/10Marina/71900.ts
-#EXTINF:-1,E! HD
+#EXTINF:-1 tvg-id="E.br" tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! HD
 http://cdn99.one:80/Marina10/10Marina/71902.ts
-#EXTINF:-1,E! SD
+#EXTINF:-1 tvg-id="E.br" tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E! SD
 http://cdn99.one:80/Marina10/10Marina/71903.ts
-#EXTINF:-1,ESPN FHD [H265]
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71920.ts
-#EXTINF:-1,ESPN2 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/103504.ts
-#EXTINF:-1,ESPN 4K FHDR
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/71921.ts
-#EXTINF:-1,ESPN FHD
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN FHD
 http://cdn99.one:80/Marina10/10Marina/71919.ts
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN HD
 http://cdn99.one:80/Marina10/10Marina/71922.ts
-#EXTINF:-1,ESPN SD
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="http://s.eyplay.io/logos/canais/espn.png" group-title="Canais | Esportes",ESPN SD
 http://cdn99.one:80/Marina10/10Marina/71923.ts
-#EXTINF:-1,ESPN 2 FHD [H265]
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/103504.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71908.ts
-#EXTINF:-1,ESPN 2 FHD
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 FHD
 http://cdn99.one:80/Marina10/10Marina/71907.ts
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 HD
 http://cdn99.one:80/Marina10/10Marina/71909.ts
-#EXTINF:-1,ESPN 2 SD
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 SD
 http://cdn99.one:80/Marina10/10Marina/71910.ts
-#EXTINF:-1,ESPN Brasil FHD [H265]
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71912.ts
-#EXTINF:-1,ESPN Brasil 4K FHDR
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90640.ts
-#EXTINF:-1,ESPN Brasil FHD
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil FHD
 http://cdn99.one:80/Marina10/10Marina/71911.ts
-#EXTINF:-1,ESPN Brasil HD
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil HD
 http://cdn99.one:80/Marina10/10Marina/71913.ts
-#EXTINF:-1,ESPN Brasil SD
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil SD
 http://cdn99.one:80/Marina10/10Marina/71914.ts
-#EXTINF:-1,ESPN Extra FHD [H265]
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71916.ts
-#EXTINF:-1,ESPN Extra 4K FHDR
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103505.ts
-#EXTINF:-1,ESPN Extra FHD
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra FHD
 http://cdn99.one:80/Marina10/10Marina/71915.ts
-#EXTINF:-1,ESPN Extra HD
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra HD
 http://cdn99.one:80/Marina10/10Marina/71917.ts
-#EXTINF:-1,ESPN Extra SD
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra SD
 http://cdn99.one:80/Marina10/10Marina/71918.ts
-#EXTINF:-1,US: ESPN 3 FHD
-http://cdn99.one:80/Marina10/10Marina/103229.ts
-#EXTINF:-1,Film&Arts FHD [H265]
+#EXTINF:-1 tvg-id="film-arts" tvg-logo="http://s.eyplay.io/logos/canais/film&arts.png" group-title="Canais | Filmes e Séries",Film&Arts FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/104920.ts
-#EXTINF:-1,Film&Arts FHD
+#EXTINF:-1 tvg-id="film-arts" tvg-logo="http://s.eyplay.io/logos/canais/film&arts.png" group-title="Canais | Filmes e Séries",Film&Arts FHD
 http://cdn99.one:80/Marina10/10Marina/104914.ts
-#EXTINF:-1,Film&Arts HD
+#EXTINF:-1 tvg-id="film-arts" tvg-logo="http://s.eyplay.io/logos/canais/film&arts.png" group-title="Canais | Filmes e Séries",Film&Arts HD
 http://cdn99.one:80/Marina10/10Marina/104915.ts
-#EXTINF:-1,Film&Arts SD
+#EXTINF:-1 tvg-id="film-arts" tvg-logo="http://s.eyplay.io/logos/canais/film&arts.png" group-title="Canais | Filmes e Séries",Film&Arts SD
 http://cdn99.one:80/Marina10/10Marina/104916.ts
-#EXTINF:-1,Fox Sports FHD [H265]
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71958.ts
-#EXTINF:-1,Star Channel 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/90249.ts
-#EXTINF:-1,Fox Sports 4K FHDR
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/71959.ts
-#EXTINF:-1,Fox Sports FHD
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports FHD
 http://cdn99.one:80/Marina10/10Marina/71957.ts
-#EXTINF:-1,Fox Sports HD
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports HD
 http://cdn99.one:80/Marina10/10Marina/71960.ts
-#EXTINF:-1,Fox Sports SD
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports SD
 http://cdn99.one:80/Marina10/10Marina/71961.ts
-#EXTINF:-1,Fox Sports 2 FHD [H265]
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71953.ts
-#EXTINF:-1,Fox Sports 2 4K FHDR
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/71954.ts
-#EXTINF:-1,Fox Sports 2 FHD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 FHD
 http://cdn99.one:80/Marina10/10Marina/71952.ts
-#EXTINF:-1,Fox Sports 2 HD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 HD
 http://cdn99.one:80/Marina10/10Marina/71955.ts
-#EXTINF:-1,Fox Sports 2 SD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 SD
 http://cdn99.one:80/Marina10/10Marina/71956.ts
-#EXTINF:-1,France 24 FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/104942.ts
-#EXTINF:-1,Futura FHD [H265]
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71963.ts
-#EXTINF:-1,Futura 4K FHDR
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103499.ts
-#EXTINF:-1,Futura FHD
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura FHD
 http://cdn99.one:80/Marina10/10Marina/71962.ts
-#EXTINF:-1,Futura HD
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura HD
 http://cdn99.one:80/Marina10/10Marina/71964.ts
-#EXTINF:-1,Futura SD
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura SD
 http://cdn99.one:80/Marina10/10Marina/71965.ts
-#EXTINF:-1,FX FHD [H265]
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71967.ts
-#EXTINF:-1,FX 4K FHDR
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90639.ts
-#EXTINF:-1,FX FHD
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX FHD
 http://cdn99.one:80/Marina10/10Marina/71966.ts
-#EXTINF:-1,FX FHD [LEG]
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90710.ts
-#EXTINF:-1,FX HD
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX HD
 http://cdn99.one:80/Marina10/10Marina/71968.ts
-#EXTINF:-1,FX HD [LEG]
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90709.ts
-#EXTINF:-1,FX SD
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX SD
 http://cdn99.one:80/Marina10/10Marina/71969.ts
-#EXTINF:-1,FX SD [LEG]
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90708.ts
-#EXTINF:-1,Globo News FHD [H265]
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71998.ts
-#EXTINF:-1,Globo News 4K FHDR
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90248.ts
-#EXTINF:-1,Globo News FHD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News FHD
 http://cdn99.one:80/Marina10/10Marina/71997.ts
-#EXTINF:-1,Globo News HD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News HD
 http://cdn99.one:80/Marina10/10Marina/71999.ts
-#EXTINF:-1,Globo News SD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News SD
 http://cdn99.one:80/Marina10/10Marina/72000.ts
-#EXTINF:-1,Globo SP FHD [H265]
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/104938.ts
-#EXTINF:-1,Globo SP FHD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP FHD
 http://cdn99.one:80/Marina10/10Marina/72040.ts
-#EXTINF:-1,Globo SP HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP HD
 http://cdn99.one:80/Marina10/10Marina/72041.ts
-#EXTINF:-1,Globo SP SD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP SD
 http://cdn99.one:80/Marina10/10Marina/72042.ts
-#EXTINF:-1,GNT FHD [H265]
+#EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72103.ts
-#EXTINF:-1,GNT 4K FHDR
+#EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90638.ts
-#EXTINF:-1,GNT FHD
+#EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT FHD
 http://cdn99.one:80/Marina10/10Marina/72102.ts
-#EXTINF:-1,GNT HD
+#EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD
 http://cdn99.one:80/Marina10/10Marina/72104.ts
-#EXTINF:-1,GNT SD
+#EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT SD
 http://cdn99.one:80/Marina10/10Marina/72105.ts
-#EXTINF:-1,H2 FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/72107.ts
-#EXTINF:-1,H2 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/90245.ts
-#EXTINF:-1,H2 FHD
-http://cdn99.one:80/Marina10/10Marina/72106.ts
-#EXTINF:-1,H2 HD
-http://cdn99.one:80/Marina10/10Marina/72108.ts
-#EXTINF:-1,H2 SD
-http://cdn99.one:80/Marina10/10Marina/72109.ts
-#EXTINF:-1,HBO 2 FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/72111.ts
-#EXTINF:-1,HBO 2 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/90246.ts
-#EXTINF:-1,HBO 2 FHD
-http://cdn99.one:80/Marina10/10Marina/72110.ts
-#EXTINF:-1,HBO 2 HD
-http://cdn99.one:80/Marina10/10Marina/72112.ts
-#EXTINF:-1,HBO 2 SD
-http://cdn99.one:80/Marina10/10Marina/72113.ts
-#EXTINF:-1,HBO Family FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/72115.ts
-#EXTINF:-1,HBO 4K FHDR
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90247.ts
-#EXTINF:-1,HBO Family 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/90637.ts
-#EXTINF:-1,HBO Family FHD
-http://cdn99.one:80/Marina10/10Marina/72114.ts
-#EXTINF:-1,HBO Family HD
-http://cdn99.one:80/Marina10/10Marina/72116.ts
-#EXTINF:-1,HBO Family SD
-http://cdn99.one:80/Marina10/10Marina/72117.ts
-#EXTINF:-1,HBO FHD [H265]
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72119.ts
-#EXTINF:-1,HBO FHD
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD
 http://cdn99.one:80/Marina10/10Marina/72118.ts
-#EXTINF:-1,HBO FHD [LEG]
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90698.ts
-#EXTINF:-1,HBO HD
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
 http://cdn99.one:80/Marina10/10Marina/72120.ts
-#EXTINF:-1,HBO HD [LEG]
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90697.ts
-#EXTINF:-1,HBO Mundi FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/72122.ts
-#EXTINF:-1,HBO MUNDI 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/103496.ts
-#EXTINF:-1,HBO Mundi FHD
-http://cdn99.one:80/Marina10/10Marina/72121.ts
-#EXTINF:-1,HBO Mundi FHD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90695.ts
-#EXTINF:-1,HBO Mundi HD
-http://cdn99.one:80/Marina10/10Marina/72123.ts
-#EXTINF:-1,HBO Mundi HD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90694.ts
-#EXTINF:-1,HBO Mundi SD
-http://cdn99.one:80/Marina10/10Marina/72124.ts
-#EXTINF:-1,HBO Mundi SD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90693.ts
-#EXTINF:-1,HBO Plus FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/72126.ts
-#EXTINF:-1,HBO Plus 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/90635.ts
-#EXTINF:-1,HBO Plus FHD
-http://cdn99.one:80/Marina10/10Marina/72125.ts
-#EXTINF:-1,HBO Plus FHD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90692.ts
-#EXTINF:-1,HBO Plus HD
-http://cdn99.one:80/Marina10/10Marina/72127.ts
-#EXTINF:-1,HBO Plus HD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90691.ts
-#EXTINF:-1,HBO Plus SD
-http://cdn99.one:80/Marina10/10Marina/72128.ts
-#EXTINF:-1,HBO Plus SD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90690.ts
-#EXTINF:-1,HBO Pop FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/72130.ts
-#EXTINF:-1,HBO POP 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/103495.ts
-#EXTINF:-1,HBO Pop FHD
-http://cdn99.one:80/Marina10/10Marina/72129.ts
-#EXTINF:-1,HBO Pop FHD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90689.ts
-#EXTINF:-1,HBO Pop HD
-http://cdn99.one:80/Marina10/10Marina/72131.ts
-#EXTINF:-1,HBO Pop HD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90688.ts
-#EXTINF:-1,HBO Pop SD
-http://cdn99.one:80/Marina10/10Marina/72132.ts
-#EXTINF:-1,HBO Pop SD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90687.ts
-#EXTINF:-1,HBO SD
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO SD
 http://cdn99.one:80/Marina10/10Marina/72133.ts
-#EXTINF:-1,HBO SD [LEG]
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90696.ts
-#EXTINF:-1,HBO Signature FHD [H265]
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/72111.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/90246.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
+http://cdn99.one:80/Marina10/10Marina/72110.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
+http://cdn99.one:80/Marina10/10Marina/72112.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 SD
+http://cdn99.one:80/Marina10/10Marina/72113.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/72115.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/90637.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
+http://cdn99.one:80/Marina10/10Marina/72114.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
+http://cdn99.one:80/Marina10/10Marina/72116.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD
+http://cdn99.one:80/Marina10/10Marina/72117.ts
+#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/72122.ts
+#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/103496.ts
+#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD
+http://cdn99.one:80/Marina10/10Marina/72121.ts
+#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90695.ts
+#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
+http://cdn99.one:80/Marina10/10Marina/72123.ts
+#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90694.ts
+#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD
+http://cdn99.one:80/Marina10/10Marina/72124.ts
+#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90693.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/72126.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/90635.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
+http://cdn99.one:80/Marina10/10Marina/72125.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90692.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
+http://cdn99.one:80/Marina10/10Marina/72127.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90691.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD
+http://cdn99.one:80/Marina10/10Marina/72128.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90690.ts
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/72130.ts
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/103495.ts
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop FHD
+http://cdn99.one:80/Marina10/10Marina/72129.ts
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop FHD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90689.ts
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop HD
+http://cdn99.one:80/Marina10/10Marina/72131.ts
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop HD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90688.ts
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop SD
+http://cdn99.one:80/Marina10/10Marina/72132.ts
+#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop SD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90687.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72135.ts
-#EXTINF:-1,HBO Signature 4K FHDR
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103494.ts
-#EXTINF:-1,HBO Signature FHD
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
 http://cdn99.one:80/Marina10/10Marina/72134.ts
-#EXTINF:-1,HBO Signature FHD [LEG]
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90686.ts
-#EXTINF:-1,HBO Signature HD
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
 http://cdn99.one:80/Marina10/10Marina/72136.ts
-#EXTINF:-1,HBO Signature HD [LEG]
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90685.ts
-#EXTINF:-1,HBO Signature SD
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
 http://cdn99.one:80/Marina10/10Marina/72137.ts
-#EXTINF:-1,HBO Signature SD [LEG]
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90684.ts
-#EXTINF:-1,HBO Xtreme FHD [H265]
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72139.ts
-#EXTINF:-1,HBO Xtreme 4K FHDR
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90636.ts
-#EXTINF:-1,HBO Xtreme FHD
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD
 http://cdn99.one:80/Marina10/10Marina/72138.ts
-#EXTINF:-1,HBO Xtreme FHD [LEG]
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90683.ts
-#EXTINF:-1,HBO Xtreme HD
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
 http://cdn99.one:80/Marina10/10Marina/72140.ts
-#EXTINF:-1,HBO Xtreme HD [LEG]
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90682.ts
-#EXTINF:-1,HBO Xtreme SD
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme SD
 http://cdn99.one:80/Marina10/10Marina/72141.ts
-#EXTINF:-1,HBO Xtreme SD [LEG]
+#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90681.ts
-#EXTINF:-1,HGTV FHD [H265]
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72143.ts
-#EXTINF:-1,HGTV 4K FHDR
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103493.ts
-#EXTINF:-1,HGTV FHD
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV FHD
 http://cdn99.one:80/Marina10/10Marina/72142.ts
-#EXTINF:-1,HGTV HD
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV HD
 http://cdn99.one:80/Marina10/10Marina/72144.ts
-#EXTINF:-1,HGTV SD
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV SD
 http://cdn99.one:80/Marina10/10Marina/72145.ts
-#EXTINF:-1,History FHD [H265]
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72147.ts
-#EXTINF:-1,History 4K FHDR
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90244.ts
-#EXTINF:-1,History FHD
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel FHD
 http://cdn99.one:80/Marina10/10Marina/72146.ts
-#EXTINF:-1,History HD
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel HD
 http://cdn99.one:80/Marina10/10Marina/72148.ts
-#EXTINF:-1,History SD
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel SD
 http://cdn99.one:80/Marina10/10Marina/72149.ts
-#EXTINF:-1,ID FHD [H265]
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2 FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/72107.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/90245.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2 FHD
+http://cdn99.one:80/Marina10/10Marina/72106.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2 HD
+http://cdn99.one:80/Marina10/10Marina/72108.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2 SD
+http://cdn99.one:80/Marina10/10Marina/72109.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72151.ts
-#EXTINF:-1,ID 4K FHDR
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90243.ts
-#EXTINF:-1,ID FHD
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery FHD
 http://cdn99.one:80/Marina10/10Marina/72150.ts
-#EXTINF:-1,ID HD
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery HD
 http://cdn99.one:80/Marina10/10Marina/72152.ts
-#EXTINF:-1,ID SD
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery SD
 http://cdn99.one:80/Marina10/10Marina/72153.ts
-#EXTINF:-1,Lifetime FHD [H265]
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",Lifetime FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72155.ts
-#EXTINF:-1,Lifetime 4K FHDR
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",Lifetime 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103492.ts
-#EXTINF:-1,Lifetime FHD
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",Lifetime FHD
 http://cdn99.one:80/Marina10/10Marina/72154.ts
-#EXTINF:-1,Lifetime HD
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",Lifetime HD
 http://cdn99.one:80/Marina10/10Marina/72156.ts
-#EXTINF:-1,Lifetime SD
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",Lifetime SD
 http://cdn99.one:80/Marina10/10Marina/72157.ts
-#EXTINF:-1,Megapix FHD [H265]
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72167.ts
-#EXTINF:-1,Megapix 4K FHDR
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/72168.ts
-#EXTINF:-1,Megapix FHD
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
 http://cdn99.one:80/Marina10/10Marina/72166.ts
-#EXTINF:-1,Megapix FHD [LEG]
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90680.ts
-#EXTINF:-1,Megapix HD
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
 http://cdn99.one:80/Marina10/10Marina/72169.ts
-#EXTINF:-1,Megapix HD [LEG]
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90679.ts
-#EXTINF:-1,Megapix SD
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD
 http://cdn99.one:80/Marina10/10Marina/72170.ts
-#EXTINF:-1,Megapix SD [LEG]
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90678.ts
-#EXTINF:-1,Mega TV FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/104933.ts
-#EXTINF:-1,Mega TV FHD
-http://cdn99.one:80/Marina10/10Marina/104924.ts
-#EXTINF:-1,Mega TV HD
-http://cdn99.one:80/Marina10/10Marina/104925.ts
-#EXTINF:-1,Mega TV SD
-http://cdn99.one:80/Marina10/10Marina/104926.ts
-#EXTINF:-1,MTV FHD [H265]
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais | Arte e Música",MTV FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72172.ts
-#EXTINF:-1,MTV 4K FHDR
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais | Arte e Música",MTV 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103490.ts
-#EXTINF:-1,MTV FHD
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais | Arte e Música",MTV FHD
 http://cdn99.one:80/Marina10/10Marina/72171.ts
-#EXTINF:-1,MTV HD
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais | Arte e Música",MTV HD
 http://cdn99.one:80/Marina10/10Marina/72173.ts
-#EXTINF:-1,MTV Live FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/72175.ts
-#EXTINF:-1,MTV LIVE 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/103489.ts
-#EXTINF:-1,MTV Live FHD
-http://cdn99.one:80/Marina10/10Marina/72174.ts
-#EXTINF:-1,MTV Live HD
-http://cdn99.one:80/Marina10/10Marina/72176.ts
-#EXTINF:-1,MTV Live SD
-http://cdn99.one:80/Marina10/10Marina/72177.ts
-#EXTINF:-1,MTV SD
+#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais | Arte e Música",MTV SD
 http://cdn99.one:80/Marina10/10Marina/72178.ts
-#EXTINF:-1,Multishow FHD [H265]
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/72175.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/103489.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live FHD
+http://cdn99.one:80/Marina10/10Marina/72174.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live HD
+http://cdn99.one:80/Marina10/10Marina/72176.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live SD
+http://cdn99.one:80/Marina10/10Marina/72177.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",Multishow FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72180.ts
-#EXTINF:-1,Multishow 4K FHDR
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",Multishow 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/72181.ts
-#EXTINF:-1,Multishow FHD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",Multishow FHD
 http://cdn99.one:80/Marina10/10Marina/72179.ts
-#EXTINF:-1,Multishow HD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",Multishow HD
 http://cdn99.one:80/Marina10/10Marina/72182.ts
-#EXTINF:-1,Multishow SD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",Multishow SD
 http://cdn99.one:80/Marina10/10Marina/72183.ts
-#EXTINF:-1,Nat Geo Wild FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/72193.ts
-#EXTINF:-1,Nat Geo Wild 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/90242.ts
-#EXTINF:-1,Nat Geo Wild FHD
-http://cdn99.one:80/Marina10/10Marina/72192.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://cdn99.one:80/Marina10/10Marina/72194.ts
-#EXTINF:-1,Nat Geo Wild SD
-http://cdn99.one:80/Marina10/10Marina/72195.ts
-#EXTINF:-1,National Geographic FHD [H265]
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72197.ts
-#EXTINF:-1,National Geographic 4K FHDR
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/72198.ts
-#EXTINF:-1,National Geographic FHD
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic FHD
 http://cdn99.one:80/Marina10/10Marina/72196.ts
-#EXTINF:-1,National Geographic HD
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic HD
 http://cdn99.one:80/Marina10/10Marina/72199.ts
-#EXTINF:-1,National Geographic SD
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic SD
 http://cdn99.one:80/Marina10/10Marina/72200.ts
-#EXTINF:-1,Nickelodeon FHD [H265]
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/72193.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/90242.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild FHD
+http://cdn99.one:80/Marina10/10Marina/72192.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild HD
+http://cdn99.one:80/Marina10/10Marina/72194.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild SD
+http://cdn99.one:80/Marina10/10Marina/72195.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72206.ts
-#EXTINF:-1,Nickelodeon 4K FHDR
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90241.ts
-#EXTINF:-1,Nickelodeon FHD
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD
 http://cdn99.one:80/Marina10/10Marina/72205.ts
-#EXTINF:-1,Nickelodeon HD
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
 http://cdn99.one:80/Marina10/10Marina/72207.ts
-#EXTINF:-1,Nickelodeon SD
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon SD
 http://cdn99.one:80/Marina10/10Marina/72208.ts
-#EXTINF:-1,Paramount Channel FHD [H265]
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72218.ts
-#EXTINF:-1,Paramount Channel 4K FHDR
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90634.ts
-#EXTINF:-1,Paramount Channel FHD
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
 http://cdn99.one:80/Marina10/10Marina/72217.ts
-#EXTINF:-1,Paramount Channel HD
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
 http://cdn99.one:80/Marina10/10Marina/72219.ts
-#EXTINF:-1,Paramount Channel SD
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel SD
 http://cdn99.one:80/Marina10/10Marina/72220.ts
-#EXTINF:-1,Premiere Clubes FHD [H265]
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72263.ts
-#EXTINF:-1,Premiere Clubes 4K FHDR
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/72264.ts
-#EXTINF:-1,Premiere Clubes FHD
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
 http://cdn99.one:80/Marina10/10Marina/72262.ts
-#EXTINF:-1,Premiere Clubes HD
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
 http://cdn99.one:80/Marina10/10Marina/72265.ts
-#EXTINF:-1,Premiere Clubes SD
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
 http://cdn99.one:80/Marina10/10Marina/72266.ts
-#EXTINF:-1,Premiere 2 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72238.ts
-#EXTINF:-1,Premiere 2 4K FHDR
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103482.ts
-#EXTINF:-1,Premiere 2 FHD
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
 http://cdn99.one:80/Marina10/10Marina/72237.ts
-#EXTINF:-1,Premiere 2 HD
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
 http://cdn99.one:80/Marina10/10Marina/72239.ts
-#EXTINF:-1,Premiere 2 SD
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
 http://cdn99.one:80/Marina10/10Marina/72240.ts
-#EXTINF:-1,Premiere 3 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72242.ts
-#EXTINF:-1,Premiere 3 4K FHDR
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103481.ts
-#EXTINF:-1,Premiere 3 FHD
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
 http://cdn99.one:80/Marina10/10Marina/72241.ts
-#EXTINF:-1,Premiere 3 HD
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
 http://cdn99.one:80/Marina10/10Marina/72243.ts
-#EXTINF:-1,Premiere 3 SD
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
 http://cdn99.one:80/Marina10/10Marina/72244.ts
-#EXTINF:-1,Premiere 4 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72246.ts
-#EXTINF:-1,Premiere 4 4K FHDR
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103480.ts
-#EXTINF:-1,Premiere 4 FHD
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
 http://cdn99.one:80/Marina10/10Marina/72245.ts
-#EXTINF:-1,Premiere 4 HD
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
 http://cdn99.one:80/Marina10/10Marina/72247.ts
-#EXTINF:-1,Premiere 4 SD
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
 http://cdn99.one:80/Marina10/10Marina/72248.ts
-#EXTINF:-1,Premiere 5 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72250.ts
-#EXTINF:-1,Premiere 5 4K FHDR
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103479.ts
-#EXTINF:-1,Premiere 5 FHD
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
 http://cdn99.one:80/Marina10/10Marina/72249.ts
-#EXTINF:-1,Premiere 5 HD
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
 http://cdn99.one:80/Marina10/10Marina/72251.ts
-#EXTINF:-1,Premiere 5 SD
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
 http://cdn99.one:80/Marina10/10Marina/72252.ts
-#EXTINF:-1,Premiere 6 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72254.ts
-#EXTINF:-1,Premiere 6 4K FHDR
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103478.ts
-#EXTINF:-1,Premiere 6 FHD
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
 http://cdn99.one:80/Marina10/10Marina/72253.ts
-#EXTINF:-1,Premiere 6 HD
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
 http://cdn99.one:80/Marina10/10Marina/72255.ts
-#EXTINF:-1,Premiere 6 SD
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
 http://cdn99.one:80/Marina10/10Marina/72256.ts
-#EXTINF:-1,Premiere 7 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72258.ts
-#EXTINF:-1,Premiere 7 4K FHDR
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103477.ts
-#EXTINF:-1,Premiere 7 FHD
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
 http://cdn99.one:80/Marina10/10Marina/72257.ts
-#EXTINF:-1,Premiere 7 HD
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
 http://cdn99.one:80/Marina10/10Marina/72259.ts
-#EXTINF:-1,Premiere 7 SD
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
 http://cdn99.one:80/Marina10/10Marina/72260.ts
-#EXTINF:-1,Premiere 8 SD
-http://cdn99.one:80/Marina10/10Marina/72261.ts
-#EXTINF:-1,Record News FHD
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News FHD
 http://cdn99.one:80/Marina10/10Marina/72271.ts
-#EXTINF:-1,Record News HD
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD
 http://cdn99.one:80/Marina10/10Marina/72272.ts
-#EXTINF:-1,Record News SD
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News SD
 http://cdn99.one:80/Marina10/10Marina/72273.ts
-#EXTINF:-1,RecordTV SP FHD [H265]
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72595.ts
-#EXTINF:-1,RecordTV SP FHD
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP FHD
 http://cdn99.one:80/Marina10/10Marina/77654.ts
-#EXTINF:-1,RecordTV SP HD
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP HD
 http://cdn99.one:80/Marina10/10Marina/72973.ts
-#EXTINF:-1,RecordTV SP SD
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP SD
 http://cdn99.one:80/Marina10/10Marina/96522.ts
-#EXTINF:-1,RedeTV FHD [H265]
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RedeTV FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72298.ts
-#EXTINF:-1,RedeTV FHD
+#EXTINF:-1 tvg-id="RedeTV! SP" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV FHD
 http://cdn99.one:80/Marina10/10Marina/72297.ts
-#EXTINF:-1,RedeTV HD
+#EXTINF:-1 tvg-id="RedeTV! SP" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV HD
 http://cdn99.one:80/Marina10/10Marina/72299.ts
-#EXTINF:-1,RedeTV SD
+#EXTINF:-1 tvg-id="RedeTV! SP" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV SD
 http://cdn99.one:80/Marina10/10Marina/72300.ts
-#EXTINF:-1,Rede Vida FHD [H265]
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Abertos",Rede Vida FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72294.ts
-#EXTINF:-1,Rede Vida 4K FHDR
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Abertos",Rede Vida 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103475.ts
-#EXTINF:-1,Rede Vida FHD
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Abertos",Rede Vida FHD
 http://cdn99.one:80/Marina10/10Marina/72293.ts
-#EXTINF:-1,Rede Vida HD
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Abertos",Rede Vida HD
 http://cdn99.one:80/Marina10/10Marina/72295.ts
-#EXTINF:-1,Rede Vida SD
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Abertos",Rede Vida SD
 http://cdn99.one:80/Marina10/10Marina/72296.ts
-#EXTINF:-1,Sabor & Arte FHD [H265]
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="Canais | Variedades",Sabor & Arte FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/112014.ts
-#EXTINF:-1,Sabor & Arte 4K FHDR
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="Canais | Variedades",Sabor & Arte 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/112013.ts
-#EXTINF:-1,Sabor & Arte FHD
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="Canais | Variedades",Sabor & Arte FHD
 http://cdn99.one:80/Marina10/10Marina/112017.ts
-#EXTINF:-1,Sabor & Arte HD
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="Canais | Variedades",Sabor & Arte HD
 http://cdn99.one:80/Marina10/10Marina/112016.ts
-#EXTINF:-1,Sabor & Arte SD
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="Canais | Variedades",Sabor & Arte SD
 http://cdn99.one:80/Marina10/10Marina/112015.ts
-#EXTINF:-1,SBT SP FHD [H265]
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/104939.ts
-#EXTINF:-1,SBT SP FHD
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP FHD
 http://cdn99.one:80/Marina10/10Marina/77963.ts
-#EXTINF:-1,SBT SP HD
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP HD
 http://cdn99.one:80/Marina10/10Marina/72598.ts
-#EXTINF:-1,SBT SP SD
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP SD
 http://cdn99.one:80/Marina10/10Marina/77964.ts
-#EXTINF:-1,Space FHD [H265]
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/71825.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/103517.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel FHD
+http://cdn99.one:80/Marina10/10Marina/71824.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel FHD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90713.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel HD
+http://cdn99.one:80/Marina10/10Marina/71826.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel HD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90712.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel SD
+http://cdn99.one:80/Marina10/10Marina/71827.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel SD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90711.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72318.ts
-#EXTINF:-1,Space 4K FHDR
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90633.ts
-#EXTINF:-1,Space FHD
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space FHD
 http://cdn99.one:80/Marina10/10Marina/72317.ts
-#EXTINF:-1,Space FHD [LEG]
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90677.ts
-#EXTINF:-1,Space HD
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space HD
 http://cdn99.one:80/Marina10/10Marina/72319.ts
-#EXTINF:-1,Space HD [LEG]
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90676.ts
-#EXTINF:-1,Space SD
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space SD
 http://cdn99.one:80/Marina10/10Marina/72320.ts
-#EXTINF:-1,Space SD [LEG]
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90675.ts
-#EXTINF:-1,SporTV3 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/103471.ts
-#EXTINF:-1,SporTV 4 [H265]
-http://cdn99.one:80/Marina10/10Marina/112914.ts
-#EXTINF:-1,SporTV FHD [H265]
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72330.ts
-#EXTINF:-1,SporTV 4K FHDR
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/72331.ts
-#EXTINF:-1,SporTV 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/112915.ts
-#EXTINF:-1,SporTV FHD
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
 http://cdn99.one:80/Marina10/10Marina/72329.ts
-#EXTINF:-1,SporTV HD
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
 http://cdn99.one:80/Marina10/10Marina/72332.ts
-#EXTINF:-1,SporTV SD
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
 http://cdn99.one:80/Marina10/10Marina/72333.ts
-#EXTINF:-1,SporTV 2 FHD [H265]
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72322.ts
-#EXTINF:-1,SporTV 2 4K FHDR
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103472.ts
-#EXTINF:-1,SporTV 2 FHD
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
 http://cdn99.one:80/Marina10/10Marina/72321.ts
-#EXTINF:-1,SporTV 2 HD
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
 http://cdn99.one:80/Marina10/10Marina/72323.ts
-#EXTINF:-1,SporTV 2 SD
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
 http://cdn99.one:80/Marina10/10Marina/72324.ts
-#EXTINF:-1,SporTV 3 FHD [H265]
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/103471.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72326.ts
-#EXTINF:-1,SporTV 3 FHD
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
 http://cdn99.one:80/Marina10/10Marina/72325.ts
-#EXTINF:-1,SporTV 3 HD
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
 http://cdn99.one:80/Marina10/10Marina/72327.ts
-#EXTINF:-1,SporTV 3 SD
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
 http://cdn99.one:80/Marina10/10Marina/72328.ts
-#EXTINF:-1,SporTV 4 FHD
-http://cdn99.one:80/Marina10/10Marina/112911.ts
-#EXTINF:-1,SporTV 4 HD
-http://cdn99.one:80/Marina10/10Marina/112912.ts
-#EXTINF:-1,SporTV 4 SD
-http://cdn99.one:80/Marina10/10Marina/112913.ts
-#EXTINF:-1,Star Channel FHD [H265]
+##EXTINF:-1,SporTV 4 [H265]
+#http://cdn99.one:80/Marina10/10Marina/112914.ts
+##EXTINF:-1,SporTV 4 FHD
+#http://cdn99.one:80/Marina10/10Marina/112911.ts
+##EXTINF:-1,SporTV 4 HD
+#http://cdn99.one:80/Marina10/10Marina/112912.ts
+##EXTINF:-1,SporTV 4 SD
+#http://cdn99.one:80/Marina10/10Marina/112913.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/90249.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71937.ts
-#EXTINF:-1,Star Channel FHD
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel FHD
 http://cdn99.one:80/Marina10/10Marina/71936.ts
-#EXTINF:-1,Star Channel FHD [LEG]
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90707.ts
-#EXTINF:-1,Star Channel HD
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD
 http://cdn99.one:80/Marina10/10Marina/71938.ts
-#EXTINF:-1,Star Channel HD [LEG]
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90706.ts
-#EXTINF:-1,Star Channel SD
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel SD
 http://cdn99.one:80/Marina10/10Marina/71951.ts
-#EXTINF:-1,Star Channel SD [LEG]
+#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90705.ts
-#EXTINF:-1,Star Hits 2 FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/71948.ts
-#EXTINF:-1,Star Hits 2 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/103470.ts
-#EXTINF:-1,Star Hits 2 FHD
-http://cdn99.one:80/Marina10/10Marina/71947.ts
-#EXTINF:-1,Star Hits 2 FHD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90701.ts
-#EXTINF:-1,Star Hits 2 HD
-http://cdn99.one:80/Marina10/10Marina/71949.ts
-#EXTINF:-1,Star Hits 2 HD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90700.ts
-#EXTINF:-1,Star Hits 2 SD
-http://cdn99.one:80/Marina10/10Marina/71950.ts
-#EXTINF:-1,Star Hits 2 SD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90699.ts
-#EXTINF:-1,Star Hits FHD [H265]
-http://cdn99.one:80/Marina10/10Marina/71944.ts
-#EXTINF:-1,Star Hits 4K FHDR
-http://cdn99.one:80/Marina10/10Marina/103469.ts
-#EXTINF:-1,Star Hits FHD
-http://cdn99.one:80/Marina10/10Marina/71943.ts
-#EXTINF:-1,Star Hits FHD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90704.ts
-#EXTINF:-1,Star Hits HD
-http://cdn99.one:80/Marina10/10Marina/71945.ts
-#EXTINF:-1,Star Hits HD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90703.ts
-#EXTINF:-1,Star Hits SD
-http://cdn99.one:80/Marina10/10Marina/71946.ts
-#EXTINF:-1,Star Hits SD [LEG]
-http://cdn99.one:80/Marina10/10Marina/90702.ts
-#EXTINF:-1,Star Life FHD [H265]
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/71940.ts
-#EXTINF:-1,Star Life 4K FHDR
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103468.ts
-#EXTINF:-1,Star Life FHD
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life FHD
 http://cdn99.one:80/Marina10/10Marina/71939.ts
-#EXTINF:-1,Star Life HD
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life HD
 http://cdn99.one:80/Marina10/10Marina/71941.ts
-#EXTINF:-1,Star Life SD
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life SD
 http://cdn99.one:80/Marina10/10Marina/71942.ts
-#EXTINF:-1,Studio Universal FHD [H265]
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/71944.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/103469.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits FHD
+http://cdn99.one:80/Marina10/10Marina/71943.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits FHD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90704.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits HD
+http://cdn99.one:80/Marina10/10Marina/71945.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits HD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90703.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits SD
+http://cdn99.one:80/Marina10/10Marina/71946.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits SD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90702.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/71948.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/103470.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 FHD
+http://cdn99.one:80/Marina10/10Marina/71947.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 FHD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90701.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 HD
+http://cdn99.one:80/Marina10/10Marina/71949.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 HD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90700.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 SD
+http://cdn99.one:80/Marina10/10Marina/71950.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 SD [LEG]
+http://cdn99.one:80/Marina10/10Marina/90699.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72335.ts
-#EXTINF:-1,Studio Universal 4K FHDR
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103467.ts
-#EXTINF:-1,Studio Universal FHD
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
 http://cdn99.one:80/Marina10/10Marina/72334.ts
-#EXTINF:-1,Studio Universal HD
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
 http://cdn99.one:80/Marina10/10Marina/72336.ts
-#EXTINF:-1,Studio Universal SD
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal SD
 http://cdn99.one:80/Marina10/10Marina/72337.ts
-#EXTINF:-1,SyFy FHD [H265]
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SyFy FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72339.ts
-#EXTINF:-1,SYFY 4K FHDR
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103474.ts
-#EXTINF:-1,SyFy FHD
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SyFy FHD
 http://cdn99.one:80/Marina10/10Marina/72338.ts
-#EXTINF:-1,SyFy HD
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SyFy HD
 http://cdn99.one:80/Marina10/10Marina/72340.ts
-#EXTINF:-1,SyFy SD
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SyFy SD
 http://cdn99.one:80/Marina10/10Marina/72341.ts
-#EXTINF:-1,TBS FHD [H265]
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72343.ts
-#EXTINF:-1,TBS 4K FHDR
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103466.ts
-#EXTINF:-1,TBS FHD
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS FHD
 http://cdn99.one:80/Marina10/10Marina/72342.ts
-#EXTINF:-1,TBS HD
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS HD
 http://cdn99.one:80/Marina10/10Marina/72344.ts
-#EXTINF:-1,TBS SD
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS SD
 http://cdn99.one:80/Marina10/10Marina/72345.ts
-#EXTINF:-1,TCM FHD
+#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM FHD
 http://cdn99.one:80/Marina10/10Marina/73251.ts
-#EXTINF:-1,TCM HD
+#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM HD
 http://cdn99.one:80/Marina10/10Marina/73252.ts
-#EXTINF:-1,TCM SD
+#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM SD
 http://cdn99.one:80/Marina10/10Marina/73253.ts
-#EXTINF:-1,Telecine Action FHD [H265]
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72347.ts
-#EXTINF:-1,Telecine Action 4K FHDR
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90239.ts
-#EXTINF:-1,Telecine Action FHD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
 http://cdn99.one:80/Marina10/10Marina/72346.ts
-#EXTINF:-1,Telecine Action FHD [LEG]
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90668.ts
-#EXTINF:-1,Telecine Action HD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
 http://cdn99.one:80/Marina10/10Marina/72348.ts
-#EXTINF:-1,Telecine Action HD [LEG]
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90667.ts
-#EXTINF:-1,Telecine Action SD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
 http://cdn99.one:80/Marina10/10Marina/72349.ts
-#EXTINF:-1,Telecine Action SD [LEG]
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90666.ts
-#EXTINF:-1,Telecine Cult FHD [H265]
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72351.ts
-#EXTINF:-1,Telecine Cult 4K FHDR
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103456.ts
-#EXTINF:-1,Telecine Cult FHD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
 http://cdn99.one:80/Marina10/10Marina/72350.ts
-#EXTINF:-1,Telecine Cult FHD [LEG]
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90665.ts
-#EXTINF:-1,Telecine Cult HD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
 http://cdn99.one:80/Marina10/10Marina/72352.ts
-#EXTINF:-1,Telecine Cult HD [LEG]
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90664.ts
-#EXTINF:-1,Telecine Cult SD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult SD
 http://cdn99.one:80/Marina10/10Marina/72353.ts
-#EXTINF:-1,Telecine Cult SD [LEG]
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90663.ts
-#EXTINF:-1,Telecine Fun FHD [H265]
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72355.ts
-#EXTINF:-1,Telecine Fun 4K FHDR
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103455.ts
-#EXTINF:-1,Telecine Fun FHD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
 http://cdn99.one:80/Marina10/10Marina/72354.ts
-#EXTINF:-1,Telecine Fun FHD [LEG]
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90662.ts
-#EXTINF:-1,Telecine Fun HD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
 http://cdn99.one:80/Marina10/10Marina/72356.ts
-#EXTINF:-1,Telecine Fun HD [LEG]
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90661.ts
-#EXTINF:-1,Telecine Fun SD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun SD
 http://cdn99.one:80/Marina10/10Marina/72357.ts
-#EXTINF:-1,Telecine Fun SD [LEG]
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90660.ts
-#EXTINF:-1,Telecine Pipoca FHD [H265]
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72359.ts
-#EXTINF:-1,Telecine Pipoca 4K FHDR
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90238.ts
-#EXTINF:-1,Telecine Pipoca FHD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
 http://cdn99.one:80/Marina10/10Marina/72358.ts
-#EXTINF:-1,Telecine Pipoca FHD [LEG]
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90659.ts
-#EXTINF:-1,Telecine Pipoca HD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
 http://cdn99.one:80/Marina10/10Marina/72360.ts
-#EXTINF:-1,Telecine Pipoca HD [LEG]
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90658.ts
-#EXTINF:-1,Telecine Pipoca SD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD
 http://cdn99.one:80/Marina10/10Marina/72361.ts
-#EXTINF:-1,Telecine Pipoca SD [LEG]
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90657.ts
-#EXTINF:-1,Telecine Premium FHD [H265]
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72363.ts
-#EXTINF:-1,Telecine Premium 4K FHDR
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/90237.ts
-#EXTINF:-1,Telecine Premium FHD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
 http://cdn99.one:80/Marina10/10Marina/72362.ts
-#EXTINF:-1,Telecine Premium FHD [LEG]
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90656.ts
-#EXTINF:-1,Telecine Premium HD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
 http://cdn99.one:80/Marina10/10Marina/72364.ts
-#EXTINF:-1,Telecine Premium HD [LEG]
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90655.ts
-#EXTINF:-1,Telecine Premium SD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium SD
 http://cdn99.one:80/Marina10/10Marina/72365.ts
-#EXTINF:-1,Telecine Premium SD [LEG]
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90654.ts
-#EXTINF:-1,Telecine Touch FHD [H265]
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72367.ts
-#EXTINF:-1,Telecine Touch 4K FHDR
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103454.ts
-#EXTINF:-1,Telecine Touch FHD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
 http://cdn99.one:80/Marina10/10Marina/72366.ts
-#EXTINF:-1,Telecine Touch FHD [LEG]
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90653.ts
-#EXTINF:-1,Telecine Touch HD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
 http://cdn99.one:80/Marina10/10Marina/72368.ts
-#EXTINF:-1,Telecine Touch HD [LEG]
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90652.ts
-#EXTINF:-1,Telecine Touch SD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD
 http://cdn99.one:80/Marina10/10Marina/72369.ts
-#EXTINF:-1,Telecine Touch SD [LEG]
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90651.ts
-#EXTINF:-1,Terra Viva SD
-http://cdn99.one:80/Marina10/10Marina/72370.ts
-#EXTINF:-1,TLC FHD [H265]
+#EXTINF:-1 tvg-id="Tlc.br" tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72372.ts
-#EXTINF:-1,TLC 4K FHDR
+#EXTINF:-1 tvg-id="Tlc.br" tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103465.ts
-#EXTINF:-1,TLC FHD
+#EXTINF:-1 tvg-id="Tlc.br" tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC FHD
 http://cdn99.one:80/Marina10/10Marina/72371.ts
-#EXTINF:-1,TLC HD
+#EXTINF:-1 tvg-id="Tlc.br" tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC HD
 http://cdn99.one:80/Marina10/10Marina/72373.ts
-#EXTINF:-1,TLC SD
+#EXTINF:-1 tvg-id="Tlc.br" tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC SD
 http://cdn99.one:80/Marina10/10Marina/72374.ts
-#EXTINF:-1,TNT FHD [H265]
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72376.ts
-#EXTINF:-1,TNT 4K FHDR
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/72377.ts
-#EXTINF:-1,TNT FHD
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
 http://cdn99.one:80/Marina10/10Marina/72375.ts
-#EXTINF:-1,TNT FHD [LEG]
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90674.ts
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
 http://cdn99.one:80/Marina10/10Marina/72378.ts
-#EXTINF:-1,TNT HD [LEG]
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90673.ts
-#EXTINF:-1,TNT SD
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT SD
 http://cdn99.one:80/Marina10/10Marina/72379.ts
-#EXTINF:-1,TNT SD [LEG]
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90672.ts
-#EXTINF:-1,TNT Series FHD [H265]
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72381.ts
-#EXTINF:-1,TNT Series 4K FHDR
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/72382.ts
-#EXTINF:-1,TNT Series FHD
+##EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series FHD
 http://cdn99.one:80/Marina10/10Marina/72380.ts
-#EXTINF:-1,TNT Series FHD [LEG]
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series FHD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90671.ts
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD
 http://cdn99.one:80/Marina10/10Marina/72383.ts
-#EXTINF:-1,TNT Series HD [LEG]
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90670.ts
-#EXTINF:-1,TNT Series SD
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series SD
 http://cdn99.one:80/Marina10/10Marina/72384.ts
-#EXTINF:-1,TNT Series SD [LEG]
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series SD [LEG]
 http://cdn99.one:80/Marina10/10Marina/90669.ts
-#EXTINF:-1,Tooncast SD
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast SD
 http://cdn99.one:80/Marina10/10Marina/72385.ts
-#EXTINF:-1,TV Aparecida FHD [H265]
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72395.ts
-#EXTINF:-1,TV Aparecida 4K FHDR
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103464.ts
-#EXTINF:-1,TV Aparecida FHD
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida FHD
 http://cdn99.one:80/Marina10/10Marina/72394.ts
-#EXTINF:-1,TV Aparecida HD
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida HD
 http://cdn99.one:80/Marina10/10Marina/72396.ts
-#EXTINF:-1,TV Aparecida SD
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida SD
 http://cdn99.one:80/Marina10/10Marina/72397.ts
-#EXTINF:-1,TV Cancao Nova SD
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-logo="http://s.eyplay.io/logos/canais/cancaonova.png" group-title="Canais | Abertos",TV Canção Nova SD
 http://cdn99.one:80/Marina10/10Marina/72404.ts
-#EXTINF:-1,TV Gazeta FHD [H265]
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura FHD [H265]
+http://cdn99.one:80/Marina10/10Marina/71852.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura 4K FHDR
+http://cdn99.one:80/Marina10/10Marina/103513.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura FHD
+http://cdn99.one:80/Marina10/10Marina/71851.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura HD
+http://cdn99.one:80/Marina10/10Marina/71853.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura SD
+http://cdn99.one:80/Marina10/10Marina/71854.ts
+#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/104919.ts
-#EXTINF:-1,TV Gazeta SP FHD
+#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP FHD
 http://cdn99.one:80/Marina10/10Marina/104917.ts
-#EXTINF:-1,TV Gazeta SP HD
+#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP HD
 http://cdn99.one:80/Marina10/10Marina/72406.ts
-#EXTINF:-1,TV Gazeta SP SD
+#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP SD
 http://cdn99.one:80/Marina10/10Marina/104918.ts
-#EXTINF:-1,TV Novo Tempo FHD [H265]
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="http://s.eyplay.io/logos/canais/novotempo.png" group-title="Canais | Abertos",TV Novo Tempo FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72409.ts
-#EXTINF:-1,TV Novo Tempo 4K FHDR
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="http://s.eyplay.io/logos/canais/novotempo.png" group-title="Canais | Abertos",TV Novo Tempo 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103459.ts
-#EXTINF:-1,TV Novo Tempo FHD
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="http://s.eyplay.io/logos/canais/novotempo.png" group-title="Canais | Abertos",TV Novo Tempo FHD
 http://cdn99.one:80/Marina10/10Marina/72408.ts
-#EXTINF:-1,TV Novo Tempo HD
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="http://s.eyplay.io/logos/canais/novotempo.png" group-title="Canais | Abertos",TV Novo Tempo HD
 http://cdn99.one:80/Marina10/10Marina/72410.ts
-#EXTINF:-1,TV Novo Tempo SD
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="http://s.eyplay.io/logos/canais/novotempo.png" group-title="Canais | Abertos",TV Novo Tempo SD
 http://cdn99.one:80/Marina10/10Marina/72411.ts
-#EXTINF:-1,TV Ra-Tim-Bum FHD [H265]
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72413.ts
-#EXTINF:-1,TV Ra-Tim-Bum FHD
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD
 http://cdn99.one:80/Marina10/10Marina/72412.ts
-#EXTINF:-1,TV Ra-Tim-Bum HD
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra-Tim-Bum HD
 http://cdn99.one:80/Marina10/10Marina/72414.ts
-#EXTINF:-1,TV Ra-Tim-Bum SD
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra-Tim-Bum SD
 http://cdn99.one:80/Marina10/10Marina/72415.ts
-#EXTINF:-1,TV Ra Tim Bum 4K FHDR
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum 4K FHDR
 http://cdn99.one:80/Marina10/10Marina/103458.ts
-#EXTINF:-1,Universal TV FHD [H265]
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV FHD [H265]
 http://cdn99.one:80/Marina10/10Marina/72420.ts
