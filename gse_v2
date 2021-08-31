@@ -548,7 +548,7 @@ http://pfsv.io:80/33732940/14864/30264
 http://pfsv.io:80/33732940/14864/145
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon SD
 http://pfsv.io:80/33732940/14864/159
-#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/novotempo.png" group-title="Canais | Abertos",Novo Tempo FHD [H265]
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="http://static.clubsrv.me/logos/canais/novotempo.png" group-title="Canais | Abertos",Novo Tempo FHD [H265]
 http://pfsv.io:80/33732940/14864/30294
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
 http://pfsv.io:80/33732940/14864/296
