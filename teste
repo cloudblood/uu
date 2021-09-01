@@ -6,3 +6,23 @@ http://ss.5ce.co/get.php?username=Islane&password=Jg6tt534yv&type=m3u_plus&outpu
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", DESENHOS
 #EXTBG:https://i.imgur.com/ol2GeQg.png
 http://ss.5ce.co/get.php?username=Islane&password=Jg6tt534yv&type=m3u_plus&output=ts&category=6
+
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS
+#EXTBG:https://i.imgur.com/JCcgEeo.png
+https://kvzt.000webhostapp.com/01-TzVk-Main
+#EXTM3U size="Big"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",LISTA PRINCIPAL
+#EXTBG:https://i.imgur.com/JCcgEeo.png
+https://kvzt.000webhostapp.com/02-TzVk-Filmes
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CHECK LIST
+#EXTBG:https://i.imgur.com/JCcgEeo.png
+https://kvzt.000webhostapp.com/10-TzVk-Check%20List
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES 2021
+#EXTBG:https://i.imgur.com/vnPmfhz.png
+https://kvzt.000webhostapp.com/08-TzVk-Cel
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES
+#EXTBG:https://i.imgur.com/vJD9S1U.png
+https://kvzt.000webhostapp.com/09-TzVk-Antigos
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",TWD 11 TMP
+#EXTBG:https://i.imgur.com/vJD9S1U.png
+https://kvzt.000webhostapp.com/03-TzVk-Series
