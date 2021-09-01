@@ -1,0 +1,8 @@
+#EXTM3U size="big"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", TV AO VIVO
+#EXTBG:https://i.imgur.com/KLF9P7F.png
+http://ss.5ce.co/get.php?username=Islane&password=Jg6tt534yv&type=m3u_plus&output=hls&category=1
+
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", DESENHOS
+#EXTBG:https://i.imgur.com/ol2GeQg.png
+http://ss.5ce.co/get.php?username=Islane&password=Jg6tt534yv&type=m3u_plus&output=ts&category=6
