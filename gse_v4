@@ -308,16 +308,14 @@ http://dns.icut.live:80/10315355/86234783/691
 http://dns.icut.live:80/10315355/86234783/692
 #EXTINF:-1,GLOBO NEWS SD
 http://dns.icut.live:80/10315355/86234783/693
-#EXTINF:-1,Globo 4K
-http://dns.icut.live:80/10315355/86234783/231
-#EXTINF:-1,Globo SP
-http://dns.icut.live:80/10315355/86234783/45855
 #EXTINF:-1,GLOBO SP FHD
 http://dns.icut.live:80/10315355/86234783/545
 #EXTINF:-1,GLOBO SP FHD H265
 http://dns.icut.live:80/10315355/86234783/45859
 #EXTINF:-1,Globo SP HD
 http://dns.icut.live:80/10315355/86234783/45805
+#EXTINF:-1,Globo SP
+http://dns.icut.live:80/10315355/86234783/45855
 #EXTINF:-1,GNT (H265)
 http://dns.icut.live:80/10315355/86234783/13887
 #EXTINF:-1,GNT FHD
