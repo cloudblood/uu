@@ -42,6 +42,8 @@ http://api.magiaiptv.com/live/800195/918609/m1_JCr0n6KJkWbSR5_1080p
 http://api.magiaiptv.com/live/800195/918609/m4_AHRTkrZ8VGUFaC1ctW0db5O6_720p
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",BOOMERANG
 http://api.magiaiptv.com/live/800195/918609/m4_0LsT3zQewCyqpN6kUJEaSZg1_720p
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/canalbrasil.png" group-title="Canais | Documentários",CANAL BRASIL HD
+http://api.magiaiptv.com/live/800195/918609/m1_UVrzPuTGO0BN95S7pDmtyIx8_720p
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network
 http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD+
@@ -242,6 +244,8 @@ http://api.magiaiptv.com/live/800195/918609/m1_Twn2W0CULpszhNfuo_1080p
 http://api.magiaiptv.com/live/800195/918609/m2_4NBa1dLVoRqQuEisXnlh5tge_720p
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",LifeTime
 http://api.magiaiptv.com/live/800195/918609/m2_hrRidPDANy3S52Ljmwtx978F_720p
+#EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" group-title="Canais | Documentários",MAIS NA TELA HD
+http://api.magiaiptv.com/live/800195/918609/p2_m9r8CDmKpOoF
 #EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
 http://api.magiaiptv.com/live/800195/918609/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_720p
 #EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD+
