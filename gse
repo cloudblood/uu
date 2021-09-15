@@ -1,6 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AgroPlus.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/AgroMais.png" group-title="Canais | Notícias",Agro+
+#EPG - https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml
+
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/AgroMais.png" group-title="Canais | Notícias",Agro+
 http://api.magiaiptv.com/live/800195/918609/m2_fqENpMkneTxmancB_720p
 #EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
 http://api.magiaiptv.com/live/800195/918609/p1_ae
@@ -22,11 +24,11 @@ http://api.magiaiptv.com/live/800195/918609/m3_OHAJwrM6poGAZu6Uj_720p
 http://api.magiaiptv.com/live/800195/918609/m3_OHAJwrM6poGAZu6Uj_720p_2M
 #EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://s.eyplay.io/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN UHD
 http://api.magiaiptv.com/live/800195/918609/m3_OHAJwrM6poGAZu6Uj_1080p
-#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",BAND NEWS
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",BAND NEWS
 http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_720p
-#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",BAND NEWS+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",BAND NEWS+
 http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_720p_2M
-#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",BAND NEWS UHD
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" group-title="Canais | Notícias",BAND NEWS UHD
 http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_1080p
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",BAND HDTV
 http://api.magiaiptv.com/live/800195/918609/m3_3zFNpotNh0Q0iR_720p
@@ -34,19 +36,19 @@ http://api.magiaiptv.com/live/800195/918609/m3_3zFNpotNh0Q0iR_720p
 http://api.magiaiptv.com/live/800195/918609/m3_3zFNpotNh0Q0iR_720p_2M
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",BAND HDTV UHD
 http://api.magiaiptv.com/live/800195/918609/m3_3zFNpotNh0Q0iR_1080p
-#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",BAND Sports HD
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",BAND Sports HD
 http://api.magiaiptv.com/live/800195/918609/m1_JCr0n6KJkWbSR5_720p
-#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",BAND Sports HD+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",BAND Sports HD+
 http://api.magiaiptv.com/live/800195/918609/m1_JCr0n6KJkWbSR5_720p_2M
-#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",BAND Sports UHD
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",BAND Sports UHD
 http://api.magiaiptv.com/live/800195/918609/m1_JCr0n6KJkWbSR5_1080p
-#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS HD
+#EXTINF:-1 tvg-id="Bishd.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS HD
 http://api.magiaiptv.com/live/800195/918609/m4_AHRTkrZ8VGUFaC1ctW0db5O6_720p
-#EXTINF:-1 tvg-id=" BoaVontadeTV.br " tvg-logo="http://s.eyplay.io/logos/canais/boavontade.png" group-title="Canais | Abertos", Boa Vontade TV
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-logo="http://s.eyplay.io/logos/canais/boavontade.png" group-title="Canais | Abertos", Boa Vontade TV
 http://api.magiaiptv.com/live/800195/918609/m2_caNKuFc0fWMFFRMgJj_720p
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",BOOMERANG
 http://api.magiaiptv.com/live/800195/918609/m4_0LsT3zQewCyqpN6kUJEaSZg1_720p
-#EXTINF:-1 tvg-id=" CanalBrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/canalbrasil.png" group-title="Canais | Documentários",CANAL BRASIL HD
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/canalbrasil.png" group-title="Canais | Documentários",CANAL BRASIL HD
 http://api.magiaiptv.com/live/800195/918609/m1_UVrzPuTGO0BN95S7pDmtyIx8_720p
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network
 http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p
@@ -60,15 +62,15 @@ http://api.magiaiptv.com/live/800195/918609/m2_2bJRKdayBWQpTsZ8gPwq6iX0_720p
 http://api.magiaiptv.com/live/800195/918609/m2_2bJRKdayBWQpTsZ8gPwq6iX0_720p_2M
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax UHD
 http://api.magiaiptv.com/live/800195/918609/m2_2bJRKdayBWQpTsZ8gPwq6iX0_1080p
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN BRASIL HD+
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN BRASIL HD+
 http://api.magiaiptv.com/live/800195/918609/m2_1KBrVeObLx7wqyN8g_720p_2M
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN BRASIL UHD
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN BRASIL UHD
 http://api.magiaiptv.com/live/800195/918609/m1_1KBrVeObLx7wqyN8g_1080p
-#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE HD
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE HD
 http://api.magiaiptv.com/live/800195/918609/m3_kxiCuVcr9XvcEbXgX_720p
-#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE HD+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE HD+
 http://api.magiaiptv.com/live/800195/918609/m3_kxiCuVcr9XvcEbXgX_720p_2M
-#EXTINF:-1 tvg-id="Combate.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE UHD
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE UHD
 http://api.magiaiptv.com/live/800195/918609/m3_kxiCuVcr9XvcEbXgX_1080p
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central HD
 http://api.magiaiptv.com/live/800195/918609/m1_XypHPFmzuIfLK41oZNncQelA_720p
@@ -76,13 +78,13 @@ http://api.magiaiptv.com/live/800195/918609/m1_XypHPFmzuIfLK41oZNncQelA_720p
 http://api.magiaiptv.com/live/800195/918609/m1_XypHPFmzuIfLK41oZNncQelA_720p_2M
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central UHD
 http://api.magiaiptv.com/live/800195/918609/m1_XypHPFmzuIfLK41oZNncQelA_1080p
-#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",conmebol TV 1 HD
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",conmebol TV 1 HD
 http://api.magiaiptv.com/live/800195/918609/m2_xrNh5O0VIHWdGhbT5J_720p
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",conmebol TV 2 HD
+#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",conmebol TV 2 HD
 http://api.magiaiptv.com/live/800195/918609/m3_GY9pO8alp1jpZl8lcIcqH_720p
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",conmebol TV 3 HD
+#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",conmebol TV 3 HD
 http://api.magiaiptv.com/live/800195/918609/m1_6ciY4GBUyDczLxioSo_720p
-#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",conmebol TV 4 HD
+#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-logo="https://evolucion.conmebol.com/wp-content/themes/conmebol/assets/images/conmebol-logo-pleno.png" group-title="Canais | Conmebol",conmebol TV 4 HD
 http://api.magiaiptv.com/live/800195/918609/m1_bLyQSHesKIXQoFVH_720p
 #EXTINF:-1 tvg-id="Curta.br" tvg-logo="http://s.eyplay.io/logos/canais/curta.png" group-title="Canais | Variedades",Curta! HD
 http://api.magiaiptv.com/live/800195/918609/m4_XgNO9IDpXPmONVqRSDd5_720p
@@ -122,9 +124,9 @@ http://api.magiaiptv.com/live/800195/918609/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p
 http://api.magiaiptv.com/live/800195/918609/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p_2M
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD HD
 http://api.magiaiptv.com/live/800195/918609/m1_2lt7haK8B0Gm3sDHTzW9eSdF_720p
-#EXTINF:-1 tvg-id="DOGTV.br" tvg-logo="http://s.eyplay.io/logos/canais/dogtv.png" group-title="Canais | Variedades",DOG HD
+#EXTINF:-1 tvg-id="DogTV.pt" tvg-logo="http://s.eyplay.io/logos/canais/dogtv.png" group-title="Canais | Variedades",DOG HD
 http://api.magiaiptv.com/live/800195/918609/p1_eimaxx2_265
-#EXTINF:-1 tvg-id="DOGTV.br" tvg-logo="http://s.eyplay.io/logos/canais/dogtv.png" group-title="Canais | Variedades",DOG HD+
+#EXTINF:-1 tvg-id="DogTV.pt" tvg-logo="http://s.eyplay.io/logos/canais/dogtv.png" group-title="Canais | Variedades",DOG HD+
 http://api.magiaiptv.com/live/800195/918609/p1_eimaxx2_264
 #EXTINF:-1 tvg-id="E.br" tvg-logo="http://s.eyplay.io/logos/canais/e!.png" group-title="Canais | Variedades",E!
 http://api.magiaiptv.com/live/800195/918609/m4_MLyp2YcnBaoNT1DdC3FOsiHE_720p
@@ -152,7 +154,7 @@ http://api.magiaiptv.com/live/800195/918609/m3_ScQBL06LuJftF_720p_2M
 http://api.magiaiptv.com/live/800195/918609/m3_ScQBL06LuJftF_1080p
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN EXTRA HD
 http://api.magiaiptv.com/live/800195/918609/m1_ByxjeSWip68MPJsHRqZ2vku_720p
-#EXTINF:-1 tvg-id="film-arts" tvg-logo="http://s.eyplay.io/logos/canais/film&arts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-logo="http://s.eyplay.io/logos/canais/film&arts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
 http://api.magiaiptv.com/live/800195/918609/m1_Mc2C471tZ5w0PF_720p
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports HD
 http://api.magiaiptv.com/live/800195/918609/m2_AkF7moyJqBpWr5L3ctZXu8D6_720p
@@ -166,29 +168,29 @@ http://api.magiaiptv.com/live/800195/918609/m2_5jJXtWhS6iP43DGF1porNTkZ_720p
 http://api.magiaiptv.com/live/800195/918609/m2_5jJXtWhS6iP43DGF1porNTkZ_720p_2M
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 UHD
 http://api.magiaiptv.com/live/800195/918609/m2_5jJXtWhS6iP43DGF1porNTkZ_4M
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura
 http://api.magiaiptv.com/live/800195/918609/m1_m9QFijWCzoVs4P20h8e5nJuc_720p
 #EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX HD
 http://api.magiaiptv.com/live/800195/918609/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p
 #EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX HD+
 http://api.magiaiptv.com/live/800195/918609/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p_2M
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",GLOBO NEWS HD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",GLOBO NEWS HD
 http://api.magiaiptv.com/live/800195/918609/p3_TkpBaA2SR5zzC0o
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",GLOBO NEWS HD+
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",GLOBO NEWS HD+
 http://api.magiaiptv.com/live/800195/918609/p2_JLtVbmIgNqEC
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",GLOBO News UHD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",GLOBO News UHD
 http://api.magiaiptv.com/live/800195/918609/m3_1R7hfaksLPjw6EHrN8XGvFSo_1080p
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",GLOBO SP HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",GLOBO SP HD
 http://api.magiaiptv.com/live/800195/918609/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",GLOBO SP HD+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",GLOBO SP HD+
 http://api.magiaiptv.com/live/800195/918609/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p_2M
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",GLOBO SP UHD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",GLOBO SP UHD
 http://api.magiaiptv.com/live/800195/918609/m2_bz2lc7s8PV3avHAgjnFxpM0w_4M
-#EXTINF:-1 tvg-id="GNT.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD
+#EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD
 http://api.magiaiptv.com/live/800195/918609/m4_sz5R7Z8PDOtEIxlNHhQa3FrB_720p
-#EXTINF:-1 tvg-id="GNT.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD+
 http://api.magiaiptv.com/live/800195/918609/m4_sz5R7Z8PDOtEIxlNHhQa3FrB_720p_2M
-#EXTINF:-1 tvg-id="GNT.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT UHD
+#EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT UHD
 http://api.magiaiptv.com/live/800195/918609/m2_rtAxUDgeU6PymlSVe_1080p
 #EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
 http://api.magiaiptv.com/live/800195/918609/m2_zkn1fCBO864eFG2YAhcyvMSK_720p
@@ -208,11 +210,11 @@ http://api.magiaiptv.com/live/800195/918609/m1_12lcPN9AZmu4stMvYfbwLpEC_720p
 http://api.magiaiptv.com/live/800195/918609/m1_12lcPN9AZmu4stMvYfbwLpEC_720p_2M
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO FAMILY UHD
 http://api.magiaiptv.com/live/800195/918609/m1_12lcPN9AZmu4stMvYfbwLpEC_1080p
-#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI HD
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI HD
 http://api.magiaiptv.com/live/800195/918609/m1_5WH0Gjho4rRixEgqd6AytkQK_720p
-#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI HD+
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI HD+
 http://api.magiaiptv.com/live/800195/918609/m1_5WH0Gjho4rRixEgqd6AytkQK_720p_2M
-#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI UHD
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI UHD
 http://api.magiaiptv.com/live/800195/918609/m1_5WH0Gjho4rRixEgqd6AytkQK_1080p
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO PLUS HD
 http://api.magiaiptv.com/live/800195/918609/m3_e3NCvF9iM4mAJLqPnXcgDKOQ_720p
@@ -220,11 +222,11 @@ http://api.magiaiptv.com/live/800195/918609/m3_e3NCvF9iM4mAJLqPnXcgDKOQ_720p
 http://api.magiaiptv.com/live/800195/918609/m3_e3NCvF9iM4mAJLqPnXcgDKOQ_720p_2M
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO PLUS UHD
 http://api.magiaiptv.com/live/800195/918609/m3_e3NCvF9iM4mAJLqPnXcgDKOQ_1080p
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP HD
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP HD
 http://api.magiaiptv.com/live/800195/918609/m4_LQkKYu0HSy8qaItnDb4MEOxR_720p
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP HD+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP HD+
 http://api.magiaiptv.com/live/800195/918609/m4_LQkKYu0HSy8qaItnDb4MEOxR_720p_2M
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP UHD
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP UHD
 http://api.magiaiptv.com/live/800195/918609/m4_LQkKYu0HSy8qaItnDb4MEOxR_1080p
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO SIGNATURE HD
 http://api.magiaiptv.com/live/800195/918609/m1_OdPulekED31pKzSVvn5a6xcZ_720p
@@ -232,13 +234,13 @@ http://api.magiaiptv.com/live/800195/918609/m1_OdPulekED31pKzSVvn5a6xcZ_720p
 http://api.magiaiptv.com/live/800195/918609/m1_OdPulekED31pKzSVvn5a6xcZ_720p_2M
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO SIGNATURE UHD
 http://api.magiaiptv.com/live/800195/918609/m1_OdPulekED31pKzSVvn5a6xcZ_1080p
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME HD
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME HD
 http://api.magiaiptv.com/live/800195/918609/m4_QlfKVdFeENbB8wAhXUWnrTk_720p
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME HD+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME HD+
 http://api.magiaiptv.com/live/800195/918609/m4_QlfKVdFeENbB8wAhXUWnrTk_720p_2M
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME UHD
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME UHD
 http://api.magiaiptv.com/live/800195/918609/m4_QlfKVdFeENbB8wAhXUWnrTkD_1080p
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV
 http://api.magiaiptv.com/live/800195/918609/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel HD
 http://api.magiaiptv.com/live/800195/918609/m1_sd6noaLRmHrcTYkGvhOJp0Di_720p
@@ -256,7 +258,7 @@ http://api.magiaiptv.com/live/800195/918609/m1_Twn2W0CULpszhNfuo_1080p
 http://api.magiaiptv.com/live/800195/918609/m2_4NBa1dLVoRqQuEisXnlh5tge_720p
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",LifeTime
 http://api.magiaiptv.com/live/800195/918609/m2_hrRidPDANy3S52Ljmwtx978F_720p
-#EXTINF:-1 tvg-id="MaisnaTela.br" tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" group-title="Canais | Documentários",MAIS NA TELA HD
+#EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" group-title="Canais | Documentários",MAIS NA TELA HD
 http://api.magiaiptv.com/live/800195/918609/p2_m9r8CDmKpOoF
 #EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
 http://api.magiaiptv.com/live/800195/918609/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_720p
@@ -296,11 +298,11 @@ http://api.magiaiptv.com/live/800195/918609/m3_gfhwmlxs0RuYqQ2vJScU6B4t_720p
 http://api.magiaiptv.com/live/800195/918609/m2_AMfMEhzFmeZeeA3il_720p
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel UHD
 http://api.magiaiptv.com/live/800195/918609/m3_gfhwmlxs0RuYqQ2vJScU6B4t_1080p
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",PREMIERE CLUBES HD
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",PREMIERE CLUBES HD
 http://api.magiaiptv.com/live/800195/918609/p2_wAhvdtYSSpFDqL2XTgG1
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",PREMIERE CLUBES HD+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",PREMIERE CLUBES HD+
 http://api.magiaiptv.com/live/800195/918609/m1_xjR88zvaHgI1fyeQS_720p_2M
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",PREMIERE CLUBES UHD
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",PREMIERE CLUBES UHD
 http://api.magiaiptv.com/live/800195/918609/m1_xjR88zvaHgI1fyeQS_1080p
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",PREMIERE 2 HD
 http://api.magiaiptv.com/live/800195/918609/m1_UJlOHOurcXIINOMI8C_720p
@@ -334,29 +336,29 @@ http://api.magiaiptv.com/live/800195/918609/m3_Z60O0vqPgGWm5AZ_720p_2M
 http://api.magiaiptv.com/live/800195/918609/m3_Z60O0vqPgGWm5AZ_1080p_4M
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",PREMIERE 7
 http://api.magiaiptv.com/live/800195/918609/m4_UjpdfkIRnXrYxZ6oGgq8NPJl_720p
-#EXTINF:-1 tvg-id=" RecordNews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD
 http://api.magiaiptv.com/live/800195/918609/m2_dHYy9wieO2jb1QALkn30rI7u_720p
-#EXTINF:-1 tvg-id=" RecordNews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD+
 http://api.magiaiptv.com/live/800195/918609/m2_dHYy9wieO2jb1QALkn30rI7u_720p
-#EXTINF:-1 tvg-id="RecordSaoPaulo.br" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP HD
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP HD
 http://api.magiaiptv.com/live/800195/918609/m1_TDMwn2WGBHS0CUpsbzhNfuo5_720p
-#EXTINF:-1 tvg-id="RecordSaoPaulo.br" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP HD+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP HD+
 http://api.magiaiptv.com/live/800195/918609/m1_TDMwn2WGBHS0CUpsbzhNfuo5_720p_2M
-#EXTINF:-1 tvg-id="RecordSaoPaulo.br" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP
 http://api.magiaiptv.com/live/800195/918609/m3_6zJcLYxLJH3bOq_720p
-#EXTINF:-1 tvg-id="RecordSaoPaulo.br" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP UHD
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP UHD
 http://api.magiaiptv.com/live/800195/918609/m2_bjDfsjmxE9MVSgq_1080p
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="http://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Abertos",Rede Vida HD
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="http://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Abertos",Rede Vida HD
 http://api.magiaiptv.com/live/800195/918609/m4_U41xTcfkKEg5wSdFHCzXamLv_720p
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! HD
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! HD
 http://api.magiaiptv.com/live/800195/918609/m3_NF1sEbwngvMJk7fW9CRyOxQd_720p
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! HD+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! HD+
 http://api.magiaiptv.com/live/800195/918609/m3_NF1sEbwngvMJk7fW9CRyOxQd_720p
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! UHD
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! UHD
 http://api.magiaiptv.com/live/800195/918609/m3_NF1sEbwngvMJk7fW9CRyOxQd_1080p
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD
 http://api.magiaiptv.com/live/800195/918609/m1_DV2bTcq67LA3L7UN_720p
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD+
 http://api.magiaiptv.com/live/800195/918609/m1_DV2bTcq67LA3L7UN_720p_2M
 #EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://s.eyplay.io/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel HD
 http://api.magiaiptv.com/live/800195/918609/m3_kMewqpTKfyYadI1gm05U8cv_720p
@@ -368,23 +370,23 @@ http://api.magiaiptv.com/live/800195/918609/m4_ymZnQGTRxLhgzKBYlOekpfso_720p
 http://api.magiaiptv.com/live/800195/918609/m4_ymZnQGTRxLhgzKBYlOekpfso_720p_2M
 #EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",SPACE UHD
 http://api.magiaiptv.com/live/800195/918609/m4_ymZnQGTRxLhgzKBYlOekpfso_1080p
-#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
 http://api.magiaiptv.com/live/800195/918609/p2_AD5dvVfj6egLHxBwARO
-#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD+
 http://api.magiaiptv.com/live/800195/918609/p3_jUB9PDqLPI4ma3xxj
-#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV UHD
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV UHD
 http://api.magiaiptv.com/live/800195/918609/m1_welG1zUJ8o7XxE78c_1080p
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV2 HD
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV2 HD
 http://api.magiaiptv.com/live/800195/918609/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV2 HD+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV2 HD+
 http://api.magiaiptv.com/live/800195/918609/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV2 UHD
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV2 UHD
 http://api.magiaiptv.com/live/800195/918609/m2_ylU0WsVR9po4ChFn7J3vkMxb_1080p
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3
 http://api.magiaiptv.com/live/800195/918609/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3 HD+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3 HD+
 http://api.magiaiptv.com/live/800195/918609/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3 UHD
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3 UHD
 http://api.magiaiptv.com/live/800195/918609/m1_vzd4MQvFCKUahymwGL_1080p
 #EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD
 http://api.magiaiptv.com/live/800195/918609/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p
@@ -412,41 +414,41 @@ http://api.magiaiptv.com/live/800195/918609/p1_tbs
 http://api.magiaiptv.com/live/800195/918609/p2_tbs_265
 #EXTINF:-1 tvg-id="Tcm.br" tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM
 http://api.magiaiptv.com/live/800195/918609/m3_pj4cLmD0b6X3vC5Swglds82_720p
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
 http://api.magiaiptv.com/live/800195/918609/m4_v3oMzfY2ElwRtWGhiKmNkq1y_720p
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD+
 http://api.magiaiptv.com/live/800195/918609/m4_v3oMzfY2ElwRtWGhiKmNkq1y_720p_2M
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action UHD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action UHD
 http://api.magiaiptv.com/live/800195/918609/m1_NOsF4AGlqvbJNCi04i_1080p
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
 http://api.magiaiptv.com/live/800195/918609/p1_elU6jbln7IpQhaGbPo
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD+
 http://api.magiaiptv.com/live/800195/918609/p3_UAaQpRWMu6ZKs55
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult  UHD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult  UHD
 http://api.magiaiptv.com/live/800195/918609/m1_NG6Nw6gdfpX8KwYq_1080p
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine FUN HD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine FUN HD
 http://api.magiaiptv.com/live/800195/918609/m1_BLoVMP46Uef2mWjQO7R9qTFK_720p
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine FUN HD+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine FUN HD+
 http://api.magiaiptv.com/live/800195/918609/m1_BLoVMP46Uef2mWjQO7R9qTFK_720p_2M
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine FUN UHD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine FUN UHD
 http://api.magiaiptv.com/live/800195/918609/m1_qrbzstbsBWoFSEuW_1080p
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
 http://api.magiaiptv.com/live/800195/918609/m3_KnwJ0by8GYtpiOFVERcWf7Br_720p
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD+
 http://api.magiaiptv.com/live/800195/918609/m3_KnwJ0by8GYtpiOFVERcWf7Br_720p_2M
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca UHD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca UHD
 http://api.magiaiptv.com/live/800195/918609/m2_tr4XCBTcjDSAeTqKva_1080p
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
 http://api.magiaiptv.com/live/800195/918609/p2_dT9PKY9IVpaU2q0fC
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD+
 http://api.magiaiptv.com/live/800195/918609/p2_8J4F7nZ8rS5V2B873
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium UHD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium UHD
 http://api.magiaiptv.com/live/800195/918609/m1_V8rYXO05ZFn3R3BeT_1080p
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
 http://api.magiaiptv.com/live/800195/918609/p3_LKHjjtaXmjpQXTrPHjO
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD+
 http://api.magiaiptv.com/live/800195/918609/p3_HpdM1hXf25sjTpqp
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch UHD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch UHD
 http://api.magiaiptv.com/live/800195/918609/m2_X1oPbHVx1IJxY5Mhqr_1080p
 #EXTINF:-1 tvg-id="Tlc.br" tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Filmes e Séries",TLC HD
 http://api.magiaiptv.com/live/800195/918609/m3_7cvjeTrmGuLBSUHYx4K0zWlQ_720p
@@ -468,13 +470,13 @@ http://api.magiaiptv.com/live/800195/918609/m3_sRbp5StxJynqjZmGAElF28Br_720p
 http://api.magiaiptv.com/live/800195/918609/m3_sRbp5StxJynqjZmGAElF28Br_1080p
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",TOONCAST
 http://api.magiaiptv.com/live/800195/918609/m3_KGR10hqwafADCENgJjbZ34TS_720p
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida HD
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://static.clubsrv.me/logos/canais/aparecida.png" group-title="Canais | Abertos",TV Aparecida HD
 http://api.magiaiptv.com/live/800195/918609/m1_dTOv464HlnrYIj9MYyE2_720p
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura HD
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura HD
 http://api.magiaiptv.com/live/800195/918609/m2_MvNKiUyrzsEqeSBDdgmf7LIG_720p
-#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta HD
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta HD
 http://api.magiaiptv.com/live/800195/918609/m3_kfSX64Fvn1EIg85ms9OitVY2_720p
-#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Rá Tim Bum
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Rá Tim Bum
 http://api.magiaiptv.com/live/800195/918609/m2_wC7Sm4H6P5xspG3aOoTXu28c_720p
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel HD
 http://api.magiaiptv.com/live/800195/918609/m3_ORgWK5d8TMi6yFNCqnSULfGv_720p
@@ -482,11 +484,11 @@ http://api.magiaiptv.com/live/800195/918609/m3_ORgWK5d8TMi6yFNCqnSULfGv_720p
 http://api.magiaiptv.com/live/800195/918609/m3_ORgWK5d8TMi6yFNCqnSULfGv_720p_2M
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel UHD
 http://api.magiaiptv.com/live/800195/918609/m3_ORgWK5d8TMi6yFNCqnSULfGv_1080p
-#EXTINF:-1 tvg-id="CanalViva.br" tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",VIVA HD
+#EXTINF:-1 tvg-id="Viva.br" tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",VIVA HD
 http://api.magiaiptv.com/live/800195/918609/m3_AB7C8CAC-850F-458_720p
-#EXTINF:-1 tvg-id="CanalViva.br" tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",VIVA HD+
+#EXTINF:-1 tvg-id="Viva.br" tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",VIVA HD+
 http://api.magiaiptv.com/live/800195/918609/m3_AB7C8CAC-850F-458_720p_2M
-#EXTINF:-1 tvg-id="CanalViva.br" tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",VIVA UHD
+#EXTINF:-1 tvg-id="Viva.br" tvg-logo="http://s.eyplay.io/logos/canais/viva.png" group-title="Canais | Variedades",VIVA UHD
 http://api.magiaiptv.com/live/800195/918609/m3_AB7C8CAC-850F-4582_1080p
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="http://s.eyplay.io/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
 http://api.magiaiptv.com/live/800195/918609/m4_dguYh1LjBTwlnKecmOPADtoN_720p
