@@ -54,8 +54,6 @@ http://api.magiaiptv.com/live/800195/918609/m1_UVrzPuTGO0BN95S7pDmtyIx8_720p
 http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD+
 http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p_2M
-#EXTINF:-1 tvg-id="Chef TV" tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" group-title="Canais | Variedades",Chef TV
-http://api.magiaiptv.com/live/800195/918609/m3_0cEzinJrg3ZUG7jd7oNG_720p
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD
 http://api.magiaiptv.com/live/800195/918609/m2_2bJRKdayBWQpTsZ8gPwq6iX0_720p
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD+
