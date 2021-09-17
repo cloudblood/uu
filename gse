@@ -54,6 +54,8 @@ http://api.magiaiptv.com/live/800195/918609/m1_UVrzPuTGO0BN95S7pDmtyIx8_720p
 http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD+
 http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p_2M
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/radiocbn.png" group-title="Canais | Notícias",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD
 http://api.magiaiptv.com/live/800195/918609/m2_2bJRKdayBWQpTsZ8gPwq6iX0_720p
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD+
@@ -154,6 +156,10 @@ http://api.magiaiptv.com/live/800195/918609/m3_ScQBL06LuJftF_1080p
 http://api.magiaiptv.com/live/800195/918609/m1_ByxjeSWip68MPJsHRqZ2vku_720p
 #EXTINF:-1 tvg-id="FilmArts.br" tvg-logo="http://s.eyplay.io/logos/canais/film&arts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
 http://api.magiaiptv.com/live/800195/918609/m1_Mc2C471tZ5w0PF_720p
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="Canais | Notícias",Fox News Channel
+http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.newsnowfox.com/img/LiveNOW_LOGO_HORIZONTAL_2_COLOR_RGB_002.png" group-title="Canais | Notícias",Fox News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports HD
 http://api.magiaiptv.com/live/800195/918609/m2_AkF7moyJqBpWr5L3ctZXu8D6_720p
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports HD+
