@@ -2,6 +2,8 @@
 
 #EPG - https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="Canais | Notícias",ABC News Australian HD
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.laughingplace.com/w/wp-content/uploads/2020/04/abc-news-live-to-launch-on-amazons-news-app-youtube-tv.png" group-title="Canais | Notícias",ABC News HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.laughingplace.com/w/wp-content/uploads/2020/04/abc-news-live-to-launch-on-amazons-news-app-youtube-tv.png" group-title="Canais | Notícias",ABC News FHD
