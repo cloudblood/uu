@@ -4,10 +4,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="Canais | Notícias",ABC News Australian HD
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/full/880-8808516_abc-logo-png-4-abc-news.png" group-title="Canais | Notícias",ABC News HD
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/full/880-8808516_abc-logo-png-4-abc-news.png" group-title="Canais | Notícias",ABC News FHD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/full/880-8808516_abc-logo-png-4-abc-news.png" group-title="Canais | Notícias",ABC News(US)
+http://api.magiaiptv.com/live/800195/918609/m3_wVqC3dUDgmaqwuCK
 #EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/AgroMais.png" group-title="Canais | Notícias",Agro+
 http://api.magiaiptv.com/live/800195/918609/m2_fqENpMkneTxmancB_720p
 #EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais | Filmes e Séries",A&E
