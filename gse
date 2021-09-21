@@ -49,7 +49,7 @@ http://api.magiaiptv.com/live/800195/918609/m1_JCr0n6KJkWbSR5_720p_2M
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",BAND Sports UHD
 http://api.magiaiptv.com/live/800195/918609/m1_JCr0n6KJkWbSR5_1080p
 #EXTINF:-1 tvg-id="" tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/16B26/production/_96566929_bbc_wn_rgb.png" group-title="Canais | Notícias",BBC World News
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+http://api.magiaiptv.com/live/800195/918609/p3_bbc_264
 #EXTINF:-1 tvg-id="Bishd.br" tvg-logo="http://s.eyplay.io/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS HD
 http://api.magiaiptv.com/live/800195/918609/m4_AHRTkrZ8VGUFaC1ctW0db5O6_720p
 #EXTINF:-1 tvg-id="Boavontadetv.br" tvg-logo="http://s.eyplay.io/logos/canais/boavontade.png" group-title="Canais | Abertos", Boa Vontade TV
