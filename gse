@@ -64,7 +64,7 @@ http://api.magiaiptv.com/live/800195/918609/m1_UVrzPuTGO0BN95S7pDmtyIx8_720p
 http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD+
 http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p_2M
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/radiocbn.png" group-title="Canais | Notícias",CBN SP
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.ibxk.com.br/2014/3/programas/113897350.png" group-title="Canais | Notícias",CBN SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD
 http://api.magiaiptv.com/live/800195/918609/m2_2bJRKdayBWQpTsZ8gPwq6iX0_720p
@@ -76,7 +76,7 @@ http://api.magiaiptv.com/live/800195/918609/m2_2bJRKdayBWQpTsZ8gPwq6iX0_1080p
 http://api.magiaiptv.com/live/800195/918609/m2_1KBrVeObLx7wqyN8g_720p_2M
 #EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN BRASIL UHD
 http://api.magiaiptv.com/live/800195/918609/m1_1KBrVeObLx7wqyN8g_1080p
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnnenespanol.png" group-title="Canais | Notícias",CNN Español
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/787px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Canais | Notícias",CNN Español
 http://api.magiaiptv.com/live/800195/918609/m2_Oepm1gV3RhQwL9LSVMW1_720p
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE HD
 http://api.magiaiptv.com/live/800195/918609/m3_kxiCuVcr9XvcEbXgX_720p
