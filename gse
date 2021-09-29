@@ -2,6 +2,8 @@
 
 #EPG - https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/246656096/logo_transp_png_400x400.png" group-title="Canais | Variedades",A FAZENDA
+http://api.magiaiptv.com/live/800195/918609/p3_afazenda
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="Canais | Notícias",ABC News Australian HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632794620/ei/nCNSYb7POJmFhwb4xp2YDA/ip/40.71.86.114/id/W1ilCy6XrmI.23/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgF412k7vJ2Or0aEu_QhIRftlpEGvdH4DrPeNXvMAJ2nQCIQCk1cAKlNEpn4WDMOGCJqo6-vB2vNJrAoLivZvYhriJ6A%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/full/880-8808516_abc-logo-png-4-abc-news.png" group-title="Canais | Notícias",ABC News(US)
