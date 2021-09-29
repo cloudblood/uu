@@ -314,12 +314,14 @@ http://api.magiaiptv.com/live/800195/918609/m1_TCGhE0gpOICiHOO9L_720p
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632794615/ei/lyNSYcujD5XhhwbappvQCA/ip/40.71.86.114/id/eB6Mu9DfvCo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgK7ynxECUCFfwGEHr9sjifTCt0coY9Ih6Wf9mtXMHM8gCIQCK_RHULH1TRQ2FhvkThC5PSOdypeHscJ9yD541EoKI9g%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic HD
 http://api.magiaiptv.com/live/800195/918609/m3_EL3INMRQYpPjqHTGoiB5OhcX_720p
-#EXTINF:-1 tvg-id="" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/04/NBCSN-logo__1308131338011.png" group-title="Canais | Esportes",NBC Sports Network (NBCSN) HD
-http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/04/NBCSN-logo__1308131338011.png" group-title="Canais | Esportes",NBC Sports Network (NBCSN) HD
-http://31.220.41.88:8081/live/nbcsn.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/04/NBCSN-logo__1308131338011.png" group-title="Canais | Esportes",NBC Sports Network (NBCSN) HD
-http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NDc6NDQgQU0maGFzaF92YWx1ZT1mTnM5YU93ZmtwZUJNcDhTdFhKbHhBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="Canais | Esportes",NBC Sports Network (NBCSN) HD
+http://31.220.41.87:8081/live/nbcsn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="Canais | Esportes",NBC Sports Network (NBCSN) HD
+http://31.220.41.88:8081/live/us-nbc.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/ued3sskkptnlpeh0artu" group-title="Canais | Esportes",NFL Network HD
+http://tecnotv.club/sep27/sport.php?c=nfl
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/ued3sskkptnlpeh0artu" group-title="Canais | Esportes",NFL Network HD
+http://blackghost.live/play/futvall-990.php?id=nfl&k=blacckkghooost&file=.m3u8
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic HD+
 http://api.magiaiptv.com/live/800195/918609/m3_EL3INMRQYpPjqHTGoiB5OhcX_720p
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic UHD
