@@ -68,6 +68,8 @@ http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p
 http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p_2M
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.ibxk.com.br/2014/3/programas/113897350.png" group-title="Canais | Notícias",CBN SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/03/cbs-logo-png-transparent.png" group-title="Canais | Variedades",CBS HD
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wcbs-dt1.m3u8
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD
 http://api.magiaiptv.com/live/800195/918609/m2_2bJRKdayBWQpTsZ8gPwq6iX0_720p
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD+
@@ -330,8 +332,6 @@ http://31.220.41.88:8081/live/us-nbc.stream/chunks.m3u8
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="Canais | Esportes",NBC Sports Network (NBCSN) HD
 http://31.220.41.87:8081/live/nbcsn.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/ued3sskkptnlpeh0artu" group-title="Canais | Esportes",NFL Network HD
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wcbs-dt1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/ued3sskkptnlpeh0artu" group-title="Canais | Esportes",NFL Network HD
 http://blackghost.live/play/futvall-990.php?id=nfl&k=blacckkghooost&f=.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",NICKELODEON HD
