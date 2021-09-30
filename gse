@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/246656096/logo_transp_png_400x400.png" group-title="Canais | Variedades",A FAZENDA
 http://api.magiaiptv.com/live/800195/918609/p3_afazenda
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abc.net.au/cm/lb/8212704/data/news-logo2017-data.png" group-title="Canais | Notícias",ABC News Australian HD
