@@ -82,8 +82,6 @@ http://api.magiaiptv.com/live/800195/918609/m1_1KBrVeObLx7wqyN8g_1080p
 http://api.magiaiptv.com/live/800195/918609/m2_Oepm1gV3RhQwL9LSVMW1_720p
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" group-title="Canais | Notícias",CNN INTERNATIONAL
 http://api.magiaiptv.com/live/800195/918609/p2_cnn_inter
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Canais | Abertos",CNT
-http://api.magiaiptv.com/live/800195/918609/m1_QwqszWbcprjy0LUWRBAM_720p
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE HD
 http://api.magiaiptv.com/live/800195/918609/m3_kxiCuVcr9XvcEbXgX_720p
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE HD+
