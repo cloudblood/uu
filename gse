@@ -52,7 +52,7 @@ http://api.magiaiptv.com/live/800195/918609/p3_bbc_264
 http://api.magiaiptv.com/live/800195/918609/m4_AHRTkrZ8VGUFaC1ctW0db5O6_720p
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.stickpng.com/images/608ff6785d1f990004970e64.png" group-title="Canais | Notícias",Bloomberg
 http://api.magiaiptv.com/live/800195/918609/p2_bloom_264
-#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-logo="http://s.eyplay.io/logos/canais/boavontade.png" group-title="Canais | Abertos", Boa Vontade TV
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-logo="http://s.eyplay.io/logos/canais/boavontade.png" group-title="Canais | Abertos",Boa Vontade TV
 http://api.magiaiptv.com/live/800195/918609/m2_caNKuFc0fWMFFRMgJj_720p
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Canais | Infantis",BOOMERANG
 http://api.magiaiptv.com/live/800195/918609/m4_0LsT3zQewCyqpN6kUJEaSZg1_720p
