@@ -1,9 +1,10 @@
-
+#EXTM3U
+#EXTINF:-1,Canais
 https://raw.githubusercontent.com/arfaxadereggae/M.A21/main/1c2021.txt
 
 ###########################################################
 
-#EXTM3U
+
 
 #EXTINF:-1 group-title="Adulto",Alice Bong
 http://pfsv.io:80/736837443/6704/58259
