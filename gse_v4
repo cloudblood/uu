@@ -1332,6 +1332,8 @@ http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6237/index.m3u
 http://cdntv.online/hls/zcsv37fe5m/1130.m3u8
 #EXTINF:-1 group-title="Canais | Adulto",Parody
 http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/6210/index.m3u
+#EXTINF:-1 group-title="Canais | Adulto",Parody
+http://wagnet.club:7000/rabia/rabia/672464
 #EXTINF:-1 group-title="Canais | Adulto",Penthouse Gold HD
 http://cdntv.online/hls/zcsv37fe5m/1124.m3u8
 #EXTINF:-1 group-title="Canais | Adulto",Penthouse Quickies
