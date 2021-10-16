@@ -80,8 +80,6 @@ http://api.magiaiptv.com/live/800195/918609/m2_1KBrVeObLx7wqyN8g_720p_2M
 http://api.magiaiptv.com/live/800195/918609/m1_1KBrVeObLx7wqyN8g_1080p
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/787px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Canais | Notícias",CNN Español
 http://api.magiaiptv.com/live/800195/918609/m2_Oepm1gV3RhQwL9LSVMW1_720p
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" group-title="Canais | Notícias",CNN INTERNATIONAL
-http://api.magiaiptv.com/live/800195/918609/p2_cnn_inter
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE HD
 http://api.magiaiptv.com/live/800195/918609/m3_kxiCuVcr9XvcEbXgX_720p
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE HD+
@@ -170,10 +168,10 @@ http://api.magiaiptv.com/live/800195/918609/m3_ScQBL06LuJftF_720p_2M
 http://api.magiaiptv.com/live/800195/918609/m3_ScQBL06LuJftF_1080p
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN EXTRA HD
 http://api.magiaiptv.com/live/800195/918609/m1_ByxjeSWip68MPJsHRqZ2vku_720p
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/Eurosport_%281994-2001%29.png/revision/latest?cb=20191218102813" group-title="Canais | Esportes",EUROSPORT 1
-http://api.magiaiptv.com/live/800195/918609/m2_EUassaafSPdfgORT_720p
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurosport_2_%282001-2011%29.svg/1024px-Eurosport_2_%282001-2011%29.svg.png" group-title="Canais | Esportes",EUROSPORT 2
-http://api.magiaiptv.com/live/800195/918609/m2_EqacRasdPfasOsyds2_720p
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="Canais | Esportes",EUROSPORT 1
+http://m5ip.club:8080/hgjcgugh/3jklrE0Q34/330529
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="Canais | Esportes",EUROSPORT 2
+http://m5ip.club:8080/hgjcgugh/3jklrE0Q34/330530
 #EXTINF:-1 tvg-id="FilmArts.br" tvg-logo="http://s.eyplay.io/logos/canais/film&arts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
 http://api.magiaiptv.com/live/800195/918609/m1_Mc2C471tZ5w0PF_720p
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkit.com/png/full/306-3069632_sky-sports-f1-1080p-sky-sports-main-event.png" group-title="Canais | Esportes",Sky Sports - Formula 1(F1)
@@ -308,6 +306,10 @@ http://api.magiaiptv.com/live/800195/918609/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p_2M
 http://api.magiaiptv.com/live/800195/918609/m1_xBEDmuNinjXaf4ZHcGkRsr7h_1080p
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-3.png" group-title="Canais | Esportes",NBA
 http://api.magiaiptv.com/live/800195/918609/m1_TCGhE0gpOICiHOO9L_720p
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Canais | Variedades",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Canais | Variedades",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic HD
 http://api.magiaiptv.com/live/800195/918609/m3_EL3INMRQYpPjqHTGoiB5OhcX_720p
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic HD+
@@ -326,12 +328,10 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="Canais | Notícias",NBC News HD UHD
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/01/NBCSN_logo-1.png" group-title="Canais | Esportes",NBC Sports Network (NBCSN) HD
-http://31.220.41.87:8081/live/nbcsn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/ued3sskkptnlpeh0artu" group-title="Canais | Esportes",NFL Network HD
-http://watchindia.net:8880/live/54739/54739/2165.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/08/NFL-RedZone.png" group-title="Canais | Esportes",NFL Red Zone HD
-http://watchindia.net:8880/live/54739/54739/2160.ts
+http://m5ip.club:8080/hgjcgugh/3jklrE0Q34/34352
+#EXTINF:-1 tvg-id="" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/08/NFL-RedZone.png" group-title="Canais | Esportes",NFL RedZone HD
+http://m5ip.club:8080/hgjcgugh/3jklrE0Q34/34353
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://s.eyplay.io/logos/canais/nick.png" group-title="Canais | Infantis",NICKELODEON HD
 http://api.magiaiptv.com/live/800195/918609/m4_aO9CGnRFViA7xDvBNf1KhzHk_720p
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Canais | Abertos",Novo Tempo
