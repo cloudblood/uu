@@ -81,6 +81,8 @@ http://api.magiaiptv.com/live/800195/918609/m1_1KBrVeObLx7wqyN8g_1080p
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnnenespanol.png" group-title="Canais | Notícias",CNN Español
 http://api.magiaiptv.com/live/800195/918609/m2_Oepm1gV3RhQwL9LSVMW1_720p
 #EXTINF:-1 tvg-id="" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Internacional
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Internacional
 http://m5ip.club:8080/hgjcgugh/3jklrE0Q34/226704
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="http://s.eyplay.io/logos/canais/combate.png" group-title="Canais | Esportes",COMBATE HD
 http://api.magiaiptv.com/live/800195/918609/m3_kxiCuVcr9XvcEbXgX_720p
