@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/246656096/logo_transp_png_400x400.png" group-title="Canais | Variedades",A FAZENDA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="Canais | Variedades",A FAZENDA
 http://api.magiaiptv.com/live/800195/918609/p3_afazenda
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbY3vKSG7WU9FGlyUYJ_dXVXe64_zpfpv1XQ&usqp=CAU" group-title="Canais | Notícias",ABC News(US)
 http://api.magiaiptv.com/live/800195/918609/m3_wVqC3dUDgmaqwuCK
