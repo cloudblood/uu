@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="Canais | Variedades",A FAZENDA
 http://api.magiaiptv.com/live/800195/918609/p3_afazenda
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbY3vKSG7WU9FGlyUYJ_dXVXe64_zpfpv1XQ&usqp=CAU" group-title="Canais | Notícias",ABC News(US)
-http://api.magiaiptv.com/live/800195/918609/m3_wVqC3dUDgmaqwuCK
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/AgroMais.png" group-title="Canais | Notícias",Agro+
 http://api.magiaiptv.com/live/800195/918609/m2_fqENpMkneTxmancB_720p
 #EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/AgroMais.png" group-title="Canais | Notícias",Agro+ HD
