@@ -324,12 +324,8 @@ http://api.magiaiptv.com/live/800195/918609/m2_yrCKvYzTLXeQrNUrR_720p
 http://api.magiaiptv.com/live/800195/918609/m2_yrCKvYzTLXeQrNUrR_720p_2M
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild UHD
 http://api.magiaiptv.com/live/800195/918609/m2_yrCKvYzTLXeQrNUrR_1080p
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="Canais | Notícias",NBC News HD
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="Canais | Notícias",NBC News HD+
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="Canais | Notícias",NBC News HD UHD
-http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/01/NBCSN_logo-1.png" group-title="Canais | Esportes",NBCSN
+http://m5ip.club:8080/hgjcgugh/3jklrE0Q34/172141
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/ued3sskkptnlpeh0artu" group-title="Canais | Esportes",NFL Network HD
 http://m5ip.club:8080/hgjcgugh/3jklrE0Q34/34352
 #EXTINF:-1 tvg-id="" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/08/NFL-RedZone.png" group-title="Canais | Esportes",NFL RedZone HD
