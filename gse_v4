@@ -1447,6 +1447,24 @@ http://s.pdsrv.io:80/live/v6vs0qrb/wmifpp30/68361.m3u8
 http://vipeiptv.com:25461/17663190818/17663190818/961699
 #EXTINF:-1 group-title="Canais | Adulto",XXX: PLAYBOY HD
 http://vipeiptv.com:25461/17663190818/17663190818/856558
+
+#EXTINF:-1 group-title="Canais | Adulto",xx 1
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | Adulto",xx 2
+http://flusonic-13.platinum-tv.com/Brazzers/index.m3u8?token=test
+#EXTINF:-1 group-title="Canais | Adulto",xx 3
+http://185.96.176.139:8080/superone/index.m3u8
+#EXTINF:-1 group-title="Canais | Adulto",xx 4
+https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Adulto",xx 5
+https://www.filmon.com/vr-streams/6149.high/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Adulto",xx 6
+https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Adulto",xx 7
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Adulto",xx 8
+https://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais | Adulto",21 SEXTURY (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
 #EXTINF:-1 group-title="Canais | Adulto",REALITYKINGS (UK)
@@ -1455,8 +1473,6 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6248/index.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5012/index.m3u8
 #EXTINF:-1 group-title="Canais | Adulto",REDLIGHT HD (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/242/index.m3u8
-#EXTINF:-1 group-title="Canais | Adulto",CHERRY PIMPES (UK)
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6185/index.m3u8
 #EXTINF:-1 group-title="Canais | Adulto",EROTIC 4 (UK)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6292/index.m3u8
 #EXTINF:-1 group-title="Canais | Adulto",BABES (UK)
