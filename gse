@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Canais | A Fazenda",A Fazenda 12 (2020)
-http://pfsv.io:80/07720253/51853/48757
-#EXTINF:-1 tvg-logo="" group-title="Canais | A Fazenda",A Fazenda 12 (2020) [ALTER]
-http://pfsv.io:80/07720253/51853/48758
+
 #EXTINF:-1 tvg-logo="http://z4.vc/uuz" group-title="Canais | Filmes e Séries",A&E HD
 http://pfsv.io:80/07720253/51853/299
 #EXTINF:-1 tvg-logo="http://z4.vc/uuz" group-title="Canais | Filmes e Séries",A&E SD
