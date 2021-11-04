@@ -1,0 +1,1110 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="BRASIL" tvg-id="Futura.br" tvg-name="Futura" tvg-logo="https://sites.google.com/site/logosiptv/" ,Futura
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12957
+#EXTINF:-1 group-title="BRASIL" tvg-id="TVCamara.br" tvg-name="TV Camara" ,TV Camara
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12958
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="TV Cultura" ,TV Cultura
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12959
+#EXTINF:-1 group-title="BRASIL" tvg-id="TVJUSTICA.br" tvg-name="TV Justica" ,TV Justica
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12960
+#EXTINF:-1 group-title="BRASIL" tvg-id="TVSenado.br" tvg-name="TV Senado" ,TV Senado
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12961
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo RJ" ,Globo RJ
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo RJ | HD" ,Globo RJ | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12963
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo RJ | FHD" ,Globo RJ | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12964
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Tv Rio Sul RJ | HD" ,Tv Rio Sul RJ | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12965
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo SP" ,Globo SP
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12966
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo SP | HD" ,Globo SP | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12967
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo SP | FHD" ,Globo SP | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/15044
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Minas" ,Globo Minas
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12968
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Minas | HD" ,Globo Minas | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12969
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Minas | FHD" ,Globo Minas | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12970
+#EXTINF:-1 group-title="BRASIL" tvg-id="GloboNordeste.br" tvg-name="Globo Nordeste" ,Globo Nordeste
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12971
+#EXTINF:-1 group-title="BRASIL" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia" ,Globo Brasilia
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12972
+#EXTINF:-1 group-title="BRASIL" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia | HD" ,Globo Brasilia | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12973
+#EXTINF:-1 group-title="BRASIL" tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia | FHD" ,Globo Brasilia | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12974
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Bahia" ,Globo Bahia
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12975
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Santa Cruz BH | HD" ,Globo Santa Cruz BH | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12976
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Subae BH | HD" ,Globo Subae BH | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12977
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Campinas" ,Globo Campinas
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12978
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Campinas | HD" ,Globo Campinas | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12979
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Campinas | FHD" ,Globo Campinas | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12980
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Bauru" ,Globo Bauru
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12981
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo SJRP" ,Globo SJRP
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12982
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Porto Alegre" ,Globo Porto Alegre
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12983
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Sorocaba" ,Globo Sorocaba
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12984
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Santos" ,Globo Santos
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12985
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo S. José Campos" ,Globo S. José Campos
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12986
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Sao Carlos" ,Globo Sao Carlos
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12987
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Ribeirao Preto" ,Globo Ribeirao Preto
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12988
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Ribeirão Preto | FHD" ,Globo Ribeirão Preto | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/15045
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo CE" ,Globo CE
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12989
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Cuiaba" ,Globo Cuiaba
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12990
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Belem" ,Globo Belem
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12991
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Belem | HD" ,Globo Belem | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12992
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Curitiba" ,Globo Curitiba
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12993
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Curitiba | HD" ,Globo Curitiba | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12994
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Paraiba | HD" ,Globo Paraiba | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12995
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo CE | HD" ,Globo CE | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12996
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo RGN" ,Globo RGN
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12997
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Cabo Frio | HD" ,Globo Cabo Frio | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12998
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo ES | FHD" ,Globo ES | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13001
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Sergipe | HD" ,Globo Sergipe | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13002
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Manaus" ,Globo Manaus
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13003
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Manaus | HD" ,Globo Manaus | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13004
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo MA | HD" ,Globo MA | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13005
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Goiania" ,Globo Goiania
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13006
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Goiania | HD" ,Globo Goiania | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13007
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Goiania | FHD" ,Globo Goiania | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13008
+#EXTINF:-1 group-title="BRASIL" tvg-id="Globo.br" tvg-name="Globo BH | HD" ,Globo BH | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13009
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Florianopolis | HD" ,Globo Florianopolis | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13010
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Gazeta SP | HD" ,Gazeta SP | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13012
+#EXTINF:-1 group-title="BRASIL" tvg-id="RedeTV.br" tvg-name="Rede TV | HD" ,Rede TV | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13014
+#EXTINF:-1 group-title="BRASIL" tvg-id="RedeTV.br" tvg-name="Rede TV | FHD" ,Rede TV | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13015
+#EXTINF:-1 group-title="BRASIL" tvg-id="BandRJ.br" tvg-name="Band RJ | HD" ,Band RJ | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13016
+#EXTINF:-1 group-title="BRASIL" tvg-id="Band.br" tvg-name="Band" ,Band
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13017
+#EXTINF:-1 group-title="BRASIL" tvg-id="Band.br" tvg-name="Band | HD" ,Band | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13018
+#EXTINF:-1 group-title="BRASIL" tvg-id="BandCampinas.br" tvg-name="Band Campinas | HD" ,Band Campinas | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13019
+#EXTINF:-1 group-title="BRASIL" tvg-id="BandBahia.br" tvg-name="Band Bahia" ,Band Bahia
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13020
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Band BSB | HD" ,Band BSB | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13021
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Band RS | HD" ,Band RS | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13022
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Band Sergipe | HD" ,Band Sergipe | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13023
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Band Paraná | HD" ,Band Paraná | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13024
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Band Goiania | HD" ,Band Goiania | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13025
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Band Goiania | FHD" ,Band Goiania | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13026
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="SBT SP" ,SBT SP
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13027
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="SBT SP | HD" ,SBT SP | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13028
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="SBT BSB | HD" ,SBT BSB | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13029
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="SBT RJ | HD" ,SBT RJ | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13030
+#EXTINF:-1 group-title="BRASIL" tvg-id="SBTRS.br" tvg-name="SBT RS | HD" ,SBT RS | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13031
+#EXTINF:-1 group-title="BRASIL" tvg-id="SBTSergipe.br" tvg-name="SBT Sergipe | HD" ,SBT Sergipe | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13032
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="SBT SC | HD" ,SBT SC | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13033
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="SBT PR | HD" ,SBT PR | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13034
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="SBT MG | HD" ,SBT MG | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13035
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="SBT Goiania | HD" ,SBT Goiania | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13036
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="SBT Goiania | FHD" ,SBT Goiania | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13037
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record SP" ,Record SP
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13038
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record SP | HD" ,Record SP | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13039
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record SP | FHD" ,Record SP | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13040
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record RJ | HD" ,Record RJ | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13041
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="RBS | HD" ,RBS | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13042
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record BSB | HD" ,Record BSB | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13043
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="RBTV ES | FHD" ,RBTV ES | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13046
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record RS | HD" ,Record RS | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13047
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record SJRP | HD" ,Record SJRP | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13048
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record Sergipe | HD" ,Record Sergipe | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13049
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record Belem | HD" ,Record Belem | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13050
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record Santos | HD" ,Record Santos | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13051
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record Minas | HD" ,Record Minas | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13052
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record Goiania | HD" ,Record Goiania | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13053
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record Goiania | FHD" ,Record Goiania | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13054
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record BH | HD" ,Record BH | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13055
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record MG" ,Record MG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13057
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record Vitoria | FHD" ,Record Vitoria | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13060
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record Campinas | HD" ,Record Campinas | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13061
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record Campinas | FHD" ,Record Campinas | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13062
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record SC | HD" ,Record SC | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13063
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Record Parana | HD" ,Record Parana | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13064
+#EXTINF:-1 group-title="BRASIL" tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" ,Rede Brasil
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13065
+#EXTINF:-1 group-title="BRASIL" tvg-id="Polishop.br" tvg-name="Polishop" ,Polishop
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13066
+#EXTINF:-1 group-title="BRASIL" tvg-id="NHK.br" tvg-name="NHK" ,NHK
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13067
+#EXTINF:-1 group-title="BRASIL" tvg-id="FoodNetwork.br" tvg-name="Food Network" ,Food Network
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13068
+#EXTINF:-1 group-title="BRASIL" tvg-id="FoodNetwork.br" tvg-name="Food Network | HD" ,Food Network | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13069
+#EXTINF:-1 group-title="BRASIL" tvg-id="FoodNetwork.br" tvg-name="Food Network | FHD" ,Food Network | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13070
+#EXTINF:-1 group-title="BRASIL" tvg-id="TLC.br" tvg-name="TLC" ,TLC
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13071
+#EXTINF:-1 group-title="BRASIL" tvg-id="TLC.br" tvg-name="TLC | HD" ,TLC | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13072
+#EXTINF:-1 group-title="BRASIL" tvg-id="TLC.br" tvg-name="TLC | FHD" ,TLC | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13073
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Fox Life" ,Fox Life
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13074
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="FOX Life | HD" ,FOX Life | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13075
+#EXTINF:-1 group-title="BRASIL" tvg-id="E.br" tvg-name="E!" ,E!
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13076
+#EXTINF:-1 group-title="BRASIL" tvg-id="E.br" tvg-name="E! | HD" ,E! | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13077
+#EXTINF:-1 group-title="BRASIL" tvg-id="E.br" tvg-name="E! | FHD" ,E! | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13078
+#EXTINF:-1 group-title="BRASIL" tvg-id="GNT.br" tvg-name="GNT" ,GNT
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13079
+#EXTINF:-1 group-title="BRASIL" tvg-id="GNT.br" tvg-name="GNT | HD" ,GNT | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13080
+#EXTINF:-1 group-title="BRASIL" tvg-id="GNT.br" tvg-name="GNT | FHD" ,GNT | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13081
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Home & Health Discovery" ,Home & Health Discovery
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13082
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Home & Health Discovery | HD" ,Home & Health Discovery | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13083
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Home & Health Discovery | FHD" ,Home & Health Discovery | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13084
+#EXTINF:-1 group-title="BRASIL" tvg-id="Off.br" tvg-name="OFF" ,OFF
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13085
+#EXTINF:-1 group-title="BRASIL" tvg-id="Off.br" tvg-name="OFF | HD" ,OFF | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13086
+#EXTINF:-1 group-title="BRASIL" tvg-id="Off.br" tvg-name="OFF | FHD" ,OFF | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13087
+#EXTINF:-1 group-title="BRASIL" tvg-id="BIS.br" tvg-name="BIS" ,BIS
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13088
+#EXTINF:-1 group-title="BRASIL" tvg-id="BIS.br" tvg-name="BIS | HD" ,BIS | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13089
+#EXTINF:-1 group-title="BRASIL" tvg-id="BIS.br" tvg-name="BIS | FHD" ,BIS | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13090
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="+Globosat" ,+Globosat
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13091
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="+Globosat | HD" ,+Globosat | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13092
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="+Globosat | FHD" ,+Globosat | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13093
+#EXTINF:-1 group-title="BRASIL" tvg-id="Viva.br" tvg-name="Viva" ,Viva
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13094
+#EXTINF:-1 group-title="BRASIL" tvg-id="Viva.br" tvg-name="Viva | HD" ,Viva | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13095
+#EXTINF:-1 group-title="BRASIL" tvg-id="SporTV.br" tvg-name="SporTV" ,SporTV
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13096
+#EXTINF:-1 group-title="BRASIL" tvg-id="SporTV.br" tvg-name="SporTV | HD" ,SporTV | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13097
+#EXTINF:-1 group-title="BRASIL" tvg-id="SporTV.br" tvg-name="SporTV | FHD" ,SporTV | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13098
+#EXTINF:-1 group-title="BRASIL" tvg-id="SporTV2.br" tvg-name="SporTV 2" ,SporTV 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13099
+#EXTINF:-1 group-title="BRASIL" tvg-id="SporTV2.br" tvg-name="SporTV 2 | HD" ,SporTV 2 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13100
+#EXTINF:-1 group-title="BRASIL" tvg-id="SporTV2.br" tvg-name="SporTV 2 | FHD" ,SporTV 2 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13101
+#EXTINF:-1 group-title="BRASIL" tvg-id="SporTV3.br" tvg-name="SporTV 3" ,SporTV 3
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13102
+#EXTINF:-1 group-title="BRASIL" tvg-id="SporTV3.br" tvg-name="SporTV 3 | HD" ,SporTV 3 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13103
+#EXTINF:-1 group-title="BRASIL" tvg-id="SporTV3.br" tvg-name="SporTV 3 | FHD" ,SporTV 3 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13104
+#EXTINF:-1 group-title="BRASIL" tvg-id="GloboNews.br" tvg-name="Globo News" ,Globo News
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13105
+#EXTINF:-1 group-title="BRASIL" tvg-id="GloboNews.br" tvg-name="Globo News | HD" ,Globo News | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13106
+#EXTINF:-1 group-title="BRASIL" tvg-id="GloboNews.br" tvg-name="Globo News | FHD" ,Globo News | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13107
+#EXTINF:-1 group-title="BRASIL" tvg-id="UniversalTV.br" tvg-name="Universal TV | HD" ,Universal TV | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13112
+#EXTINF:-1 group-title="BRASIL" tvg-id="WarnerChannel.br" tvg-name="Warner Channel | HD" ,Warner Channel | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13115
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Canal Sony" ,Canal Sony
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13117
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="FOX" ,FOX
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13120
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="FOX | HD" ,FOX | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13121
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="FOX | HD - LEG" ,FOX | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13122
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="FOX | FHD" ,FOX | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13123
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="FOX | FHD - LEG" ,FOX | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13124
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Fox Premium 1 | HD" ,Fox Premium 1 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13125
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Fox Premium 1  | HD - LEG" ,Fox Premium 1  | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13126
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Fox Premium 1 | FHD" ,Fox Premium 1 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13127
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Fox Premium 1 | FHD - LEG" ,Fox Premium 1 | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13128
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Fox Premium 2 | HD" ,Fox Premium 2 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13129
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Fox Premium 2 | HD - LEG" ,Fox Premium 2 | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13130
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Fox Premium 2 | FHD - LEG" ,Fox Premium 2 | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13132
+#EXTINF:-1 group-title="BRASIL" tvg-id="TNT.br" tvg-name="TNT" ,TNT
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13133
+#EXTINF:-1 group-title="BRASIL" tvg-id="TNT.br" tvg-name="TNT | FHD" ,TNT | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13135
+#EXTINF:-1 group-title="BRASIL" tvg-id="TNTSeries.br" tvg-name="TNT Series | HD" ,TNT Series | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13137
+#EXTINF:-1 group-title="BRASIL" tvg-id="TNTSeries.br" tvg-name="TNT Series | FHD" ,TNT Series | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13138
+#EXTINF:-1 group-title="BRASIL" tvg-id="AXN.br" tvg-name="AXN" ,AXN
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13139
+#EXTINF:-1 group-title="BRASIL" tvg-id="AXN.br" tvg-name="AXN | HD" ,AXN | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13140
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="AXN | FHD - LEG" ,AXN | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13142
+#EXTINF:-1 group-title="BRASIL" tvg-id="AXN.br" tvg-name="AXN | FHD" ,AXN | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13143
+#EXTINF:-1 group-title="BRASIL" tvg-id="Megapix.br" tvg-name="Megapix  | HD" ,Megapix  | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13145
+#EXTINF:-1 group-title="BRASIL" tvg-id="Megapix.br" tvg-name="Megapix | FHD" ,Megapix | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13146
+#EXTINF:-1 group-title="BRASIL" tvg-id="Cinemax.br" tvg-name="CineMax | HD" ,CineMax | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13148
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecineAction.br" tvg-name="Telecine Action" ,Telecine Action
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13150
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecineAction.br" tvg-name="Telecine Action | FHD" ,Telecine Action | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13153
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecineAction.br" tvg-name="Telecine Action | FHD - LEG" ,Telecine Action | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13154
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecineCult.br" tvg-name="Telecine Cult | HD" ,Telecine Cult | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13156
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecineCult.br" tvg-name="Telecine Cult | HD - LEG" ,Telecine Cult | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13157
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecineCult.br" tvg-name="Telecine Cult | FHD - LEG" ,Telecine Cult | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13158
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecineFun.br" tvg-name="Telecine Fun | HD - LEG" ,Telecine Fun | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13162
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecineFun.br" tvg-name="Telecine Fun | FHD - LEG" ,Telecine Fun | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13164
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca | HD" ,Telecine Pipoca | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13166
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca | HD - LEG" ,Telecine Pipoca | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13167
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca | FHD" ,Telecine Pipoca | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13168
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecinePremium.br" tvg-name="Telecine Premium | HD" ,Telecine Premium | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13171
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecinePremium.br" tvg-name="Telecine Premium | HD - LEG" ,Telecine Premium | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13172
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecinePremium.br" tvg-name="Telecine Premium | FHD - LEG" ,Telecine Premium | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13174
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecineTouch.br" tvg-name="Telecine Touch | HD" ,Telecine Touch | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13176
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecineTouch.br" tvg-name="Telecine Touch | FHD" ,Telecine Touch | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13178
+#EXTINF:-1 group-title="BRASIL" tvg-id="TelecineTouch.br" tvg-name="Telecine Touch | FHD - LEG" ,Telecine Touch | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13179
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBO.br" tvg-name="HBO | HD" ,HBO | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13183
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO | HD - LEG" ,HBO | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13184
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBO.br" tvg-name="HBO | FHD" ,HBO | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13185
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO | FHD - LEG" ,HBO | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13186
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBO2.br" tvg-name="HBO 2" ,HBO 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13187
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBO2.br" tvg-name="HBO 2 | HD" ,HBO 2 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13188
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBO2.br" tvg-name="HBO 2 | FHD" ,HBO 2 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13189
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOFamily.br" tvg-name="HBO Family" ,HBO Family
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13190
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOFamily.br" tvg-name="HBO Family | HD" ,HBO Family | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13191
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOFamily.br" tvg-name="HBO Familly | FHD" ,HBO Familly | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13192
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOMundi.br" tvg-name="HBO MUNDI" ,HBO MUNDI
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13193
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOMundi.br" tvg-name="HBO MUNDI | HD" ,HBO MUNDI | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13194
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Mundi | HD - LEG" ,HBO Mundi | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13195
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOMundi.br" tvg-name="HBO MUNDI | FHD" ,HBO MUNDI | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13196
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Mundi | FHD - LEG" ,HBO Mundi | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13197
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOPlus.br" tvg-name="HBO Plus" ,HBO Plus
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13198
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOPlus.br" tvg-name="HBO Plus | HD" ,HBO Plus | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13199
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Plus | HD - LEG" ,HBO Plus | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13200
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOPlus.br" tvg-name="HBO Plus | FHD" ,HBO Plus | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13201
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Plus | FHD - LEG" ,HBO Plus | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13202
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOSignature.br" tvg-name="HBO Signature | HD" ,HBO Signature | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13204
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOSignature.br" tvg-name="HBO Signature | FHD" ,HBO Signature | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13206
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Signature | FHD - LEG" ,HBO Signature | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13207
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOXtreme.br" tvg-name="HBO XTREME" ,HBO XTREME
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13208
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Xtream | HD - LEG" ,HBO Xtream | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13210
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOXtreme.br" tvg-name="HBO XTREME | FHD" ,HBO XTREME | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13211
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Xtream | FHD - LEG" ,HBO Xtream | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13212
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOPop.br" tvg-name="HBO POP | HD" ,HBO POP | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13214
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Pop | HD - LEG" ,HBO Pop | HD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13215
+#EXTINF:-1 group-title="BRASIL" tvg-id="HBOPop.br" tvg-name="HBO POP | FHD" ,HBO POP | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13216
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Pop | FHD - LEG" ,HBO Pop | FHD - LEG
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13217
+#EXTINF:-1 group-title="BRASIL" tvg-id="TCM.br" tvg-name="TCM" ,TCM
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13218
+#EXTINF:-1 group-title="BRASIL" tvg-id="Space.br" tvg-name="Space" ,Space
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13219
+#EXTINF:-1 group-title="BRASIL" tvg-id="Space.br" tvg-name="Space | HD" ,Space | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13220
+#EXTINF:-1 group-title="BRASIL" tvg-id="Space.br" tvg-name="Space | FHD" ,Space | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13221
+#EXTINF:-1 group-title="BRASIL" tvg-id="FX.br" tvg-name="FX" ,FX
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13222
+#EXTINF:-1 group-title="BRASIL" tvg-id="FX.br" tvg-name="FX | HD" ,FX | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13223
+#EXTINF:-1 group-title="BRASIL" tvg-id="FX.br" tvg-name="FX | FHD" ,FX | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13224
+#EXTINF:-1 group-title="BRASIL" tvg-id="AMC.br" tvg-name="AMC" ,AMC
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13225
+#EXTINF:-1 group-title="BRASIL" tvg-id="AMC.br" tvg-name="AMC | HD" ,AMC | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13226
+#EXTINF:-1 group-title="BRASIL" tvg-id="AMC.br" tvg-name="AMC | FHD" ,AMC | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13227
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Paramount" ,Paramount
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13228
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Paramount | HD" ,Paramount | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13229
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Paramount | FHD" ,Paramount | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13230
+#EXTINF:-1 group-title="BRASIL" tvg-id="FilmandArts.br" tvg-name="Film & Arts" ,Film & Arts
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13231
+#EXTINF:-1 group-title="BRASIL" tvg-id="StudioUniversal.br" tvg-name="Studio Universal" ,Studio Universal
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13232
+#EXTINF:-1 group-title="BRASIL" tvg-id="StudioUniversal.br" tvg-name="Studio Universal | HD" ,Studio Universal | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13233
+#EXTINF:-1 group-title="BRASIL" tvg-id="StudioUniversal.br" tvg-name="Studio Universal | FHD" ,Studio Universal | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13234
+#EXTINF:-1 group-title="BRASIL" tvg-id="Syfy.br" tvg-name="SYFY" ,SYFY
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13235
+#EXTINF:-1 group-title="BRASIL" tvg-id="Syfy.br" tvg-name="SYFY | HD" ,SYFY | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13236
+#EXTINF:-1 group-title="BRASIL" tvg-id="Syfy.br" tvg-name="SYFY | FHD" ,SYFY | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13237
+#EXTINF:-1 group-title="BRASIL" tvg-id="ComedyCentral.br" tvg-name="Comedy Central" ,Comedy Central
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13238
+#EXTINF:-1 group-title="BRASIL" tvg-id="ComedyCentral.br" tvg-name="Comedy Central | HD" ,Comedy Central | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13239
+#EXTINF:-1 group-title="BRASIL" tvg-id="ComedyCentral.br" tvg-name="Comedy Central | FHD" ,Comedy Central | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13240
+#EXTINF:-1 group-title="BRASIL" tvg-id="TBS.br" tvg-name="TBS" ,TBS
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13241
+#EXTINF:-1 group-title="BRASIL" tvg-id="TBS.br" tvg-name="TBS | HD" ,TBS | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13242
+#EXTINF:-1 group-title="BRASIL" tvg-id="TBS.br" tvg-name="TBS | FHD" ,TBS | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13243
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Prime Box Brazil" ,Prime Box Brazil
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13244
+#EXTINF:-1 group-title="BRASIL" tvg-id="Curta.br" tvg-name="Curta!" ,Curta!
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13245
+#EXTINF:-1 group-title="BRASIL" tvg-id="AandE.br" tvg-name="A&E" ,A&E
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13246
+#EXTINF:-1 group-title="BRASIL" tvg-id="AandE.br" tvg-name="A&E | HD" ,A&E | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13247
+#EXTINF:-1 group-title="BRASIL" tvg-id="AandE.br" tvg-name="A&E | FHD" ,A&E | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13248
+#EXTINF:-1 group-title="BRASIL" tvg-id="truTV.br" tvg-name="TruTV" ,TruTV
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13249
+#EXTINF:-1 group-title="BRASIL" tvg-id="truTV.br" tvg-name="TruTV | HD" ,TruTV | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13250
+#EXTINF:-1 group-title="BRASIL" tvg-id="FishTV.br" tvg-name="Fish TV" ,Fish TV
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13251
+#EXTINF:-1 group-title="BRASIL" tvg-id="FishTV.br" tvg-name="Fish TV | FHD" ,Fish TV | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13252
+#EXTINF:-1 group-title="BRASIL" tvg-id="AnimalPlanet.br" tvg-name="Animal Planet" ,Animal Planet
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13253
+#EXTINF:-1 group-title="BRASIL" tvg-id="AnimalPlanet.br" tvg-name="Animal Planet | HD" ,Animal Planet | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13254
+#EXTINF:-1 group-title="BRASIL" tvg-id="AnimalPlanet.br" tvg-name="Animal Planet | FHD" ,Animal Planet | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13255
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel" ,Discovery Channel
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13256
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel | HD" ,Discovery Channel | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13257
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel | FHD" ,Discovery Channel | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13258
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="NatGeo" ,NatGeo
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13259
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="NatGeo | FHD" ,NatGeo | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13260
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="NatGeo | HD" ,NatGeo | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13261
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="NatGeo Wild" ,NatGeo Wild
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13262
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="NatGeo Wild | HD" ,NatGeo Wild | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13263
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="NatGeo Wild | FHD" ,NatGeo Wild | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13264
+#EXTINF:-1 group-title="BRASIL" tvg-id="History.br" tvg-name="History" ,History
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13265
+#EXTINF:-1 group-title="BRASIL" tvg-id="History.br" tvg-name="History | HD" ,History | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13266
+#EXTINF:-1 group-title="BRASIL" tvg-id="History.br" tvg-name="History | FHD" ,History | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13267
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="H2" ,H2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13268
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="H2 | HD" ,H2 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13269
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="H2 | FHD" ,H2 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13270
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryWorld.br" tvg-name="Discovery World | HD" ,Discovery World | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13271
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryWorld.br" tvg-name="Discovery World | FHD" ,Discovery World | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13272
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater | HD" ,Discovery Theater | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13273
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater | FHD" ,Discovery Theater | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13274
+#EXTINF:-1 group-title="BRASIL" tvg-id="HGTV.br" tvg-name="HGTV | HD" ,HGTV | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13275
+#EXTINF:-1 group-title="BRASIL" tvg-id="HGTV.br" tvg-name="HGTV | FHD" ,HGTV | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13276
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryScience.br" tvg-name="Discovery Science | HD" ,Discovery Science | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13277
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryScience.br" tvg-name="Discovery Science | FHD" ,Discovery Science | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13278
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo" ,Discovery Turbo
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13279
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo | HD" ,Discovery Turbo | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13280
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo | FHD" ,Discovery Turbo | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13281
+#EXTINF:-1 group-title="BRASIL" tvg-id="InvestigacaoDiscovery.br" tvg-name="Investigacao Discovery" ,Investigacao Discovery
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13282
+#EXTINF:-1 group-title="BRASIL" tvg-id="InvestigacaoDiscovery.br" tvg-name="Investigation Discovery | HD" ,Investigation Discovery | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13283
+#EXTINF:-1 group-title="BRASIL" tvg-id="InvestigacaoDiscovery.br" tvg-name="Investigation Discovery | FHD" ,Investigation Discovery | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13284
+#EXTINF:-1 group-title="BRASIL" tvg-id="Lifetime.br" tvg-name="Lifetime" ,Lifetime
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13285
+#EXTINF:-1 group-title="BRASIL" tvg-id="Lifetime.br" tvg-name="Lifetime | HD" ,Lifetime | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13286
+#EXTINF:-1 group-title="BRASIL" tvg-id="Lifetime.br" tvg-name="Lifetime | FHD" ,Lifetime | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13287
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="MTV" ,MTV
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13288
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="MTV | HD" ,MTV | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13289
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="MTV | FHD" ,MTV | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13290
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="PlayTV" ,PlayTV
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13291
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="VH1" ,VH1
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13292
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="VH1 | HD" ,VH1 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13293
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="VH1 | FHD" ,VH1 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13294
+#EXTINF:-1 group-title="BRASIL" tvg-id="MusicBoxBrasil.br" tvg-name="Music Box Brazil" ,Music Box Brazil
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13295
+#EXTINF:-1 group-title="BRASIL" tvg-id="MusicBoxBrasil.br" tvg-name="Music Box Brazil | HD" ,Music Box Brazil | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13296
+#EXTINF:-1 group-title="BRASIL" tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network" ,Cartoon Network
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13297
+#EXTINF:-1 group-title="BRASIL" tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network | HD" ,Cartoon Network | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13298
+#EXTINF:-1 group-title="BRASIL" tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network | FHD" ,Cartoon Network | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13299
+#EXTINF:-1 group-title="BRASIL" tvg-id="DisneyChannel.br" tvg-name="Disney Channel" ,Disney Channel
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13300
+#EXTINF:-1 group-title="BRASIL" tvg-id="DisneyChannel.br" tvg-name="Disney Channel | HD" ,Disney Channel | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13301
+#EXTINF:-1 group-title="BRASIL" tvg-id="DisneyChannel.br" tvg-name="Disney Channel | FHD" ,Disney Channel | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13302
+#EXTINF:-1 group-title="BRASIL" tvg-id="DisneyJunior.br" tvg-name="Disney Junior" ,Disney Junior
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13303
+#EXTINF:-1 group-title="BRASIL" tvg-id="DisneyJunior.br" tvg-name="Disney Junior | HD" ,Disney Junior | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13304
+#EXTINF:-1 group-title="BRASIL" tvg-id="DisneyJunior.br" tvg-name="Disney Junior | FHD" ,Disney Junior | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13305
+#EXTINF:-1 group-title="BRASIL" tvg-id="DisneyXD.br" tvg-name="Disney XD" ,Disney XD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13306
+#EXTINF:-1 group-title="BRASIL" tvg-id="NatGeoKids.br" tvg-name="NatGeo Kids" ,NatGeo Kids
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13307
+#EXTINF:-1 group-title="BRASIL" tvg-id="NatGeoKids.br" tvg-name="NatGeo Kids | HD" ,NatGeo Kids | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13308
+#EXTINF:-1 group-title="BRASIL" tvg-id="NatGeoKids.br" tvg-name="NatGeoKids | FHD" ,NatGeoKids | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13309
+#EXTINF:-1 group-title="BRASIL" tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" ,Nickelodeon
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13310
+#EXTINF:-1 group-title="BRASIL" tvg-id="Nickelodeon.br" tvg-name="Nickelodeon | HD" ,Nickelodeon | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13311
+#EXTINF:-1 group-title="BRASIL" tvg-id="Nickelodeon.br" tvg-name="Nickelodeon | FHD" ,Nickelodeon | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13312
+#EXTINF:-1 group-title="BRASIL" tvg-id="NickJr.br" tvg-name="Nick.Jr" ,Nick.Jr
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13313
+#EXTINF:-1 group-title="BRASIL" tvg-id="NickJr.br" tvg-name="Nick Jr | HD" ,Nick Jr | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13314
+#EXTINF:-1 group-title="BRASIL" tvg-id="NickJr.br" tvg-name="NickJr | FHD" ,NickJr | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13315
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryKids.br" tvg-name="Discovery Kids" ,Discovery Kids
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13316
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryKids.br" tvg-name="Discovery Kids | HD" ,Discovery Kids | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13317
+#EXTINF:-1 group-title="BRASIL" tvg-id="DiscoveryKids.br" tvg-name="Discovery Kids | FHD" ,Discovery Kids | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13318
+#EXTINF:-1 group-title="BRASIL" tvg-id="Gloob.br" tvg-name="Gloob" ,Gloob
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13319
+#EXTINF:-1 group-title="BRASIL" tvg-id="Gloob.br" tvg-name="Gloob | HD" ,Gloob | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13320
+#EXTINF:-1 group-title="BRASIL" tvg-id="Gloob.br" tvg-name="Gloob | FHD" ,Gloob | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13321
+#EXTINF:-1 group-title="BRASIL" tvg-id="Boomerang.br" tvg-name="Boomerang" ,Boomerang
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13322
+#EXTINF:-1 group-title="BRASIL" tvg-id="Boomerang.br" tvg-name="Boomerang | FHD" ,Boomerang | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13323
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Playkids" ,Playkids
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13324
+#EXTINF:-1 group-title="BRASIL" tvg-id="Tooncast.br" tvg-name="Tooncast" ,Tooncast
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13325
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Tv Globinho" ,Tv Globinho
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13326
+#EXTINF:-1 group-title="BRASIL" tvg-id="TVRaTimBum.br" tvg-name="TV Ra Tim Bum" ,TV Ra Tim Bum
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13327
+#EXTINF:-1 group-title="BRASIL" tvg-id="TVRaTimBum.br" tvg-name="TV Ra Tim Bum | HD" ,TV Ra Tim Bum | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13328
+#EXTINF:-1 group-title="BRASIL" tvg-id="BABYTV.br" tvg-name="BabyTV" ,BabyTV
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13329
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="ZooMoo" ,ZooMoo
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13330
+#EXTINF:-1 group-title="BRASIL" tvg-id="TVDiario.br" tvg-name="TV Diario | HD" ,TV Diario | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13331
+#EXTINF:-1 group-title="BRASIL" tvg-id="RecordNews.br" tvg-name="Record News" ,Record News
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13332
+#EXTINF:-1 group-title="BRASIL" tvg-id="BandNews.br" tvg-name="Band News" ,Band News
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13334
+#EXTINF:-1 group-title="BRASIL" tvg-id="BandNews.br" tvg-name="Band News | FHD" ,Band News | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13335
+#EXTINF:-1 group-title="BRASIL" tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" ,CNN Brasil
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13527
+#EXTINF:-1 group-title="BRASIL" tvg-id="CNNBrasil.br" tvg-name="CNN Brasil | HD" ,CNN Brasil | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13528
+#EXTINF:-1 group-title="BRASIL" tvg-id="CNNBrasil.br" tvg-name="CNN Brasil | FHD" ,CNN Brasil | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13529
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Novo Tempo" ,Novo Tempo
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13336
+#EXTINF:-1 group-title="BRASIL" tvg-id="RedeVida.br" tvg-name="Rede Vida" ,Rede Vida
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13337
+#EXTINF:-1 group-title="BRASIL" tvg-id="Terraviva.br" tvg-name="Terra Viva" ,Terra Viva
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13338
+#EXTINF:-1 group-title="BRASIL" tvg-id="TVAparecida.br" tvg-name="TV Aparecida" ,TV Aparecida
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13339
+#EXTINF:-1 group-title="BRASIL" tvg-id="CancaoNova.br" tvg-name="Cancao Nova" ,Cancao Nova
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13340
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Evangelizar ES | FHD" ,Evangelizar ES | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13343
+#EXTINF:-1 group-title="BRASIL" tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" ,Canal do Boi
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13344
+#EXTINF:-1 group-title="BRASIL" tvg-id="WooHoo.br" tvg-name="Woohoo" ,Woohoo
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13345
+#EXTINF:-1 group-title="BRASIL" tvg-id="WooHoo.br" tvg-name="Woohoo | FHD" ,Woohoo | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13346
+#EXTINF:-1 group-title="BRASIL" tvg-id="FoxSports.br" tvg-name="Fox Sports" ,Fox Sports
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13347
+#EXTINF:-1 group-title="BRASIL" tvg-id="FoxSports.br" tvg-name="Fox Sports | HD" ,Fox Sports | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13348
+#EXTINF:-1 group-title="BRASIL" tvg-id="FoxSports.br" tvg-name="Fox Sports | FHD" ,Fox Sports | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13349
+#EXTINF:-1 group-title="BRASIL" tvg-id="FoxSports.br" tvg-name="Fox Sports 2" ,Fox Sports 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13350
+#EXTINF:-1 group-title="BRASIL" tvg-id="FoxSports.br" tvg-name="Fox Sports 2 | HD" ,Fox Sports 2 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13351
+#EXTINF:-1 group-title="BRASIL" tvg-id="FoxSports.br" tvg-name="Fox Sports 2 | FHD" ,Fox Sports 2 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13352
+#EXTINF:-1 group-title="BRASIL" tvg-id="ESPN.br" tvg-name="ESPN" ,ESPN
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13353
+#EXTINF:-1 group-title="BRASIL" tvg-id="ESPN.br" tvg-name="ESPN | HD" ,ESPN | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13354
+#EXTINF:-1 group-title="BRASIL" tvg-id="ESPN.br" tvg-name="ESPN | FHD" ,ESPN | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13355
+#EXTINF:-1 group-title="BRASIL" tvg-id="ESPN2.br" tvg-name="ESPN 2" ,ESPN 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13356
+#EXTINF:-1 group-title="BRASIL" tvg-id="ESPN2.br" tvg-name="ESPN 2 | HD" ,ESPN 2 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13357
+#EXTINF:-1 group-title="BRASIL" tvg-id="ESPN2.br" tvg-name="ESPN 2 | FHD" ,ESPN 2 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13358
+#EXTINF:-1 group-title="BRASIL" tvg-id="ESPNBrasil.br" tvg-name="ESPN Brasil" ,ESPN Brasil
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13359
+#EXTINF:-1 group-title="BRASIL" tvg-id="ESPNBrasil.br" tvg-name="ESPN Brasil | HD" ,ESPN Brasil | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13360
+#EXTINF:-1 group-title="BRASIL" tvg-id="ESPNBrasil.br" tvg-name="ESPN Brasil | FHD" ,ESPN Brasil | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13361
+#EXTINF:-1 group-title="BRASIL" tvg-id="ESPNExtra.br" tvg-name="ESPN Extra | HD" ,ESPN Extra | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13362
+#EXTINF:-1 group-title="BRASIL" tvg-id="ESPNExtra.br" tvg-name="ESPN Extra | FHD" ,ESPN Extra | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13363
+#EXTINF:-1 group-title="BRASIL" tvg-id="BandSports.br" tvg-name="Band Sports" ,Band Sports
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13364
+#EXTINF:-1 group-title="BRASIL" tvg-id="BandSports.br" tvg-name="Band Sports | HD" ,Band Sports | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13365
+#EXTINF:-1 group-title="BRASIL" tvg-id="BandSports.br" tvg-name="Band Sports | FHD" ,Band Sports | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13366
+#EXTINF:-1 group-title="BRASIL" tvg-id="Combate.br" tvg-name="Combate" ,Combate
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13367
+#EXTINF:-1 group-title="BRASIL" tvg-id="Combate.br" tvg-name="Combate | HD" ,Combate | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13368
+#EXTINF:-1 group-title="BRASIL" tvg-id="Combate.br" tvg-name="Combate | FHD" ,Combate | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13369
+#EXTINF:-1 group-title="BRASIL" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes" ,Premiere Clubes
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13370
+#EXTINF:-1 group-title="BRASIL" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes | HD" ,Premiere Clubes | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13371
+#EXTINF:-1 group-title="BRASIL" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes | FHD" ,Premiere Clubes | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13372
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere2.br" tvg-name="Premiere 2" ,Premiere 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13373
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere2.br" tvg-name="Premiere 2 | HD" ,Premiere 2 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13374
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere2.br" tvg-name="Premiere2 | FHD" ,Premiere2 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13375
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere3.br" tvg-name="Premiere 3" ,Premiere 3
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13376
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere3.br" tvg-name="Premiere 3 | HD" ,Premiere 3 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13377
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere3.br" tvg-name="Premiere 3 | FHD" ,Premiere 3 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13378
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere4.br" tvg-name="Premiere 4" ,Premiere 4
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13379
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere4.br" tvg-name="Premiere 4 | HD" ,Premiere 4 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13380
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere4.br" tvg-name="Premiere4 | FHD" ,Premiere4 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13381
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere5.br" tvg-name="Premiere 5" ,Premiere 5
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13382
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere5.br" tvg-name="Premiere 5 | HD" ,Premiere 5 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13383
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere5.br" tvg-name="Premiere 5 | FHD" ,Premiere 5 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13384
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere6.br" tvg-name="Premiere 6" ,Premiere 6
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13385
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere6.br" tvg-name="Premiere 6 | HD" ,Premiere 6 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13386
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere6.br" tvg-name="Premiere 6 | FHD" ,Premiere 6 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13387
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere7.br" tvg-name="Premiere 7" ,Premiere 7
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13388
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere7.br" tvg-name="Premiere 7 | HD" ,Premiere 7 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13389
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere7.br" tvg-name="Premiere 7 | FHD" ,Premiere 7 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13390
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere8.br" tvg-name="Premiere 8" ,Premiere 8
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13391
+#EXTINF:-1 group-title="BRASIL" tvg-id="Premiere9.br" tvg-name="Premiere 9" ,Premiere 9
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13392
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Ei Plus 1" ,Ei Plus 1
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13393
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="TNT SPORT HD" ,TNT SPORT HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13394
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Ei Plus 2" ,Ei Plus 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13395
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Ei Plus 3" ,Ei Plus 3
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13396
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Ei Plus 4" ,Ei Plus 4
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13397
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="DAZN 01" ,DAZN 01
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13398
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="DAZN 02" ,DAZN 02
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13399
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="DAZN 03" ,DAZN 03
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13400
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="DAZN 04" ,DAZN 04
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13401
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Campeonato Catarinense 1" ,Campeonato Catarinense 1
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13402
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Campeonato Catarinense 2" ,Campeonato Catarinense 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13403
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Campeonato Catarinense 3" ,Campeonato Catarinense 3
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13404
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Campeonato Catarinense 4" ,Campeonato Catarinense 4
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13405
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Copa do Nordeste 1" ,Copa do Nordeste 1
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13406
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Copa do Nordeste 2" ,Copa do Nordeste 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13407
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Copa do Nordeste 3" ,Copa do Nordeste 3
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13408
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Copa do Nordeste 4" ,Copa do Nordeste 4
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13409
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Futebol" ,Futebol
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/16998
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="RAI Internacional | HD" ,RAI Internacional | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/17247
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="As Meninas Superpoderosas | 24H" ,As Meninas Superpoderosas | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13444
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Ben 10 | 24H" ,Ben 10 | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13445
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Caverna do Dragão | 24H" ,Caverna do Dragão | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13449
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Chapolin Colorado | 24H" ,Chapolin Colorado | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13450
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Chaves Desenho | 24H" ,Chaves Desenho | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13452
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Denis o Pimentinha | 24H" ,Denis o Pimentinha | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13453
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Desenhos Biblicos | 24H" ,Desenhos Biblicos | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13454
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Desenhos Disney | 24H" ,Desenhos Disney | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13455
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Digimon | 24H" ,Digimon | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13456
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Dois Homens e Meio | 24H" ,Dois Homens e Meio | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13457
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Doug | 24H" ,Doug | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13458
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Dragon Ball | 24H" ,Dragon Ball | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13459
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Dragon Ball Super | 24H" ,Dragon Ball Super | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13460
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Dragon Ball Z | 24H" ,Dragon Ball Z | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13461
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Eu a Patroa e as Crianças | 24H" ,Eu a Patroa e as Crianças | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13462
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Formiga Atómica | 24H" ,Formiga Atómica | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13463
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Galinha Pintadinha | 24H" ,Galinha Pintadinha | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13464
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Guardiões da Galaxia | 24H" ,Guardiões da Galaxia | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13465
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="He-Man | 24H" ,He-Man | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13466
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Hércules | 24H" ,Hércules | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13467
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Historias Disney | 24H" ,Historias Disney | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13468
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HOMEM ARANHA | 24H" ,HOMEM ARANHA | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13469
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Homem de Ferro | 24H" ,Homem de Ferro | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13470
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Incrível Hulk | 24H" ,Incrível Hulk | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13472
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Jack-Chan | 24H" ,Jack-Chan | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13473
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Jaspion | 24H" ,Jaspion | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13474
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="JIRAYA O Incrível Ninja | 24H" ,JIRAYA O Incrível Ninja | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13475
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Kenan e Kel | 24H" ,Kenan e Kel | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13476
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Luluzinha | 24H" ,Luluzinha | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13477
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Medabots | 24H" ,Medabots | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13478
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="MegaMan | 24H" ,MegaMan | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13479
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Mortal Kombat | 24H" ,Mortal Kombat | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13480
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Mr.Ben | 24H" ,Mr.Ben | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13481
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="NARUTO | 24H" ,NARUTO | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13482
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Naruto Shippuden DUB | 24H" ,Naruto Shippuden DUB | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13483
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="O Fantástico Mundo de Bobby | 24H" ,O Fantástico Mundo de Bobby | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13484
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="O INSPETOR | 24H" ,O INSPETOR | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13485
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="O MASKARA | 24H" ,O MASKARA | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13486
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Os Anjinhos - Rugrats | 24H" ,Os Anjinhos - Rugrats | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13487
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Os Cavaleiros do Zodiaco | 24H" ,Os Cavaleiros do Zodiaco | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13488
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Os Flintstones | 24H" ,Os Flintstones | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13489
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Os Simpsons | 24H" ,Os Simpsons | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13490
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Os Vingadores | 24H" ,Os Vingadores | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13491
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Papa-Léguas | 24H" ,Papa-Léguas | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13492
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Peppa Pig | 24H" ,Peppa Pig | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13493
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Pernalonga | 24H" ,Pernalonga | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13494
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Phineas e Ferb | 24H" ,Phineas e Ferb | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13495
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Pica Pau | 24H" ,Pica Pau | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13496
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Pink-e-Cerebro | 24H" ,Pink-e-Cerebro | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13497
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Pokemon | 24H" ,Pokemon | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13498
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Popeye O Marinheiro | 24H" ,Popeye O Marinheiro | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13499
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Rambo | 24H" ,Rambo | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13500
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Scooby-Doo | 24H" ,Scooby-Doo | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13501
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Smallville | 24H" ,Smallville | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13502
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Sobrenatural | 24H" ,Sobrenatural | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13503
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="South Park | 24H" ,South Park | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13504
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Steven Universe | 24H" ,Steven Universe | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13505
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Superman | 24H" ,Superman | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13506
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Tartarugas Ninjas | 24H" ,Tartarugas Ninjas | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13507
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Thundercats | 24H" ,Thundercats | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13508
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Timao e Pumba | 24H" ,Timao e Pumba | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13509
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Todo Mundo Odeia o Chris | 24H" ,Todo Mundo Odeia o Chris | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13510
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Tom & Jerry | 24H" ,Tom & Jerry | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13511
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Tres Espias Demais | 24H" ,Tres Espias Demais | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13512
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Um Maluco no Pedaço | 24H" ,Um Maluco no Pedaço | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13513
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Uma Família da Pesada | 24H" ,Uma Família da Pesada | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13514
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Ursinhos Carinhos | 24H" ,Ursinhos Carinhos | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13515
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="X-MAN | 24H" ,X-MAN | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13516
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Xena | 24H" ,Xena | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13517
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="YU-GI-OH | 24H" ,YU-GI-OH | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13518
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="YU-YU-Hakusho | 24H" ,YU-YU-Hakusho | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13519
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="3 Palavrinhas | 24H" ,3 Palavrinhas | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13520
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="A Grande Familia | 24H" ,A Grande Familia | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13521
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Bita e os Animais | 24H" ,Bita e os Animais | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13522
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Liga da Justica | 24H" ,Liga da Justica | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13523
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Vai que Cola | 24H" ,Vai que Cola | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13524
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Super Choque | 24H" ,Super Choque | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13525
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="A Feiticeira | 24H" ,A Feiticeira | 24H
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13526
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Liga Futsal" ,Liga Futsal
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19134
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Furacão TV" ,Furacão TV
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19135
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS" ,BEIN SPORTS
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19570
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Conmebol TV 1 | FHD" ,Conmebol TV 1 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19577
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Conmebol TV 2 | FHD" ,Conmebol TV 2 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19578
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Conmebol TV 3 | FHD" ,Conmebol TV 3 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19579
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Conmebol TV 4 | FHD" ,Conmebol TV 4 | FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19580
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Conmebol TV 1 | HD" ,Conmebol TV 1 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19581
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Conmebol TV 2 | HD" ,Conmebol TV 2 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19582
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Conmebol TV 3 | HD" ,Conmebol TV 3 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19583
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Conmebol TV 4 | HD" ,Conmebol TV 4 | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19584
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Conmebol TV 4" ,Conmebol TV 4
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19588
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Conmebol TV 1" ,Conmebol TV 1
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19589
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Conmebol TV 2" ,Conmebol TV 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19590
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Band Sports | FHD - H264" ,Band Sports | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19592
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="ESPN Brasil | FHD - H264" ,ESPN Brasil | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19593
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="ESPN Extra | FHD - H264" ,ESPN Extra | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19594
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="ESPN | FHD - H264" ,ESPN | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19595
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="ESPN 2 | FHD - H264" ,ESPN 2 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19596
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Fox Sports 2 | FHD - H264" ,Fox Sports 2 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19597
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Fox Sports | FHD - H264" ,Fox Sports | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19598
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Premiere Club | FHD - H264" ,Premiere Club | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19599
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Sportv | FHD - H264" ,Sportv | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19600
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Sportv 2 | FHD - H264" ,Sportv 2 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19601
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Sportv 3 | FHD - H264" ,Sportv 3 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19602
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Dog TV | FHD - H264" ,Dog TV | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19603
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Dog TV | HD" ,Dog TV | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19604
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="History | FHD - H264" ,History | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19605
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Golf Channel | FHD - H264" ,Golf Channel | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19606
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Golf Channel | HD" ,Golf Channel | HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19607
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Combate | FHD - H264" ,Combate | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19608
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="TNT | FHD - H264" ,TNT | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19609
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Telecine Premium | FHD - H264" ,Telecine Premium | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19610
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Telecine Action | FHD - H264" ,Telecine Action | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19611
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Telecine Touch | FHD - H264" ,Telecine Touch | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19612
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Telecine Pipoca | FHD - H264" ,Telecine Pipoca | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19613
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Telecine Fun | FHD - H264" ,Telecine Fun | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19614
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Telecine Cult | FHD - H264" ,Telecine Cult | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19615
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO | FHD - H264" ,HBO | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19616
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO 2 | FHD - H264" ,HBO 2 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19617
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Plus | FHD - H264" ,HBO Plus | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19618
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Family | FHD - H264" ,HBO Family | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19619
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Signature | FHD - H264" ,HBO Signature | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19620
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Mundi | FHD - H264" ,HBO Mundi | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19621
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Xtreme | FHD - H264" ,HBO Xtreme | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19622
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="HBO Pop | FHD - H264" ,HBO Pop | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19623
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Globo Santa Maria" ,Globo Santa Maria
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19624
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Lifetime | FHD - H264" ,Lifetime | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19625
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Discovery Word | FHD - H264" ,Discovery Word | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19626
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="NatGeo Wild | FHD - H264" ,NatGeo Wild | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19627
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Animal Planet | FHD - H264" ,Animal Planet | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19628
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="NatGeo | FHD - H264" ,NatGeo | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19629
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="History 2 | FHD - H264" ,History 2 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19630
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Discovery H&H | FHD - H264" ,Discovery H&H | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19631
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Discovery Channel | FHD - H264" ,Discovery Channel | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19632
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="TLC | FHD - H264" ,TLC | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19633
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Premiere 7 | FHD - H264" ,Premiere 7 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19634
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Premiere 6 | FHD - H264" ,Premiere 6 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19635
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Premiere 5 | FHD - H264" ,Premiere 5 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19636
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Premiere 4 | FHD - H264" ,Premiere 4 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19637
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Premiere 3 | FHD - H264" ,Premiere 3 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19638
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="Premiere 2 | FHD - H264" ,Premiere 2 | FHD - H264
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/19639
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="FLA TV HD" ,FLA TV HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/20808
+#EXTINF:-1 group-title="BRASIL" tvg-id="(no tvg-id)" tvg-name="FAZENDA 2023 HD" ,FAZENDA 2023 HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/24168
