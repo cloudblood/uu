@@ -85,9 +85,9 @@ http://4tv.site:2082/live/manoel50/800900500/17884.m3u8
 http://4tv.site:2082/live/manoel50/800900500/18032.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",BAND SP HD²
 http://4tv.site:2082/live/manoel50/800900500/167780.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS FHD H265¹" tvg-logo="http://capas.webplay.fun/bandsports.png" group-title="ESPORTE",BAND SPORTS FHD H265¹
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",BAND SPORTS FHD H265¹
 http://4tv.site:2082/live/manoel50/800900500/18112.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS FHD H265²" tvg-logo="http://capas.webplay.fun/bandsports.png" group-title="ESPORTE",BAND SPORTS FHD H265²
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",BAND SPORTS FHD H265²
 http://4tv.site:2082/live/manoel50/800900500/34717.m3u8
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" group-title="Canais | Esportes",BAND SPORTS HD¹
 http://4tv.site:2082/live/manoel50/800900500/18208.m3u8
