@@ -491,11 +491,11 @@ http://4tv.site:2082/live/manoel50/800900500/34686.m3u8
 http://4tv.site:2082/live/manoel50/800900500/18243.m3u8
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO FAMILY SD¹
 http://4tv.site:2082/live/manoel50/800900500/17930.m3u8
-#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI FHD H265¹
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI FHD H265¹
 http://4tv.site:2082/live/manoel50/800900500/18157.m3u8
-#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI FHD H265²
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI FHD H265²
 http://4tv.site:2082/live/manoel50/800900500/34679.m3u8
-#EXTINF:-1 tvg-id="HboMundi.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI HD¹
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO MUNDI HD¹
 http://4tv.site:2082/live/manoel50/800900500/18251.m3u8
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO PLUS FHD H265¹
 http://4tv.site:2082/live/manoel50/800900500/174926.m3u8
@@ -509,29 +509,29 @@ http://4tv.site:2082/live/manoel50/800900500/18245.m3u8
 http://4tv.site:2082/live/manoel50/800900500/174928.m3u8
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO PLUS SD²
 http://4tv.site:2082/live/manoel50/800900500/174929.m3u8
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP FHD H265¹
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP FHD H265¹
 http://4tv.site:2082/live/manoel50/800900500/174930.m3u8
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP FHD H265²
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP FHD H265²
 http://4tv.site:2082/live/manoel50/800900500/34677.m3u8
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP HD¹
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP HD¹
 http://4tv.site:2082/live/manoel50/800900500/18253.m3u8
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP HD²
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP HD²
 http://4tv.site:2082/live/manoel50/800900500/174931.m3u8
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP SD¹
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP SD¹
 http://4tv.site:2082/live/manoel50/800900500/174932.m3u8
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP SD²
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP SD²
 http://4tv.site:2082/live/manoel50/800900500/174933.m3u8
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO SIGNATURE FHD H265¹
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO SIGNATURE FHD H265¹
 http://4tv.site:2082/live/manoel50/800900500/18150.m3u8
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO SIGNATURE FHD H265²
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO SIGNATURE FHD H265²
 http://4tv.site:2082/live/manoel50/800900500/34682.m3u8
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO SIGNATURE HD¹
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO SIGNATURE HD¹
 http://4tv.site:2082/live/manoel50/800900500/18246.m3u8
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME FHD H265¹
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME FHD H265¹
 http://4tv.site:2082/live/manoel50/800900500/18158.m3u8
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME FHD H265²
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME FHD H265²
 http://4tv.site:2082/live/manoel50/800900500/34678.m3u8
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME HD¹
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO XTREME HD¹
 http://4tv.site:2082/live/manoel50/800900500/18252.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV FHD H265¹
 http://4tv.site:2082/live/manoel50/800900500/18122.m3u8
@@ -585,11 +585,9 @@ http://4tv.site:2082/live/manoel50/800900500/34968.m3u8
 http://4tv.site:2082/live/manoel50/800900500/17937.m3u8
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",LIFETIME SD²
 http://4tv.site:2082/live/manoel50/800900500/35200.m3u8
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT FHD H265¹" tvg-logo="http://capas.webplay.fun/globosat1.png" group-title="Variedades",MAIS GLOBOSAT FHD H265¹
-http://4tv.site:2082/live/manoel50/800900500/18156.m3u8
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT HD¹" tvg-logo="http://capas.webplay.fun/globosat1.png" group-title="Variedades",MAIS GLOBOSAT HD¹
+#EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" group-title="Canais | Variedades",MAIS GLOBOSAT HD¹
 http://4tv.site:2082/live/manoel50/800900500/18239.m3u8
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT SD¹" tvg-logo="http://capas.webplay.fun/globosat1.png" group-title="Variedades",MAIS GLOBOSAT SD¹
+#EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" group-title="Canais | Variedades",MAIS GLOBOSAT SD¹
 http://4tv.site:2082/live/manoel50/800900500/17938.m3u8
 #EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",MEGAPIX FHD H265¹
 http://4tv.site:2082/live/manoel50/800900500/18160.m3u8
@@ -877,7 +875,6 @@ http://4tv.site:2082/live/manoel50/800900500/172269.m3u8
 http://4tv.site:2082/live/manoel50/800900500/168519.m3u8
 #EXTINF:-1 tvg-id="SPORTV 4" tvg-logo="https://4.bp.blogspot.com/-6PAxnx2KIL8/WRztWqRfVKI/AAAAAAAA5kY/WH3cRpu__rIsX7Bpkh5ZjOLjP3PsSWBAQCLcB/s640/sportv4.png" group-title="Canais | SporTV",SPORTV 4 HD²
 http://4tv.site:2082/live/manoel50/800900500/168519.m3u8
-
 #EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",STAR CHANNEL FHD H265¹
 http://4tv.site:2082/live/manoel50/800900500/18138.m3u8
 #EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",STAR CHANNEL FHD H265²
@@ -924,9 +921,9 @@ http://4tv.site:2082/live/manoel50/800900500/34953.m3u8
 http://4tv.site:2082/live/manoel50/800900500/17916.m3u8
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",STAR LIFE SD²
 http://4tv.site:2082/live/manoel50/800900500/35096.m3u8
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL FHD H265¹" tvg-logo="http://capas.webplay.fun/studiouniversal.png" group-title="Filmes e Séries",STUDIO UNIVERSAL FHD H265¹
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL FHD H265¹
 http://4tv.site:2082/live/manoel50/800900500/18183.m3u8
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL FHD H265²" tvg-logo="http://capas.webplay.fun/studiouniversal.png" group-title="Filmes e Séries",STUDIO UNIVERSAL FHD H265²
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL FHD H265²
 http://4tv.site:2082/live/manoel50/800900500/34654.m3u8
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL HD¹
 http://4tv.site:2082/live/manoel50/800900500/18277.m3u8
