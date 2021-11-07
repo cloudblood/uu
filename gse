@@ -504,7 +504,7 @@ http://pfsv.io:80/07720253/51853/73
 http://pfsv.io:80/07720253/51853/148
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="https://static.clubsrv.me/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM SD
 http://pfsv.io:80/07720253/51853/161
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.clubsrv.me/logos/canais/tvsenado.png" group-title="Canais | Abertos",TV Senado SD
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-logo="https://static.clubsrv.me/logos/canais/tvsenado.png" group-title="Canais | Abertos",TV Senado SD
 http://pfsv.io:80/07720253/51853/72
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="https://static.clubsrv.me/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel HD
 http://pfsv.io:80/07720253/51853/317
