@@ -168,7 +168,7 @@ http://pfsv.io:80/07720253/51853/269
 http://pfsv.io:80/07720253/51853/260
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra SD
 http://pfsv.io:80/07720253/51853/270
-#EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Canais | Variedades",FashionTV HD
+#EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://cms.fashiontv.com/wp-content/themes/fashiontvplus/images/fashiontvlogo.png" group-title="Canais | Variedades",FashionTV HD
 http://pfsv.io:80/07720253/51853/38525
 #EXTINF:-1 tvg-id="film-arts" tvg-logo="https://static.clubsrv.me/logos/canais/film&arts.png" group-title="Canais | Filmes e Séries",Film&Arts SD
 http://pfsv.io:80/07720253/51853/348
@@ -228,29 +228,29 @@ http://pfsv.io:80/07720253/51853/481
 http://pfsv.io:80/07720253/51853/473
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD
 http://pfsv.io:80/07720253/51853/483
-#EXTINF:-1 tvg-id="Max.br" tvg-logo="https://static.clubsrv.me/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
 http://pfsv.io:80/07720253/51853/477
-#EXTINF:-1 tvg-id="Max.br" tvg-logo="https://static.clubsrv.me/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD
 http://pfsv.io:80/07720253/51853/485
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
 http://pfsv.io:80/07720253/51853/475
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD
 http://pfsv.io:80/07720253/51853/482
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="https://static.clubsrv.me/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP HD
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP HD
 http://pfsv.io:80/07720253/51853/479
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="https://static.clubsrv.me/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP SD
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP SD
 http://pfsv.io:80/07720253/51853/487
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
 http://pfsv.io:80/07720253/51853/476
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
 http://pfsv.io:80/07720253/51853/484
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="https://static.clubsrv.me/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
 http://pfsv.io:80/07720253/51853/478
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="https://static.clubsrv.me/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme SD
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme SD
 http://pfsv.io:80/07720253/51853/486
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.clubsrv.me/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV HD
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV HD
 http://pfsv.io:80/07720253/51853/182
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.clubsrv.me/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV SD
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV SD
 http://pfsv.io:80/07720253/51853/197
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel HD
 http://pfsv.io:80/07720253/51853/189
