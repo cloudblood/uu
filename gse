@@ -39,7 +39,7 @@ http://pfsv.io:80/07720253/51853/18
 #EXTINF:-1 tvg-id="Bis.br" tvg-logo="https://static.clubsrv.me/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS SD
 http://pfsv.io:80/07720253/51853/12
 #EXTINF:-1 tvg-id="Boavontadetv.br" tvg-logo="http://static.clubsrv.me/logos/canais/boavontade.png" group-title="Canais | Religiosos",Boa Vontade HD
-http://pfsv.io:80/07720253/51853/50790
+http://168.205.87.198:8555/live/adriana/123456/21.m3u8
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://static.clubsrv.me/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang HD
 http://pfsv.io:80/07720253/51853/138
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://static.clubsrv.me/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang SD
@@ -304,8 +304,6 @@ http://pfsv.io:80/07720253/51853/157
 http://pfsv.io:80/07720253/51853/192
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="https://static.clubsrv.me/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild SD
 http://pfsv.io:80/07720253/51853/207
-#EXTINF:-1 tvg-id="Nbr.br" tvg-logo="https://static.clubsrv.me/logos/canais/nbr.png" group-title="Canais | Abertos",NBR SD
-http://pfsv.io:80/07720253/51853/86
 #EXTINF:-1 tvg-id="NickJr.br" tvg-logo="https://static.clubsrv.me/logos/canais/nickjr.png" group-title="Canais | Infantis",Nick JR HD
 http://pfsv.io:80/07720253/51853/144
 #EXTINF:-1 tvg-id="NickJr.br" tvg-logo="https://static.clubsrv.me/logos/canais/nickjr.png" group-title="Canais | Infantis",Nick Jr SD
@@ -322,8 +320,6 @@ http://pfsv.io:80/07720253/51853/273
 http://pfsv.io:80/07720253/51853/311
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://static.clubsrv.me/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel SD
 http://pfsv.io:80/07720253/51853/336
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.clubsrv.me/logos/canais/playkids.png" group-title="Canais | Infantis",PlayKids HD
-http://pfsv.io:80/07720253/51853/147
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.clubsrv.me/logos/canais/playkids.png" group-title="Canais | Infantis",PlayKids SD
 http://pfsv.io:80/07720253/51853/162
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
