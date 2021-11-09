@@ -484,6 +484,8 @@ http://api.magiaiptv.com/live/800331/417334/m1_DV2bTcq67LA3L7UN_720p
 http://api.magiaiptv.com/live/800331/417334/m1_DV2bTcq67LA3L7UN_720p_2M
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT UHD
 http://api.magiaiptv.com/live/800331/417334/m3_rsI9CDLnZie79TEY50_1080p
+#EXTINF:-1 tvg-id="" tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="Canais | Arte e Música",SexyKpop TV
+http://api.magiaiptv.com/live/800331/417334/m2_9EOCjuxykuMtRyJM_720p
 #EXTINF:-1 tvg-id="SmithsonianChannel" tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/SMC_HORIZ_logo_WHITE.png" group-title="Canais | Documentários",Smithsonian Channel HD
 http://api.magiaiptv.com/live/800331/417334/m1_U0xyKTqBxV08Ng1b_720p
 #EXTINF:-1 tvg-id="Sony.br" tvg-logo="https://static.clubsrv.me/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel HD
