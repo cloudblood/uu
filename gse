@@ -644,3 +644,20 @@ http://api.magiaiptv.com/live/800331/417334/m4_dguYh1LjBTwlnKecmOPADtoN_1080p
 http://api.magiaiptv.com/live/800331/417334/m2_iRZcXvBUlkTd05rCEMYE_720p
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-logo="https://static.clubsrv.me/logos/canais/zoomoo.png" group-title="Canais | Infantis",Zoomoo
 http://api.magiaiptv.com/live/800331/417334/m1_wtxZWfc8a9FcUCx9DWaD_720p
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://uploads.jovemnerd.com.br/wp-content/uploads/2018/08/danny-boyle-diretor-007.png" group-title="Canais | 24H",007 Coleção
+http://api.magiaiptv.com/live/800331/417334/p1_007_Colecao
+#EXTINF:-1 tvg-id="" tvg-logo="https://tekmods.com/wp-content/uploads/2021/08/AnimeTV.png" group-title="Canais | 24H",ANIME TV
+http://api.magiaiptv.com/live/800331/417334/m2_CJjAsNvIhMaEqTvV_720p
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo-2.png" group-title="Canais | 24H",Dragon Ball Super
+http://api.magiaiptv.com/live/800331/417334/p2_dragon_ball_super
+#EXTINF:-1 tvg-id="" tvg-logo="https://criticalhits.com.br/wp-content/uploads/2018/09/dragon-ball-z-logo-1.jpg" group-title="Canais | 24H",Dragon Ball Z
+http://api.magiaiptv.com/live/800331/417334/p3_dragon_ball_z
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/387/687/png-transparent-logo-game-of-thrones-television-text-logo.png" group-title="Canais | 24H",Game of Thrones
+http://api.magiaiptv.com/live/800331/417334/p1_Game_of_Thrones
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.elo7.com.br/product/zoom/34EFE85/painel-redondo-ursos-sem-curso-banner.jpg" group-title="Canais | 24H",Ursos Sem Curso
+http://api.magiaiptv.com/live/800331/417334/p1_uscur_264
+#EXTINF:-1 tvg-id="" tvg-logo="https://licensingcon.com.br/wp-content/uploads/2020/10/velozes.png" group-title="Canais | 24H",Velozes Furiosos
+http://api.magiaiptv.com/live/800331/417334/p1_Velozes_Furiosos
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/20/16/1/history-television-show-vikings-png-favpng-2Ad6EFtmhQ80HJVzihp49VPMp.jpg" group-title="Canais | 24H",Vikings
+http://api.magiaiptv.com/live/800331/417334/p1_Vikings
