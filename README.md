@@ -1,5 +1,5 @@
 ### E aí pessoal 👋
-### Todos os links encontrados na internet
+### Todos os links são encontrados na internet
 ### 🤔 se alguma lista cair, um dia volta... 
 <!--
 **cloudblood/cloudblood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
