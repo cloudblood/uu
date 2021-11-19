@@ -4,6 +4,8 @@
 
 #EXTINF:-1 tvg-id="Fazenda 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="Canais | Variedades",A Fazenda
 http://api.magiaiptv.com/live/800261/138645/p3_afazenda
+#EXTINF:-1 tvg-id="" tvg-logo="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg" group-title="Canais | Notícias", ABC NEWS (US)
+http://api.magiaiptv.com/live/800261/138645/m3_wVqC3dUDgmaqwuCK
 #EXTINF:-1 tvg-id="Ae.br" tvg-logo="https://static.clubsrv.me/logos/canais/a&e.png" group-title="Canais | Filmes e Séries",A&E
 http://api.magiaiptv.com/live/800261/138645/p1_ae
 #EXTINF:-1 tvg-id="Ae.br" tvg-logo="https://static.clubsrv.me/logos/canais/a&e.png" group-title="Canais | Filmes e Séries",A&E+
