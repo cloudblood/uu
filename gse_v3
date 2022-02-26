@@ -1,242 +1,1362 @@
 #EXTM3U
 
-##EPG - http://epg.liveiptv.net/epg.xml
-
-#EXTINF:-1 tvg-id="Ae.br" tvg-logo="https://static.clubsrv.me/logos/canais/a&e.png" group-title="Canais | Filmes e Séries",A&E HD
-http://rec2.distv.net/valter/valter/113
-#EXTINF:-1 tvg-id="Amc.br" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
-http://rec2.distv.net/valter/valter/223
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="https://static.clubsrv.me/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
-http://rec2.distv.net/valter/valter/114
-#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="https://static.clubsrv.me/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 HD
-http://rec2.distv.net/valter/valter/115
-#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
-http://rec2.distv.net/valter/valter/116
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-logo="https://static.clubsrv.me/logos/canais/babytv.png" group-title="Canais | Infantis",Baby TV
-http://rec2.distv.net/valter/valter/117
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://static.clubsrv.me/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
-http://rec2.distv.net/valter/valter/118
-#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="Canais | Abertos",Band SP HD
-http://rec2.distv.net/valter/valter/224
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="https://static.clubsrv.me/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
-http://rec2.distv.net/valter/valter/119
-#EXTINF:-1 tvg-id="Bis.br" tvg-logo="https://static.clubsrv.me/logos/canais/bis.png" group-title="Canais | Arte e Música",BIS HD
-http://rec2.distv.net/valter/valter/120
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://static.clubsrv.me/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang HD
-http://rec2.distv.net/valter/valter/121
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="https://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi HD
-http://rec2.distv.net/valter/valter/266
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://static.clubsrv.me/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
-http://rec2.distv.net/valter/valter/124
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",CineMax HD
-http://rec2.distv.net/valter/valter/125
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://static.clubsrv.me/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil HD
-http://rec2.distv.net/valter/valter/225
-#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
-http://rec2.distv.net/valter/valter/126
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="https://static.clubsrv.me/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central HD
-http://rec2.distv.net/valter/valter/127
-#EXTINF:-1 tvg-id="Curta!" tvg-logo="https://static.clubsrv.me/logos/canais/curta.png" group-title="Canais | Variedades",Curta! HD
-http://rec2.distv.net/valter/valter/129
-#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
-http://rec2.distv.net/valter/valter/130
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryh&h.png" group-title="Canais | Documentários",Discovery Home & Health HD
-http://rec2.distv.net/valter/valter/131
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
-http://rec2.distv.net/valter/valter/133
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
-http://rec2.distv.net/valter/valter/134
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-logo="https://static.clubsrv.me/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
-http://rec2.distv.net/valter/valter/135
-#EXTINF:-1 tvg-id="Tlc.br" tvg-logo="http://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais | Documentários",Discovery TLC HD
-http://rec2.distv.net/valter/valter/200
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryturbo.png" group-title="Canais | Documentários",Discovery Turbo HD
-http://rec2.distv.net/valter/valter/136
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
-http://rec2.distv.net/valter/valter/137
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="Canais | Infantis",Disney Channel HD
-http://rec2.distv.net/valter/valter/138
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-logo="https://static.clubsrv.me/logos/canais/disneyjr.png" group-title="Canais | Infantis",Disney Jr HD
-http://rec2.distv.net/valter/valter/139
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-logo="https://static.clubsrv.me/logos/canais/disneyxd.png" group-title="Canais | Infantis",Disney XD HD
-http://rec2.distv.net/valter/valter/140
-#EXTINF:-1 tvg-id="E.br" tvg-logo="https://static.clubsrv.me/logos/canais/e!.png" group-title="Canais | Variedades",E! HD
-http://rec2.distv.net/valter/valter/141
-#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://static.clubsrv.me/logos/canais/espn.png" group-title="Canais | Esportes",ESPN HD
-http://rec2.distv.net/valter/valter/142
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="Canais | Esportes",ESPN 2 HD
-http://rec2.distv.net/valter/valter/143
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais | Esportes",ESPN Brasil HD
-http://rec2.distv.net/valter/valter/144
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais | Esportes",ESPN Extra HD
-http://rec2.distv.net/valter/valter/145
-#EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://cms.fashiontv.com/wp-content/themes/fashiontvplus/images/fashiontvlogo.png" group-title="Canais | Variedades",FashionTV HD
-http://rec2.distv.net/valter/valter/82
-#EXTINF:-1 tvg-id="film-arts" tvg-logo="https://static.clubsrv.me/logos/canais/film&arts.png" group-title="Canais | Filmes e Séries",Film&Arts HD
-http://rec2.distv.net/valter/valter/227
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-logo="https://static.clubsrv.me/logos/canais/fishtv.png" group-title="Canais | Variedades",Fish Tv HD
-http://rec2.distv.net/valter/valter/146
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-logo="https://static.clubsrv.me/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network HD
-http://rec2.distv.net/valter/valter/147
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais | Esportes",Fox Sports HD
-http://rec2.distv.net/valter/valter/152
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 HD
-http://rec2.distv.net/valter/valter/153
-#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://static.clubsrv.me/logos/canais/futura.png" group-title="Canais | Documentários",Futura HD
-http://rec2.distv.net/valter/valter/228
-#EXTINF:-1 tvg-id="Fx.br" tvg-logo="http://static.clubsrv.me/logos/canais/fx.png" group-title="Canais | Filmes e Séries",FX HD
-http://rec2.distv.net/valter/valter/229
-#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News HD
-http://rec2.distv.net/valter/valter/232
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png" group-title="Canais | Abertos",Globo SP HD
-http://rec2.distv.net/valter/valter/15
-#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://static.clubsrv.me/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob HD
-http://rec2.distv.net/valter/valter/154
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
-http://rec2.distv.net/valter/valter/215
-#EXTINF:-1 tvg-id="Gnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD
-http://rec2.distv.net/valter/valter/155
-#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
-http://rec2.distv.net/valter/valter/156
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
-http://rec2.distv.net/valter/valter/157
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
-http://rec2.distv.net/valter/valter/158
-#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
-http://rec2.distv.net/valter/valter/159
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
-http://rec2.distv.net/valter/valter/160
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="Canais | HBO",HBO POP HD
-http://rec2.distv.net/valter/valter/161
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
-http://rec2.distv.net/valter/valter/162
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
-http://rec2.distv.net/valter/valter/163
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV HD
-http://rec2.distv.net/valter/valter/164
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="http://static.clubsrv.me/logos/canais/history.png" group-title="Canais | Documentários",History Channel HD
-http://rec2.distv.net/valter/valter/165
-#EXTINF:-1 tvg-id="H2.br" tvg-logo="http://static.clubsrv.me/logos/canais/h2.png" group-title="Canais | Documentários",History Channel 2 HD
-http://rec2.distv.net/valter/valter/166
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-logo="http://static.clubsrv.me/logos/canais/id.png" group-title="Canais | Documentários",Investigação Discovery HD
-http://rec2.distv.net/valter/valter/132
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="http://static.clubsrv.me/logos/canais/lifetime.png" group-title="Canais | Filmes e Séries",Life Time HD
-http://rec2.distv.net/valter/valter/167
-#EXTINF:-1 tvg-id="+globosat.br" tvg-logo="https://static.clubsrv.me/logos/canais/maisglobosat.png" group-title="Canais | Variedades",Mais GloboSat HD
-http://rec2.distv.net/valter/valter/235
-#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
-http://rec2.distv.net/valter/valter/168
-#EXTINF:-1 tvg-id="Mtv.br" tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais | Arte e Música",MTV HD
-http://rec2.distv.net/valter/valter/169
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.clubsrv.me/logos/canais/mtvlive.png" group-title="Canais | Arte e Música",MTV Live HD
-http://rec2.distv.net/valter/valter/236
-#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais | Arte e Música",MultiShow HD
-http://rec2.distv.net/valter/valter/170
-#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-logo="https://static.clubsrv.me/logos/canais/musicboxbrazil.png" group-title="Canais | Arte e Música",Music Box Brazil HD
-http://rec2.distv.net/valter/valter/171
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="https://static.clubsrv.me/logos/canais/nationalgeographic.png" group-title="Canais | Documentários",National Geographic HD
-http://rec2.distv.net/valter/valter/172
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-logo="https://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais | Infantis",NatGeo Kids HD
-http://rec2.distv.net/valter/valter/173
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-logo="https://static.clubsrv.me/logos/canais/natgeowild.png" group-title="Canais | Documentários",National Geographic Wild HD
-http://rec2.distv.net/valter/valter/174
-#EXTINF:-1 tvg-id="NickJr.br" tvg-logo="https://static.clubsrv.me/logos/canais/nickjr.png" group-title="Canais | Infantis",Nick JR HD
-http://rec2.distv.net/valter/valter/176
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
-http://rec2.distv.net/valter/valter/175
-#EXTINF:-1 tvg-id="Off.br" tvg-logo="https://static.clubsrv.me/logos/canais/off.png" group-title="Canais | Esportes",OFF HD
-http://rec2.distv.net/valter/valter/177
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="https://static.clubsrv.me/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
-http://rec2.distv.net/valter/valter/178
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
-http://rec2.distv.net/valter/valter/184
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
-http://rec2.distv.net/valter/valter/179
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
-http://rec2.distv.net/valter/valter/180
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
-http://rec2.distv.net/valter/valter/181
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
-http://rec2.distv.net/valter/valter/182
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
-http://rec2.distv.net/valter/valter/183
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
-http://rec2.distv.net/valter/valter/237
-#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="https://static.clubsrv.me/logos/canais/primeboxbrazil.png" group-title="Canais | Variedades",Prime Box Brazil HD
-http://rec2.distv.net/valter/valter/185
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://static.clubsrv.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD
-http://rec2.distv.net/valter/valter/28
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-logo="http://static.clubsrv.me/logos/canais/record.png" group-title="Canais | Abertos",RecordTV SP HD
-http://rec2.distv.net/valter/valter/33
-#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="https://static.clubsrv.me/logos/canais/redevida.png" group-title="Canais | Religiosos",Rede Vida HD
-http://rec2.distv.net/valter/valter/218
-#EXTINF:-1 tvg-id="RedeTV! SP" tvg-logo="http://static.clubsrv.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! HD
-http://rec2.distv.net/valter/valter/69
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP HD
-http://rec2.distv.net/valter/valter/238
-#EXTINF:-1 tvg-id="Sony.br" tvg-logo="https://static.clubsrv.me/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Sony Channel HD
-http://rec2.distv.net/valter/valter/123
-#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://static.clubsrv.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space HD
-http://rec2.distv.net/valter/valter/187
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
-http://rec2.distv.net/valter/valter/188
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
-http://rec2.distv.net/valter/valter/189
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
-http://rec2.distv.net/valter/valter/190
-#EXTINF:-1 tvg-id="Fox.br" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD
-http://rec2.distv.net/valter/valter/148
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Filmes e Séries",Star Life HD
-http://rec2.distv.net/valter/valter/149
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits HD
-http://rec2.distv.net/valter/valter/150
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 HD
-http://rec2.distv.net/valter/valter/151
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
-http://rec2.distv.net/valter/valter/191
-#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY HD
-http://rec2.distv.net/valter/valter/192
-#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TBS HD
-http://rec2.distv.net/valter/valter/193
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://static.clubsrv.me/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
-http://rec2.distv.net/valter/valter/194
-#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="https://static.clubsrv.me/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
-http://rec2.distv.net/valter/valter/195
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="https://static.clubsrv.me/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
-http://rec2.distv.net/valter/valter/196
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://static.clubsrv.me/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
-http://rec2.distv.net/valter/valter/197
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://static.clubsrv.me/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
-http://rec2.distv.net/valter/valter/198
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://static.clubsrv.me/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
-http://rec2.distv.net/valter/valter/199
-#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
-http://rec2.distv.net/valter/valter/201
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Serie HD
-http://rec2.distv.net/valter/valter/202
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="http://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast HD
-http://rec2.distv.net/valter/valter/203
-#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-logo="https://static.clubsrv.me/logos/canais/travelboxbrazil.png" group-title="Canais | Variedades",Travel Box Brazil HD
-http://rec2.distv.net/valter/valter/240
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://static.clubsrv.me/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil HD
-http://rec2.distv.net/valter/valter/241
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://static.clubsrv.me/logos/canais/tvcamara.png" group-title="Canais | Abertos",TV Camara HD
-http://rec2.distv.net/valter/valter/222
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",TV Cultura HD
-http://rec2.distv.net/valter/valter/128
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.clubsrv.me/logos/canais/tvescola.png" group-title="Canais | Abertos",TV Escola HD
-http://rec2.distv.net/valter/valter/280
-#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="http://static.clubsrv.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta SP HD
-http://rec2.distv.net/valter/valter/230
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-logo="https://static.clubsrv.me/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV RA-TIM-BUM HD
-http://rec2.distv.net/valter/valter/204
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="https://static.clubsrv.me/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal Channel HD
-http://rec2.distv.net/valter/valter/205
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-logo="https://static.clubsrv.me/logos/canais/vh1.png" group-title="Canais | Arte e Música",VH1 HD
-http://rec2.distv.net/valter/valter/206
-#EXTINF:-1 tvg-id="Viva.br" tvg-logo="https://static.clubsrv.me/logos/canais/viva.png" group-title="Canais | Variedades",Viva HD
-http://rec2.distv.net/valter/valter/207
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="https://static.clubsrv.me/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
-http://rec2.distv.net/valter/valter/208
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-logo="https://static.clubsrv.me/logos/canais/woohoo.png" group-title="Canais | Variedades",WOOHOO HD
-http://rec2.distv.net/valter/valter/243
+#EXTINF:-1 tvg-name="Bibo Pai e Bob Filho 24H" tvg-logo="http://logocanais.ddns.net/Logo/bibopaiebobfilho.jpg" group-title="Canais: 24hrs",Bibo Pai e Bob Filho 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/27481.m3u8
+#EXTINF:-1 tvg-name="Black Kamen Rider 24H" tvg-logo="http://logocanais.ddns.net/Logo/black.png" group-title="Canais: 24hrs",Black Kamen Rider 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/11946.m3u8
+#EXTINF:-1 tvg-name="Capitao Planeta 24H" tvg-logo="http://logocanais.ddns.net/Logo/planeta.png" group-title="Canais: 24hrs",Capitao Planeta 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13286.m3u8
+#EXTINF:-1 tvg-name="Carl o Super Caminhao 24H" tvg-logo="http://logocanais.ddns.net/Logo/carl.jpg" group-title="Canais: 24hrs",Carl o Super Caminhao 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/8288.m3u8
+#EXTINF:-1 tvg-name="Changeman 24H" tvg-logo="http://logocanais.ddns.net/Logo/changeman.png" group-title="Canais: 24hrs",Changeman 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/11691.m3u8
+#EXTINF:-1 tvg-name="Coragem o Cão Covarde 24H" tvg-logo="http://logocanais.ddns.net/Logo/coragem.png" group-title="Canais: 24hrs",Coragem o Cão Covarde 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7217.m3u8
+#EXTINF:-1 tvg-name="Corrida Maluca 24H" tvg-logo="http://logocanais.ddns.net/Logo/corrida.png" group-title="Canais: 24hrs",Corrida Maluca 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7201.m3u8
+#EXTINF:-1 tvg-name="DC Comics 24H" tvg-logo="http://logocanais.ddns.net/Logo/dcomics.png" group-title="Canais: 24hrs",DC Comics 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/12369.m3u8
+#EXTINF:-1 tvg-name="Duck Tales 24H" tvg-logo="http://logocanais.ddns.net/Logo/duck.png" group-title="Canais: 24hrs",Duck Tales 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/12964.m3u8
+#EXTINF:-1 tvg-name="Familia Dinossauro 24H" tvg-logo="http://logocanais.ddns.net/Logo/dino.png" group-title="Canais: 24hrs",Familia Dinossauro 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/12296.m3u8
+#EXTINF:-1 tvg-name="FJr e Os Impossiveis 24H" tvg-logo="http://logocanais.ddns.net/Logo/frank.png" group-title="Canais: 24hrs",FJr e Os Impossiveis 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/27478.m3u8
+#EXTINF:-1 tvg-name="Flashman 24H" tvg-logo="http://logocanais.ddns.net/Logo/flashman.png" group-title="Canais: 24hrs",Flashman 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/11719.m3u8
+#EXTINF:-1 tvg-name="Galinha Pintadinha 24H" tvg-logo="http://logocanais.ddns.net/Logo/pinta.png" group-title="Canais: 24hrs",Galinha Pintadinha 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7211.m3u8
+#EXTINF:-1 tvg-name="He-man 24H" tvg-logo="http://logocanais.ddns.net/Logo/heman.png" group-title="Canais: 24hrs",He-man 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/11609.m3u8
+#EXTINF:-1 tvg-name="Jambo e Ruivao 24H" tvg-logo="http://logocanais.ddns.net/Logo/jan.png" group-title="Canais: 24hrs",Jambo e Ruivao 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/12941.m3u8
+#EXTINF:-1 tvg-name="Jaspion 24H" tvg-logo="http://logocanais.ddns.net/Logo/jaspion.png" group-title="Canais: 24hrs",Jaspion 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/11607.m3u8
+#EXTINF:-1 tvg-name="Jovens Titans 24H" tvg-logo="http://logocanais.ddns.net/Logo/titas.png" group-title="Canais: 24hrs",Jovens Titans 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/8856.m3u8
+#EXTINF:-1 tvg-name="Liga da Justiça 24H" tvg-logo="http://logocanais.ddns.net/Logo/liga.png" group-title="Canais: 24hrs",Liga da Justiça 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/11720.m3u8
+#EXTINF:-1 tvg-name="Maguila o Gorila" tvg-logo="http://logocanais.ddns.net/Logo/gorila.jpg" group-title="Canais: 24hrs",Maguila o Gorila
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/27477.m3u8
+#EXTINF:-1 tvg-name="Manda Chuva 24H" tvg-logo="http://logocanais.ddns.net/Logo/manda.png" group-title="Canais: 24hrs",Manda Chuva 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13370.m3u8
+#EXTINF:-1 tvg-name="Marvel 24H" tvg-logo="http://logocanais.ddns.net/Logo/marvel.png" group-title="Canais: 24hrs",Marvel 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/12687.m3u8
+#EXTINF:-1 tvg-name="Mickey e Donald 24H" tvg-logo="http://logocanais.ddns.net/Logo/mickey.png" group-title="Canais: 24hrs",Mickey e Donald 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7209.m3u8
+#EXTINF:-1 tvg-name="Os Jetsons 24H" tvg-logo="http://logocanais.ddns.net/Logo/osjetsons.png" group-title="Canais: 24hrs",Os Jetsons 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/27480.m3u8
+#EXTINF:-1 tvg-name="Patati e Patata 24H" tvg-logo="https://noticiasdatvbrasil.files.wordpress.com/2012/12/patatipatata-gifslindalima7.png" group-title="Canais: 24hrs",Patati e Patata 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/3826.m3u8
+#EXTINF:-1 tvg-name="Patrula Canina 24H" tvg-logo="http://logocanais.ddns.net/Logo/PatrulhaCanina.png" group-title="Canais: 24hrs",Patrula Canina 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7597.m3u8
+#EXTINF:-1 tvg-name="Pegue o Pombo 24H" tvg-logo="http://logocanais.ddns.net/Logo/pombo.png" group-title="Canais: 24hrs",Pegue o Pombo 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/9841.m3u8
+#EXTINF:-1 tvg-name="Pepe Legal 24H" tvg-logo="http://logocanais.ddns.net/Logo/pepe.gif" group-title="Canais: 24hrs",Pepe Legal 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13582.m3u8
+#EXTINF:-1 tvg-name="Pica Pau 24H" tvg-logo="http://www.flamboyant.ind.br/imagens/linhas-especiais/pica-pau/logo.png" group-title="Canais: 24hrs",Pica Pau 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/3832.m3u8
+#EXTINF:-1 tvg-name="Popeye 24H" tvg-logo="http://logocanais.ddns.net/Logo/pop.png" group-title="Canais: 24hrs",Popeye 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/12940.m3u8
+#EXTINF:-1 tvg-name="Power Rangers 24H" tvg-logo="http://logocanais.ddns.net/Logo/power.png" group-title="Canais: 24hrs",Power Rangers 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/12027.m3u8
+#EXTINF:-1 tvg-name="Scooby Doo 24H" tvg-logo="http://logocanais.ddns.net/Logo/scooby.png" group-title="Canais: 24hrs",Scooby Doo 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7602.m3u8
+#EXTINF:-1 tvg-name="Spectroman 24H" tvg-logo="http://logocanais.ddns.net/Logo/spec.png" group-title="Canais: 24hrs",Spectroman 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/12860.m3u8
+#EXTINF:-1 tvg-name="Thundercats 24H" tvg-logo="http://logocanais.ddns.net/Logo/thundercats.png" group-title="Canais: 24hrs",Thundercats 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26452.m3u8
+#EXTINF:-1 tvg-name="Tico e Teco 24H" tvg-logo="http://logocanais.ddns.net/Logo/ticoteco.png" group-title="Canais: 24hrs",Tico e Teco 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7197.m3u8
+#EXTINF:-1 tvg-name="Tom e Jerry 24H" tvg-logo="http://logocanais.ddns.net/Logo/tom.png" group-title="Canais: 24hrs",Tom e Jerry 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/8287.m3u8
+#EXTINF:-1 tvg-name="TR Classicos Series 24H" tvg-logo="http://logocanais.ddns.net/Logo/tr.jpg" group-title="Canais: 24hrs",TR Classicos Series 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/25308.m3u8
+#EXTINF:-1 tvg-name="TR Classicos Toons 24H" tvg-logo="http://logocanais.ddns.net/Logo/tr2.jpg" group-title="Canais: 24hrs",TR Classicos Toons 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/25326.m3u8
+#EXTINF:-1 tvg-name="TR Tomorrowland TV" tvg-logo="http://logocanais.ddns.net/Logo/tr19.jpg" group-title="Canais: 24hrs",TR Tomorrowland TV
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26497.m3u8
+#EXTINF:-1 tvg-name="Ultraman 24H" tvg-logo="http://logocanais.ddns.net/Logo/ultra.png" group-title="Canais: 24hrs",Ultraman 24H
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/12861.m3u8
+#EXTINF:-1 tvg-id="Animal Planet 4K" tvg-name="Animal Planet 4K" tvg-logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: 4K",Animal Planet 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26411.m3u8
+#EXTINF:-1 tvg-id="Band SP 4k" tvg-name="Band SP 4k" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: 4K",Band SP 4k
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26404.m3u8
+#EXTINF:-1 tvg-id="Combate 4K" tvg-name="Combate 4K" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: 4K",Combate 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22155.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel 4K" tvg-name="Discovery Channel 4K" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryChannel1.png" group-title="Canais: 4K",Discovery Channel 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26407.m3u8
+#EXTINF:-1 tvg-id="ESPN 4K" tvg-name="ESPN 4K" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: 4K",ESPN 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26418.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 4K" tvg-name="FOX Sports 2 4K" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: 4K",FOX Sports 2 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26845.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 4K" tvg-name="FOX Sports 4K" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: 4K",FOX Sports 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26409.m3u8
+#EXTINF:-1 tvg-id="Globo 4k" tvg-name="Globo 4k" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: 4K",Globo 4k
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26448.m3u8
+#EXTINF:-1 tvg-id="History HD" tvg-name="History 4k" tvg-logo="http://logocanais.ddns.net/Logo/History1.png" group-title="Canais: 4K",History 4k
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/62055.m3u8
+#EXTINF:-1 tvg-id="Megapix 4K" tvg-name="Megapix 4K" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: 4K",Megapix 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26414.m3u8
+#EXTINF:-1 tvg-id="Multishow 4K" tvg-name="Multishow 4K" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="Canais: 4K",Multishow 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26412.m3u8
+#EXTINF:-1 tvg-id="Nat Geo 4K" tvg-name="Nat Geo 4K" tvg-logo="http://logocanais.ddns.net/Logo/Natgeowild1.png" group-title="Canais: 4K",Nat Geo 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26416.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes 4K" tvg-name="Premiere Clubes 4K" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: 4K",Premiere Clubes 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22156.m3u8
+#EXTINF:-1 tvg-id="Record 4K" tvg-name="Record 4K" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: 4K",Record 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26405.m3u8
+#EXTINF:-1 tvg-id="SBT 4K" tvg-name="SBT 4K" tvg-logo="http://logocanais.ddns.net/Logo/SBT1.png" group-title="Canais: 4K",SBT 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26410.m3u8
+#EXTINF:-1 tvg-id="Space 4K" tvg-name="Space 4K" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: 4K",Space 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26419.m3u8
+#EXTINF:-1 tvg-name="Star Channel 4K" tvg-logo="http://logocanais.ddns.net/Logo/startv.png" group-title="Canais: 4K",Star Channel 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/46267.m3u8
+#EXTINF:-1 tvg-id="TNT 4K" tvg-name="TNT 4K" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: 4K",TNT 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26408.m3u8
+#EXTINF:-1 tvg-id="TNT Series 4K" tvg-name="TNT Series 4K" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: 4K",TNT Series 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26417.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-name="ESPN Brasil 4K" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: 4K",ESPN Brasil 4K
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/63732.m3u8
+#EXTINF:-1 tvg-id="SporTV 4K" tvg-name="SporTV 4k" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: 4K",SporTV 4k
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/63733.m3u8
+#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="Band SP FHD" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: Abertos",Band SP FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7188.m3u8
+#EXTINF:-1 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: Abertos",Band SP HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60697.m3u8
+#EXTINF:-1 tvg-id="Band SP HD [Alter]" tvg-name="Band SP HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: Abertos",Band SP HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7483.m3u8
+#EXTINF:-1 tvg-id="Band SP SD" tvg-name="Band SP SD" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: Abertos",Band SP SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2335.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="Futura HD" tvg-logo="http://logocanais.ddns.net/Logo/Futura1.png" group-title="Canais: Abertos",Futura HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60793.m3u8
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="Ideal TV" tvg-logo="http://logocanais.ddns.net/Logo/Ideal_TV_logo.png" group-title="Canais: Abertos",Ideal TV
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7108.m3u8
+#EXTINF:-1 tvg-name="Loading SD" tvg-logo="http://logocanais.ddns.net/Logo/Loading.png" group-title="Canais: Abertos",Loading SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/40175.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="Loading SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Loading.png" group-title="Canais: Abertos",Loading SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60756.m3u8
+#EXTINF:-1 tvg-id="Record MG SD" tvg-name="Record MG SD" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: Abertos",Record MG SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26388.m3u8
+#EXTINF:-1 tvg-id="Record RJ SD" tvg-name="Record RJ SD" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: Abertos",Record RJ SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26390.m3u8
+#EXTINF:-1 tvg-id="Record RJ SD [Alter]" tvg-name="Record RJ SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: Abertos",Record RJ SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26391.m3u8
+#EXTINF:-1 tvg-id="Record RS HD" tvg-name="Record RS HD" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: Abertos",Record RS HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/18422.m3u8
+#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP FHD" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: Abertos",Record SP FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7180.m3u8
+#EXTINF:-1 tvg-id="Record SP HD" tvg-name="Record SP HD" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: Abertos",Record SP HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2206.m3u8
+#EXTINF:-1 tvg-id="Record SP HD [Alter]" tvg-name="Record SP HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: Abertos",Record SP HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7296.m3u8
+#EXTINF:-1 tvg-id="Record SP SD" tvg-name="Record SP SD" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: Abertos",Record SP SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26383.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil SD" tvg-name="Rede Brasil SD" tvg-logo="http://logocanais.ddns.net/Logo/RedeBrasil1.png" group-title="Canais: Abertos",Rede Brasil SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2204.m3u8
+#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="Rede TV HD" tvg-logo="http://logocanais.ddns.net/Logo/RedeTv1.png" group-title="Canais: Abertos",Rede TV HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2202.m3u8
+#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="Rede TV HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/RedeTv1.png" group-title="Canais: Abertos",Rede TV HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7289.m3u8
+#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="Rede TV SD" tvg-logo="http://logocanais.ddns.net/Logo/RedeTv1.png" group-title="Canais: Abertos",Rede TV SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2203.m3u8
+#EXTINF:-1 tvg-id="SBT FHD" tvg-name="SBT FHD" tvg-logo="http://logocanais.ddns.net/Logo/SBT1.png" group-title="Canais: Abertos",SBT FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7179.m3u8
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="http://logocanais.ddns.net/Logo/SBT1.png" group-title="Canais: Abertos",SBT HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2197.m3u8
+#EXTINF:-1 tvg-id="SBT HD [Alter]" tvg-name="SBT HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/SBT1.png" group-title="Canais: Abertos",SBT HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7286.m3u8
+#EXTINF:-1 tvg-id="SBT SD" tvg-name="SBT SD" tvg-logo="http://logocanais.ddns.net/Logo/SBT1.png" group-title="Canais: Abertos",SBT SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2198.m3u8
+#EXTINF:-1 tvg-name="Shoptime" tvg-logo="http://logocanais.ddns.net/Logo/shoptime.png" group-title="Canais: Abertos",Shoptime
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60703.m3u8
+#EXTINF:-1 tvg-id="TV Brasil SD" tvg-name="TV Brasil SD" tvg-logo="http://logocanais.ddns.net/Logo/tvbrasil1.png" group-title="Canais: Abertos",TV Brasil SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2160.m3u8
+#EXTINF:-1 tvg-id="TV Brasil SD [Alter]" tvg-name="TV Brasil SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tvbrasil1.png" group-title="Canais: Abertos",TV Brasil SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7244.m3u8
+#EXTINF:-1 tvg-id="TV Camara SD" tvg-name="TV Camara SD" tvg-logo="http://logocanais.ddns.net/Logo/camara.png" group-title="Canais: Abertos",TV Camara SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7243.m3u8
+#EXTINF:-1 tvg-id="TV Cultura FHD" tvg-name="TV Cultura FHD" tvg-logo="http://logocanais.ddns.net/Logo/TVCultura12.png" group-title="Canais: Abertos",TV Cultura FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/46422.m3u8
+#EXTINF:-1 tvg-id="TV Cultura HD" tvg-name="TV Cultura HD" tvg-logo="http://logocanais.ddns.net/Logo/TVCultura12.png" group-title="Canais: Abertos",TV Cultura HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26447.m3u8
+#EXTINF:-1 tvg-id="TV Cultura HD [Alter]" tvg-name="TV Cultura HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TVCultura12.png" group-title="Canais: Abertos",TV Cultura HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60664.m3u8
+#EXTINF:-1 tvg-id="TV Cultura SD" tvg-name="TV Cultura SD" tvg-logo="http://logocanais.ddns.net/Logo/TVCultura12.png" group-title="Canais: Abertos",TV Cultura SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2159.m3u8
+#EXTINF:-1 tvg-id="TV Escola SD" tvg-name="TV Escola SD" tvg-logo="http://logocanais.ddns.net/Logo/escola.png" group-title="Canais: Abertos",TV Escola SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7242.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta SP FHD" tvg-name="TV Gazeta SP FHD" tvg-logo="http://logocanais.ddns.net/Logo/gazeta.png" group-title="Canais: Abertos",TV Gazeta SP FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26444.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta SP HD" tvg-name="Tv Gazeta SP HD" tvg-logo="http://logocanais.ddns.net/Logo/gazeta.png" group-title="Canais: Abertos",Tv Gazeta SP HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7241.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta SP SD" tvg-name="TV Gazeta SP SD" tvg-logo="http://logocanais.ddns.net/Logo/gazeta.png" group-title="Canais: Abertos",TV Gazeta SP SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60658.m3u8
+#EXTINF:-1 tvg-id="TV Senado SD" tvg-name="TV Senado SD" tvg-logo="http://logocanais.ddns.net/Logo/tvsenado.png" group-title="Canais: Abertos",TV Senado SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7247.m3u8
+#EXTINF:-1 tvg-name="TV Univesp SD" tvg-logo="http://logocanais.ddns.net/Logo/Univesp.png" group-title="Canais: Abertos",TV Univesp SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/33180.m3u8
+#EXTINF:-1 tvg-id="Animal Planet FHD" tvg-name="Animal Planet FHD" tvg-logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: Documentários",Animal Planet FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7151.m3u8
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: Documentários",Animal Planet HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2342.m3u8
+#EXTINF:-1 tvg-id="Animal Planet HD [Alter]" tvg-name="Animal Planet HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: Documentários",Animal Planet HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7490.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery Channel FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryChannel1.png" group-title="Canais: Documentários",Discovery Channel FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7163.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryChannel1.png" group-title="Canais: Documentários",Discovery Channel HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2315.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryChannel1.png" group-title="Canais: Documentários",Discovery Channel HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7457.m3u8
+#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="Discovery Home Health FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryHH.png" group-title="Canais: Documentários",Discovery Home Health FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7148.m3u8
+#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="Discovery Home Health HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryHH.png" group-title="Canais: Documentários",Discovery Home Health HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2313.m3u8
+#EXTINF:-1 tvg-id="Discovery Science FHD" tvg-name="Discovery Science FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoverySCience1.png" group-title="Canais: Documentários",Discovery Science FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60771.m3u8
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoverySCience1.png" group-title="Canais: Documentários",Discovery Science HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2129.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater FHD" tvg-name="Discovery Theater FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTheater1.png" group-title="Canais: Documentários",Discovery Theater FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26425.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTheater1.png" group-title="Canais: Documentários",Discovery Theater HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2311.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo FHD" tvg-name="Discovery Turbo FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="Canais: Documentários",Discovery Turbo FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7146.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="Canais: Documentários",Discovery Turbo HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2309.m3u8
+#EXTINF:-1 tvg-id="Discovery World FHD" tvg-name="Discovery World FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="Canais: Documentários",Discovery World FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7145.m3u8
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="Canais: Documentários",Discovery World HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2308.m3u8
+#EXTINF:-1 tvg-id="H2 FHD" tvg-name="H2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/H21.png" group-title="Canais: Documentários",H2 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13768.m3u8
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="http://logocanais.ddns.net/Logo/H21.png" group-title="Canais: Documentários",H2 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2268.m3u8
+#EXTINF:-1 tvg-id="H2 HD [Alter]" tvg-name="H2 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/H21.png" group-title="Canais: Documentários",H2 HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7363.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HGTV FHD" tvg-logo="http://logocanais.ddns.net/Logo/HGTV.png" group-title="Canais: Documentários",HGTV FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26424.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HGTV HD" tvg-logo="http://logocanais.ddns.net/Logo/HGTV.png" group-title="Canais: Documentários",HGTV HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2130.m3u8
+#EXTINF:-1 tvg-id="History FHD" tvg-name="History FHD" tvg-logo="http://logocanais.ddns.net/Logo/History1.png" group-title="Canais: Documentários",History FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7139.m3u8
+#EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="http://logocanais.ddns.net/Logo/History1.png" group-title="Canais: Documentários",History HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36487.m3u8
+#EXTINF:-1 tvg-id="History HD [Alter]" tvg-name="History HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/History1.png" group-title="Canais: Documentários",History HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7350.m3u8
+#EXTINF:-1 tvg-id="Investigacao Discovery FHD" tvg-name="Investigacao Discovery FHD" tvg-logo="http://logocanais.ddns.net/Logo/Investiga%C3%A7%C3%A3oDiscovery1.png" group-title="Canais: Documentários",Investigacao Discovery FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60760.m3u8
+#EXTINF:-1 tvg-id="Investigacao Discovery HD" tvg-name="Investigacao Discovery HD" tvg-logo="http://logocanais.ddns.net/Logo/Investiga%C3%A7%C3%A3oDiscovery1.png" group-title="Canais: Documentários",Investigacao Discovery HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2253.m3u8
+#EXTINF:-1 tvg-id="Investigacao Discovery HD [Alter]" tvg-name="Investigacao Discovery HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Investiga%C3%A7%C3%A3oDiscovery1.png" group-title="Canais: Documentários",Investigacao Discovery HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60759.m3u8
+#EXTINF:-1 tvg-id="Nat Geo FHD" tvg-name="Nat Geo FHD" tvg-logo="http://logocanais.ddns.net/Logo/NationalGeographic1.png" group-title="Canais: Documentários",Nat Geo FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60737.m3u8
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD" tvg-logo="http://logocanais.ddns.net/Logo/NationalGeographic1.png" group-title="Canais: Documentários",Nat Geo HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60736.m3u8
+#EXTINF:-1 tvg-id="Nat Geo HD [Alter]" tvg-name="Nat Geo HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/NationalGeographic1.png" group-title="Canais: Documentários",Nat Geo HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60740.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild FHD" tvg-name="Nat Geo Wild FHD" tvg-logo="http://logocanais.ddns.net/Logo/Natgeowild1.png" group-title="Canais: Documentários",Nat Geo Wild FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7143.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" tvg-logo="http://logocanais.ddns.net/Logo/Natgeowild1.png" group-title="Canais: Documentários",Nat Geo Wild HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2238.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel FHD" tvg-logo="http://logocanais.ddns.net/Logo/Smith.png" group-title="Canais: Documentários",Smithsonian Channel FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60699.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="Smithsonian Channel HD" tvg-logo="http://logocanais.ddns.net/Logo/Smith.png" group-title="Canais: Documentários",Smithsonian Channel HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/21490.m3u8
+#EXTINF:-1 tvg-name="TR Incrível" tvg-logo="http://logocanais.ddns.net/Logo/tr14.jpg" group-title="Canais: Documentários",TR Incrível
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26443.m3u8
+#EXTINF:-1 tvg-name="TR Mundo" tvg-logo="http://logocanais.ddns.net/Logo/tr40.jpg" group-title="Canais: Documentários",TR Mundo
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/46727.m3u8
+#EXTINF:-1 tvg-name="TR Restauracao" tvg-logo="http://logocanais.ddns.net/Logo/tr9.jpg" group-title="Canais: Documentários",TR Restauracao
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/25420.m3u8
+#EXTINF:-1 tvg-id="TruTV FHD" tvg-name="TruTV FHD" tvg-logo="http://logocanais.ddns.net/Logo/trutv1.png" group-title="Canais: Documentários",TruTV FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60667.m3u8
+#EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://logocanais.ddns.net/Logo/trutv1.png" group-title="Canais: Documentários",TruTV HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7238.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 FHD" tvg-name="SporTV 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV 2 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7154.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV 2 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60694.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 HD [Alter]" tvg-name="SporTV 2 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV 2 HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7278.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 SD" tvg-name="SporTV 2 SD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV 2 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2187.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="SporTV 2 SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV 2 SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7279.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 FHD" tvg-name="SporTV 3 FHD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV 3 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7153.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SporTV 3 HD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV 3 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60692.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 HD [Alter]" tvg-name="SporTV 3 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV 3 HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7276.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 SD" tvg-name="SporTV 3 SD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV 3 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2186.m3u8
+#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SporTV FHD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2189.m3u8
+#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SporTV HD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13423.m3u8
+#EXTINF:-1 tvg-id="SporTV HD [Alter]" tvg-name="SporTV HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7275.m3u8
+#EXTINF:-1 tvg-id="SporTV SD" tvg-name="SporTV SD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esporte SPORTV",SporTV SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2188.m3u8
+#EXTINF:-1 tvg-id="Band Sports FHD" tvg-name="Band Sports FHD" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes",Band Sports FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26422.m3u8
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports HD" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes",Band Sports HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13774.m3u8
+#EXTINF:-1 tvg-id="Band Sports HD [Alter]" tvg-name="Band Sports HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes",Band Sports HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7479.m3u8
+#EXTINF:-1 tvg-id="Band Sports SD" tvg-name="Band Sports SD" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes",Band Sports SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2332.m3u8
+#EXTINF:-1 tvg-id="Combate FHD" tvg-name="Combate FHD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7187.m3u8
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2318.m3u8
+#EXTINF:-1 tvg-id="Combate HD [Alter]" tvg-name="Combate HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7463.m3u8
+#EXTINF:-1 tvg-id="Combate SD" tvg-name="Combate SD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes",Combate SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2319.m3u8
+#EXTINF:-1 tvg-name="Copa Sul Americana HD" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes",Copa Sul Americana HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/21760.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-name="ESPN 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN 2 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60789.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN 2 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60794.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 SD" tvg-name="ESPN 2 SD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN 2 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60796.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-name="ESPN Brasil FHD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN Brasil FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7172.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN Brasil HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2300.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil HD [Alter]" tvg-name="ESPN Brasil HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN Brasil HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7430.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil SD" tvg-name="ESPN Brasil SD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN Brasil SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2301.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-name="ESPN Extra FHD" tvg-logo="http://logocanais.ddns.net/Logo/espnextra.png" group-title="Canais: Esportes",ESPN Extra FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7136.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="ESPN Extra HD" tvg-logo="http://logocanais.ddns.net/Logo/espnextra.png" group-title="Canais: Esportes",ESPN Extra HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7428.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra SD" tvg-name="ESPN Extra SD" tvg-logo="http://logocanais.ddns.net/Logo/espnextra.png" group-title="Canais: Esportes",ESPN Extra SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7429.m3u8
+#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN FHD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7160.m3u8
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2302.m3u8
+#EXTINF:-1 tvg-id="ESPN HD [Alter]" tvg-name="ESPN HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7427.m3u8
+#EXTINF:-1 tvg-id="ESPN SD" tvg-name="ESPN SD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2303.m3u8
+#EXTINF:-1 tvg-name="Fla TV - My Cujoo" tvg-logo="http://logocanais.ddns.net/Logo/flatv.png" group-title="Canais: Esportes",Fla TV - My Cujoo
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/35135.m3u8
+#EXTINF:-1 tvg-name="Fla TV 1 - My Cujoo" tvg-logo="http://logocanais.ddns.net/Logo/flatv.png" group-title="Canais: Esportes",Fla TV 1 - My Cujoo
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/35653.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 FHD [Alter]" tvg-name="FOX Sports 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",FOX Sports 2 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7157.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="FOX Sports 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",FOX Sports 2 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60803.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 HD [Alter]" tvg-name="FOX Sports 2 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes",FOX Sports 2 HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7405.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 SD" tvg-name="FOX Sports 2 SD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",FOX Sports 2 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60804.m3u8
+#EXTINF:-1 tvg-id="Fox Sports FHD" tvg-name="FOX Sports FHD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes",FOX Sports FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7171.m3u8
+#EXTINF:-1 tvg-id="Fox Sport HD" tvg-name="FOX Sports HD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes",FOX Sports HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2286.m3u8
+#EXTINF:-1 tvg-id="Fox Sports HD [Alter]" tvg-name="FOX Sports HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes",FOX Sports HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13757.m3u8
+#EXTINF:-1 tvg-id="Fox Sports SD" tvg-name="FOX Sports SD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes",FOX Sports SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2285.m3u8
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="Canais: Esportes",OFF HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2229.m3u8
+#EXTINF:-1 tvg-id="OFF SD" tvg-name="OFF SD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="Canais: Esportes",OFF SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2230.m3u8
+#EXTINF:-1 tvg-name="TR Modelismo" tvg-logo="http://logocanais.ddns.net/Logo/tr15.jpg" group-title="Canais: Esportes",TR Modelismo
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26442.m3u8
+#EXTINF:-1 tvg-name="TR Racing" tvg-logo="http://logocanais.ddns.net/Logo/tr8.jpg" group-title="Canais: Esportes",TR Racing
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/25396.m3u8
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="Woohoo HD" tvg-logo="http://logocanais.ddns.net/Logo/woohoo1.png" group-title="Canais: Esportes",Woohoo HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7097.m3u8
+#EXTINF:-1 tvg-id="Woohoo SD" tvg-name="Woohoo SD" tvg-logo="http://logocanais.ddns.net/Logo/woohoo1.png" group-title="Canais: Esportes",Woohoo SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2148.m3u8
+#EXTINF:-1 tvg-name="Brasileirao Serie C HD 01 (Eleven)" tvg-logo="http://aliaslive.ddns.net/cover/seriec.png" group-title="Canais: Esportes PPV",Brasileirao Serie C HD 01 (Eleven)
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/49652.m3u8
+#EXTINF:-1 tvg-name="Brasileirao Serie C HD 02 (Eleven)" tvg-logo="http://aliaslive.ddns.net/cover/seriec.png" group-title="Canais: Esportes PPV",Brasileirao Serie C HD 02 (Eleven)
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/49653.m3u8
+#EXTINF:-1 tvg-name="Brasileirao Serie C HD 03 (Eleven)" tvg-logo="http://aliaslive.ddns.net/cover/seriec.png" group-title="Canais: Esportes PPV",Brasileirao Serie C HD 03 (Eleven)
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/49654.m3u8
+#EXTINF:-1 tvg-name="Campeonato Carioca²" tvg-logo="http://logocanais.ddns.net/Logo/carioca.jpg" group-title="Canais: Esportes PPV",Campeonato Carioca²
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/43520.m3u8
+#EXTINF:-1 tvg-name="Campeonato Carioca³" tvg-logo="http://logocanais.ddns.net/Logo/carioca.jpg" group-title="Canais: Esportes PPV",Campeonato Carioca³
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/43521.m3u8
+#EXTINF:-1 tvg-name="Campeonato Carioca¹" tvg-logo="http://logocanais.ddns.net/Logo/carioca.jpg" group-title="Canais: Esportes PPV",Campeonato Carioca¹
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/43519.m3u8
+#EXTINF:-1 tvg-name="Conmebol" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/21761.m3u8
+#EXTINF:-1 tvg-name="Conmebol²" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol²
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36198.m3u8
+#EXTINF:-1 tvg-name="Conmebol³" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol³
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36199.m3u8
+#EXTINF:-1 tvg-name="Conmebol¹" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes PPV",Conmebol¹
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36197.m3u8
+#EXTINF:-1 tvg-name="Copa Nordeste 01" tvg-logo="http://logocanais.ddns.net/Logo/CopaNordeste.png" group-title="Canais: Esportes PPV",Copa Nordeste 01
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26536.m3u8
+#EXTINF:-1 tvg-name="Copa Nordeste 02" tvg-logo="http://logocanais.ddns.net/Logo/CopaNordeste.png" group-title="Canais: Esportes PPV",Copa Nordeste 02
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26537.m3u8
+#EXTINF:-1 tvg-name="Copa Nordeste 03" tvg-logo="http://logocanais.ddns.net/Logo/CopaNordeste.png" group-title="Canais: Esportes PPV",Copa Nordeste 03
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26538.m3u8
+#EXTINF:-1 tvg-name="Copa Nordeste 04" tvg-logo="http://logocanais.ddns.net/Logo/CopaNordeste.png" group-title="Canais: Esportes PPV",Copa Nordeste 04
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/44505.m3u8
+#EXTINF:-1 tvg-name="Copa Nordeste 05" tvg-logo="http://logocanais.ddns.net/Logo/CopaNordeste.png" group-title="Canais: Esportes PPV",Copa Nordeste 05
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/44506.m3u8
+#EXTINF:-1 tvg-name="Copa Nordeste 06" tvg-logo="http://logocanais.ddns.net/Logo/CopaNordeste.png" group-title="Canais: Esportes PPV",Copa Nordeste 06
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/44507.m3u8
+#EXTINF:-1 tvg-name="Copa Nordeste 07" tvg-logo="http://logocanais.ddns.net/Logo/CopaNordeste.png" group-title="Canais: Esportes PPV",Copa Nordeste 07
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/44508.m3u8
+#EXTINF:-1 tvg-name="Dazn 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes PPV",Dazn 2 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/21776.m3u8
+#EXTINF:-1 tvg-name="Dazn 3 HD" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes PPV",Dazn 3 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/27596.m3u8
+#EXTINF:-1 tvg-name="Dazn 4 HD" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes PPV",Dazn 4 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/27597.m3u8
+#EXTINF:-1 tvg-name="Dazn 5 HD" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes PPV",Dazn 5 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/27598.m3u8
+#EXTINF:-1 tvg-name="Dazn 6 HD" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes PPV",Dazn 6 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/27599.m3u8
+#EXTINF:-1 tvg-name="Dazn HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes PPV",Dazn HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/25423.m3u8
+#EXTINF:-1 tvg-name="Estadio TNT Sports 01" tvg-logo="http://logocanais.ddns.net/Logo/Estadiotntsports.png" group-title="Canais: Esportes PPV",Estadio TNT Sports 01
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26519.m3u8
+#EXTINF:-1 tvg-name="Estadio TNT Sports 02" tvg-logo="http://logocanais.ddns.net/Logo/Estadiotntsports.png" group-title="Canais: Esportes PPV",Estadio TNT Sports 02
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26520.m3u8
+#EXTINF:-1 tvg-name="Estadio TNT Sports 03" tvg-logo="http://logocanais.ddns.net/Logo/Estadiotntsports.png" group-title="Canais: Esportes PPV",Estadio TNT Sports 03
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26521.m3u8
+#EXTINF:-1 tvg-name="Estadio TNT Sports 04" tvg-logo="http://logocanais.ddns.net/Logo/Estadiotntsports.png" group-title="Canais: Esportes PPV",Estadio TNT Sports 04
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26522.m3u8
+#EXTINF:-1 tvg-name="Estadio TNT Sports 05" tvg-logo="http://logocanais.ddns.net/Logo/Estadiotntsports.png" group-title="Canais: Esportes PPV",Estadio TNT Sports 05
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26523.m3u8
+#EXTINF:-1 tvg-name="Estadio TNT Sports 06" tvg-logo="http://logocanais.ddns.net/Logo/Estadiotntsports.png" group-title="Canais: Esportes PPV",Estadio TNT Sports 06
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26524.m3u8
+#EXTINF:-1 tvg-name="Estadio TNT Sports HD" tvg-logo="http://logocanais.ddns.net/Logo/Estadiotntsports.png" group-title="Canais: Esportes PPV",Estadio TNT Sports HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/25483.m3u8
+#EXTINF:-1 tvg-name="HBO Max 1" tvg-logo="http://logocanais.ddns.net/Logo/HBO_Max.png" group-title="Canais: Esportes PPV",HBO Max 1
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56568.m3u8
+#EXTINF:-1 tvg-name="HBO Max 2" tvg-logo="http://logocanais.ddns.net/Logo/HBO_Max.png" group-title="Canais: Esportes PPV",HBO Max 2
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56569.m3u8
+#EXTINF:-1 tvg-name="HBO Max 3" tvg-logo="http://logocanais.ddns.net/Logo/HBO_Max.png" group-title="Canais: Esportes PPV",HBO Max 3
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56570.m3u8
+#EXTINF:-1 tvg-name="HBO Max 4" tvg-logo="http://logocanais.ddns.net/Logo/HBO_Max.png" group-title="Canais: Esportes PPV",HBO Max 4
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56709.m3u8
+#EXTINF:-1 tvg-name="HBO Max 5" tvg-logo="http://logocanais.ddns.net/Logo/HBO_Max.png" group-title="Canais: Esportes PPV",HBO Max 5
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56710.m3u8
+#EXTINF:-1 tvg-name="Star + 1" tvg-logo="http://logocanais.ddns.net/Logo/startv.png" group-title="Canais: Esportes PPV",Star + 1
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/55441.m3u8
+#EXTINF:-1 tvg-name="Watch Espn HD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes PPV",Watch Espn HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/35015.m3u8
+#EXTINF:-1 tvg-name="Star + 2" tvg-logo="http://logocanais.ddns.net/Logo/startv.png" group-title="Canais: Esportes PPV",Star + 2
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/63730.m3u8
+#EXTINF:-1 tvg-name="Star + 3" tvg-logo="http://logocanais.ddns.net/Logo/startv.png" group-title="Canais: Esportes PPV",Star + 3
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/63731.m3u8
+#EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="Premiere 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 2 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7169.m3u8
+#EXTINF:-1 tvg-id="Premiere 2 FHD H.265" tvg-name="Premiere 2 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 2 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22204.m3u8
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 2 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2221.m3u8
+#EXTINF:-1 tvg-id="Premiere 2 HD [Alter]" tvg-name="Premiere 2 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 2 HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7312.m3u8
+#EXTINF:-1 tvg-id="Premiere 2 SD" tvg-name="Premiere 2 SD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 2 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2222.m3u8
+#EXTINF:-1 tvg-id="Premiere 2 SD [Alter]" tvg-name="Premiere 2 SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 2 SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7313.m3u8
+#EXTINF:-1 tvg-id="Premiere 3 FHD" tvg-name="Premiere 3 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 3 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7168.m3u8
+#EXTINF:-1 tvg-id="Premiere 3 FHD H.265" tvg-name="Premiere 3 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 3 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22203.m3u8
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 3 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2219.m3u8
+#EXTINF:-1 tvg-id="Premiere 3 HD [Alter]" tvg-name="Premiere 3 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 3 HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7310.m3u8
+#EXTINF:-1 tvg-id="Premiere 3 SD" tvg-name="Premiere 3 SD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 3 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2220.m3u8
+#EXTINF:-1 tvg-id="Premiere 3 SD [Alter]" tvg-name="Premiere 3 SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 3 SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7311.m3u8
+#EXTINF:-1 tvg-id="Premiere 4 FHD" tvg-name="Premiere 4 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 4 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7167.m3u8
+#EXTINF:-1 tvg-id="Premiere 4 FHD H.265" tvg-name="Premiere 4 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 4 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22202.m3u8
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 4 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2217.m3u8
+#EXTINF:-1 tvg-id="Premiere 4 HD [Alter]" tvg-name="Premiere 4 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 4 HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7308.m3u8
+#EXTINF:-1 tvg-id="Premiere 4 SD" tvg-name="Premiere 4 SD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 4 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2218.m3u8
+#EXTINF:-1 tvg-id="Premiere 4 SD [Alter]" tvg-name="Premiere 4 SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 4 SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7309.m3u8
+#EXTINF:-1 tvg-id="Premiere 5 FHD" tvg-name="Premiere 5 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 5 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7166.m3u8
+#EXTINF:-1 tvg-id="Premiere 5 FHD H.265" tvg-name="Premiere 5 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 5 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22201.m3u8
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 5 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2215.m3u8
+#EXTINF:-1 tvg-id="Premiere 5 HD [Alter]" tvg-name="Premiere 5 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 5 HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7306.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 SD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 5 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2216.m3u8
+#EXTINF:-1 tvg-id="Premiere 5 SD [Alter]" tvg-name="Premiere 5 SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 5 SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7307.m3u8
+#EXTINF:-1 tvg-id="Premiere 6 FHD" tvg-name="Premiere 6 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 6 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7165.m3u8
+#EXTINF:-1 tvg-id="Premiere 6 FHD H.265" tvg-name="Premiere 6 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 6 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22200.m3u8
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 6 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7094.m3u8
+#EXTINF:-1 tvg-id="Premiere 6 HD [Alter]" tvg-name="Premiere 6 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 6 HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7304.m3u8
+#EXTINF:-1 tvg-id="Premiere 6 SD" tvg-name="Premiere 6 SD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 6 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2214.m3u8
+#EXTINF:-1 tvg-id="Premiere 7 FHD" tvg-name="Premiere 7 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 7 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7164.m3u8
+#EXTINF:-1 tvg-id="Premiere 7 FHD H.265" tvg-name="Premiere 7 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 7 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22199.m3u8
+#EXTINF:-1 tvg-id="Premiere 7 HD [Alter]" tvg-name="Premiere 7 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 7 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7095.m3u8
+#EXTINF:-1 tvg-id="Premiere 7 HD [Alter]" tvg-name="Premiere 7 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 7 HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7302.m3u8
+#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-name="Premiere 7 SD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere 7 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2213.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="Premiere Clubes FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere Clubes FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7170.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes FHD H.265" tvg-name="Premiere Clubes FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere Clubes FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22198.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere Clubes HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2223.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes HD [Alter]" tvg-name="Premiere Clubes HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere Clubes HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7300.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-name="Premiere Clubes SD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes Premiere",Premiere Clubes SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2224.m3u8
+#EXTINF:-1 tvg-id="A&E FHD H.265" tvg-name="A&E FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/AE.png" group-title="Canais: FHD H.265",A&E FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22278.m3u8
+#EXTINF:-1 tvg-id="AMC FHD H.265" tvg-name="AMC FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: FHD H.265",AMC FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22277.m3u8
+#EXTINF:-1 tvg-id="Animal Planet FHD H.265" tvg-name="Animal Planet FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: FHD H.265",Animal Planet FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22276.m3u8
+#EXTINF:-1 tvg-id="AXN FHD H.265" tvg-name="AXN FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: FHD H.265",AXN FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22275.m3u8
+#EXTINF:-1 tvg-id="Band News FHD H.265" tvg-name="Band News FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: FHD H.265",Band News FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22273.m3u8
+#EXTINF:-1 tvg-id="Band SP FHD H.265" tvg-name="Band SP FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: FHD H.265",Band SP FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22274.m3u8
+#EXTINF:-1 tvg-id="Band Sports FHD H.265" tvg-name="Band Sports FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: FHD H.265",Band Sports FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22272.m3u8
+#EXTINF:-1 tvg-id="BIS FHD H.265" tvg-name="BIS FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="Canais: FHD H.265",BIS FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22271.m3u8
+#EXTINF:-1 tvg-id="Boomerang FHD H.265" tvg-name="Boomerang FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: FHD H.265",Boomerang FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22270.m3u8
+#EXTINF:-1 tvg-id="Canal Sony FHD H.265" tvg-name="Canal Sony FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: FHD H.265",Canal Sony FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22224.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network FHD H.265" tvg-name="Cartoon Network FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: FHD H.265",Cartoon Network FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22269.m3u8
+#EXTINF:-1 tvg-id="Cinemax FHD H.265" tvg-name="Cinemax FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" group-title="Canais: FHD H.265",Cinemax FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22268.m3u8
+#EXTINF:-1 tvg-id="Combate FHD" tvg-name="Combate FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: FHD H.265",Combate FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22267.m3u8
+#EXTINF:-1 tvg-id="Comedy Central FHD H.265" tvg-name="Comedy Central FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/ComedyCentral1.png" group-title="Canais: FHD H.265",Comedy Central FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22266.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel FHD H.265" tvg-name="Discovery Channel FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryChannel1.png" group-title="Canais: FHD H.265",Discovery Channel FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22265.m3u8
+#EXTINF:-1 tvg-id="Discovery Home Health FHD H.265" tvg-name="Discovery Home Health FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryHH.png" group-title="Canais: FHD H.265",Discovery Home Health FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22263.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids FHD H.265" tvg-name="Discovery Kids FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: FHD H.265",Discovery Kids FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22262.m3u8
+#EXTINF:-1 tvg-id="Discovery Science FHD H.265" tvg-name="Discovery Science FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/DiscoverySCience1.png" group-title="Canais: FHD H.265",Discovery Science FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22261.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater FHD H.265" tvg-name="Discovery Theater FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTheater1.png" group-title="Canais: FHD H.265",Discovery Theater FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22260.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo FHD H.265" tvg-name="Discovery Turbo FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="Canais: FHD H.265",Discovery Turbo FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22212.m3u8
+#EXTINF:-1 tvg-id="Discovery World FHD H.265" tvg-name="Discovery World FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="Canais: FHD H.265",Discovery World FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22259.m3u8
+#EXTINF:-1 tvg-id="Disney Channel FHD" tvg-name="Disney Channel FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: FHD H.265",Disney Channel FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22258.m3u8
+#EXTINF:-1 tvg-id="Disney Junior FHD H.265" tvg-name="Disney Junior FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: FHD H.265",Disney Junior FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22257.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: FHD H.265",ESPN 2 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22197.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil FHD H.265" tvg-name="ESPN Brasil FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: FHD H.265",ESPN Brasil FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22256.m3u8
+#EXTINF:-1 tvg-id="ESPN FHD H.265" tvg-name="ESPN FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: FHD H.265",ESPN FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22255.m3u8
+#EXTINF:-1 tvg-id="Food Network FHD H.265" tvg-name="Food Network FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="Canais: FHD H.265",Food Network FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22254.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2 FHD H.265" tvg-name="FOX Sports 2 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: FHD H.265",FOX Sports 2 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22251.m3u8
+#EXTINF:-1 tvg-id="FOX Sports FHD H.265" tvg-name="FOX Sports FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: FHD H.265",FOX Sports FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22250.m3u8
+#EXTINF:-1 tvg-id="FX FHD H.265" tvg-name="FX FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group-title="Canais: FHD H.265",FX FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22249.m3u8
+#EXTINF:-1 tvg-id="Globo News FHD H.265" tvg-name="Globo News FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/GloboNews1.png" group-title="Canais: FHD H.265",Globo News FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22248.m3u8
+#EXTINF:-1 tvg-id="Globo RBS TV Porto Alegre FHD H.265" tvg-name="Globo RBS TV Porto Alegre FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: FHD H.265",Globo RBS TV Porto Alegre FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22247.m3u8
+#EXTINF:-1 tvg-id="Globo RJ FHD H.265" tvg-name="Globo RJ FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: FHD H.265",Globo RJ FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22246.m3u8
+#EXTINF:-1 tvg-id="Globo SP FHD H.265" tvg-name="Globo SP FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: FHD H.265",Globo SP FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22245.m3u8
+#EXTINF:-1 tvg-id="H2 FHD H.265" tvg-name="H2 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/H21.png" group-title="Canais: FHD H.265",H2 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22211.m3u8
+#EXTINF:-1 tvg-id="HBO 2 FHD H.265" tvg-name="HBO 2 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: FHD H.265",HBO 2 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22244.m3u8
+#EXTINF:-1 tvg-id="HBO Family FHD H.265" tvg-name="HBO Family FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: FHD H.265",HBO Family FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22243.m3u8
+#EXTINF:-1 tvg-id="HBO FHD H.265" tvg-name="HBO FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: FHD H.265",HBO FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22242.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Mundi FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/HBOMUNDI.png" group-title="Canais: FHD H.265",HBO Mundi FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22237.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Plus FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/HboPluse1.png" group-title="Canais: FHD H.265",HBO Plus FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22241.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Pop FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/HBOPOP.png" group-title="Canais: FHD H.265",HBO Pop FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22235.m3u8
+#EXTINF:-1 tvg-id="HBO Signature FHD H.265" tvg-name="HBO Signature FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: FHD H.265",HBO Signature FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22240.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Xtreme FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/HBOXTREME.png" group-title="Canais: FHD H.265",HBO Xtreme FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22236.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HGTV FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/HGTV.png" group-title="Canais: FHD H.265",HGTV FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22264.m3u8
+#EXTINF:-1 tvg-id="History FHD H.265" tvg-name="History FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/History1.png" group-title="Canais: FHD H.265",History FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22215.m3u8
+#EXTINF:-1 tvg-id="Investigação Discovery FHD H.265" tvg-name="Investigacao Discovery FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Investiga%c3%a7%c3%a3oDiscovery1.png" group-title="Canais: FHD H.265",Investigacao Discovery FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22239.m3u8
+#EXTINF:-1 tvg-id="Lifetime FHD H.265" tvg-name="Lifetime FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="Canais: FHD H.265",Lifetime FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22238.m3u8
+#EXTINF:-1 tvg-id="Megapix FHD H.265" tvg-name="Megapix FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: FHD H.265",Megapix FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22234.m3u8
+#EXTINF:-1 tvg-id="MTV FHD H.265" tvg-name="MTV FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png" group-title="Canais: FHD H.265",MTV FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22233.m3u8
+#EXTINF:-1 tvg-id="Multishow FHD H.265" tvg-name="Multishow FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="Canais: FHD H.265",Multishow FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22232.m3u8
+#EXTINF:-1 tvg-id="Nat Geo FHD H.265" tvg-name="Nat Geo FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/NationalGeographic1.png" group-title="Canais: FHD H.265",Nat Geo FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22231.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Kids FHD H.265" tvg-name="Nat Geo Kids FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/natgeokids1.png" group-title="Canais: FHD H.265",Nat Geo Kids FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22230.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild FHD H.265" tvg-name="Nat Geo Wild FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Natgeowild1.png" group-title="Canais: FHD H.265",Nat Geo Wild FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22229.m3u8
+#EXTINF:-1 tvg-id="Nick Jr FHD H.265" tvg-name="Nick Jr FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/NickJr1.png" group-title="Canais: FHD H.265",Nick Jr FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22227.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon FHD H.265" tvg-name="Nickelodeon FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="Canais: FHD H.265",Nickelodeon FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22228.m3u8
+#EXTINF:-1 tvg-id="Paramount FHD H.265" tvg-name="Paramount FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: FHD H.265",Paramount FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22226.m3u8
+#EXTINF:-1 tvg-id="Record SP FHD H.265" tvg-name="Record SP FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: FHD H.265",Record SP FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22195.m3u8
+#EXTINF:-1 tvg-id="Space FHD H.265" tvg-name="Space FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: FHD H.265",Space FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22223.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 FHD H.265" tvg-name="SporTV 2 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: FHD H.265",SporTV 2 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22222.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 FHD H.265" tvg-name="SporTV 3 FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: FHD H.265",SporTV 3 FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22221.m3u8
+#EXTINF:-1 tvg-id="SporTV FHD H.265" tvg-name="SporTV FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: FHD H.265",SporTV FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22220.m3u8
+#EXTINF:-1 tvg-id="Studio Universal FHD H.265" tvg-name="Studio Universal FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: FHD H.265",Studio Universal FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22219.m3u8
+#EXTINF:-1 tvg-id="Syfy FHD H.265" tvg-name="Syfy FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: FHD H.265",Syfy FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22218.m3u8
+#EXTINF:-1 tvg-id="Telecine Action FHD H.265" tvg-name="Telecine Action FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: FHD H.265",Telecine Action FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22210.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult FHD H.265" tvg-name="Telecine Cult FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais: FHD H.265",Telecine Cult FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22209.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun FHD H.265" tvg-name="Telecine Fun FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: FHD H.265",Telecine Fun FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22208.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca FHD H.265" tvg-name="Telecine Pipoca FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: FHD H.265",Telecine Pipoca FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22207.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium FHD H.265" tvg-name="Telecine Premium FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: FHD H.265",Telecine Premium FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22217.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch FHD H.265" tvg-name="Telecine Touch FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: FHD H.265",Telecine Touch FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22216.m3u8
+#EXTINF:-1 tvg-id="TNT FHD H.265" tvg-name="TNT FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: FHD H.265",TNT FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22206.m3u8
+#EXTINF:-1 tvg-id="TNT Series FHD H.265" tvg-name="TNT Series FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: FHD H.265",TNT Series FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22205.m3u8
+#EXTINF:-1 tvg-id="TV Gloobinho FHD H.265" tvg-name="TV Gloobinho FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/tvglobinho1.png" group-title="Canais: FHD H.265",TV Gloobinho FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22196.m3u8
+#EXTINF:-1 tvg-id="Universal Channel FHD H.265" tvg-name="Universal Channel FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: FHD H.265",Universal Channel FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22214.m3u8
+#EXTINF:-1 tvg-id="Warner Channel FHD H.265" tvg-name="Warner Channel FHD H.265" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: FHD H.265",Warner Channel FHD H.265
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/22213.m3u8
+#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="http://logocanais.ddns.net/Logo/AE.png" group-title="Canais: Filmes e Series",A&E FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26420.m3u8
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://logocanais.ddns.net/Logo/AE.png" group-title="Canais: Filmes e Series",A&E HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7088.m3u8
+#EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E SD" tvg-logo="http://logocanais.ddns.net/Logo/AE.png" group-title="Canais: Filmes e Series",A&E SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2346.m3u8
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series",AMC FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26421.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series",AMC HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2344.m3u8
+#EXTINF:-1 tvg-id="AMC SD" tvg-name="AMC SD" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series",AMC SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2345.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="AXN FHD" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series",AXN FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13697.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series",AXN HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2337.m3u8
+#EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN SD" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series",AXN SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2338.m3u8
+#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://logocanais.ddns.net/Logo/CanalBrasil1.png" group-title="Canais: Filmes e Series",Canal Brasil FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60714.m3u8
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="http://logocanais.ddns.net/Logo/CanalBrasil1.png" group-title="Canais: Filmes e Series",Canal Brasil HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60712.m3u8
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="Canal Brasil SD" tvg-logo="http://logocanais.ddns.net/Logo/CanalBrasil1.png" group-title="Canais: Filmes e Series",Canal Brasil SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60711.m3u8
+#EXTINF:-1 tvg-id="Canal Sony FHD" tvg-name="Canal Sony FHD" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series",Canal Sony FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60720.m3u8
+#EXTINF:-1 tvg-id="Canal Sony HD" tvg-name="Canal Sony HD" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series",Canal Sony HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2324.m3u8
+#EXTINF:-1 tvg-id="Canal Sony SD" tvg-name="Canal Sony SD" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series",Canal Sony SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2325.m3u8
+#EXTINF:-1 tvg-name="Cine Sky 1" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series",Cine Sky 1
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/33865.m3u8
+#EXTINF:-1 tvg-name="Cine Sky 2" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series",Cine Sky 2
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/33866.m3u8
+#EXTINF:-1 tvg-name="Cine Sky 3" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series",Cine Sky 3
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/33867.m3u8
+#EXTINF:-1 tvg-name="Cine Sky 4" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series",Cine Sky 4
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/33868.m3u8
+#EXTINF:-1 tvg-name="Cine Sky 5" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series",Cine Sky 5
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/33915.m3u8
+#EXTINF:-1 tvg-name="Cine Sky 6" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series",Cine Sky 6
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/35004.m3u8
+#EXTINF:-1 tvg-name="Cine Sky 7" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series",Cine Sky 7
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/35005.m3u8
+#EXTINF:-1 tvg-name="Cine Sky 8" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series",Cine Sky 8
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36209.m3u8
+#EXTINF:-1 tvg-name="Cine Sky 9" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series",Cine Sky 9
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36210.m3u8
+#EXTINF:-1 tvg-id="Cinemax FHD" tvg-name="Cinemax FHD" tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" group-title="Canais: Filmes e Series",Cinemax FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60731.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" group-title="Canais: Filmes e Series",Cinemax HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7089.m3u8
+#EXTINF:-1 tvg-id="Cinemax SD" tvg-name="Cinemax SD" tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" group-title="Canais: Filmes e Series",Cinemax SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2320.m3u8
+#EXTINF:-1 tvg-id="FX FHD" tvg-name="FX FHD" tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group-title="Canais: Filmes e Series",FX FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60791.m3u8
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group-title="Canais: Filmes e Series",FX HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2280.m3u8
+#EXTINF:-1 tvg-id="FX SD" tvg-name="FX SD" tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group-title="Canais: Filmes e Series",FX SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2281.m3u8
+#EXTINF:-1 tvg-id="HBO 2 FHD" tvg-name="HBO 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series",HBO 2 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7182.m3u8
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series",HBO 2 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2265.m3u8
+#EXTINF:-1 tvg-id="HBO 2 SD" tvg-name="HBO 2 SD" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series",HBO 2 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2266.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family FHD" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series",HBO Family FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13674.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series",HBO Family HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2263.m3u8
+#EXTINF:-1 tvg-id="HBO Family SD" tvg-name="HBO Family SD" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series",HBO Family SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2264.m3u8
+#EXTINF:-1 tvg-id="HBO FHD" tvg-name="HBO FHD" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series",HBO FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7181.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series",HBO HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2262.m3u8
+#EXTINF:-1 tvg-name="HBO Mundi FHD" tvg-logo="http://logocanais.ddns.net/Logo/HBOMUNDI.png" group-title="Canais: Filmes e Series",HBO Mundi FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60766.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Mundi HD" tvg-logo="http://logocanais.ddns.net/Logo/HBOMUNDI.png" group-title="Canais: Filmes e Series",HBO Mundi HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7091.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Mundi SD" tvg-logo="http://logocanais.ddns.net/Logo/HBOMUNDI.png" group-title="Canais: Filmes e Series",HBO Mundi SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2250.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Plus FHD" tvg-logo="http://logocanais.ddns.net/Logo/HBOPlus1.png" group-title="Canais: Filmes e Series",HBO Plus FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13676.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Plus HD" tvg-logo="http://logocanais.ddns.net/Logo/HboPluse1.png" group-title="Canais: Filmes e Series",HBO Plus HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2259.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Plus SD" tvg-logo="http://logocanais.ddns.net/Logo/HBOPlus1.png" group-title="Canais: Filmes e Series",HBO Plus SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2261.m3u8
+#EXTINF:-1 tvg-name="HBO Pop FHD" tvg-logo="http://logocanais.ddns.net/Logo/HBOPOP.png" group-title="Canais: Filmes e Series",HBO Pop FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60764.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Pop HD" tvg-logo="http://logocanais.ddns.net/Logo/HBOPOP.png" group-title="Canais: Filmes e Series",HBO Pop HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7093.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Pop SD" tvg-logo="http://logocanais.ddns.net/Logo/HBOPOP.png" group-title="Canais: Filmes e Series",HBO Pop SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2247.m3u8
+#EXTINF:-1 tvg-id="HBO SD" tvg-name="HBO SD" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series",HBO SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2267.m3u8
+#EXTINF:-1 tvg-id="HBO Signature FHD" tvg-name="HBO Signature FHD" tvg-logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series",HBO Signature FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13679.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series",HBO Signature HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2257.m3u8
+#EXTINF:-1 tvg-id="HBO Signature SD" tvg-name="HBO Signature SD" tvg-logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series",HBO Signature SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2258.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Xtreme FHD" tvg-logo="http://logocanais.ddns.net/Logo/HBOXTREME.png" group-title="Canais: Filmes e Series",HBO Xtreme FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60762.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Xtreme HD" tvg-logo="http://logocanais.ddns.net/Logo/HBOXTREME.png" group-title="Canais: Filmes e Series",HBO Xtreme HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7092.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Xtreme SD" tvg-logo="http://logocanais.ddns.net/Logo/HBOXTREME.png" group-title="Canais: Filmes e Series",HBO Xtreme SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2249.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="I-SAT" tvg-logo="http://logocanais.ddns.net/Logo/isat1.png" group-title="Canais: Filmes e Series",I-SAT
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2255.m3u8
+#EXTINF:-1 tvg-id="Megapix FHD" tvg-name="Megapix FHD" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Filmes e Series",Megapix FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13719.m3u8
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Filmes e Series",Megapix HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2245.m3u8
+#EXTINF:-1 tvg-id="Megapix SD" tvg-name="Megapix SD" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Filmes e Series",Megapix SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2246.m3u8
+#EXTINF:-1 tvg-id="Paramount FHD" tvg-name="Paramount FHD" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series",Paramount FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60725.m3u8
+#EXTINF:-1 tvg-id="Paramount HD" tvg-name="Paramount HD" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series",Paramount HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2227.m3u8
+#EXTINF:-1 tvg-id="Paramount SD" tvg-name="Paramount SD" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series",Paramount SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2228.m3u8
+#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-name="Prime Box Brazil HD" tvg-logo="http://logocanais.ddns.net/Logo/PrimeBoxBrasil1.png" group-title="Canais: Filmes e Series",Prime Box Brazil HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60715.m3u8
+#EXTINF:-1 tvg-id="Prime Box Brazil SD" tvg-name="Prime Box Brazil SD" tvg-logo="http://logocanais.ddns.net/Logo/PrimeBoxBrasil1.png" group-title="Canais: Filmes e Series",Prime Box Brazil SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2210.m3u8
+#EXTINF:-1 tvg-id="Space FHD" tvg-name="Space FHD" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Filmes e Series",Space FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36122.m3u8
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Filmes e Series",Space HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2192.m3u8
+#EXTINF:-1 tvg-id="Space SD" tvg-name="Space SD" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Filmes e Series",Space SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2193.m3u8
+#EXTINF:-1 tvg-id="Star Channel FHD" tvg-name="Star Channel FHD" tvg-logo="http://logocanais.ddns.net/Logo/STARCHANNEL.png" group-title="Canais: Filmes e Series",Star Channel FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7186.m3u8
+#EXTINF:-1 tvg-id="Star Channel HD" tvg-name="Star Channel HD" tvg-logo="http://logocanais.ddns.net/Logo/STARCHANNEL.png" group-title="Canais: Filmes e Series",Star Channel HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2291.m3u8
+#EXTINF:-1 tvg-id="Star Channel HD" tvg-name="Star Channel SD" tvg-logo="http://logocanais.ddns.net/Logo/STARCHANNEL.png" group-title="Canais: Filmes e Series",Star Channel SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2292.m3u8
+#EXTINF:-1 tvg-id="Star Hits 1 FHD" tvg-name="Star Hits 1 FHD" tvg-logo="http://logocanais.ddns.net/Logo/STARHITS.png" group-title="Canais: Filmes e Series",Star Hits 1 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26445.m3u8
+#EXTINF:-1 tvg-id="Star Hits 1 HD" tvg-name="Star Hits 1 HD" tvg-logo="http://logocanais.ddns.net/Logo/STARHITS.png" group-title="Canais: Filmes e Series",Star Hits 1 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7411.m3u8
+#EXTINF:-1 tvg-id="Star Hits 1 HD" tvg-name="Star Hits 1 SD" tvg-logo="http://logocanais.ddns.net/Logo/STARHITS.png" group-title="Canais: Filmes e Series",Star Hits 1 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2288.m3u8
+#EXTINF:-1 tvg-id="Star Hits 2 FHD" tvg-name="Star Hits 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/STARHITS2.png" group-title="Canais: Filmes e Series",Star Hits 2 FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7144.m3u8
+#EXTINF:-1 tvg-id="Star Hits 2 HD" tvg-name="Star Hits 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/STARHITS2.png" group-title="Canais: Filmes e Series",Star Hits 2 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7409.m3u8
+#EXTINF:-1 tvg-id="Star Hits 2 HD" tvg-name="Star Hits 2 SD" tvg-logo="http://logocanais.ddns.net/Logo/STARHITS2.png" group-title="Canais: Filmes e Series",Star Hits 2 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2287.m3u8
+#EXTINF:-1 tvg-id="Star Life FHD" tvg-name="Star Life FHD" tvg-logo="http://logocanais.ddns.net/Logo/startv.png" group-title="Canais: Filmes e Series",Star Life FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/54601.m3u8
+#EXTINF:-1 tvg-name="Star Life HD " tvg-logo="http://logocanais.ddns.net/Logo/startv.png" group-title="Canais: Filmes e Series",Star Life HD 
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/54600.m3u8
+#EXTINF:-1 tvg-id="Star Life SD" tvg-name="Star Life SD" tvg-logo="http://logocanais.ddns.net/Logo/startv.png" group-title="Canais: Filmes e Series",Star Life SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/54599.m3u8
+#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal FHD" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series",Studio Universal FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60683.m3u8
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series",Studio Universal HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7096.m3u8
+#EXTINF:-1 tvg-id="Studio Universal SD" tvg-name="Studio Universal SD" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series",Studio Universal SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2185.m3u8
+#EXTINF:-1 tvg-id="Syfy FHD" tvg-name="Syfy FHD" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series",Syfy FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60681.m3u8
+#EXTINF:-1 tvg-id="Syfy HD" tvg-name="Syfy HD" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series",Syfy HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2124.m3u8
+#EXTINF:-1 tvg-id="Syfy SD" tvg-name="Syfy SD" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series",Syfy SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2184.m3u8
+#EXTINF:-1 tvg-id="TBS FHD" tvg-name="TBS FHD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series",TBS FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60678.m3u8
+#EXTINF:-1 tvg-id="TBS HD" tvg-name="TBS HD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series",TBS HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2182.m3u8
+#EXTINF:-1 tvg-id="TBS SD" tvg-name="TBS SD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series",TBS SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2183.m3u8
+#EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM SD" tvg-logo="http://logocanais.ddns.net/Logo/TCM1.png" group-title="Canais: Filmes e Series",TCM SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2181.m3u8
+#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series",TNT FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36121.m3u8
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series",TNT HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2165.m3u8
+#EXTINF:-1 tvg-id="TNT SD" tvg-name="TNT SD" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series",TNT SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2166.m3u8
+#EXTINF:-1 tvg-id="TNT Series FHD" tvg-name="TNT Series FHD" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Filmes e Series",TNT Series FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60668.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="TNT Series HD" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Filmes e Series",TNT Series HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2163.m3u8
+#EXTINF:-1 tvg-id="TNT Series SD" tvg-name="TNT Series SD" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Filmes e Series",TNT Series SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2164.m3u8
+#EXTINF:-1 tvg-name="TR Cine Lançamentos 1" tvg-logo="http://logocanais.ddns.net/Logo/tr32.jpg" group-title="Canais: Filmes e Series",TR Cine Lançamentos 1
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26503.m3u8
+#EXTINF:-1 tvg-name="TR Cine Lançamentos 2" tvg-logo="http://logocanais.ddns.net/Logo/tr33.jpg" group-title="Canais: Filmes e Series",TR Cine Lançamentos 2
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26504.m3u8
+#EXTINF:-1 tvg-name="TR Faroeste" tvg-logo="http://logocanais.ddns.net/Logo/tr17.jpg" group-title="Canais: Filmes e Series",TR Faroeste
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26495.m3u8
+#EXTINF:-1 tvg-id="Universal Channel FHD" tvg-name="Universal Channel FHD" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series",Universal Channel FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60650.m3u8
+#EXTINF:-1 tvg-id="Universal Channel HD [Alter]" tvg-name="Universal Channel HD" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series",Universal Channel HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2154.m3u8
+#EXTINF:-1 tvg-id="Universal Channel SD" tvg-name="Universal Channel SD" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series",Universal Channel SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2155.m3u8
+#EXTINF:-1 tvg-id="Warner Channel FHD" tvg-name="Warner Channel FHD" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series",Warner Channel FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7140.m3u8
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series",Warner Channel HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2149.m3u8
+#EXTINF:-1 tvg-id="Warner Channel SD" tvg-name="Warner Channel SD" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series",Warner Channel SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2150.m3u8
+#EXTINF:-1 tvg-id="Syfy FHD [Alter]" tvg-name="Syfy FHD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series",Syfy FHD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60682.m3u8
+#EXTINF:-1 tvg-id="Syfy HD [Alter]" tvg-name="Syfy HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series",Syfy HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7283.m3u8
+#EXTINF:-1 tvg-id="Syfy SD [Alter]" tvg-name="Syfy SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series",Syfy SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7284.m3u8
+#EXTINF:-1 tvg-id="TBS FHD [Alter]" tvg-name="TBS FHD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series",TBS FHD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60679.m3u8
+#EXTINF:-1 tvg-id="TBS HD [Alter]" tvg-name="TBS HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series",TBS HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7269.m3u8
+#EXTINF:-1 tvg-id="TBS SD [Alter]" tvg-name="TBS SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series",TBS SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7270.m3u8
+#EXTINF:-1 tvg-id="TCM SD [Alter]" tvg-name="TCM SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TCM1.png" group-title="Canais: Filmes e Series",TCM SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7268.m3u8
+#EXTINF:-1 tvg-id="TNT FHD [Alter]" tvg-name="TNT FHD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series",TNT FHD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60670.m3u8
+#EXTINF:-1 tvg-id="TNT HD [Alter]" tvg-name="TNT HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series",TNT HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7251.m3u8
+#EXTINF:-1 tvg-id="TNT SD [Alter]" tvg-name="TNT SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series",TNT SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7252.m3u8
+#EXTINF:-1 tvg-id="TNT Series FHD [Alter]" tvg-name="TNT Series FHD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Filmes e Series",TNT Series FHD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60669.m3u8
+#EXTINF:-1 tvg-id="TNT Series HD [Alter]" tvg-name="TNT Series HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Filmes e Series",TNT Series HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7249.m3u8
+#EXTINF:-1 tvg-id="TNT Series SD [Alter]" tvg-name="TNT Series SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Filmes e Series",TNT Series SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7250.m3u8
+#EXTINF:-1 tvg-id="Universal Channel FHD [Alter]" tvg-name="Universal Channel FHD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series",Universal Channel FHD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60651.m3u8
+#EXTINF:-1 tvg-id="Universal Channel HD [Alter]" tvg-name="Universal Channel HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series",Universal Channel HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7235.m3u8
+#EXTINF:-1 tvg-id="Universal Channel SD [Alter]" tvg-name="Universal Channel SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series",Universal Channel SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7236.m3u8
+#EXTINF:-1 tvg-id="Warner Channel FHD [Alter]" tvg-name="Warner Channel FHD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series",Warner Channel FHD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60647.m3u8
+#EXTINF:-1 tvg-id="Warner Channel HD [Alter]" tvg-name="Warner Channel HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series",Warner Channel HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7228.m3u8
+#EXTINF:-1 tvg-id="Warner Channel SD [Alter]" tvg-name="Warner Channel SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series",Warner Channel SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7229.m3u8
+#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="Globo Bahia HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo Bahia HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7375.m3u8
+#EXTINF:-1 tvg-id="Globo Bahia HD [Alter]" tvg-name="Globo Bahia HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo Bahia HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13752.m3u8
+#EXTINF:-1 tvg-id="Globo Bahia SD" tvg-name="Globo Bahia SD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo Bahia SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7105.m3u8
+#EXTINF:-1 tvg-id="Globo Minas FHD" tvg-name="Globo Minas FHD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo Minas FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7185.m3u8
+#EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="Globo Minas HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo Minas HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7393.m3u8
+#EXTINF:-1 tvg-id="Globo Nordeste FHD" tvg-name="Globo Nordeste FHD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo Nordeste FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7390.m3u8
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo Nordeste HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7389.m3u8
+#EXTINF:-1 tvg-id="Globo Nordeste SD" tvg-name="Globo Nordeste SD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo Nordeste SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7104.m3u8
+#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="Globo RBS TV Porto Alegre HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo RBS TV Porto Alegre HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7385.m3u8
+#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre SD" tvg-name="Globo RBS TV Porto Alegre SD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo RBS TV Porto Alegre SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7386.m3u8
+#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ FHD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo RJ FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7184.m3u8
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo RJ HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo RJ HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2277.m3u8
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ SD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo RJ SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2278.m3u8
+#EXTINF:-1 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo SP FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7183.m3u8
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo SP HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/32510.m3u8
+#EXTINF:-1 tvg-id="Globo SP HD [Alter]" tvg-name="Globo SP HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo SP HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7379.m3u8
+#EXTINF:-1 tvg-id="Globo SP SD" tvg-name="Globo SP SD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo SP SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2276.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="Globo TV Tribuna Santos FHD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo TV Tribuna Santos FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36238.m3u8
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo TV Tribuna Santos HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60770.m3u8
+#EXTINF:-1 tvg-id="Globo TV Vanguarda FHD" tvg-name="Globo TV Vanguarda FHD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo TV Vanguarda FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36239.m3u8
+#EXTINF:-1 tvg-id="Globo TV Vanguarda HD" tvg-name="Globo TV Vanguarda HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo TV Vanguarda HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26396.m3u8
+#EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate FHD" tvg-name="Globo TV Vanguarda Taubate FHD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo TV Vanguarda Taubate FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36030.m3u8
+#EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate HD" tvg-name="Globo TV Vanguarda Taubate HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo TV Vanguarda Taubate HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36036.m3u8
+#EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza FHD" tvg-name="Globo TV Verdes Mares Fortaleza FHD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo TV Verdes Mares Fortaleza FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/35991.m3u8
+#EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza HD" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo TV Verdes Mares Fortaleza HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/35987.m3u8
+#EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza SD" tvg-name="Globo TV Verdes Mares Fortaleza SD" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Globo",Globo TV Verdes Mares Fortaleza SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/35993.m3u8
+#EXTINF:-1 tvg-id="Baby TV HD" tvg-name="Baby TV HD" tvg-logo="http://logocanais.ddns.net/Logo/BabyTV.png" group-title="Canais: Infantil",Baby TV HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60688.m3u8
+#EXTINF:-1 tvg-id="Baby TV SD" tvg-name="Baby TV SD" tvg-logo="http://logocanais.ddns.net/Logo/BabyTV.png" group-title="Canais: Infantil",Baby TV SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2336.m3u8
+#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: Infantil",Boomerang FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7149.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="Boomerang HD" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: Infantil",Boomerang HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60709.m3u8
+#EXTINF:-1 tvg-id="Boomerang HD [Alter]" tvg-name="Boomerang HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: Infantil",Boomerang HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7474.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="Cartoon Network FHD" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil",Cartoon Network FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/11095.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil",Cartoon Network HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2321.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network HD [Alter]" tvg-name="Cartoon Network HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil",Cartoon Network HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7467.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="Discovery Kids FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil",Discovery Kids FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7147.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil",Discovery Kids HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2146.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids HD [Alter]" tvg-name="Discovery Kids HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil",Discovery Kids HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7451.m3u8
+#EXTINF:-1 tvg-id="Disney Channel FHD" tvg-name="Disney Channel FHD" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: Infantil",Disney Channel FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7161.m3u8
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: Infantil",Disney Channel HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2128.m3u8
+#EXTINF:-1 tvg-id="Disney Channel HD [Alter]" tvg-name="Disney Channel HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: Infantil",Disney Channel HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7441.m3u8
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="Disney Junior FHD" tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: Infantil",Disney Junior FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60783.m3u8
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="Disney Junior HD" tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: Infantil",Disney Junior HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13795.m3u8
+#EXTINF:-1 tvg-id="Disney Junior HD [Alter]" tvg-name="Disney Junior HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: Infantil",Disney Junior HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26377.m3u8
+#EXTINF:-1 tvg-id="Disney XD FHD" tvg-name="Disney XD FHD" tvg-logo="http://logocanais.ddns.net/Logo/DisneyXD1.png" group-title="Canais: Infantil",Disney XD FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60785.m3u8
+#EXTINF:-1 tvg-id="Disney XD SD" tvg-name="Disney XD HD" tvg-logo="http://logocanais.ddns.net/Logo/DisneyXD1.png" group-title="Canais: Infantil",Disney XD HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26376.m3u8
+#EXTINF:-1 tvg-id="Gloob HD" tvg-name="Gloob FHD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="Canais: Infantil",Gloob FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7155.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="Gloob HD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="Canais: Infantil",Gloob HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2142.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Kids FHD" tvg-name="Nat Geo Kids FHD" tvg-logo="http://logocanais.ddns.net/Logo/natgeokids1.png" group-title="Canais: Infantil",Nat Geo Kids FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60745.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Kids HD" tvg-name="Nat Geo Kids HD" tvg-logo="http://logocanais.ddns.net/Logo/natgeokids1.png" group-title="Canais: Infantil",Nat Geo Kids HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60744.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Kids HD [Alter]" tvg-name="Nat Geo Kids HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/natgeokids1.png" group-title="Canais: Infantil",Nat Geo Kids HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7325.m3u8
+#EXTINF:-1 tvg-id="Nick Jr FHD" tvg-name="Nick Jr FHD" tvg-logo="http://logocanais.ddns.net/Logo/NickJr1.png" group-title="Canais: Infantil",Nick Jr FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7142.m3u8
+#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="Nick Jr HD" tvg-logo="http://logocanais.ddns.net/Logo/NickJr1.png" group-title="Canais: Infantil",Nick Jr HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2145.m3u8
+#EXTINF:-1 tvg-id="Nick Jr HD [Alter]" tvg-name="Nick Jr HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/NickJr1.png" group-title="Canais: Infantil",Nick Jr HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7320.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon FHD" tvg-name="Nickelodeon FHD" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="Canais: Infantil",Nickelodeon FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7141.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="Canais: Infantil",Nickelodeon HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2125.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon HD [Alter]" tvg-name="Nickelodeon HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="Canais: Infantil",Nickelodeon HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60729.m3u8
+#EXTINF:-1 tvg-id="Tooncast SD" tvg-name="Tooncast SD" tvg-logo="http://logocanais.ddns.net/Logo/tooncast1.png" group-title="Canais: Infantil",Tooncast SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2162.m3u8
+#EXTINF:-1 tvg-id="Tooncast SD [Alter]" tvg-name="Tooncast SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tooncast1.png" group-title="Canais: Infantil",Tooncast SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7248.m3u8
+#EXTINF:-1 tvg-id="TV Gloobinho FHD" tvg-name="TV Gloobinho FHD" tvg-logo="http://logocanais.ddns.net/Logo/tvglobinho1.png" group-title="Canais: Infantil",TV Gloobinho FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60768.m3u8
+#EXTINF:-1 tvg-id="TV Gloobinho HD" tvg-name="TV Gloobinho HD" tvg-logo="http://logocanais.ddns.net/Logo/tvglobinho1.png" group-title="Canais: Infantil",TV Gloobinho HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7368.m3u8
+#EXTINF:-1 tvg-id="TV Ra tim bum FHD" tvg-name="TV Ra tim bum FHD" tvg-logo="http://logocanais.ddns.net/Logo/tvratimbum1.png" group-title="Canais: Infantil",TV Ra tim bum FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60654.m3u8
+#EXTINF:-1 tvg-id="TV Ra tim bum HD" tvg-name="TV Ra tim bum HD" tvg-logo="http://logocanais.ddns.net/Logo/tvratimbum1.png" group-title="Canais: Infantil",TV Ra tim bum HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60653.m3u8
+#EXTINF:-1 tvg-id="TV Ra tim bum HD [Alter]" tvg-name="TV Ra tim bum HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tvratimbum1.png" group-title="Canais: Infantil",TV Ra tim bum HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7239.m3u8
+#EXTINF:-1 tvg-id="Zoomoo SD" tvg-name="Zoomoo SD" tvg-logo="http://logocanais.ddns.net/Logo/Zoomoo.png" group-title="Canais: Infantil",Zoomoo SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60645.m3u8
+#EXTINF:-1 tvg-id="Zoomoo SD [Alter]" tvg-name="Zoomoo SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Zoomoo.png" group-title="Canais: Infantil",Zoomoo SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/30686.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Legendados",AXN HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26783.m3u8
+#EXTINF:-1 tvg-id="AXN SD LEG" tvg-name="AXN SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Legendados",AXN SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26784.m3u8
+#EXTINF:-1 tvg-id="Canal Sony HD" tvg-name="Canal Sony HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Legendados",Canal Sony HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26817.m3u8
+#EXTINF:-1 tvg-id="Canal Sony SD LEG" tvg-name="Canal Sony SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Legendados",Canal Sony SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26818.m3u8
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group-title="Canais: Legendados",FX HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26805.m3u8
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group-title="Canais: Legendados",FX SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26806.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Legendados",HBO HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26787.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Mundi SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/HBOMUNDI.png" group-title="Canais: Legendados",HBO Mundi SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26792.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Plus HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/HboPluse1.png" group-title="Canais: Legendados",HBO Plus HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26789.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Plus SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/HboPluse1.png" group-title="Canais: Legendados",HBO Plus SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26790.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Pop HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/HBOPOP.png" group-title="Canais: Legendados",HBO Pop HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26807.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Pop SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/HBOPOP.png" group-title="Canais: Legendados",HBO Pop SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26808.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Legendados",HBO SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26788.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="HBO Xtreme SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/HBOXTREME.png" group-title="Canais: Legendados",HBO Xtreme SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26791.m3u8
+#EXTINF:-1 tvg-id="Megapix HD LEG" tvg-name="Megapix HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Legendados",Megapix HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26809.m3u8
+#EXTINF:-1 tvg-id="Megapix SD LEG" tvg-name="Megapix SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Legendados",Megapix SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26810.m3u8
+#EXTINF:-1 tvg-id="Space HD LEG" tvg-name="Space HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Legendados",Space HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26811.m3u8
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Legendados",Space SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26812.m3u8
+#EXTINF:-1 tvg-id="Star Channel HD LEG" tvg-name="Star Channel HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/STARCHANNEL.png" group-title="Canais: Legendados",Star Channel HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60691.m3u8
+#EXTINF:-1 tvg-id="Star Channel HD" tvg-name="Star Channel SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/STARCHANNEL.png" group-title="Canais: Legendados",Star Channel SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60690.m3u8
+#EXTINF:-1 tvg-id="Telecine Action HD LEG" tvg-name="Telecine Action HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: Legendados",Telecine Action HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26793.m3u8
+#EXTINF:-1 tvg-id="Telecine Action SD LEG" tvg-name="Telecine Action SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: Legendados",Telecine Action SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26794.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult HD LEG" tvg-name="Telecine Cult HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais: Legendados",Telecine Cult HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60677.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult SD LEG" tvg-name="Telecine Cult SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais: Legendados",Telecine Cult SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60676.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun HD LEG" tvg-name="Telecine Fun HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: Legendados",Telecine Fun HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26795.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun SD LEG" tvg-name="Telecine Fun SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: Legendados",Telecine Fun SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26796.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca HD LEG" tvg-name="Telecine Pipoca HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: Legendados",Telecine Pipoca HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26797.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca SD LEG" tvg-name="Telecine Pipoca SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: Legendados",Telecine Pipoca SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26798.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium HD LEG" tvg-name="Telecine Premium HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: Legendados",Telecine Premium HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26799.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium SD LEG" tvg-name="Telecine Premium SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: Legendados",Telecine Premium SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26800.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch HD LEG" tvg-name="Telecine Touch HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Legendados",Telecine Touch HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26801.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch SD LEG" tvg-name="Telecine Touch SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Legendados",Telecine Touch SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26802.m3u8
+#EXTINF:-1 tvg-id="TNT HD LEG" tvg-name="TNT HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Legendados",TNT HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26803.m3u8
+#EXTINF:-1 tvg-id="TNT SD LEG" tvg-name="TNT SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Legendados",TNT SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26804.m3u8
+#EXTINF:-1 tvg-id="TNT Series HD LEG" tvg-name="TNT Series HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Legendados",TNT Series HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26813.m3u8
+#EXTINF:-1 tvg-id="TNT Series SD LEG" tvg-name="TNT Series SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Legendados",TNT Series SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26814.m3u8
+#EXTINF:-1 tvg-id="Warner Channel HD LEG" tvg-name="Warner Channel HD LEG" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Legendados",Warner Channel HD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26815.m3u8
+#EXTINF:-1 tvg-id="Warner Channel SD LEG" tvg-name="Warner Channel SD LEG" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Legendados",Warner Channel SD LEG
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26816.m3u8
+#EXTINF:-1 tvg-id="Band News FHD" tvg-name="Band News FHD" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Noticias",Band News FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7150.m3u8
+#EXTINF:-1 tvg-id="Band News FHD [Alter]" tvg-name="Band News FHD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Noticias",Band News FHD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13771.m3u8
+#EXTINF:-1 tvg-id="Band News HD [Alter]" tvg-name="Band News HD" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Noticias",Band News HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13772.m3u8
+#EXTINF:-1 tvg-id="Band News HD [Alter]" tvg-name="Band News HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Noticias",Band News HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7481.m3u8
+#EXTINF:-1 tvg-id="Band News SD" tvg-name="Band News SD" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Noticias",Band News SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2333.m3u8
+#EXTINF:-1 tvg-id="Band News SD [Alter]" tvg-name="Band News SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/bandnews.png" group-title="Canais: Noticias",Band News SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7482.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="CNN Brasil FHD" tvg-logo="http://logocanais.ddns.net/Logo/cnn.png" group-title="Canais: Noticias",CNN Brasil FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/28739.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="CNN Brasil FHD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/cnn.png" group-title="Canais: Noticias",CNN Brasil FHD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60742.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="CNN Brasil HD " tvg-logo="http://logocanais.ddns.net/Logo/cnn.png" group-title="Canais: Noticias",CNN Brasil HD 
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/28738.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="CNN Brasil HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/cnn.png" group-title="Canais: Noticias",CNN Brasil HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60739.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="CNN Brasil SD" tvg-logo="http://logocanais.ddns.net/Logo/cnn.png" group-title="Canais: Noticias",CNN Brasil SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/28737.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="CNN Brasil SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/cnn.png" group-title="Canais: Noticias",CNN Brasil SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60734.m3u8
+#EXTINF:-1 tvg-name="CNN Internacional SD" tvg-logo="http://logocanais.ddns.net/Logo/cnn.png" group-title="Canais: Noticias",CNN Internacional SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/43794.m3u8
+#EXTINF:-1 tvg-name="Eurochannel FHD" tvg-logo="http://logocanais.ddns.net/Logo/euro.png" group-title="Canais: Noticias",Eurochannel FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/33192.m3u8
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News FHD" tvg-logo="http://logocanais.ddns.net/Logo/GloboNews1.png" group-title="Canais: Noticias",Globo News FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7156.m3u8
+#EXTINF:-1 tvg-id="Globo News FHD [Alter]" tvg-name="Globo News FHD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/GloboNews1.png" group-title="Canais: Noticias",Globo News FHD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13739.m3u8
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News HD" tvg-logo="http://logocanais.ddns.net/Logo/GloboNews1.png" group-title="Canais: Noticias",Globo News HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2273.m3u8
+#EXTINF:-1 tvg-id="Globo News HD [Alter]" tvg-name="Globo News HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/GloboNews1.png" group-title="Canais: Noticias",Globo News HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7391.m3u8
+#EXTINF:-1 tvg-id="Globo News SD" tvg-name="Globo News SD" tvg-logo="http://logocanais.ddns.net/Logo/GloboNews1.png" group-title="Canais: Noticias",Globo News SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2274.m3u8
+#EXTINF:-1 tvg-id="Globo News SD [Alter]" tvg-name="Globo News SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/GloboNews1.png" group-title="Canais: Noticias",Globo News SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7392.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan News FHD" tvg-logo="http://logocanais.ddns.net/Logo/jp.png" group-title="Canais: Noticias",Jovem Pan News FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/62693.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan News HD" tvg-logo="http://logocanais.ddns.net/Logo/jp.png" group-title="Canais: Noticias",Jovem Pan News HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/62692.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan News SD" tvg-logo="http://logocanais.ddns.net/Logo/jp.png" group-title="Canais: Noticias",Jovem Pan News SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/62691.m3u8
+#EXTINF:-1 tvg-id="Record News HD" tvg-name="Record News HD" tvg-logo="http://logocanais.ddns.net/Logo/RecordNews1.png" group-title="Canais: Noticias",Record News HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60713.m3u8
+#EXTINF:-1 tvg-id="Record News HD [Alter]" tvg-name="Record News HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/RecordNews1.png" group-title="Canais: Noticias",Record News HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7295.m3u8
+#EXTINF:-1 tvg-id="Record News SD" tvg-name="Record News SD" tvg-logo="http://logocanais.ddns.net/Logo/RecordNews1.png" group-title="Canais: Noticias",Record News SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2205.m3u8
+#EXTINF:-1 tvg-id="Record News SD [Alter]" tvg-name="Record News SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/RecordNews1.png" group-title="Canais: Noticias",Record News SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7294.m3u8
+#EXTINF:-1 tvg-name="A Fazenda 13" tvg-logo="http://logocanais.ddns.net/Logo/fazenda.png" group-title="Canais: Pay Per View",A Fazenda 13
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26451.m3u8
+#EXTINF:-1 tvg-name="A Fazenda 13 Alter" tvg-logo="http://logocanais.ddns.net/Logo/fazenda.png" group-title="Canais: Pay Per View",A Fazenda 13 Alter
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36168.m3u8
+#EXTINF:-1 tvg-name="A Fazenda 13 Sinal 1" tvg-logo="http://logocanais.ddns.net/Logo/fazenda.png" group-title="Canais: Pay Per View",A Fazenda 13 Sinal 1
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56578.m3u8
+#EXTINF:-1 tvg-name="A Fazenda 13 Sinal 2" tvg-logo="http://logocanais.ddns.net/Logo/fazenda.png" group-title="Canais: Pay Per View",A Fazenda 13 Sinal 2
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56577.m3u8
+#EXTINF:-1 tvg-name="A Fazenda 13 Sinal 3" tvg-logo="http://logocanais.ddns.net/Logo/fazenda.png" group-title="Canais: Pay Per View",A Fazenda 13 Sinal 3
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56576.m3u8
+#EXTINF:-1 tvg-name="A Fazenda 13 Sinal 4" tvg-logo="http://logocanais.ddns.net/Logo/fazenda.png" group-title="Canais: Pay Per View",A Fazenda 13 Sinal 4
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56575.m3u8
+#EXTINF:-1 tvg-name="A Fazenda 13 Sinal 5" tvg-logo="http://logocanais.ddns.net/Logo/fazenda.png" group-title="Canais: Pay Per View",A Fazenda 13 Sinal 5
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56574.m3u8
+#EXTINF:-1 tvg-name="A Fazenda 13 Sinal 6" tvg-logo="http://logocanais.ddns.net/Logo/fazenda.png" group-title="Canais: Pay Per View",A Fazenda 13 Sinal 6
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56573.m3u8
+#EXTINF:-1 tvg-name="A Fazenda 13 Sinal 7" tvg-logo="http://logocanais.ddns.net/Logo/fazenda.png" group-title="Canais: Pay Per View",A Fazenda 13 Sinal 7
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56572.m3u8
+#EXTINF:-1 tvg-name="A Fazenda 13 Sinal 8" tvg-logo="http://logocanais.ddns.net/Logo/fazenda.png" group-title="Canais: Pay Per View",A Fazenda 13 Sinal 8
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/56571.m3u8
+#EXTINF:-1 tvg-id="Arte 1 FHD" tvg-name="Arte 1 FHD " tvg-logo="http://logocanais.ddns.net/Logo/Arte1.png" group-title="Canais: Variedades e Músicas",Arte 1 FHD 
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60674.m3u8
+#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="http://logocanais.ddns.net/Logo/Arte1.png" group-title="Canais: Variedades e Músicas",Arte 1 HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60673.m3u8
+#EXTINF:-1 tvg-id="Arte 1 SD" tvg-name="Arte 1 SD" tvg-logo="http://logocanais.ddns.net/Logo/Arte1.png" group-title="Canais: Variedades e Músicas",Arte 1 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2339.m3u8
+#EXTINF:-1 tvg-id="BIS FHD" tvg-name="BIS FHD" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="Canais: Variedades e Músicas",BIS FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7162.m3u8
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="Canais: Variedades e Músicas",BIS HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2329.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="Canais: Variedades e Músicas",BIS SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2330.m3u8
+#EXTINF:-1 tvg-id="Comedy Central FHD" tvg-name="Comedy Central FHD" tvg-logo="http://logocanais.ddns.net/Logo/ComedyCentral1.png" group-title="Canais: Variedades e Músicas",Comedy Central FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60754.m3u8
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://logocanais.ddns.net/Logo/ComedyCentral1.png" group-title="Canais: Variedades e Músicas",Comedy Central HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7098.m3u8
+#EXTINF:-1 tvg-id="Comedy Central SD" tvg-name="Comedy Central SD" tvg-logo="http://logocanais.ddns.net/Logo/ComedyCentral1.png" group-title="Canais: Variedades e Músicas",Comedy Central SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2317.m3u8
+#EXTINF:-1 tvg-id="Curta HD [Alter]" tvg-name="Curta HD" tvg-logo="http://i.imgur.com/GYOaiO7.png" group-title="Canais: Variedades e Músicas",Curta HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7459.m3u8
+#EXTINF:-1 tvg-id="Curta SD" tvg-name="Curta SD" tvg-logo="http://i.imgur.com/GYOaiO7.png" group-title="Canais: Variedades e Músicas",Curta SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7110.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! Entertainment Television HD" tvg-logo="http://logocanais.ddns.net/Logo/E!1.png" group-title="Canais: Variedades e Músicas",E! Entertainment Television HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7090.m3u8
+#EXTINF:-1 tvg-name="Fashion TV FHD" tvg-logo="http://logocanais.ddns.net/Logo/FashionTV.png" group-title="Canais: Variedades e Músicas",Fashion TV FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/33347.m3u8
+#EXTINF:-1 tvg-name="Fashion TV HD" tvg-logo="http://logocanais.ddns.net/Logo/FashionTV.png" group-title="Canais: Variedades e Músicas",Fashion TV HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/33346.m3u8
+#EXTINF:-1 tvg-name="Fashion TV SD" tvg-logo="http://logocanais.ddns.net/Logo/FashionTV.png" group-title="Canais: Variedades e Músicas",Fashion TV SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/33345.m3u8
+#EXTINF:-1 tvg-id="Food Network FHD" tvg-name="Food Network FHD" tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="Canais: Variedades e Músicas",Food Network FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13723.m3u8
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network HD" tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="Canais: Variedades e Músicas",Food Network HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2144.m3u8
+#EXTINF:-1 tvg-id="Food Network SD" tvg-name="Food Network SD" tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="Canais: Variedades e Músicas",Food Network SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2293.m3u8
+#EXTINF:-1 tvg-id="GNT FHD" tvg-name="GNT FHD" tvg-logo="http://logocanais.ddns.net/Logo/GNT1.png" group-title="Canais: Variedades e Músicas",GNT FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13769.m3u8
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://logocanais.ddns.net/Logo/GNT1.png" group-title="Canais: Variedades e Músicas",GNT HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2270.m3u8
+#EXTINF:-1 tvg-id="GNT SD" tvg-name="GNT SD" tvg-logo="http://logocanais.ddns.net/Logo/GNT1.png" group-title="Canais: Variedades e Músicas",GNT SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2271.m3u8
+#EXTINF:-1 tvg-id="Lifetime FHD" tvg-name="Lifetime FHD" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="Canais: Variedades e Músicas",Lifetime FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60757.m3u8
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="Canais: Variedades e Músicas",Lifetime HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2141.m3u8
+#EXTINF:-1 tvg-id="Lifetime SD" tvg-name="Lifetime SD" tvg-logo="http://logocanais.ddns.net/Logo/Lifetime1.png" group-title="Canais: Variedades e Músicas",Lifetime SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2252.m3u8
+#EXTINF:-1 tvg-id="Mais Globosat FHD" tvg-name="Mais Globosat FHD" tvg-logo="http://logocanais.ddns.net/Logo/maisglobosat1.png" group-title="Canais: Variedades e Músicas",Mais Globosat FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7344.m3u8
+#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="Mais Globosat HD" tvg-logo="http://logocanais.ddns.net/Logo/maisglobosat1.png" group-title="Canais: Variedades e Músicas",Mais Globosat HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2127.m3u8
+#EXTINF:-1 tvg-id="Mais Globosat SD" tvg-name="Mais Globosat SD" tvg-logo="http://logocanais.ddns.net/Logo/maisglobosat1.png" group-title="Canais: Variedades e Músicas",Mais Globosat SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2251.m3u8
+#EXTINF:-1 tvg-id="MTV FHD" tvg-name="MTV FHD" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png" group-title="Canais: Variedades e Músicas",MTV FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60749.m3u8
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png" group-title="Canais: Variedades e Músicas",MTV HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2140.m3u8
+#EXTINF:-1 tvg-id="MTV LIVE FHD" tvg-name="MTV LIVE FHD" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png" group-title="Canais: Variedades e Músicas",MTV LIVE FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36463.m3u8
+#EXTINF:-1 tvg-id="MTV LIVE HD" tvg-name="MTV LIVE HD" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png" group-title="Canais: Variedades e Músicas",MTV LIVE HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36462.m3u8
+#EXTINF:-1 tvg-id="MTV LIVE SD" tvg-name="MTV LIVE SD" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png" group-title="Canais: Variedades e Músicas",MTV LIVE SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/36461.m3u8
+#EXTINF:-1 tvg-id="MTV SD" tvg-name="MTV SD" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png" group-title="Canais: Variedades e Músicas",MTV SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2244.m3u8
+#EXTINF:-1 tvg-id="MTV SD [Alter]" tvg-name="MTV SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/MTV1.png" group-title="Canais: Variedades e Músicas",MTV SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7334.m3u8
+#EXTINF:-1 tvg-id="Multishow FHD" tvg-name="Multishow FHD" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="Canais: Variedades e Músicas",Multishow FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/46178.m3u8
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="Canais: Variedades e Músicas",Multishow HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2242.m3u8
+#EXTINF:-1 tvg-id="Multishow SD" tvg-name="Multishow SD" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="Canais: Variedades e Músicas",Multishow SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2243.m3u8
+#EXTINF:-1 tvg-id="Music Box Brazil HD" tvg-name="Music Box Brazil HD" tvg-logo="http://logocanais.ddns.net/Logo/Musicboxbrasil1.png" group-title="Canais: Variedades e Músicas",Music Box Brazil HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60747.m3u8
+#EXTINF:-1 tvg-id="Music Box Brazil SD" tvg-name="Music Box Brazil SD" tvg-logo="http://logocanais.ddns.net/Logo/Musicboxbrasil1.png" group-title="Canais: Variedades e Músicas",Music Box Brazil SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2241.m3u8
+#EXTINF:-1 tvg-id="TLC FHD" tvg-name="TLC FHD" tvg-logo="http://logocanais.ddns.net/Logo/TLC1.png" group-title="Canais: Variedades e Músicas",TLC FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60671.m3u8
+#EXTINF:-1 tvg-id="TLC FHD [Alter]" tvg-name="TLC FHD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TLC1.png" group-title="Canais: Variedades e Músicas",TLC FHD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60672.m3u8
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="http://logocanais.ddns.net/Logo/TLC1.png" group-title="Canais: Variedades e Músicas",TLC HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2123.m3u8
+#EXTINF:-1 tvg-id="TLC HD [Alter]" tvg-name="TLC HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TLC1.png" group-title="Canais: Variedades e Músicas",TLC HD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7253.m3u8
+#EXTINF:-1 tvg-id="TLC SD" tvg-name="TLC SD" tvg-logo="http://logocanais.ddns.net/Logo/TLC1.png" group-title="Canais: Variedades e Músicas",TLC SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2167.m3u8
+#EXTINF:-1 tvg-id="TLC SD [Alter]" tvg-name="TLC SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TLC1.png" group-title="Canais: Variedades e Músicas",TLC SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7254.m3u8
+#EXTINF:-1 tvg-name="TR Anos 60 Internacional" tvg-logo="http://logocanais.ddns.net/Logo/tr35.jpg" group-title="Canais: Variedades e Músicas",TR Anos 60 Internacional
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/35118.m3u8
+#EXTINF:-1 tvg-name="TR Anos 70 Internacional" tvg-logo="http://logocanais.ddns.net/Logo/tr36.jpg" group-title="Canais: Variedades e Músicas",TR Anos 70 Internacional
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/35414.m3u8
+#EXTINF:-1 tvg-name="TR Anos 80 Internacional" tvg-logo="http://logocanais.ddns.net/Logo/tr37.jpg" group-title="Canais: Variedades e Músicas",TR Anos 80 Internacional
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/35866.m3u8
+#EXTINF:-1 tvg-name="TR Como Fazer" tvg-logo="http://logocanais.ddns.net/Logo/tr13.jpg" group-title="Canais: Variedades e Músicas",TR Como Fazer
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26441.m3u8
+#EXTINF:-1 tvg-name="TR Samba e Pagode" tvg-logo="http://logocanais.ddns.net/Logo/tr18.jpg" group-title="Canais: Variedades e Músicas",TR Samba e Pagode
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/26496.m3u8
+#EXTINF:-1 tvg-name="TR Sertanejo" tvg-logo="http://logocanais.ddns.net/Logo/tr5.jpg" group-title="Canais: Variedades e Músicas",TR Sertanejo
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/25342.m3u8
+#EXTINF:-1 tvg-name="Trace Brazuca FHD" tvg-logo="http://logocanais.ddns.net/Logo/trace.png" group-title="Canais: Variedades e Músicas",Trace Brazuca FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/46282.m3u8
+#EXTINF:-1 tvg-name="Trace Brazuca HD" tvg-logo="http://logocanais.ddns.net/Logo/trace.png" group-title="Canais: Variedades e Músicas",Trace Brazuca HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/46281.m3u8
+#EXTINF:-1 tvg-name="Travel Box Brazil FHD" tvg-logo="http://logocanais.ddns.net/Logo/travel.png" group-title="Canais: Variedades e Músicas",Travel Box Brazil FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/33184.m3u8
+#EXTINF:-1 tvg-id="VH1 SD" tvg-name="VH1 SD" tvg-logo="http://logocanais.ddns.net/Logo/VH11.png" group-title="Canais: Variedades e Músicas",VH1 SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7233.m3u8
+#EXTINF:-1 tvg-id="VH1 SD" tvg-name="VH1 SD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/VH11.png" group-title="Canais: Variedades e Músicas",VH1 SD [Alter]
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/60809.m3u8
+#EXTINF:-1 tvg-id="Viva FHD" tvg-name="Viva FHD" tvg-logo="http://logocanais.ddns.net/Logo/viva1.png" group-title="Canais: Variedades e Músicas",Viva FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7152.m3u8
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva HD" tvg-logo="http://logocanais.ddns.net/Logo/viva1.png" group-title="Canais: Variedades e Músicas",Viva HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2151.m3u8
+#EXTINF:-1 tvg-id="Viva SD" tvg-name="Viva SD" tvg-logo="http://logocanais.ddns.net/Logo/viva1.png" group-title="Canais: Variedades e Músicas",Viva SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2152.m3u8
+#EXTINF:-1 tvg-id="Telecine Action FHD" tvg-name="Telecine Action FHD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais:Telecine",Telecine Action FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7177.m3u8
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais:Telecine",Telecine Action HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2179.m3u8
+#EXTINF:-1 tvg-id="Telecine Action SD" tvg-name="Telecine Action SD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais:Telecine",Telecine Action SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2180.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult FHD" tvg-name="Telecine Cult FHD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais:Telecine",Telecine Cult FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/13660.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais:Telecine",Telecine Cult HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2122.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult SD" tvg-name="Telecine Cult SD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais:Telecine",Telecine Cult SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2178.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="Telecine Fun FHD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais:Telecine",Telecine Fun FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7176.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais:Telecine",Telecine Fun HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2176.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="Telecine Fun SD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais:Telecine",Telecine Fun SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2177.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="Telecine Pipoca FHD" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais:Telecine",Telecine Pipoca FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7175.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais:Telecine",Telecine Pipoca HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2174.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="Telecine Pipoca SD" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais:Telecine",Telecine Pipoca SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2175.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium FHD" tvg-name="Telecine Premium FHD" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais:Telecine",Telecine Premium FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7174.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais:Telecine",Telecine Premium HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2172.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium SD" tvg-name="Telecine Premium SD" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais:Telecine",Telecine Premium SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2173.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch FHD" tvg-name="Telecine Touch FHD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais:Telecine",Telecine Touch FHD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/7173.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais:Telecine",Telecine Touch HD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2170.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch SD" tvg-name="Telecine Touch SD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais:Telecine",Telecine Touch SD
+http://assistirpainel.net:8880/live/6are8yg1wx/c6vbu37jdq/2171.m3u8
