@@ -1,0 +1,542 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://p6.vc/U",A&E FHD
+http://pfsv.io:80/1353156238/37396/293
+#EXTINF:-1 tvg-logo="http://p6.vc/U",A&E HD
+http://pfsv.io:80/1353156238/37396/299
+#EXTINF:-1 tvg-logo="http://p6.vc/eLo",AMC FHD
+http://pfsv.io:80/1353156238/37396/294
+#EXTINF:-1 tvg-logo="http://p6.vc/eLo",AMC HD
+http://pfsv.io:80/1353156238/37396/300
+#EXTINF:-1 tvg-logo="http://p6.vc/bb",Animal Planet FHD
+http://pfsv.io:80/1353156238/37396/164
+#EXTINF:-1 tvg-logo="http://p6.vc/bb",Animal Planet HD
+http://pfsv.io:80/1353156238/37396/179
+#EXTINF:-1 tvg-logo="http://p6.vc/H",AXN FHD
+http://pfsv.io:80/1353156238/37396/295
+#EXTINF:-1 tvg-logo="http://p6.vc/H",AXN HD
+http://pfsv.io:80/1353156238/37396/301
+#EXTINF:-1 tvg-logo="http://p6.vc/h",Band News FHD
+http://pfsv.io:80/1353156238/37396/510
+#EXTINF:-1 tvg-logo="http://p6.vc/h",Band News HD
+http://pfsv.io:80/1353156238/37396/514
+#EXTINF:-1 tvg-logo="http://p6.vc/h",Band SP FHD
+http://pfsv.io:80/1353156238/37396/44
+#EXTINF:-1 tvg-logo="http://p6.vc/h",Band SP HD
+http://pfsv.io:80/1353156238/37396/50
+#EXTINF:-1 tvg-logo="http://p6.vc/h",Band Sport FHD
+http://pfsv.io:80/1353156238/37396/247
+#EXTINF:-1 tvg-logo="http://p6.vc/h",Band Sports HD
+http://pfsv.io:80/1353156238/37396/256
+#EXTINF:-1 tvg-logo="http://p6.vc/e",BIS FHD
+http://pfsv.io:80/1353156238/37396/5
+#EXTINF:-1 tvg-logo="http://p6.vc/e",BIS HD
+http://pfsv.io:80/1353156238/37396/18
+#EXTINF:-1 tvg-logo="http://p6.vc/eLr",Canal Brasil FHD
+http://pfsv.io:80/1353156238/37396/298
+#EXTINF:-1 tvg-logo="http://p6.vc/eLr",Canal Brasil HD
+http://pfsv.io:80/1353156238/37396/322
+#EXTINF:-1 tvg-logo="http://p6.vc/s",Canal do Boi FHD
+http://pfsv.io:80/1353156238/37396/50877
+#EXTINF:-1 ,Cartoon Network FHD
+http://pfsv.io:80/1353156238/37396/126
+#EXTINF:-1 ,Cartoon Network HD
+http://pfsv.io:80/1353156238/37396/139
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/Cartoonito.png",Cartoonito FHD
+http://pfsv.io:80/1353156238/37396/125
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/Cartoonito.png",Cartoonito HD
+http://pfsv.io:80/1353156238/37396/138
+#EXTINF:-1 ,Chef TV HD
+http://pfsv.io:80/1353156238/37396/69079
+#EXTINF:-1 tvg-logo="http://p6.vc/eLb",CineMax FHD
+http://pfsv.io:80/1353156238/37396/275
+#EXTINF:-1 tvg-logo="http://p6.vc/eLb",CineMax HD
+http://pfsv.io:80/1353156238/37396/303
+#EXTINF:-1 tvg-logo="http://p6.vc/4",CNN Brasil FHD
+http://pfsv.io:80/1353156238/37396/513
+#EXTINF:-1 tvg-logo="http://p6.vc/4",CNN Brasil HD
+http://pfsv.io:80/1353156238/37396/517
+#EXTINF:-1 tvg-logo="http://z4.vc/na3",Combate FHD
+http://pfsv.io:80/1353156238/37396/249
+#EXTINF:-1 tvg-logo="http://z4.vc/na3",Combate HD
+http://pfsv.io:80/1353156238/37396/257
+#EXTINF:-1 tvg-logo="http://p6.vc/w",Comedy Central FHD
+http://pfsv.io:80/1353156238/37396/97
+#EXTINF:-1 tvg-logo="http://p6.vc/w",Comedy Central HD
+http://pfsv.io:80/1353156238/37396/106
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 1 FHD [B]
+http://pfsv.io:80/1353156238/37396/65565
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 1 FHD [C]
+http://pfsv.io:80/1353156238/37396/65573
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 1 HD [A]
+http://pfsv.io:80/1353156238/37396/65561
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 1 HD [B]
+http://pfsv.io:80/1353156238/37396/65569
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 1 HD [C]
+http://pfsv.io:80/1353156238/37396/65577
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 1 HD [D]
+http://pfsv.io:80/1353156238/37396/65585
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 2 FHD [B]
+http://pfsv.io:80/1353156238/37396/65566
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 2 FHD [C]
+http://pfsv.io:80/1353156238/37396/65574
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 2 HD [A]
+http://pfsv.io:80/1353156238/37396/65562
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 2 HD [B]
+http://pfsv.io:80/1353156238/37396/65570
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 2 HD [C]
+http://pfsv.io:80/1353156238/37396/65578
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 2 HD [D]
+http://pfsv.io:80/1353156238/37396/65586
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 3 FHD [B]
+http://pfsv.io:80/1353156238/37396/65567
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 3 FHD [C]
+http://pfsv.io:80/1353156238/37396/65575
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 3 HD [A]
+http://pfsv.io:80/1353156238/37396/65563
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 3 HD [B]
+http://pfsv.io:80/1353156238/37396/65571
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 3 HD [C]
+http://pfsv.io:80/1353156238/37396/65579
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 3 HD [D]
+http://pfsv.io:80/1353156238/37396/65587
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 4 FHD [B]
+http://pfsv.io:80/1353156238/37396/65568
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 4 FHD [C]
+http://pfsv.io:80/1353156238/37396/65576
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 4 HD [A]
+http://pfsv.io:80/1353156238/37396/65564
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 4 HD [B]
+http://pfsv.io:80/1353156238/37396/65572
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 4 HD [C]
+http://pfsv.io:80/1353156238/37396/65580
+#EXTINF:-1 tvg-logo="http://p6.vc/ca",Conmebol TV 4 HD [D]
+http://pfsv.io:80/1353156238/37396/65588
+#EXTINF:-1 tvg-logo="http://p6.vc/x",Curta! FHD
+http://pfsv.io:80/1353156238/37396/98
+#EXTINF:-1 tvg-logo="http://p6.vc/x",Curta! HD
+http://pfsv.io:80/1353156238/37396/107
+#EXTINF:-1 ,DAZN 01
+http://pfsv.io:80/1353156238/37396/504
+#EXTINF:-1 ,DAZN 02
+http://pfsv.io:80/1353156238/37396/505
+#EXTINF:-1 ,DAZN 03
+http://pfsv.io:80/1353156238/37396/506
+#EXTINF:-1 ,DAZN 04
+http://pfsv.io:80/1353156238/37396/507
+#EXTINF:-1 ,DAZN 05
+http://pfsv.io:80/1353156238/37396/508
+#EXTINF:-1 ,DAZN 06
+http://pfsv.io:80/1353156238/37396/509
+#EXTINF:-1 ,DAZN 07
+http://pfsv.io:80/1353156238/37396/35074
+#EXTINF:-1 ,DAZN 08
+http://pfsv.io:80/1353156238/37396/35075
+#EXTINF:-1 ,DAZN 09
+http://pfsv.io:80/1353156238/37396/35076
+#EXTINF:-1 ,DAZN 10
+http://pfsv.io:80/1353156238/37396/35077
+#EXTINF:-1 ,DAZN 11
+http://pfsv.io:80/1353156238/37396/35078
+#EXTINF:-1 ,DAZN 12
+http://pfsv.io:80/1353156238/37396/35079
+#EXTINF:-1 ,DAZN 13
+http://pfsv.io:80/1353156238/37396/35080
+#EXTINF:-1 tvg-logo="http://p6.vc/9",Discovery Channel FHD
+http://pfsv.io:80/1353156238/37396/166
+#EXTINF:-1 tvg-logo="http://p6.vc/9",Discovery Channel HD
+http://pfsv.io:80/1353156238/37396/181
+#EXTINF:-1 tvg-logo="http://p6.vc/eK0",Discovery Home & Health FHD
+http://pfsv.io:80/1353156238/37396/168
+#EXTINF:-1 tvg-logo="http://p6.vc/eK0",Discovery Home & Health HD
+http://pfsv.io:80/1353156238/37396/183
+#EXTINF:-1 tvg-logo="http://p6.vc/eK1",Discovery Science FHD
+http://pfsv.io:80/1353156238/37396/169
+#EXTINF:-1 tvg-logo="http://p6.vc/eK1",Discovery Science HD
+http://pfsv.io:80/1353156238/37396/184
+#EXTINF:-1 tvg-logo="http://p6.vc/eK2",Discovery Theater FHD
+http://pfsv.io:80/1353156238/37396/170
+#EXTINF:-1 tvg-logo="http://p6.vc/eK2",Discovery Theater HD
+http://pfsv.io:80/1353156238/37396/185
+#EXTINF:-1 tvg-logo="http://p6.vc/eK3",Discovery Turbo FHD
+http://pfsv.io:80/1353156238/37396/171
+#EXTINF:-1 tvg-logo="http://p6.vc/eK3",Discovery Turbo HD
+http://pfsv.io:80/1353156238/37396/186
+#EXTINF:-1 tvg-logo="http://p6.vc/eK4",Discovery World FHD
+http://pfsv.io:80/1353156238/37396/172
+#EXTINF:-1 tvg-logo="http://p6.vc/eK4",Discovery World HD
+http://pfsv.io:80/1353156238/37396/187
+#EXTINF:-1 tvg-logo="LINK_LOGO",Disney Channel FHD
+http://pfsv.io:80/1353156238/37396/135
+#EXTINF:-1 ,Disney Channel HD
+http://pfsv.io:80/1353156238/37396/141
+#EXTINF:-1 ,Disney XD FHD
+http://pfsv.io:80/1353156238/37396/49126
+#EXTINF:-1 ,Disney XD HD
+http://pfsv.io:80/1353156238/37396/49125
+#EXTINF:-1 tvg-logo="http://p6.vc/y",E! FHD
+http://pfsv.io:80/1353156238/37396/99
+#EXTINF:-1 tvg-logo="http://p6.vc/y",E! HD
+http://pfsv.io:80/1353156238/37396/108
+#EXTINF:-1 tvg-logo="http://p6.vc/S",ESPN 2 FHD
+http://pfsv.io:80/1353156238/37396/251
+#EXTINF:-1 tvg-logo="http://p6.vc/S",ESPN 2 HD
+http://pfsv.io:80/1353156238/37396/261
+#EXTINF:-1 tvg-logo="http://p6.vc/T",ESPN 3 FHD
+http://pfsv.io:80/1353156238/37396/254
+#EXTINF:-1 tvg-logo="http://p6.vc/T",ESPN 3 HD
+http://pfsv.io:80/1353156238/37396/258
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk",ESPN 4 FHD
+http://pfsv.io:80/1353156238/37396/255
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk",ESPN 4 HD
+http://pfsv.io:80/1353156238/37396/262
+#EXTINF:-1 tvg-logo="http://p6.vc/Q",ESPN Extra FHD
+http://pfsv.io:80/1353156238/37396/248
+#EXTINF:-1 tvg-logo="http://p6.vc/Q",ESPN Extra HD
+http://pfsv.io:80/1353156238/37396/260
+#EXTINF:-1 tvg-logo="http://p6.vc/R",ESPN FHD
+http://pfsv.io:80/1353156238/37396/250
+#EXTINF:-1 tvg-logo="http://p6.vc/R",ESPN HD
+http://pfsv.io:80/1353156238/37396/259
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/fashion.png",FashionTV FHD
+http://pfsv.io:80/1353156238/37396/38526
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/fashion.png",FashionTV HD
+http://pfsv.io:80/1353156238/37396/38525
+#EXTINF:-1 tvg-logo="http://p6.vc/eLt",Film&Arts HD
+http://pfsv.io:80/1353156238/37396/92668
+#EXTINF:-1 tvg-logo="http://p6.vc/z",Fish Tv FHD
+http://pfsv.io:80/1353156238/37396/100
+#EXTINF:-1 tvg-logo="http://p6.vc/z",Fish Tv HD
+http://pfsv.io:80/1353156238/37396/109
+#EXTINF:-1 tvg-logo="http://p6.vc/A",Food Network FHD
+http://pfsv.io:80/1353156238/37396/101
+#EXTINF:-1 tvg-logo="http://p6.vc/A",Food Network HD
+http://pfsv.io:80/1353156238/37396/110
+#EXTINF:-1 tvg-logo="http://z4.vc/Qen",Fox Sport 2 FHD
+http://pfsv.io:80/1353156238/37396/252
+#EXTINF:-1 tvg-logo="http://z4.vc/Qen",Fox Sports 2 HD
+http://pfsv.io:80/1353156238/37396/263
+#EXTINF:-1 tvg-logo="http://p6.vc/g",Futura FHD
+http://pfsv.io:80/1353156238/37396/43
+#EXTINF:-1 tvg-logo="http://p6.vc/g",Futura HD
+http://pfsv.io:80/1353156238/37396/51
+#EXTINF:-1 tvg-logo="http://p6.vc/eLf",FX FHD
+http://pfsv.io:80/1353156238/37396/279
+#EXTINF:-1 tvg-logo="http://p6.vc/eLf",FX HD
+http://pfsv.io:80/1353156238/37396/308
+#EXTINF:-1 tvg-logo="http://p6.vc/3",Globo News FHD
+http://pfsv.io:80/1353156238/37396/512
+#EXTINF:-1 tvg-logo="http://p6.vc/3",Globo News HD
+http://pfsv.io:80/1353156238/37396/516
+#EXTINF:-1 tvg-logo="http://p6.vc/C",Globo RBS Pelotas FHD
+http://pfsv.io:80/1353156238/37396/379
+#EXTINF:-1 tvg-logo="http://p6.vc/C",Globo RBS Pelotas HD
+http://pfsv.io:80/1353156238/37396/414
+#EXTINF:-1 tvg-logo="http://p6.vc/C",Globo RBS Porto Alegre FHD
+http://pfsv.io:80/1353156238/37396/365
+#EXTINF:-1 tvg-logo="http://p6.vc/C",Globo RBS Porto Alegre HD
+http://pfsv.io:80/1353156238/37396/34012
+#EXTINF:-1 tvg-logo="http://p6.vc/C",Globo SP FHD
+http://pfsv.io:80/1353156238/37396/354
+#EXTINF:-1 tvg-logo="http://p6.vc/C",Globo SP HD
+http://pfsv.io:80/1353156238/37396/394
+#EXTINF:-1 ,Gloob FHD
+http://pfsv.io:80/1353156238/37396/136
+#EXTINF:-1 ,Gloob HD
+http://pfsv.io:80/1353156238/37396/142
+#EXTINF:-1 tvg-logo="http://p6.vc/B",GNT FHD
+http://pfsv.io:80/1353156238/37396/102
+#EXTINF:-1 tvg-logo="http://p6.vc/B",GNT HD
+http://pfsv.io:80/1353156238/37396/111
+#EXTINF:-1 tvg-logo="http://p6.vc/Z",HBO 2 FHD
+http://pfsv.io:80/1353156238/37396/470
+#EXTINF:-1 tvg-logo="http://p6.vc/Z",HBO 2 HD
+http://pfsv.io:80/1353156238/37396/472
+#EXTINF:-1 tvg-logo="http://p6.vc/V",HBO Family FHD
+http://pfsv.io:80/1353156238/37396/464
+#EXTINF:-1 tvg-logo="http://p6.vc/V",HBO Family HD
+http://pfsv.io:80/1353156238/37396/473
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png",HBO FHD
+http://pfsv.io:80/1353156238/37396/471
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png",HBO HD
+http://pfsv.io:80/1353156238/37396/474
+#EXTINF:-1 tvg-logo="http://p6.vc/X",HBO Mundi FHD
+http://pfsv.io:80/1353156238/37396/467
+#EXTINF:-1 tvg-logo="http://p6.vc/X",HBO Mundi HD
+http://pfsv.io:80/1353156238/37396/477
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hboplus.png",HBO Plus FHD
+http://pfsv.io:80/1353156238/37396/465
+#EXTINF:-1 tvg-logo="http://p6.vc/I",HBO Plus HD
+http://pfsv.io:80/1353156238/37396/475
+#EXTINF:-1 tvg-logo="http://p6.vc/O",HBO POP FHD
+http://pfsv.io:80/1353156238/37396/469
+#EXTINF:-1 tvg-logo="http://p6.vc/O",HBO Pop HD
+http://pfsv.io:80/1353156238/37396/479
+#EXTINF:-1 tvg-logo="http://p6.vc/W",HBO Signature FHD
+http://pfsv.io:80/1353156238/37396/466
+#EXTINF:-1 tvg-logo="http://p6.vc/W",HBO Signature HD
+http://pfsv.io:80/1353156238/37396/476
+#EXTINF:-1 tvg-logo="http://p6.vc/Y",HBO Xtreme FHD
+http://pfsv.io:80/1353156238/37396/468
+#EXTINF:-1 tvg-logo="http://p6.vc/Y",HBO Xtreme HD
+http://pfsv.io:80/1353156238/37396/478
+#EXTINF:-1 tvg-logo="http://p6.vc/eKZ",HGTV FHD
+http://pfsv.io:80/1353156238/37396/167
+#EXTINF:-1 tvg-logo="http://p6.vc/eKZ",HGTV HD
+http://pfsv.io:80/1353156238/37396/182
+#EXTINF:-1 tvg-logo="http://p6.vc/eK5",History Channel 2 FHD
+http://pfsv.io:80/1353156238/37396/173
+#EXTINF:-1 tvg-logo="http://p6.vc/eK5",History Channel 2 HD
+http://pfsv.io:80/1353156238/37396/188
+#EXTINF:-1 tvg-logo="http://p6.vc/eK6",History Channel FHD
+http://pfsv.io:80/1353156238/37396/174
+#EXTINF:-1 tvg-logo="http://p6.vc/eK6",History Channel HD
+http://pfsv.io:80/1353156238/37396/189
+#EXTINF:-1 tvg-logo="http://p6.vc/eK7",Investigacao Discovery FHD
+http://pfsv.io:80/1353156238/37396/175
+#EXTINF:-1 tvg-logo="http://p6.vc/eK7",Investigacao Discovery HD
+http://pfsv.io:80/1353156238/37396/190
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/jpnews.png",Jovem PAN News FHD
+http://pfsv.io:80/1353156238/37396/98166
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/jpnews.png",Jovem PAN News HD
+http://pfsv.io:80/1353156238/37396/98165
+#EXTINF:-1 tvg-logo="http://p6.vc/eLg",Life Time FHD
+http://pfsv.io:80/1353156238/37396/280
+#EXTINF:-1 tvg-logo="http://p6.vc/eLg",Life Time HD
+http://pfsv.io:80/1353156238/37396/309
+#EXTINF:-1 tvg-logo="http://p6.vc/cj",Loading FHD
+http://pfsv.io:80/1353156238/37396/58245
+#EXTINF:-1 tvg-logo="http://p6.vc/cj",Loading HD
+http://pfsv.io:80/1353156238/37396/58247
+#EXTINF:-1 tvg-logo="http://p6.vc/C",Mais GloboSat FHD
+http://pfsv.io:80/1353156238/37396/103
+#EXTINF:-1 tvg-logo="http://p6.vc/C",Mais GloboSat HD
+http://pfsv.io:80/1353156238/37396/112
+#EXTINF:-1 ,MasterChef HD
+http://pfsv.io:80/1353156238/37396/32543
+#EXTINF:-1 tvg-logo="http://p6.vc/bd",MegaPix FHD
+http://pfsv.io:80/1353156238/37396/281
+#EXTINF:-1 tvg-logo="http://p6.vc/bd",Megapix HD
+http://pfsv.io:80/1353156238/37396/310
+#EXTINF:-1 tvg-logo="http://p6.vc/b",MTV 00s HD
+http://pfsv.io:80/1353156238/37396/90687
+#EXTINF:-1 tvg-logo="http://p6.vc/b",MTV FHD
+http://pfsv.io:80/1353156238/37396/1
+#EXTINF:-1 tvg-logo="http://p6.vc/b",MTV HD
+http://pfsv.io:80/1353156238/37396/15
+#EXTINF:-1 tvg-logo="http://p6.vc/b",MTV Live FHD
+http://pfsv.io:80/1353156238/37396/2
+#EXTINF:-1 tvg-logo="http://p6.vc/b",MTV Live HD
+http://pfsv.io:80/1353156238/37396/13
+#EXTINF:-1 tvg-logo="http://p6.vc/c",Multishow FHD
+http://pfsv.io:80/1353156238/37396/3
+#EXTINF:-1 tvg-logo="http://p6.vc/c",MultiShow HD
+http://pfsv.io:80/1353156238/37396/16
+#EXTINF:-1 tvg-logo="http://p6.vc/d",Music BOX Brasil FHD
+http://pfsv.io:80/1353156238/37396/4
+#EXTINF:-1 tvg-logo="http://p6.vc/d",Music Box Brasil HD
+http://pfsv.io:80/1353156238/37396/17
+#EXTINF:-1 tvg-logo="http://p6.vc/bf",National Geographic FHD
+http://pfsv.io:80/1353156238/37396/176
+#EXTINF:-1 tvg-logo="http://p6.vc/bf",National Geographic HD
+http://pfsv.io:80/1353156238/37396/191
+#EXTINF:-1 tvg-logo="http://p6.vc/eK8",National Geographic Wild FHD
+http://pfsv.io:80/1353156238/37396/177
+#EXTINF:-1 tvg-logo="http://p6.vc/eK8",National Geographic Wild HD
+http://pfsv.io:80/1353156238/37396/192
+#EXTINF:-1 ,Nick JR FHD
+http://pfsv.io:80/1353156238/37396/130
+#EXTINF:-1 ,Nick JR HD
+http://pfsv.io:80/1353156238/37396/144
+#EXTINF:-1 ,Nickelodeon FHD
+http://pfsv.io:80/1353156238/37396/131
+#EXTINF:-1 ,Nickelodeon HD
+http://pfsv.io:80/1353156238/37396/145
+#EXTINF:-1 ,OFF FHD
+http://pfsv.io:80/1353156238/37396/253
+#EXTINF:-1 tvg-logo="http://z4.vc/DH2",OFF HD
+http://pfsv.io:80/1353156238/37396/264
+#EXTINF:-1 tvg-logo="http://p6.vc/eLp",Paramount Channel FHD
+http://pfsv.io:80/1353156238/37396/296
+#EXTINF:-1 tvg-logo="http://p6.vc/eLp",Paramount Channel HD
+http://pfsv.io:80/1353156238/37396/311
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 2 FHD
+http://pfsv.io:80/1353156238/37396/525
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 2 HD
+http://pfsv.io:80/1353156238/37396/531
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 3 FHD
+http://pfsv.io:80/1353156238/37396/526
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 3 HD
+http://pfsv.io:80/1353156238/37396/532
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 4 FHD
+http://pfsv.io:80/1353156238/37396/527
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 4 HD
+http://pfsv.io:80/1353156238/37396/533
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 5 FHD
+http://pfsv.io:80/1353156238/37396/528
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 5 HD
+http://pfsv.io:80/1353156238/37396/534
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 6 FHD
+http://pfsv.io:80/1353156238/37396/529
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 6 HD
+http://pfsv.io:80/1353156238/37396/535
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 7 FHD
+http://pfsv.io:80/1353156238/37396/530
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere 7 HD
+http://pfsv.io:80/1353156238/37396/536
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere Clubes FHD
+http://pfsv.io:80/1353156238/37396/524
+#EXTINF:-1 tvg-logo="http://p6.vc/1",Premiere Clubes HD
+http://pfsv.io:80/1353156238/37396/537
+#EXTINF:-1 tvg-logo="http://p6.vc/D",Prime Box Brasil FHD
+http://pfsv.io:80/1353156238/37396/104
+#EXTINF:-1 tvg-logo="http://p6.vc/D",Prime Box Brasil HD
+http://pfsv.io:80/1353156238/37396/113
+#EXTINF:-1 tvg-logo="http://p6.vc/2",Record News FHD
+http://pfsv.io:80/1353156238/37396/511
+#EXTINF:-1 tvg-logo="http://p6.vc/2",Record News HD
+http://pfsv.io:80/1353156238/37396/515
+#EXTINF:-1 tvg-logo="http://p6.vc/i",RecordTV RS HD
+http://pfsv.io:80/1353156238/37396/59
+#EXTINF:-1 tvg-logo="http://p6.vc/i",RecordTV SP FHD
+http://pfsv.io:80/1353156238/37396/45
+#EXTINF:-1 tvg-logo="http://p6.vc/i",RecordTV SP HD
+http://pfsv.io:80/1353156238/37396/52
+#EXTINF:-1 tvg-logo="http://p6.vc/l",RedeTV! FHD
+http://pfsv.io:80/1353156238/37396/48
+#EXTINF:-1 tvg-logo="http://p6.vc/l",RedeTV! HD
+http://pfsv.io:80/1353156238/37396/54
+#EXTINF:-1 tvg-logo="http://p6.vc/j",SBT RS HD
+http://pfsv.io:80/1353156238/37396/49111
+#EXTINF:-1 tvg-logo="http://p6.vc/j",SBT SP FHD
+http://pfsv.io:80/1353156238/37396/46
+#EXTINF:-1 tvg-logo="http://p6.vc/j",SBT SP HD
+http://pfsv.io:80/1353156238/37396/55
+#EXTINF:-1 tvg-logo="http://p6.vc/eLa",Sony Channel FHD
+http://pfsv.io:80/1353156238/37396/274
+#EXTINF:-1 tvg-logo="http://p6.vc/eLa",Sony Channel HD
+http://pfsv.io:80/1353156238/37396/302
+#EXTINF:-1 tvg-logo="http://p6.vc/bg",Space FHD
+http://pfsv.io:80/1353156238/37396/282
+#EXTINF:-1 tvg-logo="http://p6.vc/bg",Space HD
+http://pfsv.io:80/1353156238/37396/313
+#EXTINF:-1 tvg-logo="http://p6.vc/5",SporTV 2 FHD
+http://pfsv.io:80/1353156238/37396/553
+#EXTINF:-1 tvg-logo="http://p6.vc/5",SporTV 2 HD
+http://pfsv.io:80/1353156238/37396/557
+#EXTINF:-1 tvg-logo="http://p6.vc/6",SporTV 3 FHD
+http://pfsv.io:80/1353156238/37396/554
+#EXTINF:-1 tvg-logo="http://p6.vc/6",SporTV 3 HD
+http://pfsv.io:80/1353156238/37396/558
+#EXTINF:-1 tvg-logo="http://p6.vc/7",SporTV FHD
+http://pfsv.io:80/1353156238/37396/555
+#EXTINF:-1 tvg-logo="http://p6.vc/7",SporTV HD
+http://pfsv.io:80/1353156238/37396/556
+#EXTINF:-1 tvg-logo="http://p6.vc/eLn",Star Channel FHD
+http://pfsv.io:80/1353156238/37396/292
+#EXTINF:-1 tvg-logo="http://p6.vc/eLn",Star Channel HD
+http://pfsv.io:80/1353156238/37396/304
+#EXTINF:-1 tvg-logo="http://p6.vc/eLd",Star Hits 1 FHD
+http://pfsv.io:80/1353156238/37396/277
+#EXTINF:-1 tvg-logo="http://p6.vc/eLd",Star Hits 1 HD
+http://pfsv.io:80/1353156238/37396/306
+#EXTINF:-1 tvg-logo="http://p6.vc/eLe",Star Hits 2 FHD
+http://pfsv.io:80/1353156238/37396/278
+#EXTINF:-1 tvg-logo="http://p6.vc/eLe",Star Hits 2 HD
+http://pfsv.io:80/1353156238/37396/307
+#EXTINF:-1 tvg-logo="http://p6.vc/eLc",Star Life FHD
+http://pfsv.io:80/1353156238/37396/276
+#EXTINF:-1 tvg-logo="http://p6.vc/eLc",Star Life HD
+http://pfsv.io:80/1353156238/37396/305
+#EXTINF:-1 tvg-logo="http://p6.vc/eLh",Studio Universal FHD
+http://pfsv.io:80/1353156238/37396/283
+#EXTINF:-1 tvg-logo="http://p6.vc/eLh",Studio Universal HD
+http://pfsv.io:80/1353156238/37396/320
+#EXTINF:-1 tvg-logo="http://p6.vc/eLi",SYFY FHD
+http://pfsv.io:80/1353156238/37396/284
+#EXTINF:-1 tvg-logo="http://p6.vc/eLi",SYFY HD
+http://pfsv.io:80/1353156238/37396/312
+#EXTINF:-1 tvg-logo="http://p6.vc/eLj",TBS FHD
+http://pfsv.io:80/1353156238/37396/285
+#EXTINF:-1 tvg-logo="http://p6.vc/eLj",TBS HD
+http://pfsv.io:80/1353156238/37396/321
+#EXTINF:-1 tvg-logo="http://p6.vc/eLs",TCM FHD
+http://pfsv.io:80/1353156238/37396/59978
+#EXTINF:-1 tvg-logo="http://p6.vc/eLs",TCM HD
+http://pfsv.io:80/1353156238/37396/50884
+#EXTINF:-1 tvg-logo="http://p6.vc/J",Telecine Action FHD
+http://pfsv.io:80/1353156238/37396/562
+#EXTINF:-1 tvg-logo="http://p6.vc/J",Telecine Action HD
+http://pfsv.io:80/1353156238/37396/568
+#EXTINF:-1 tvg-logo="http://p6.vc/P",Telecine Cult FHD
+http://pfsv.io:80/1353156238/37396/567
+#EXTINF:-1 tvg-logo="http://p6.vc/P",Telecine Cult HD
+http://pfsv.io:80/1353156238/37396/569
+#EXTINF:-1 tvg-logo="http://p6.vc/K",Telecine Fun FHD
+http://pfsv.io:80/1353156238/37396/563
+#EXTINF:-1 tvg-logo="http://p6.vc/K",Telecine Fun HD
+http://pfsv.io:80/1353156238/37396/570
+#EXTINF:-1 tvg-logo="http://p6.vc/L",Telecine Pipoca FHD
+http://pfsv.io:80/1353156238/37396/564
+#EXTINF:-1 tvg-logo="http://p6.vc/L",Telecine Pipoca HD
+http://pfsv.io:80/1353156238/37396/572
+#EXTINF:-1 tvg-logo="http://p6.vc/M",Telecine Premium FHD
+http://pfsv.io:80/1353156238/37396/565
+#EXTINF:-1 tvg-logo="http://p6.vc/M",Telecine Premium HD
+http://pfsv.io:80/1353156238/37396/573
+#EXTINF:-1 tvg-logo="http://p6.vc/N",Telecine Touch FHD
+http://pfsv.io:80/1353156238/37396/566
+#EXTINF:-1 tvg-logo="http://p6.vc/N",Telecine Touch HD
+http://pfsv.io:80/1353156238/37396/571
+#EXTINF:-1 tvg-logo="http://p6.vc/eLk",TLC FHD
+http://pfsv.io:80/1353156238/37396/286
+#EXTINF:-1 tvg-logo="http://p6.vc/eLk",TLC HD
+http://pfsv.io:80/1353156238/37396/314
+#EXTINF:-1 tvg-logo="http://p6.vc/bi",TNT FHD
+http://pfsv.io:80/1353156238/37396/287
+#EXTINF:-1 tvg-logo="http://p6.vc/bi",TNT HD
+http://pfsv.io:80/1353156238/37396/315
+#EXTINF:-1 tvg-logo="http://p6.vc/bj",TNT Series FHD
+http://pfsv.io:80/1353156238/37396/288
+#EXTINF:-1 tvg-logo="http://p6.vc/bj",TNT Series HD
+http://pfsv.io:80/1353156238/37396/316
+#EXTINF:-1 ,Tooncast FHD
+http://pfsv.io:80/1353156238/37396/48756
+#EXTINF:-1 ,Tooncast HD
+http://pfsv.io:80/1353156238/37396/48755
+#EXTINF:-1 tvg-logo="http://p6.vc/cd",Trace Brazuca FHD
+http://pfsv.io:80/1353156238/37396/50878
+#EXTINF:-1 tvg-logo="http://p6.vc/cd",Trace Brazuca HD
+http://pfsv.io:80/1353156238/37396/90690
+#EXTINF:-1 tvg-logo="http://p6.vc/bk",Travel Box Brasil FHD
+http://pfsv.io:80/1353156238/37396/50882
+#EXTINF:-1 tvg-logo="http://p6.vc/bk",Travel Box Brasil HD
+http://pfsv.io:80/1353156238/37396/50836
+#EXTINF:-1 tvg-logo="http://p6.vc/eLl",TruTV FHD
+http://pfsv.io:80/1353156238/37396/289
+#EXTINF:-1 tvg-logo="http://p6.vc/eLl",TruTV HD
+http://pfsv.io:80/1353156238/37396/323
+#EXTINF:-1 tvg-logo="http://p6.vc/k",TV Cultura FHD
+http://pfsv.io:80/1353156238/37396/47
+#EXTINF:-1 tvg-logo="http://p6.vc/k",TV Cultura HD
+http://pfsv.io:80/1353156238/37396/64
+#EXTINF:-1 tvg-logo="http://p6.vc/m",TV Gazeta SP FHD
+http://pfsv.io:80/1353156238/37396/49
+#EXTINF:-1 tvg-logo="http://p6.vc/m",TV Gazeta SP HD
+http://pfsv.io:80/1353156238/37396/56
+#EXTINF:-1 tvg-logo="http://p6.vc/eLm",Universal Channel FHD
+http://pfsv.io:80/1353156238/37396/290
+#EXTINF:-1 tvg-logo="http://p6.vc/eLm",Universal Channel HD
+http://pfsv.io:80/1353156238/37396/317
+#EXTINF:-1 tvg-logo="http://p6.vc/E",Viva FHD
+http://pfsv.io:80/1353156238/37396/105
+#EXTINF:-1 tvg-logo="http://p6.vc/E",Viva HD
+http://pfsv.io:80/1353156238/37396/114
+#EXTINF:-1 tvg-logo="http://p6.vc/eLq",Warner Channel FHD
+http://pfsv.io:80/1353156238/37396/297
+#EXTINF:-1 tvg-logo="http://p6.vc/eLq",Warner Channel HD
+http://pfsv.io:80/1353156238/37396/319
+#EXTINF:-1 tvg-logo="http://p6.vc/f",WOOHOO FHD
+http://pfsv.io:80/1353156238/37396/133
+#EXTINF:-1 tvg-logo="http://p6.vc/f",WOOHOO HD
+http://pfsv.io:80/1353156238/37396/14
