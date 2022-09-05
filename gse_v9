@@ -1,0 +1,190 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="BR: SBT RJ HD" tvg-logo="https://i.imgur.com/9POMYYK.png" tvg-chno="1" channel-id="1" group-title="(No group)",BR: SBT RJ HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/907
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SP HD" tvg-logo="" tvg-chno="2" channel-id="2" group-title="(No group)",BR: SBT SP HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/935
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV RIO SUL HD" tvg-logo="" tvg-chno="3" channel-id="3" group-title="(No group)",BR: GLOBO TV RIO SUL HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/958
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="BR: ZOOMOO HD" tvg-logo="https://static.epg.best/br/Zoomoo.br.png" tvg-chno="4" channel-id="4" group-title="(No group)",BR: ZOOMOO HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/963
+#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="BR: WOOHOO HD" tvg-logo="https://static.epg.best/br/WooHoo.br.png" tvg-chno="5" channel-id="5" group-title="(No group)",BR: WOOHOO HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/964
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="BR: WARNER CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/warner-channel-lam.png" tvg-chno="6" channel-id="6" group-title="(No group)",BR: WARNER CHANNEL HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/965
+#EXTINF:-1 tvg-id="" tvg-name="BR: VIVA HD" tvg-logo="" tvg-chno="7" channel-id="7" group-title="(No group)",BR: VIVA HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/966
+#EXTINF:-1 tvg-id="" tvg-name="BR: VH1 HD" tvg-logo="" tvg-chno="8" channel-id="8" group-title="(No group)",BR: VH1 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/967
+#EXTINF:-1 tvg-id="UniversalChannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/studio-universal-lam.png" tvg-chno="9" channel-id="9" group-title="(No group)",UNIVERSAL CHANNEL HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/968
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="BR: TOONCAST HD" tvg-logo="https://static.epg.best/br/Tooncast.br.png" tvg-chno="10" channel-id="10" group-title="(No group)",BR: TOONCAST HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/969
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="BR: TNT SERIES HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tnt-us.png" tvg-chno="11" channel-id="11" group-title="(No group)",BR: TNT SERIES HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/970
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="BR: TNT HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tnt-us.png" tvg-chno="12" channel-id="12" group-title="(No group)",BR: TNT HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/971
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="BR: TELECINE TOUCH HD" tvg-logo="https://i.imgur.com/lCZ3cbf.png" tvg-chno="13" channel-id="13" group-title="(No group)",BR: TELECINE TOUCH HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/972
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="BR: TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/SBVtzTV.png" tvg-chno="14" channel-id="14" group-title="(No group)",BR: TELECINE PREMIUM HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/973
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="BR: TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/QibPkaK.png" tvg-chno="15" channel-id="15" group-title="(No group)",BR: TELECINE PIPOCA HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/974
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="BR: TELECINE FUN HD" tvg-logo="https://static.epg.best/br/TelecineFun.br.png" tvg-chno="16" channel-id="16" group-title="(No group)",BR: TELECINE FUN HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/975
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="BR: TELECINE CULT HD" tvg-logo="https://i.imgur.com/dULnlUW.png" tvg-chno="17" channel-id="17" group-title="(No group)",BR: TELECINE CULT HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/976
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="BR: TELECINE ACTION HD" tvg-logo="https://i.imgur.com/QE899aV.png" tvg-chno="18" channel-id="18" group-title="(No group)",BR: TELECINE ACTION HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/977
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="BR: SYFY HD" tvg-logo="https://imgur.com/a/U2HfRuY" tvg-chno="19" channel-id="19" group-title="(No group)",BR: SYFY HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/978
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="BR: STUDIO UNIVERSAL HD" tvg-logo="https://static.epg.best/br/Studiouniversal.br.png" tvg-chno="20" channel-id="20" group-title="(No group)",BR: STUDIO UNIVERSAL HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/979
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="BR: SPORTV HD" tvg-logo="https://static.epg.best/br/Sportv.br.png" tvg-chno="21" channel-id="21" group-title="(No group)",BR: SPORTV HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/980
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="BR: SPORTV 3 HD" tvg-logo="https://static.epg.best/br/SporTV3.br.png" tvg-chno="22" channel-id="22" group-title="(No group)",BR: SPORTV 3 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/981
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="BR: SPORTV 2 HD" tvg-logo="https://static.epg.best/br/Sportv2.br.png" tvg-chno="23" channel-id="23" group-title="(No group)",BR: SPORTV 2 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/982
+#EXTINF:-1 tvg-id="Space.br" tvg-name="BR: SPACE HD" tvg-logo="https://static.epg.best/br/Space.br.png" tvg-chno="24" channel-id="24" group-title="(No group)",BR: SPACE HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/983
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV" tvg-logo="" tvg-chno="25" channel-id="25" group-title="(No group)",BR: REDE TV
+http://ttv.bz:80/manolopc1/7U49kuozK8/988
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP HD" tvg-logo="" tvg-chno="26" channel-id="26" group-title="(No group)",BR: RECORD SP HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/989
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD RJ HD" tvg-logo="" tvg-chno="27" channel-id="27" group-title="(No group)",BR: RECORD RJ HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/990
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS HD" tvg-logo="" tvg-chno="28" channel-id="28" group-title="(No group)",BR: RECORD NEWS HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/992
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES HD" tvg-logo="" tvg-chno="29" channel-id="29" group-title="(No group)",BR: PREMIERE CLUBES HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/994
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5 HD" tvg-logo="" tvg-chno="30" channel-id="30" group-title="(No group)",BR: PREMIERE 5 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/998
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4 HD" tvg-logo="" tvg-chno="31" channel-id="31" group-title="(No group)",BR: PREMIERE 4 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1000
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3 HD" tvg-logo="" tvg-chno="32" channel-id="32" group-title="(No group)",BR: PREMIERE 3 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1002
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2 HD" tvg-logo="" tvg-chno="33" channel-id="33" group-title="(No group)",BR: PREMIERE 2 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1004
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT CHANNEL HD" tvg-logo="" tvg-chno="34" channel-id="34" group-title="(No group)",BR: PARAMOUNT CHANNEL HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1006
+#EXTINF:-1 tvg-id="Off.br" tvg-name="BR: OFF HD" tvg-logo="https://static.epg.best/br/Off.br.png" tvg-chno="35" channel-id="35" group-title="(No group)",BR: OFF HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1007
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="BR: NICKELODEON HD" tvg-logo="https://static.epg.best/br/Nickelodeon.br.png" tvg-chno="36" channel-id="36" group-title="(No group)",BR: NICKELODEON HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1008
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="BR: NICK JR HD" tvg-logo="https://static.epg.best/br/NickJr.br.png" tvg-chno="37" channel-id="37" group-title="(No group)",BR: NICK JR HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1009
+#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="BR: NATIONAL GEOGRAPHIC HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/national-geographic-hd-lam.png" tvg-chno="38" channel-id="38" group-title="(No group)",BR: NATIONAL GEOGRAPHIC HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1010
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO WILD HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/national-geographic-wild-lam.png" tvg-chno="39" channel-id="39" group-title="(No group)",BR: NATGEO WILD HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1011
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="BR: MULTISHOW HD" tvg-logo="https://seeklogo.com/images/M/multishow-logo-CE0C49409D-seeklogo.com.png?v=637843431980000000" tvg-chno="40" channel-id="40" group-title="(No group)",BR: MULTISHOW HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1013
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV HD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-movie-png-logo-5.png" tvg-chno="41" channel-id="41" group-title="(No group)",BR: MTV HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1015
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="BR: MEGAPIX HD" tvg-logo="https://wowjohn.com/wp-content/uploads/2022/05/megapix-logo-png-2-1-Transparent-Images.png" tvg-chno="42" channel-id="42" group-title="(No group)",BR: MEGAPIX HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1016
+#EXTINF:-1 tvg-id="" tvg-name="BR: LIFETIME HD" tvg-logo="" tvg-chno="43" channel-id="43" group-title="(No group)",BR: LIFETIME HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1020
+#EXTINF:-1 tvg-id="" tvg-name="BR: ID - INVESTIGACAO DISCOVERY HD" tvg-logo="" tvg-chno="44" channel-id="44" group-title="(No group)",BR: ID - INVESTIGACAO DISCOVERY HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1021
+#EXTINF:-1 tvg-id="HistoryChannel.br" tvg-name="BR: HISTORY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/history-channel-lam.png" tvg-chno="45" channel-id="45" group-title="(No group)",BR: HISTORY CHANNEL HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1022
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="BR: HBO SIGNATURE HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/hbo-signature-lam.png" tvg-chno="46" channel-id="46" group-title="(No group)",BR: HBO SIGNATURE HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1023
+#EXTINF:-1 tvg-id="HBOPlusBrasil.br" tvg-name="BR: HBO PLUS HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/hbo-plus-lam.png" tvg-chno="47" channel-id="47" group-title="(No group)",BR: HBO PLUS HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1024
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="BR: HBO HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/hbo-lam.png" tvg-chno="48" channel-id="48" group-title="(No group)",BR: HBO HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1025
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="BR: HBO FAMILY HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/hbo-family-lam.png" tvg-chno="49" channel-id="49" group-title="(No group)",BR: HBO FAMILY HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1026
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="BR: HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/hbo-2-lam.png" tvg-chno="50" channel-id="50" group-title="(No group)",BR: HBO 2 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1027
+#EXTINF:-1 tvg-id="" tvg-name="BR: H2 HD" tvg-logo="" tvg-chno="51" channel-id="51" group-title="(No group)",BR: H2 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1028
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT HD" tvg-logo="" tvg-chno="52" channel-id="52" group-title="(No group)",BR: GNT HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1029
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOB HD" tvg-logo="" tvg-chno="53" channel-id="53" group-title="(No group)",BR: GLOOB HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1030
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBOSAT HD" tvg-logo="" tvg-chno="54" channel-id="54" group-title="(No group)",BR: GLOBOSAT HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1031
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP HD" tvg-logo="" tvg-chno="55" channel-id="55" group-title="(No group)",BR: GLOBO SP HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1032
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS HD" tvg-logo="" tvg-chno="56" channel-id="56" group-title="(No group)",BR: GLOBO NEWS HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1034
+#EXTINF:-1 tvg-id="FX.br" tvg-name="BR: FX HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/fx-hd-lam.png" tvg-chno="57" channel-id="57" group-title="(No group)",BR: FX HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1037
+#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="BR: FOX SPORTS HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/fox-sports-1-lam.png" tvg-chno="58" channel-id="58" group-title="(No group)",BR: FOX SPORTS HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1038
+#EXTINF:-1 tvg-id="FoxSports2.br" tvg-name="BR: FOX SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/fox-sports-2-lam.png" tvg-chno="59" channel-id="59" group-title="(No group)",BR: FOX SPORTS 2 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1039
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="BR: FOX HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/fox-channel-lam.png" tvg-chno="60" channel-id="60" group-title="(No group)",BR: FOX HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1043
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOOD NETWORK HD" tvg-logo="" tvg-chno="61" channel-id="61" group-title="(No group)",BR: FOOD NETWORK HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1044
+#EXTINF:-1 tvg-id="" tvg-name="BR: FISH TV HD" tvg-logo="" tvg-chno="62" channel-id="62" group-title="(No group)",BR: FISH TV HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1045
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="BR: ESPN HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/espn-us.png" tvg-chno="63" channel-id="63" group-title="(No group)",BR: ESPN HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1046
+#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="BR: ESPN BRASIL HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/espn-us.png" tvg-chno="64" channel-id="64" group-title="(No group)",BR: ESPN BRASIL HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1047
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="BR: ESPN 2 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/espn-2-us.png" tvg-chno="65" channel-id="65" group-title="(No group)",BR: ESPN 2 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1048
+#EXTINF:-1 tvg-id="" tvg-name="BR: E! HD" tvg-logo="" tvg-chno="66" channel-id="66" group-title="(No group)",BR: E! HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1049
+#EXTINF:-1 tvg-id="DisneyChannel.br" tvg-name="BR: DISNEY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-us.png" tvg-chno="67" channel-id="67" group-title="(No group)",BR: DISNEY CHANNEL HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1052
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="BR: DISCOVERY WORLD HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-us.png" tvg-chno="68" channel-id="68" group-title="(No group)",BR: DISCOVERY WORLD HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1053
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="BR: DISCOVERY TURBO HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-us.png" tvg-chno="69" channel-id="69" group-title="(No group)",BR: DISCOVERY TURBO HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1054
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TLC HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-us.png" tvg-chno="70" channel-id="70" group-title="(No group)",BR: DISCOVERY TLC HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1055
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY THEATER HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-us.png" tvg-chno="71" channel-id="71" group-title="(No group)",BR: DISCOVERY THEATER HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1056
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY SCIENCE HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-us.png" tvg-chno="72" channel-id="72" group-title="(No group)",BR: DISCOVERY SCIENCE HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1057
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-us.png" tvg-chno="73" channel-id="73" group-title="(No group)",BR: DISCOVERY KIDS HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1058
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HOME & HEALTH HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-us.png" tvg-chno="74" channel-id="74" group-title="(No group)",BR: DISCOVERY HOME & HEALTH HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1059
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-us.png" tvg-chno="75" channel-id="75" group-title="(No group)",BR: DISCOVERY CHANNEL
+http://ttv.bz:80/manolopc1/7U49kuozK8/1061
+#EXTINF:-1 tvg-id="" tvg-name="BR: CULTURA HD" tvg-logo="" tvg-chno="76" channel-id="76" group-title="(No group)",BR: CULTURA HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1064
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL HD" tvg-logo="" tvg-chno="77" channel-id="77" group-title="(No group)",BR: COMEDY CENTRAL HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1065
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="BR: COMBATE HD" tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" tvg-chno="78" channel-id="78" group-title="(No group)",BR: COMBATE HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1066
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="BR: CINEMAX HD" tvg-logo="https://static.epg.best/br/Cinemax.br.png" tvg-chno="79" channel-id="79" group-title="(No group)",BR: CINEMAX HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1067
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="BR: CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cartoon-network-us.png" tvg-chno="80" channel-id="80" group-title="(No group)",BR: CARTOON NETWORK HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1068
+#EXTINF:-1 tvg-id="" tvg-name="BR: BOOMERANG" tvg-logo="" tvg-chno="81" channel-id="81" group-title="(No group)",BR: BOOMERANG
+http://ttv.bz:80/manolopc1/7U49kuozK8/1069
+#EXTINF:-1 tvg-id="" tvg-name="BR: BIS HD" tvg-logo="" tvg-chno="82" channel-id="82" group-title="(No group)",BR: BIS HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1070
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS HD" tvg-logo="" tvg-chno="83" channel-id="83" group-title="(No group)",BR: BAND SPORTS HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1071
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="" tvg-chno="84" channel-id="84" group-title="(No group)",BAND NEWS HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1073
+#EXTINF:-1 tvg-id="" tvg-name="BR: BABY TV HD" tvg-logo="" tvg-chno="85" channel-id="85" group-title="(No group)",BR: BABY TV HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1074
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="BR: AXN HD" tvg-logo="https://i.imgur.com/RYscAnj.png" tvg-chno="86" channel-id="86" group-title="(No group)",BR: AXN HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1075
+#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE 1 HD" tvg-logo="" tvg-chno="87" channel-id="87" group-title="(No group)",BR: ARTE 1 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1076
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/animal-planet-lam.png" tvg-chno="88" channel-id="88" group-title="(No group)",BR: ANIMAL PLANET HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1077
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="BR: AMC HD" tvg-logo="https://static.epg.best/br/Amc.br.png" tvg-chno="89" channel-id="89" group-title="(No group)",BR: AMC HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1078
+#EXTINF:-1 tvg-id="AandE.br" tvg-name="BR: A&E HD" tvg-logo="https://static.epg.best/br/AandE.br.png" tvg-chno="90" channel-id="90" group-title="(No group)",BR: A&E HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1079
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="BR: GLOBO RJ FHD" tvg-logo="https://i.imgur.com/TL9HqlP.png" tvg-chno="91" channel-id="91" group-title="(No group)",BR: GLOBO RJ FHD
+http://ttv.bz:80/manolopc1/7U49kuozK8/64822
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT CHANNEL" tvg-logo="" tvg-chno="92" channel-id="92" group-title="(No group)",BR: PARAMOUNT CHANNEL
+http://ttv.bz:80/manolopc1/7U49kuozK8/64843
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 6 FHD" tvg-logo="" tvg-chno="93" channel-id="93" group-title="(No group)",BR: PREMIERE 6 FHD
+http://ttv.bz:80/manolopc1/7U49kuozK8/64848
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Brasilia" tvg-logo="" tvg-chno="94" channel-id="94" group-title="(No group)",BR: Globo Brasilia
+http://ttv.bz:80/manolopc1/7U49kuozK8/65617
