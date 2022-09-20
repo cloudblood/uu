@@ -1,1 +1,1793 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Santa Cruz HD
+http://4p.vc:80/zeads1234/123456/18327
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Rio Sul HD
+http://4p.vc:80/zeads1234/123456/18330
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Cabo Frio HD
+http://4p.vc:80/zeads1234/123456/18332
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Gazeta Sul ES HD
+http://4p.vc:80/zeads1234/123456/18360
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Gazeta Sul ES FHD
+http://4p.vc:80/zeads1234/123456/18361
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Mirante Sao Luis HD
+http://4p.vc:80/zeads1234/123456/18370
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo NSC TV Florianopolis FHD
+http://4p.vc:80/zeads1234/123456/18375
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Nordeste FHD
+http://4p.vc:80/zeads1234/123456/18376
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Morena FHD
+http://4p.vc:80/zeads1234/123456/18377
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Sergipe HD
+http://4p.vc:80/zeads1234/123456/18380
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Verdes Mares Fortaleza SD
+http://4p.vc:80/zeads1234/123456/18396
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Vanguarda S. J. dos Campos SD
+http://4p.vc:80/zeads1234/123456/18397
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Tribuna Santos SD
+http://4p.vc:80/zeads1234/123456/18398
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV TEM S. J. do Rio Preto SD
+http://4p.vc:80/zeads1234/123456/18399
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV TEM Sorocaba SD
+http://4p.vc:80/zeads1234/123456/18401
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV TEM Bauru SD
+http://4p.vc:80/zeads1234/123456/18402
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Liberal Belém SD
+http://4p.vc:80/zeads1234/123456/18403
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV C. America Cuiaba SD
+http://4p.vc:80/zeads1234/123456/18404
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Salvador Bahia HD [H265]
+http://4p.vc:80/zeads1234/123456/18405
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Anhanguera Goiania SD
+http://4p.vc:80/zeads1234/123456/18407
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo SP HD
+http://4p.vc:80/zeads1234/123456/18410
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo SP SD
+http://4p.vc:80/zeads1234/123456/18411
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo RPC Curitiba SD
+http://4p.vc:80/zeads1234/123456/18412
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo RJ FHD [A]
+http://4p.vc:80/zeads1234/123456/18415
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo RJ HD [A] [H265]
+http://4p.vc:80/zeads1234/123456/18416
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo RJ SD [A]
+http://4p.vc:80/zeads1234/123456/18417
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Rede Amazonas Manaus SD
+http://4p.vc:80/zeads1234/123456/18418
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://6p.vc:80/images/909f6c90b6db150078092be31dc47ffd.png",Globo RBS TV Porto Alegre HD
+http://4p.vc:80/zeads1234/123456/18419
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo RBS TV Porto Alegre SD
+http://4p.vc:80/zeads1234/123456/18420
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo NSC TV Florianopolis HD
+http://4p.vc:80/zeads1234/123456/18421
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Nordeste SD
+http://4p.vc:80/zeads1234/123456/18424
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Minas HD
+http://4p.vc:80/zeads1234/123456/18425
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Minas SD
+http://4p.vc:80/zeads1234/123456/18426
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo EPTV Sao Carlos SD
+http://4p.vc:80/zeads1234/123456/18428
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo EPTV Ribeirao Preto SD
+http://4p.vc:80/zeads1234/123456/18429
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo EPTV Campinas SD
+http://4p.vc:80/zeads1234/123456/18431
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Brasilia HD
+http://4p.vc:80/zeads1234/123456/18434
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Brasilia SD
+http://4p.vc:80/zeads1234/123456/18435
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Diario Fortaleza HD
+http://4p.vc:80/zeads1234/123456/18490
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV RS HD
+http://4p.vc:80/zeads1234/123456/18492
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV DF HD
+http://4p.vc:80/zeads1234/123456/18494
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV BA Cabralia  SD
+http://4p.vc:80/zeads1234/123456/18495
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV BA Cabralia  HD
+http://4p.vc:80/zeads1234/123456/18496
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/filmarts.png",Film & Arts SD
+http://4p.vc:80/zeads1234/123456/18497
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV MG HD
+http://4p.vc:80/zeads1234/123456/18501
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV Rio HD
+http://4p.vc:80/zeads1234/123456/18503
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/cultura.png",TV Cultura SD
+http://4p.vc:80/zeads1234/123456/18506
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/woohoo.png",Woohoo SD
+http://4p.vc:80/zeads1234/123456/18512
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/warner.png",Warner Channel HD
+http://4p.vc:80/zeads1234/123456/18513
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/warner.png",Warner Channel SD
+http://4p.vc:80/zeads1234/123456/18514
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/viva.png",Viva HD
+http://4p.vc:80/zeads1234/123456/18515
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/viva.png",Viva SD
+http://4p.vc:80/zeads1234/123456/18516
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/vh1.png",VH1 HD
+http://4p.vc:80/zeads1234/123456/18518
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/universal.png",Universal TV HD
+http://4p.vc:80/zeads1234/123456/18520
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo EPTV Ribeirão Preto HD
+http://4p.vc:80/zeads1234/123456/18522
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/trutv.png",TruTV SD
+http://4p.vc:80/zeads1234/123456/18523
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/ratimbum.png",TV Ra-Tim-Bum HD
+http://4p.vc:80/zeads1234/123456/18524
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/ratimbum.png",TV Ra-Tim-Bum SD
+http://4p.vc:80/zeads1234/123456/18525
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/gazeta.png",TV Gazeta SP HD
+http://4p.vc:80/zeads1234/123456/18526
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/escola.png",TV Escola SD
+http://4p.vc:80/zeads1234/123456/18527
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/camara.png",TV Camara SD
+http://4p.vc:80/zeads1234/123456/18528
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="https://static.black/aparecida.png",TV Aparecida SD
+http://4p.vc:80/zeads1234/123456/18530
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/jus.png",TV Justica SD
+http://4p.vc:80/zeads1234/123456/18531
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/senado.png",TV Senado SD
+http://4p.vc:80/zeads1234/123456/18532
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/tooncast.png",Tooncast SD
+http://4p.vc:80/zeads1234/123456/18533
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tnt-s.png",TNT Series HD
+http://4p.vc:80/zeads1234/123456/18534
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tnt-s.png",TNT Series SD
+http://4p.vc:80/zeads1234/123456/18535
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tnt.png",TNT HD
+http://4p.vc:80/zeads1234/123456/18536
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tnt.png",TNT SD
+http://4p.vc:80/zeads1234/123456/18537
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/tlc.png",TLC HD
+http://4p.vc:80/zeads1234/123456/18538
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/tlc.png",TLC SD
+http://4p.vc:80/zeads1234/123456/18539
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/tv.png",Terra Viva SD
+http://4p.vc:80/zeads1234/123456/18540
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinetouch.png",Telecine Touch HD
+http://4p.vc:80/zeads1234/123456/18541
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinetouch.png",Telecine Touch SD
+http://4p.vc:80/zeads1234/123456/18542
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinepremium.png",Telecine Premium HD
+http://4p.vc:80/zeads1234/123456/18543
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinepipoca.png",Telecine Pipoca HD
+http://4p.vc:80/zeads1234/123456/18545
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinefun.png",Telecine Fun HD
+http://4p.vc:80/zeads1234/123456/18547
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinefun.png",Telecine Fun SD
+http://4p.vc:80/zeads1234/123456/18548
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinecult.png",Telecine Cult HD
+http://4p.vc:80/zeads1234/123456/18549
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinecult.png",Telecine Cult SD
+http://4p.vc:80/zeads1234/123456/18550
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecineaction.png",Telecine Action HD
+http://4p.vc:80/zeads1234/123456/18551
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecineaction.png",Telecine Action SD
+http://4p.vc:80/zeads1234/123456/18552
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tcm.png",TCM SD
+http://4p.vc:80/zeads1234/123456/18553
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tbs.png",TBS HD
+http://4p.vc:80/zeads1234/123456/18554
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tbs.png",TBS SD
+http://4p.vc:80/zeads1234/123456/18555
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/studio.png",Studio Universal HD
+http://4p.vc:80/zeads1234/123456/18556
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/studio.png",Studio Universal SD
+http://4p.vc:80/zeads1234/123456/18557
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://6p.vc:80/images/43c36900b0aa86ded24077870df74926.png",SporTV HD
+http://4p.vc:80/zeads1234/123456/18558
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://static.black/sportv3.png",SporTV 3 HD
+http://4p.vc:80/zeads1234/123456/18559
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://static.black/sportv3.png",SporTV 3 SD
+http://4p.vc:80/zeads1234/123456/18560
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://static.black/sportv2.png",SporTV 2 HD
+http://4p.vc:80/zeads1234/123456/18561
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://static.black/sportv2.png",SporTV 2 SD
+http://4p.vc:80/zeads1234/123456/18562
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://static.black/sportv.png",SporTV SD
+http://4p.vc:80/zeads1234/123456/18563
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/space.png",Space HD
+http://4p.vc:80/zeads1234/123456/18564
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/space.png",Space SD
+http://4p.vc:80/zeads1234/123456/18565
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/syfy.png",Syfy HD
+http://4p.vc:80/zeads1234/123456/18566
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/syfy.png",Syfy SD
+http://4p.vc:80/zeads1234/123456/18567
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/sbt.png",SBT SD
+http://4p.vc:80/zeads1234/123456/18569
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/sbt.png",SBT SP SD
+http://4p.vc:80/zeads1234/123456/18570
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="https://static.black/redevida.png",Rede Vida SD
+http://4p.vc:80/zeads1234/123456/18571
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/redetv.png",RedeTV! HD
+http://4p.vc:80/zeads1234/123456/18572
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/redetv.png",RedeTV! SD
+http://4p.vc:80/zeads1234/123456/18573
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/redebrasil.png",Rede Brasil SD
+http://4p.vc:80/zeads1234/123456/18574
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV SP HD
+http://4p.vc:80/zeads1234/123456/18575
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/record-news.png",Record News HD
+http://4p.vc:80/zeads1234/123456/18577
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/record-news.png",Record News SD
+http://4p.vc:80/zeads1234/123456/18578
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV SP SD
+http://4p.vc:80/zeads1234/123456/18579
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/primebox.png",Prime Box Brazil HD
+http://4p.vc:80/zeads1234/123456/18581
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere Clubes HD [Alter]
+http://4p.vc:80/zeads1234/123456/18582
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere Clubes SD
+http://4p.vc:80/zeads1234/123456/18583
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 7 SD
+http://4p.vc:80/zeads1234/123456/18585
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 6 HD
+http://4p.vc:80/zeads1234/123456/18586
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 6 SD
+http://4p.vc:80/zeads1234/123456/18587
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 5 HD
+http://4p.vc:80/zeads1234/123456/18588
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 5 SD
+http://4p.vc:80/zeads1234/123456/18589
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 4 HD
+http://4p.vc:80/zeads1234/123456/18590
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 4 SD
+http://4p.vc:80/zeads1234/123456/18591
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 3 HD
+http://4p.vc:80/zeads1234/123456/18592
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 3 SD
+http://4p.vc:80/zeads1234/123456/18593
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 2 SD
+http://4p.vc:80/zeads1234/123456/18595
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/paramount.png",Paramount Channel HD
+http://4p.vc:80/zeads1234/123456/18596
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/paramount.png",Paramount Channel SD
+http://4p.vc:80/zeads1234/123456/18597
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/off.png",OFF HD
+http://4p.vc:80/zeads1234/123456/18598
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/off.png",OFF SD
+http://4p.vc:80/zeads1234/123456/18599
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/nick.png",Nickelodeon HD
+http://4p.vc:80/zeads1234/123456/18600
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/nick.png",Nickelodeon SD
+http://4p.vc:80/zeads1234/123456/18601
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/nickjr.png",Nick Jr HD
+http://4p.vc:80/zeads1234/123456/18602
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/nickjr.png",Nick Jr SD
+http://4p.vc:80/zeads1234/123456/18603
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/natgeo.png",National Geographic SD
+http://4p.vc:80/zeads1234/123456/18610
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/musicbox.png",Music Box Brasil HD
+http://4p.vc:80/zeads1234/123456/18611
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/musicbox.png",Music Box Brasil SD
+http://4p.vc:80/zeads1234/123456/18612
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/multishow.png",Multishow HD
+http://4p.vc:80/zeads1234/123456/18613
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/multishow.png",Multishow SD
+http://4p.vc:80/zeads1234/123456/18614
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/mtv.png",MTV HD
+http://4p.vc:80/zeads1234/123456/18615
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/mtv.png",MTV SD
+http://4p.vc:80/zeads1234/123456/18616
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/megapix.png",Megapix HD
+http://4p.vc:80/zeads1234/123456/18617
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/megapix.png",Megapix SD
+http://4p.vc:80/zeads1234/123456/18618
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbomundi.png",HBO Mundi HD
+http://4p.vc:80/zeads1234/123456/18623
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/globosat.png",Mais GloboSat HD
+http://4p.vc:80/zeads1234/123456/18625
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/globosat.png",Mais GloboSat SD
+http://4p.vc:80/zeads1234/123456/18626
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/lifetime.png",Lifetime HD
+http://4p.vc:80/zeads1234/123456/18627
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/lifetime.png",Lifetime SD
+http://4p.vc:80/zeads1234/123456/18628
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/d-id.png",ID: Investigacao Discovery SD
+http://4p.vc:80/zeads1234/123456/18630
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/history.png",History Channel HD
+http://4p.vc:80/zeads1234/123456/18631
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/history.png",History Channel SD
+http://4p.vc:80/zeads1234/123456/18632
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbosignature.png",HBO Signature HD
+http://4p.vc:80/zeads1234/123456/18633
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbosignature.png",HBO Signature SD
+http://4p.vc:80/zeads1234/123456/18634
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hboplus.png",HBO Plus HD
+http://4p.vc:80/zeads1234/123456/18635
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hboplus.png",HBO Plus SD
+http://4p.vc:80/zeads1234/123456/18636
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbo.png",HBO HD
+http://4p.vc:80/zeads1234/123456/18637
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbofamily.png",HBO Family HD
+http://4p.vc:80/zeads1234/123456/18638
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbofamily.png",HBO Family SD
+http://4p.vc:80/zeads1234/123456/18639
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbo2.png",HBO 2 HD
+http://4p.vc:80/zeads1234/123456/18640
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbo2.png",HBO 2 SD
+http://4p.vc:80/zeads1234/123456/18641
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbo.png",HBO SD
+http://4p.vc:80/zeads1234/123456/18642
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/history2.png",H2 HD
+http://4p.vc:80/zeads1234/123456/18643
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/gnt.png",GNT HD
+http://4p.vc:80/zeads1234/123456/18645
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/gnt.png",GNT SD
+http://4p.vc:80/zeads1234/123456/18646
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/gloob.png",Gloob HD
+http://4p.vc:80/zeads1234/123456/18649
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/gloob.png",Gloob SD
+http://4p.vc:80/zeads1234/123456/18650
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/globonews.png",Globo News HD
+http://4p.vc:80/zeads1234/123456/18651
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/globonews.png",Globo News SD
+http://4p.vc:80/zeads1234/123456/18652
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/fx.png",FX HD
+http://4p.vc:80/zeads1234/123456/18653
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/futura.png",Futura SD
+http://4p.vc:80/zeads1234/123456/18656
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/foxsports2.png",Fox Sports 2 HD
+http://4p.vc:80/zeads1234/123456/18657
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/foxsports2.png",Fox Sports 2 SD
+http://4p.vc:80/zeads1234/123456/18658
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/foxsports.png",ESPN 4 HD
+http://4p.vc:80/zeads1234/123456/18659
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/foxsports.png",ESPN 4 SD
+http://4p.vc:80/zeads1234/123456/18660
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/starchannel.png",Star Channel HD
+http://4p.vc:80/zeads1234/123456/18667
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/f-n.png",Food Network HD
+http://4p.vc:80/zeads1234/123456/18669
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/f-n.png",Food Network SD
+http://4p.vc:80/zeads1234/123456/18670
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/fish.png",Fish TV HD
+http://4p.vc:80/zeads1234/123456/18671
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/fish.png",Fish TV SD
+http://4p.vc:80/zeads1234/123456/18672
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espnextra.png",ESPN Extra HD
+http://4p.vc:80/zeads1234/123456/18674
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://6p.vc:80/images/4c99d7606f9ce8ca7ec97cb995907311.png",ESPN 3 HD
+http://4p.vc:80/zeads1234/123456/18675
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espnbrasil.png",ESPN HD [A]
+http://4p.vc:80/zeads1234/123456/18676
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espnbrasil.png",ESPN SD [B]
+http://4p.vc:80/zeads1234/123456/18677
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espn2.png",ESPN 2 HD
+http://4p.vc:80/zeads1234/123456/18678
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espn2.png",ESPN 2 SD
+http://4p.vc:80/zeads1234/123456/18679
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espn.png",ESPN SD [A]
+http://4p.vc:80/zeads1234/123456/18680
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/e.png",E! HD
+http://4p.vc:80/zeads1234/123456/18681
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/e.png",E! SD
+http://4p.vc:80/zeads1234/123456/18682
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/d-world.png",Discovery World HD
+http://4p.vc:80/zeads1234/123456/18687
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/d-turbo.png",Discovery Turbo HD
+http://4p.vc:80/zeads1234/123456/18689
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/d-turbo.png",Discovery Turbo SD
+http://4p.vc:80/zeads1234/123456/18690
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/d-theater.png",Discovery Theater HD
+http://4p.vc:80/zeads1234/123456/18691
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://6p.vc:80/images/a68efed9907b0bb568c5fdb5813439b8.png",Discovery Science HD
+http://4p.vc:80/zeads1234/123456/18693
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/d-kids.png",Discovery Kids SD
+http://4p.vc:80/zeads1234/123456/18696
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/d-h-h.png",Discovery H&H HD
+http://4p.vc:80/zeads1234/123456/18697
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/d-h-h.png",Discovery H&H SD
+http://4p.vc:80/zeads1234/123456/18698
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/hgtv.png",HGTV HD
+http://4p.vc:80/zeads1234/123456/18699
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/hgtv.png",HGTV SD
+http://4p.vc:80/zeads1234/123456/18700
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/d.png",Discovery Channel HD
+http://4p.vc:80/zeads1234/123456/18701
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/d.png",Discovery Channel SD
+http://4p.vc:80/zeads1234/123456/18702
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/curta.png",Curta! SD
+http://4p.vc:80/zeads1234/123456/18704
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/comedy.png",Comedy Central HD
+http://4p.vc:80/zeads1234/123456/18705
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/comedy.png",Comedy Central SD
+http://4p.vc:80/zeads1234/123456/18706
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/cinemax.png",Cinemax HD
+http://4p.vc:80/zeads1234/123456/18709
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/cinemax.png",Cinemax SD
+http://4p.vc:80/zeads1234/123456/18710
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://6p.vc:80/images/7efdfc94655a25dcea3ec85e9bb703fa.png",Cartoon Network HD
+http://4p.vc:80/zeads1234/123456/18711
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/cn.png",Cartoon Network SD
+http://4p.vc:80/zeads1234/123456/18712
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="https://static.black/cancao.png",Canção Nova SD
+http://4p.vc:80/zeads1234/123456/18713
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/sony.png",Sony HD
+http://4p.vc:80/zeads1234/123456/18714
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/canalbrasil.png",Canal Brasil HD
+http://4p.vc:80/zeads1234/123456/18716
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/canalbrasil.png",Canal Brasil SD
+http://4p.vc:80/zeads1234/123456/18717
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/boomerang.png",Boomerang HD
+http://4p.vc:80/zeads1234/123456/18718
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/boomerang.png",Boomerang SD
+http://4p.vc:80/zeads1234/123456/18719
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/bis.png",Bis HD
+http://4p.vc:80/zeads1234/123456/18721
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/bis.png",Bis SD
+http://4p.vc:80/zeads1234/123456/18722
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/bandsports.png",BandSports HD
+http://4p.vc:80/zeads1234/123456/18723
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/bandsports.png",BandSports SD
+http://4p.vc:80/zeads1234/123456/18724
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/bandnews.png",BandNews HD
+http://4p.vc:80/zeads1234/123456/18725
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/bandnews.png",BandNews SD
+http://4p.vc:80/zeads1234/123456/18726
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/band.png",Band SP HD
+http://4p.vc:80/zeads1234/123456/18727
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/baby.png",BabyTV SD
+http://4p.vc:80/zeads1234/123456/18729
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/axn.png",AXN HD
+http://4p.vc:80/zeads1234/123456/18730
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/axn.png",AXN SD
+http://4p.vc:80/zeads1234/123456/18731
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/a-p.png",Animal Planet HD
+http://4p.vc:80/zeads1234/123456/18734
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/amc.png",AMC HD
+http://4p.vc:80/zeads1234/123456/18736
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/amc.png",AMC SD
+http://4p.vc:80/zeads1234/123456/18737
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/ae.png",A&E HD
+http://4p.vc:80/zeads1234/123456/18738
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/ae.png",A&E SD
+http://4p.vc:80/zeads1234/123456/18739
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Verdes Mares Fortaleza FHD
+http://4p.vc:80/zeads1234/123456/18740
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV Rio FHD
+http://4p.vc:80/zeads1234/123456/18748
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="https://static.black/redevida.png",Rede Vida FHD
+http://4p.vc:80/zeads1234/123456/18750
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/canalbrasil.png",Canal Brasil FHD
+http://4p.vc:80/zeads1234/123456/18753
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/globosat.png",Mais GloboSat FHD
+http://4p.vc:80/zeads1234/123456/18754
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinepremium.png",Telecine Premium FHD
+http://4p.vc:80/zeads1234/123456/18757
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinepipoca.png",Telecine Pipoca FHD
+http://4p.vc:80/zeads1234/123456/18758
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinefun.png",Telecine Fun FHD
+http://4p.vc:80/zeads1234/123456/18759
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecineaction.png",Telecine Action FHD
+http://4p.vc:80/zeads1234/123456/18760
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://6p.vc:80/images/43c36900b0aa86ded24077870df74926.png",SporTV FHD
+http://4p.vc:80/zeads1234/123456/18761
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://6p.vc:80/images/365fc6d09ecab42eb99b787a6df6477b.png",SporTV 3 FHD
+http://4p.vc:80/zeads1234/123456/18762
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://static.black/sportv2.png",SporTV 2 FHD
+http://4p.vc:80/zeads1234/123456/18763
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 6 FHD
+http://4p.vc:80/zeads1234/123456/18768
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 5 FHD
+http://4p.vc:80/zeads1234/123456/18769
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 4 FHD
+http://4p.vc:80/zeads1234/123456/18770
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 3 FHD
+http://4p.vc:80/zeads1234/123456/18771
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbo.png",HBO FHD
+http://4p.vc:80/zeads1234/123456/18773
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbo2.png",HBO 2 FHD
+http://4p.vc:80/zeads1234/123456/18774
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/globonews.png",Globo News FHD
+http://4p.vc:80/zeads1234/123456/18776
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/foxsports2.png",Fox Sports 2 FHD
+http://4p.vc:80/zeads1234/123456/18778
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://6p.vc:80/images/cc2998d18e00a85ee236f747c3bb340a.png",Star Channel FHDR
+http://4p.vc:80/zeads1234/123456/18779
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espn.png",ESPN FHD [B]
+http://4p.vc:80/zeads1234/123456/18780
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espnbrasil.png",ESPN FHD [A]
+http://4p.vc:80/zeads1234/123456/18781
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/d.png",Discovery Channel FHD
+http://4p.vc:80/zeads1234/123456/18783
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/bis.png",Bis FHD
+http://4p.vc:80/zeads1234/123456/18785
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/band.png",Band SP FHD
+http://4p.vc:80/zeads1234/123456/18786
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/warner.png",Warner Channel FHD
+http://4p.vc:80/zeads1234/123456/18790
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tnt-s.png",TNT Series FHD
+http://4p.vc:80/zeads1234/123456/18795
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tnt.png",TNT FHD
+http://4p.vc:80/zeads1234/123456/18796
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/tlc.png",TLC FHD
+http://4p.vc:80/zeads1234/123456/18797
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/space.png",Space FHD
+http://4p.vc:80/zeads1234/123456/18802
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/record-news.png",Record News FHD
+http://4p.vc:80/zeads1234/123456/18803
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/primebox.png",Prime Box Brazil FHD
+http://4p.vc:80/zeads1234/123456/18804
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/paramount.png",Paramount Channel FHD
+http://4p.vc:80/zeads1234/123456/18805
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/off.png",OFF FHD
+http://4p.vc:80/zeads1234/123456/18806
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://6p.vc:80/images/913c4858c66af34fc5575fcb46f3fecb.png",Nick Jr FHD
+http://4p.vc:80/zeads1234/123456/18808
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/natgeowild.png",NatGeo Wild FHD
+http://4p.vc:80/zeads1234/123456/18809
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/natgeo.png",National Geographic FHD
+http://4p.vc:80/zeads1234/123456/18811
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/multishow.png",Multishow FHD
+http://4p.vc:80/zeads1234/123456/18813
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/mtv.png",MTV FHD
+http://4p.vc:80/zeads1234/123456/18815
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/lifetime.png",Lifetime FHD
+http://4p.vc:80/zeads1234/123456/18820
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/history.png",History Channel FHD
+http://4p.vc:80/zeads1234/123456/18822
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hboplus.png",HBO Plus FHD
+http://4p.vc:80/zeads1234/123456/18824
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbofamily.png",HBO Family FHD
+http://4p.vc:80/zeads1234/123456/18825
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/gnt.png",GNT FHD
+http://4p.vc:80/zeads1234/123456/18827
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/fx.png",FX FHD
+http://4p.vc:80/zeads1234/123456/18829
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espnextra.png",ESPN Extra FHD
+http://4p.vc:80/zeads1234/123456/18836
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espn2.png",ESPN 2 FHD
+http://4p.vc:80/zeads1234/123456/18837
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/d-world.png",Discovery World FHD
+http://4p.vc:80/zeads1234/123456/18839
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/d-turbo.png",Discovery Turbo FHD
+http://4p.vc:80/zeads1234/123456/18840
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/d-kids.png",Discovery Kids FHD
+http://4p.vc:80/zeads1234/123456/18843
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/cinemax.png",Cinemax FHD
+http://4p.vc:80/zeads1234/123456/18848
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://6p.vc:80/images/7efdfc94655a25dcea3ec85e9bb703fa.png",Cartoon Network FHD
+http://4p.vc:80/zeads1234/123456/18849
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/boomerang.png",Boomerang FHD
+http://4p.vc:80/zeads1234/123456/18851
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/bandsports.png",BandSports FHD
+http://4p.vc:80/zeads1234/123456/18852
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://6p.vc:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png",Band RJ FHD
+http://4p.vc:80/zeads1234/123456/18853
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/axn.png",AXN FHD
+http://4p.vc:80/zeads1234/123456/18854
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/arte1.png",Arte 1 FHD
+http://4p.vc:80/zeads1234/123456/18855
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/amc.png",AMC FHD
+http://4p.vc:80/zeads1234/123456/18857
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Anhanguera Goiania FHD [H265]
+http://4p.vc:80/zeads1234/123456/22124
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/woohoo.png",Woohoo FHD [H265]
+http://4p.vc:80/zeads1234/123456/22127
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/tlc.png",TLC FHD [H265]
+http://4p.vc:80/zeads1234/123456/22128
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/d-world.png",Discovery World FHD [H265]
+http://4p.vc:80/zeads1234/123456/22130
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/d-turbo.png",Discovery Turbo FHD [H265]
+http://4p.vc:80/zeads1234/123456/22131
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/syfy.png",Syfy FHD [H265]
+http://4p.vc:80/zeads1234/123456/22133
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/off.png",OFF FHD [H265]
+http://4p.vc:80/zeads1234/123456/22135
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/nick.png",Nickelodeon FHD [H265]
+http://4p.vc:80/zeads1234/123456/22136
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/megapix.png",Megapix FHD [H265]
+http://4p.vc:80/zeads1234/123456/22137
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbo.png",HBO FHD [H265]
+http://4p.vc:80/zeads1234/123456/22139
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbofamily.png",HBO Family FHD [H265]
+http://4p.vc:80/zeads1234/123456/22140
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/gnt.png",GNT FHD [H265]
+http://4p.vc:80/zeads1234/123456/22141
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/gloob.png",Gloob FHD [H265]
+http://4p.vc:80/zeads1234/123456/22142
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/e.png",E! FHD [H265]
+http://4p.vc:80/zeads1234/123456/22145
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/disney.png",Disney Channel FHD [H265]
+http://4p.vc:80/zeads1234/123456/22147
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/bis.png",Bis FHD [H265]
+http://4p.vc:80/zeads1234/123456/22150
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/bandsports.png",BandSports FHD [H265]
+http://4p.vc:80/zeads1234/123456/22151
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/warner.png",Warner Channel FHD [H265]
+http://4p.vc:80/zeads1234/123456/22153
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/vh1.png",VH1 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22154
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/universal.png",Universal TV FHD [H265]
+http://4p.vc:80/zeads1234/123456/22155
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tnt-s.png",TNT Series FHD [H265]
+http://4p.vc:80/zeads1234/123456/22156
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tnt.png",TNT FHD [H265]
+http://4p.vc:80/zeads1234/123456/22157
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinetouch.png",Telecine Touch FHD [H265]
+http://4p.vc:80/zeads1234/123456/22158
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinepremium.png",Telecine Premium FHD [H265]
+http://4p.vc:80/zeads1234/123456/22159
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinepipoca.png",Telecine Pipoca FHD [H265]
+http://4p.vc:80/zeads1234/123456/22160
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinefun.png",Telecine Fun FHD [H265]
+http://4p.vc:80/zeads1234/123456/22161
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinecult.png",Telecine Cult FHD [H265]
+http://4p.vc:80/zeads1234/123456/22162
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecineaction.png",Telecine Action FHD [H265]
+http://4p.vc:80/zeads1234/123456/22163
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tbs.png",TBS FHD [H265]
+http://4p.vc:80/zeads1234/123456/22164
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/studio.png",Studio Universal FHD [H265]
+http://4p.vc:80/zeads1234/123456/22165
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://static.black/sportv.png",SporTV FHD [H265]
+http://4p.vc:80/zeads1234/123456/22166
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://static.black/sportv3.png",SporTV 3 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22167
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="https://static.black/sportv2.png",SporTV 2 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22168
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/space.png",Space FHD [H265]
+http://4p.vc:80/zeads1234/123456/22169
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 7 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22171
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 6 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22172
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 5 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22173
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 4 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22174
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 3 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22175
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 2 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22176
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/paramount.png",Paramount Channel FHD [H265]
+http://4p.vc:80/zeads1234/123456/22177
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/nickjr.png",Nick Jr FHD [H265]
+http://4p.vc:80/zeads1234/123456/22178
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/multishow.png",Multishow FHD [H265]
+http://4p.vc:80/zeads1234/123456/22182
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/mtv.png",MTV FHD [H265]
+http://4p.vc:80/zeads1234/123456/22183
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/lifetime.png",Lifetime FHD [H265]
+http://4p.vc:80/zeads1234/123456/22186
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/d-id.png",ID: Investigacao Discovery FHD [H265]
+http://4p.vc:80/zeads1234/123456/22187
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/history.png",History Channel FHD [H265]
+http://4p.vc:80/zeads1234/123456/22188
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbo2.png",HBO 2 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22189
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbosignature.png",HBO Signature FHD [H265]
+http://4p.vc:80/zeads1234/123456/22190
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hboplus.png",HBO Plus FHD [H265]
+http://4p.vc:80/zeads1234/123456/22191
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/history2.png",H2 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22192
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/globonews.png",Globo News FHD [H265]
+http://4p.vc:80/zeads1234/123456/22193
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/fx.png",FX FHD [H265]
+http://4p.vc:80/zeads1234/123456/22194
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/foxsports.png",ESPN 4 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22195
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/foxsports2.png",Fox Sports 2 FHD [H265]
+http://4p.vc:80/zeads1234/123456/22196
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://6p.vc:80/images/cc2998d18e00a85ee236f747c3bb340a.png",Star Channel FHD [H265]
+http://4p.vc:80/zeads1234/123456/22197
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/f-n.png",Food Network FHD [H265]
+http://4p.vc:80/zeads1234/123456/22198
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/fish.png",Fish TV FHD [H265]
+http://4p.vc:80/zeads1234/123456/22199
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/d-theater.png",Discovery Theater FHD [H265]
+http://4p.vc:80/zeads1234/123456/22200
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/d-science.png",Discovery Science FHD [H265]
+http://4p.vc:80/zeads1234/123456/22201
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/d-kids.png",Discovery Kids FHD [H265]
+http://4p.vc:80/zeads1234/123456/22202
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/hgtv.png",HGTV FHD [H265]
+http://4p.vc:80/zeads1234/123456/22203
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/d.png",Discovery Channel FHD [H265]
+http://4p.vc:80/zeads1234/123456/22204
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/axn.png",AXN FHD [H265]
+http://4p.vc:80/zeads1234/123456/22210
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/a-p.png",Animal Planet FHD [H265]
+http://4p.vc:80/zeads1234/123456/22211
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/amc.png",AMC FHD [H265]
+http://4p.vc:80/zeads1234/123456/22212
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/ae.png",A&E FHD [H265]
+http://4p.vc:80/zeads1234/123456/22213
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://static.black/nhk.png",NHK SD
+http://4p.vc:80/zeads1234/123456/22219
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/fx.png",FX SD
+http://4p.vc:80/zeads1234/123456/22233
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/vh1.png",VH1 SD
+http://4p.vc:80/zeads1234/123456/22252
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/universal.png",Universal TV SD
+http://4p.vc:80/zeads1234/123456/22253
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV SD
+http://4p.vc:80/zeads1234/123456/22277
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/history2.png",H2 SD
+http://4p.vc:80/zeads1234/123456/22309
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/gloob.png",Gloob SD
+http://4p.vc:80/zeads1234/123456/22310
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/d-kids.png",Discovery Kids HD
+http://4p.vc:80/zeads1234/123456/22325
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/sony.png",Sony SD
+http://4p.vc:80/zeads1234/123456/22331
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/sbt.png",SBT RJ HD
+http://4p.vc:80/zeads1234/123456/22458
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Integração ARAXÁ FHD
+http://4p.vc:80/zeads1234/123456/22470
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/sbt.png",SBT Sergipe HD
+http://4p.vc:80/zeads1234/123456/22473
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV Sergipe HD
+http://4p.vc:80/zeads1234/123456/22474
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/band.png",Band Sergipe HD
+http://4p.vc:80/zeads1234/123456/22476
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV SP FHD [H265]
+http://4p.vc:80/zeads1234/123456/25221
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espn.png",ESPN FHD [H265]
+http://4p.vc:80/zeads1234/123456/25237
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espnbrasil.png",ESPN FHD [H265]
+http://4p.vc:80/zeads1234/123456/25238
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/band.png",Band Goiania FHD [H265]
+http://4p.vc:80/zeads1234/123456/25249
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/ratimbum.png",TV Ra-Tim-Bum FHD
+http://4p.vc:80/zeads1234/123456/25256
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/globosat.png",Mais GloboSat FHD [H265]
+http://4p.vc:80/zeads1234/123456/25291
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espnextra.png",ESPN Extra FHD [H265]
+http://4p.vc:80/zeads1234/123456/25308
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/espn2.png",ESPN 2 FHD [H265]
+http://4p.vc:80/zeads1234/123456/25309
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/comedy.png",Comedy Central FHD [H265]
+http://4p.vc:80/zeads1234/123456/25311
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/cinemax.png",Cinemax FHD [H265]
+http://4p.vc:80/zeads1234/123456/25313
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://6p.vc:80/images/7efdfc94655a25dcea3ec85e9bb703fa.png",Cartoon Network FHD [H265]
+http://4p.vc:80/zeads1234/123456/25314
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/sony.png",Sony FHD [H265]
+http://4p.vc:80/zeads1234/123456/25315
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/canalbrasil.png",Canal Brasil FHD [H265]
+http://4p.vc:80/zeads1234/123456/25316
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://static.black/26.png",CANAL 26 ARGENTINA HD
+http://4p.vc:80/zeads1234/123456/26427
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/arte1.png",Arte 1 HD
+http://4p.vc:80/zeads1234/123456/27884
+#EXTINF:-1 group-title="Canais | Internacionais",PROFIT RO HD
+http://4p.vc:80/zeads1234/123456/28040
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/sbt.png",Tv Aratu SBT Bahia HD
+http://4p.vc:80/zeads1234/123456/28059
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/band.png",Band Bahia HD
+http://4p.vc:80/zeads1234/123456/28060
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 8 SD
+http://4p.vc:80/zeads1234/123456/28064
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/polishop.png",PolishopTV SD
+http://4p.vc:80/zeads1234/123456/28066
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo SP FHD
+http://4p.vc:80/zeads1234/123456/28068
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="https://static.black/novotempo.png",TV Novo Tempo SD
+http://4p.vc:80/zeads1234/123456/28075
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/futura.png",Futura FHD
+http://4p.vc:80/zeads1234/123456/28198
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/zoomoo.png",ZooMoo SD
+http://4p.vc:80/zeads1234/123456/28199
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Brasilia FHD [H265]
+http://4p.vc:80/zeads1234/123456/28390
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo EPTV Campinas HD [A]
+http://4p.vc:80/zeads1234/123456/28391
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Verdes Mares Fortaleza HD
+http://4p.vc:80/zeads1234/123456/28395
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV Sao Jose Rio Preto HD
+http://4p.vc:80/zeads1234/123456/29021
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Inter TV Cabugi SD
+http://4p.vc:80/zeads1234/123456/33380
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo EPTV Campinas FHD [A] H265
+http://4p.vc:80/zeads1234/123456/33738
+#EXTINF:-1 group-title="Canais | Câmeras ao Vivo",[CAM] Ponte da Amizade - Foz do Iguaçu
+http://4p.vc:80/zeads1234/123456/43032
+#EXTINF:-1 group-title="Canais | Câmeras ao Vivo",[CAM] Times Square
+http://4p.vc:80/zeads1234/123456/43033
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbomundi.png",HBO Mundi SD
+http://4p.vc:80/zeads1234/123456/45135
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbomundi.png",HBO Mundi FHD
+http://4p.vc:80/zeads1234/123456/45136
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hboxtreme.png",HBO Xtreme FHD
+http://4p.vc:80/zeads1234/123456/45142
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hboxtreme.png",HBO Xtreme HD
+http://4p.vc:80/zeads1234/123456/45144
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hboxtreme.png",HBO Xtreme SD
+http://4p.vc:80/zeads1234/123456/45146
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbopop.png",HBO POP SD
+http://4p.vc:80/zeads1234/123456/45147
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbopop.png",HBO POP HD
+http://4p.vc:80/zeads1234/123456/45148
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbopop.png",HBO POP FHD
+http://4p.vc:80/zeads1234/123456/45149
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbopop.png",HBO POP FHD [H265]
+http://4p.vc:80/zeads1234/123456/45150
+#EXTINF:-1 group-title="Canais | Internacionais",CGTN [DOC-EUA]
+http://4p.vc:80/zeads1234/123456/45162
+#EXTINF:-1 group-title="Canais | Esportes",Estádio TNT Sports 4 HD [Alter]
+http://4p.vc:80/zeads1234/123456/45241
+#EXTINF:-1 group-title="Canais | Esportes",Estádio TNT Sports 2 HD [B]
+http://4p.vc:80/zeads1234/123456/45251
+#EXTINF:-1 group-title="Canais | Esportes Internacionais" tvg-logo="http://6p.vc:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png",PT: Benfica TV
+http://4p.vc:80/zeads1234/123456/45256
+#EXTINF:-1 group-title="Canais | Internacionais",[CN] CGTN
+http://4p.vc:80/zeads1234/123456/45270
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/canalrural.png",Canal Rural SD
+http://4p.vc:80/zeads1234/123456/47322
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/canalboi.png",Canal do Boi SD
+http://4p.vc:80/zeads1234/123456/47323
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/cnn.png",CNN Brasil FHD
+http://4p.vc:80/zeads1234/123456/47357
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/cnn.png",CNN Brasil HD
+http://4p.vc:80/zeads1234/123456/47358
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://static.black/cnn.png",CNN Brasil SD
+http://4p.vc:80/zeads1234/123456/47359
+#EXTINF:-1 group-title="Canais | Religiosos",Canção Nova HD
+http://4p.vc:80/zeads1234/123456/48700
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/sbt.png",SBT (PE) Caruaru HD
+http://4p.vc:80/zeads1234/123456/48702
+#EXTINF:-1 group-title="Canais | Religiosos",TVCI
+http://4p.vc:80/zeads1234/123456/48704
+#EXTINF:-1 group-title="Canais | Religiosos",TV Diario do Sertao
+http://4p.vc:80/zeads1234/123456/48705
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/tveducativa.png",TV Educativa de Porto Alegre
+http://4p.vc:80/zeads1234/123456/49233
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/d-id.png",ID: Investigacao Discovery HD
+http://4p.vc:80/zeads1234/123456/49283
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/hbo.png",HBO HD [LEG]
+http://4p.vc:80/zeads1234/123456/49305
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/hbo.png",HBO FHD [LEG]
+http://4p.vc:80/zeads1234/123456/49307
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/hboplus.png",HBO PLUS FHD [LEG]
+http://4p.vc:80/zeads1234/123456/49308
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/telecinepremium.png",Telecine Premium HD [LEG]
+http://4p.vc:80/zeads1234/123456/49309
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/telecinecult.png",Telecine Cult HD [LEG]
+http://4p.vc:80/zeads1234/123456/49310
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/telecinecult.png",Telecine Cult FHD [LEG]
+http://4p.vc:80/zeads1234/123456/49311
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Centro America Cuiaba SD
+http://4p.vc:80/zeads1234/123456/49363
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://static.black/globo.png",Globo Internacional HD
+http://4p.vc:80/zeads1234/123456/49365
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo RPC Parana HD
+http://4p.vc:80/zeads1234/123456/49372
+#EXTINF:-1 group-title="Canais | Infantis",PlayTV SD
+http://4p.vc:80/zeads1234/123456/49375
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/tooncast.png",Tooncast HD
+http://4p.vc:80/zeads1234/123456/49376
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/sbt.png",SBT SP FHD H265
+http://4p.vc:80/zeads1234/123456/49619
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV Interior BA HD
+http://4p.vc:80/zeads1234/123456/49626
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/universal.png",Universal TV FHD
+http://4p.vc:80/zeads1234/123456/49627
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/woohoo.png",Woohoo HD
+http://4p.vc:80/zeads1234/123456/49631
+#EXTINF:-1 group-title="Canais | Câmeras ao Vivo",[CAM] CBN Rio
+http://4p.vc:80/zeads1234/123456/50733
+#EXTINF:-1 group-title="Canais | Câmeras ao Vivo",[CAM] CBN SP
+http://4p.vc:80/zeads1234/123456/50746
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV BA Salvador HD
+http://4p.vc:80/zeads1234/123456/50772
+#EXTINF:-1 group-title="Canais | Religiosos",TV Pai Eterno
+http://4p.vc:80/zeads1234/123456/50811
+#EXTINF:-1 group-title="Canais | Abertos",TV Nova Era HD [Temporario]
+http://4p.vc:80/zeads1234/123456/50812
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/d-id.png",ID: Investigacao Discovery FHD
+http://4p.vc:80/zeads1234/123456/50814
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/cinesky.png",Cine Sky 1
+http://4p.vc:80/zeads1234/123456/50883
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/cinesky.png",Cine Sky 2
+http://4p.vc:80/zeads1234/123456/50884
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinepipoca.png",Telecine Pipoca FHD [LEG]
+http://4p.vc:80/zeads1234/123456/50885
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="https://static.black/telecinepipoca.png",Telecine Pipoca HD [LEG]
+http://4p.vc:80/zeads1234/123456/50886
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/telecineaction.png",Telecine Action FHD [LEG] [H265]
+http://4p.vc:80/zeads1234/123456/50887
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/telecineaction.png",Telecine Action HD [LEG]
+http://4p.vc:80/zeads1234/123456/50888
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/telecinefun.png",Telecine Fun HD [LEG]
+http://4p.vc:80/zeads1234/123456/50892
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/hbosignature.png",HBO Signature FHD [LEG]
+http://4p.vc:80/zeads1234/123456/50893
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/hbopop.png",HBO POP FHD [LEG]
+http://4p.vc:80/zeads1234/123456/50897
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/hbopop.png",HBO POP HD [LEG]
+http://4p.vc:80/zeads1234/123456/50898
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/hboxtreme.png",HBO Xtreme FHD [LEG]
+http://4p.vc:80/zeads1234/123456/50899
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/hboxtreme.png",HBO Xtreme HD [LEG]
+http://4p.vc:80/zeads1234/123456/50900
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/starchannel.png",Star Channel FHD [LEG]
+http://4p.vc:80/zeads1234/123456/50901
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/starchannel.png",Star Channel HD [LEG]
+http://4p.vc:80/zeads1234/123456/50902
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/axn.png",AXN FHD [LEG]
+http://4p.vc:80/zeads1234/123456/50903
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://static.black/axn.png",AXN HD[LEG]
+http://4p.vc:80/zeads1234/123456/50904
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Asa Branca FHD
+http://4p.vc:80/zeads1234/123456/52404
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo RPC Paranavaí SD
+http://4p.vc:80/zeads1234/123456/52410
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo InterTV Alto Litoral HD
+http://4p.vc:80/zeads1234/123456/52418
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Nordeste HD
+http://4p.vc:80/zeads1234/123456/52419
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Bahia HD
+http://4p.vc:80/zeads1234/123456/52421
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Cabo Branco FHD
+http://4p.vc:80/zeads1234/123456/52422
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Gazeta Vitória HD
+http://4p.vc:80/zeads1234/123456/52423
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV Brasília SD
+http://4p.vc:80/zeads1234/123456/52424
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV Campinas HD
+http://4p.vc:80/zeads1234/123456/52425
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo EPTV Sul de Minas FHD
+http://4p.vc:80/zeads1234/123456/52431
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo EPTV Sul de Minas HD
+http://4p.vc:80/zeads1234/123456/52432
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://static.black/dazn.png",DAZN 01 [A]
+http://4p.vc:80/zeads1234/123456/54586
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/natgeo.png",National Geographic HD
+http://4p.vc:80/zeads1234/123456/56282
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV Goiânia HD
+http://4p.vc:80/zeads1234/123456/56283
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/band.png",Band Goiânia HD
+http://4p.vc:80/zeads1234/123456/56284
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/sbt.png",SBT Goiânia (Serra Dourada) HD
+http://4p.vc:80/zeads1234/123456/56285
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/smithsonian.png",Smithsonian HD
+http://4p.vc:80/zeads1234/123456/56286
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/redeminas.png",Rede Minas HD
+http://4p.vc:80/zeads1234/123456/56287
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/sbt.png",SBT RS HD
+http://4p.vc:80/zeads1234/123456/56295
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/band.png",Band RS HD
+http://4p.vc:80/zeads1234/123456/56296
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Vanguarda S. J. dos Campos HD
+http://4p.vc:80/zeads1234/123456/56299
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Vanguarda S. J. dos Campos FHD
+http://4p.vc:80/zeads1234/123456/56300
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="https://static.black/evangelizar.png",TV Evangelizar
+http://4p.vc:80/zeads1234/123456/56301
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/disney.png",Disney Channel HD
+http://4p.vc:80/zeads1234/123456/57420
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hbomundi.png",HBO MUNDI FHD [H265]
+http://4p.vc:80/zeads1234/123456/57478
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://static.black/hboxtreme.png",HBO Xtreme FHD [H265]
+http://4p.vc:80/zeads1234/123456/57479
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV Goiânia FHD [H265]
+http://4p.vc:80/zeads1234/123456/57488
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/redetv.png",RedeTV FHD [H265]
+http://4p.vc:80/zeads1234/123456/57489
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/sbt.png",SBT Goiânia (Serra Dourada) FHD [H265]
+http://4p.vc:80/zeads1234/123456/57610
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo SP FHD [H265]
+http://4p.vc:80/zeads1234/123456/57674
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Minas FHD [H265]
+http://4p.vc:80/zeads1234/123456/58128
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/history2.png",History 2 FHD
+http://4p.vc:80/zeads1234/123456/59173
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/disney.png",Disney Channel FHD
+http://4p.vc:80/zeads1234/123456/59178
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/gloobinho.png",Gloobinho FHD
+http://4p.vc:80/zeads1234/123456/59261
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/zoomoo.png",ZooMoo FHD
+http://4p.vc:80/zeads1234/123456/59263
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/tooncast.png",Tooncast FHD
+http://4p.vc:80/zeads1234/123456/59264
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Bahia Salvador HD
+http://4p.vc:80/zeads1234/123456/61616
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/megapix.png",Megapix FHD
+http://4p.vc:80/zeads1234/123456/61625
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/sony.png",SONY FHD [H264]
+http://4p.vc:80/zeads1234/123456/61626
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/studio.png",Studio Universal FHD
+http://4p.vc:80/zeads1234/123456/61629
+#EXTINF:-1 group-title="Canais | Variedades",Kiss TV SD
+http://4p.vc:80/zeads1234/123456/72486
+#EXTINF:-1 group-title="Canais | Globo",TV Bahia
+http://4p.vc:80/zeads1234/123456/72489
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/band.png",Band Campinas HD
+http://4p.vc:80/zeads1234/123456/72490
+#EXTINF:-1 group-title="Canais | Esportes",AUTOMOTOR SPORT HD
+http://4p.vc:80/zeads1234/123456/77788
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/curta.png",Curta! HD
+http://4p.vc:80/zeads1234/123456/77794
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Anhanguera Goiania HD
+http://4p.vc:80/zeads1234/123456/77802
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Cuiabá
+http://4p.vc:80/zeads1234/123456/77803
+#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News FHD
+http://4p.vc:80/zeads1234/123456/77808
+#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News HD [Opção 2]
+http://4p.vc:80/zeads1234/123456/77822
+#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News Pluto TV
+http://4p.vc:80/zeads1234/123456/78324
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tcm.png",TCM FHD
+http://4p.vc:80/zeads1234/123456/80109
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://static.black/tcm.png",TCM HD
+http://4p.vc:80/zeads1234/123456/80110
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/natgeo.png",National Geographic FHD [H265]
+http://4p.vc:80/zeads1234/123456/80115
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/woohoo.png",Woohoo FHD
+http://4p.vc:80/zeads1234/123456/80134
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/filmarts.png",Film & Arts HD
+http://4p.vc:80/zeads1234/123456/80136
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/travelbox.png",Travel Box Brazil FHD
+http://4p.vc:80/zeads1234/123456/80138
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/travelbox.png",Travel Box Brazil HD
+http://4p.vc:80/zeads1234/123456/80139
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://static.black/gloobinho.png",Gloobinho HD
+http://4p.vc:80/zeads1234/123456/80142
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.black/estadiotnt.png",Estádio TNT Sports 4 HD
+http://4p.vc:80/zeads1234/123456/84300
+#EXTINF:-1 group-title="Canais | Telecine [A]",telecine cult sd $
+http://4p.vc:80/zeads1234/123456/84331
+#EXTINF:-1 group-title="Canais | Telecine [A]" tvg-logo="http://printv.esy.es/server/Telecine%20Action%20HD.png",Telecine Action HDD $
+http://4p.vc:80/zeads1234/123456/84375
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Liberal Belém HD
+http://4p.vc:80/zeads1234/123456/84595
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere 2 HD
+http://4p.vc:80/zeads1234/123456/87192
+#EXTINF:-1 group-title="Canais | Abertos",Rede TV HD
+http://4p.vc:80/zeads1234/123456/87199
+#EXTINF:-1 group-title="Canais | Notícias",BAND NEWS HD
+http://4p.vc:80/zeads1234/123456/87243
+#EXTINF:-1 group-title="Canais | Notícias",Band News FHD H265
+http://4p.vc:80/zeads1234/123456/87296
+#EXTINF:-1 group-title="Canais | Documentários",Discovery Home & Health FHD H265 ::DUALAUDIO
+http://4p.vc:80/zeads1234/123456/87305
+#EXTINF:-1 group-title="Canais | Variedades",Discovery Theater FHD H265 ::DUALAUDIO
+http://4p.vc:80/zeads1234/123456/87308
+#EXTINF:-1 group-title="Canais | Variedades",Discovery Turbo FHD H265 ::DUALAUDIO
+http://4p.vc:80/zeads1234/123456/87309
+#EXTINF:-1 group-title="Canais | Documentários",Discovery World FHD H265 ::DUALAUDIO
+http://4p.vc:80/zeads1234/123456/87310
+#EXTINF:-1 group-title="Canais | Variedades",GNT FHD H265 ::DUALAUDIO
+http://4p.vc:80/zeads1234/123456/87322
+#EXTINF:-1 group-title="Canais | Variedades",Investigation Discovery FHD H265 ::DUALAUDIO
+http://4p.vc:80/zeads1234/123456/87330
+#EXTINF:-1 group-title="Canais | Variedades",MTV FHD H265 ::DUALAUDIO
+http://4p.vc:80/zeads1234/123456/87337
+#EXTINF:-1 group-title="Canais | Variedades",Multishow FHD H265 ::DUALAUDIO
+http://4p.vc:80/zeads1234/123456/87338
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",Premiere Clubes FHD [H265] [Alternativo]
+http://4p.vc:80/zeads1234/123456/87346
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png",ESTADIO TNT SPORTS 5 HD
+http://4p.vc:80/zeads1234/123456/87384
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV Brasilia HD
+http://4p.vc:80/zeads1234/123456/87392
+#EXTINF:-1 group-title="Canais | Abertos",TV Paranaíba HD Record -Uberlandia-MG
+http://4p.vc:80/zeads1234/123456/87407
+#EXTINF:-1 group-title="Canais | Globo",TV Subae (globo bahia HD)
+http://4p.vc:80/zeads1234/123456/87409
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",Record Tv Santa Catarina HD
+http://4p.vc:80/zeads1234/123456/87416
+#EXTINF:-1 group-title="Canais | Abertos",Tv Alterosa HD [SBT MG]
+http://4p.vc:80/zeads1234/123456/87417
+#EXTINF:-1 group-title="Canais | Abertos",RPC Parana HD
+http://4p.vc:80/zeads1234/123456/87418
+#EXTINF:-1 group-title="Canais | Abertos",Tv Taroba HD [band parana]
+http://4p.vc:80/zeads1234/123456/87419
+#EXTINF:-1 group-title="Canais | Abertos",SBT PARANÁ HD
+http://4p.vc:80/zeads1234/123456/87420
+#EXTINF:-1 group-title="Canais | Abertos",RECORD TV PARANÁ HD
+http://4p.vc:80/zeads1234/123456/87421
+#EXTINF:-1 group-title="Canais | Abertos",SBT-MG-Tv Alterosa FHD
+http://4p.vc:80/zeads1234/123456/87426
+#EXTINF:-1 group-title="Canais | Abertos",SBT RJ FHD
+http://4p.vc:80/zeads1234/123456/87430
+#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News FHD
+http://4p.vc:80/zeads1234/123456/87440
+#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan SP HD
+http://4p.vc:80/zeads1234/123456/87442
+#EXTINF:-1 group-title="Canais | Globo",TV TRIBUNA HD (GLOBO SANTOS)
+http://4p.vc:80/zeads1234/123456/87454
+#EXTINF:-1 group-title="Canais | Globo",TV TRIBUNA FHD (GLOBO SANTOS)
+http://4p.vc:80/zeads1234/123456/87455
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.black/sbt.png",SBT VTV CAMPINAS HD
+http://4p.vc:80/zeads1234/123456/87456
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/record.png",RecordTV Campinas FHD
+http://4p.vc:80/zeads1234/123456/87458
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/band.png",BAND CAMPINAS FHD
+http://4p.vc:80/zeads1234/123456/87459
+#EXTINF:-1 group-title="Canais | Abertos",SBT PARANÁ FHD
+http://4p.vc:80/zeads1234/123456/87468
+#EXTINF:-1 group-title="Canais | Abertos",RECORD TV PARANÁ FHD
+http://4p.vc:80/zeads1234/123456/87469
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/loading.png",Loading TV HD
+http://4p.vc:80/zeads1234/123456/87588
+#EXTINF:-1 group-title="Canais | Esportes Internacionais",RAI INTERNACIONAL HD
+http://4p.vc:80/zeads1234/123456/87721
+#EXTINF:-1 group-title="Canais | Abertos",Globo Paraiba HD
+http://4p.vc:80/zeads1234/123456/87726
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo Manaus HD
+http://4p.vc:80/zeads1234/123456/87730
+#EXTINF:-1 group-title="Canais | Abertos",RPC PARANAVAI FHD
+http://4p.vc:80/zeads1234/123456/87741
+#EXTINF:-1 group-title="Canais | Abertos",RPC PARANAVAI HD
+http://4p.vc:80/zeads1234/123456/87742
+#EXTINF:-1 group-title="Canais | Esportes Internacionais",RAI INTERNACIONAL FHD H264
+http://4p.vc:80/zeads1234/123456/87754
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",PREMIERE 2 FHD H264
+http://4p.vc:80/zeads1234/123456/87786
+#EXTINF:-1 group-title="Canais | Premiere [A]" tvg-logo="https://static.black/pfc.png",MOSAICO PREMIERE HD
+http://4p.vc:80/zeads1234/123456/87788
+#EXTINF:-1 group-title="Canais | Filmes e Séries",UNIVERSAL TV FHD H264
+http://4p.vc:80/zeads1234/123456/87812
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TNT SERIES FHD H264
+http://4p.vc:80/zeads1234/123456/87813
+#EXTINF:-1 group-title="Canais | Filmes e Séries",WARNER CHANNEL FHD H264
+http://4p.vc:80/zeads1234/123456/87814
+#EXTINF:-1 group-title="Canais | Variedades",A&E FHD H264
+http://4p.vc:80/zeads1234/123456/87815
+#EXTINF:-1 group-title="Canais | Notícias",CNN FHD H264
+http://4p.vc:80/zeads1234/123456/87816
+#EXTINF:-1 group-title="Canais | Notícias",GLOBO NEWS FHD H264
+http://4p.vc:80/zeads1234/123456/87817
+#EXTINF:-1 group-title="Canais | Variedades",MTV FHD H264
+http://4p.vc:80/zeads1234/123456/87818
+#EXTINF:-1 group-title="Canais | Variedades",FILM & ART FHD H264
+http://4p.vc:80/zeads1234/123456/87819
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TBS FHD H264
+http://4p.vc:80/zeads1234/123456/87820
+#EXTINF:-1 group-title="Canais | Filmes e Séries",SYFY FHD H264
+http://4p.vc:80/zeads1234/123456/87821
+#EXTINF:-1 group-title="Canais | Variedades",COMEDY CENTRAL FHD
+http://4p.vc:80/zeads1234/123456/87822
+#EXTINF:-1 group-title="Canais | Variedades",OFF FHD H264
+http://4p.vc:80/zeads1234/123456/87823
+#EXTINF:-1 group-title="Canais | Documentários",HGTV FHD H264
+http://4p.vc:80/zeads1234/123456/87825
+#EXTINF:-1 group-title="Canais | Variedades",GNT FHD H264
+http://4p.vc:80/zeads1234/123456/87826
+#EXTINF:-1 group-title="Canais | Variedades",FOOD  NETWORK FHD H264
+http://4p.vc:80/zeads1234/123456/87827
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/e.png",E! FHD
+http://4p.vc:80/zeads1234/123456/87828
+#EXTINF:-1 group-title="Canais | Abertos",VIVA FHD H264
+http://4p.vc:80/zeads1234/123456/87829
+#EXTINF:-1 group-title="Canais | Notícias",BAND NEWS FHD H264
+http://4p.vc:80/zeads1234/123456/87830
+#EXTINF:-1 group-title="Canais | Notícias",RECORD NEWS FHD H264
+http://4p.vc:80/zeads1234/123456/87831
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.black/band.png",BAND SP FHD [Alter]
+http://4p.vc:80/zeads1234/123456/87832
+#EXTINF:-1 group-title="Canais | Abertos",REDE TV FHD H264
+http://4p.vc:80/zeads1234/123456/87833
+#EXTINF:-1 group-title="Canais | Abertos",SBT SP FHD H264
+http://4p.vc:80/zeads1234/123456/87834
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://static.black/trutv.png",TruTV FHD
+http://4p.vc:80/zeads1234/123456/87841
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://static.black/bbcworld.png",BBC World FHD
+http://4p.vc:80/zeads1234/123456/87843
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/loading.png",Loading TV FHD
+http://4p.vc:80/zeads1234/123456/87861
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://static.black/loading.png",Loading TV SD
+http://4p.vc:80/zeads1234/123456/87862
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo NSC Joinville HD
+http://4p.vc:80/zeads1234/123456/88689
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo TV Clube Piauí HD
+http://4p.vc:80/zeads1234/123456/88690
+#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="https://static.black/rittv.png",Rit TV
+http://4p.vc:80/zeads1234/123456/90165
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",[BR] ELEVEN SPORTS CHANNEL (JOGO 1)
+http://4p.vc:80/zeads1234/123456/91412
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS CHANNEL (JOGO 2)
+http://4p.vc:80/zeads1234/123456/91413
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS CHANNEL (JOGO 3)
+http://4p.vc:80/zeads1234/123456/91414
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS CHANNEL (JOGO 4)
+http://4p.vc:80/zeads1234/123456/91415
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",ELEVEN SPORTS CHANNEL (JOGO 5)
+http://4p.vc:80/zeads1234/123456/91416
+#EXTINF:-1 group-title="Canais | Globo",RPC CURITIBA HD (GLOBO)
+http://4p.vc:80/zeads1234/123456/110107
+#EXTINF:-1 group-title="Canais | Globo",RPC CURITIBA FHD (GLOBO)
+http://4p.vc:80/zeads1234/123456/110108
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",REDE AMAZONICA BOA VISTA FHD - GLOBO RORAIMA
+http://4p.vc:80/zeads1234/123456/111485
+#EXTINF:-1 group-title="Canais | Abertos",Rede Família SD
+http://4p.vc:80/zeads1234/123456/113178
+#EXTINF:-1 group-title="CANAIS | HBO MAX - Champions League" tvg-logo="http://static.black/hbo.png",HBO MAX 1 HD
+http://4p.vc:80/zeads1234/123456/113179
+#EXTINF:-1 group-title="CANAIS | HBO MAX - Champions League" tvg-logo="http://static.black/hbo.png",HBO MAX 2 HD
+http://4p.vc:80/zeads1234/123456/113180
+#EXTINF:-1 group-title="CANAIS | HBO MAX - Champions League" tvg-logo="http://static.black/hbo.png",HBO MAX 3 HD
+http://4p.vc:80/zeads1234/123456/113181
+#EXTINF:-1 group-title="CANAIS | HBO MAX - Champions League" tvg-logo="static.black/hbo.png",HBO MAX 4 HD
+http://4p.vc:80/zeads1234/123456/113182
+#EXTINF:-1 group-title="Canais | Campeonato Estadual",Furacão TV HD [A]
+http://4p.vc:80/zeads1234/123456/114576
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo NSC Blumenau FHD
+http://4p.vc:80/zeads1234/123456/115742
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",TV ANHANGUERA ITUMBIARA FHD
+http://4p.vc:80/zeads1234/123456/115743
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",TV Anhanguera Itumbiara HD
+http://4p.vc:80/zeads1234/123456/115744
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",TV Anhanguera Catalão FHD
+http://4p.vc:80/zeads1234/123456/115745
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",TV Anhanguera Catalão HD
+http://4p.vc:80/zeads1234/123456/115746
+#EXTINF:-1 group-title="Canais | Globo",NSC BLUMENAU HD
+http://4p.vc:80/zeads1234/123456/122548
+#EXTINF:-1 group-title="Canais | Globo",TV ANHANGUERA ANAPOLIS FHD
+http://4p.vc:80/zeads1234/123456/122549
+#EXTINF:-1 group-title="Canais | Globo",TV ANHANGUERA ANAPOLIS HD
+http://4p.vc:80/zeads1234/123456/122550
+#EXTINF:-1 group-title="Canais | Globo",TV INTEGRAÇÃO DIVINÓPOLIS FHD
+http://4p.vc:80/zeads1234/123456/122551
+#EXTINF:-1 group-title="Canais | Globo",TV INTEGRAÇÃO DIVINÓPOLIS HD
+http://4p.vc:80/zeads1234/123456/122552
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",TV CABUGI FHD
+http://4p.vc:80/zeads1234/123456/122553
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",TV CABUGI HD
+http://4p.vc:80/zeads1234/123456/122554
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://radiosantacruz.com.br/online/wp-content/uploads/2018/01/Unisc-1.jpg",Futura | Unisc TV (RS)
+http://4p.vc:80/zeads1234/123456/124667
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://imgur.com/oAarMpL.png",Natureza | Brasil
+http://4p.vc:80/zeads1234/123456/124671
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg",TV Brasil | TVE (RS)
+http://4p.vc:80/zeads1234/123456/124678
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://imgur.com/x5HC6wy.png",Viajando pelo Brasil
+http://4p.vc:80/zeads1234/123456/124686
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="https://imgur.com/0oUtwJz.png",XR Health Brasil
+http://4p.vc:80/zeads1234/123456/124687
+#EXTINF:-1 group-title="Canais | Filmes e Séries",TV Cinec HD
+http://4p.vc:80/zeads1234/123456/124719
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://imgur.com/QwPiPlI.png",Rakuten Família | Portugal
+http://4p.vc:80/zeads1234/123456/124743
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://imgur.com/kJHRcfo.png",Turma da Mônica | Brasil
+http://4p.vc:80/zeads1234/123456/124748
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/PyCpEI8.png",Agrobrasil TV
+http://4p.vc:80/zeads1234/123456/124756
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/0eGv67Q.png",Canal Macau | China
+http://4p.vc:80/zeads1234/123456/124761
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/Cj6kg2X.png",CBTV Now
+http://4p.vc:80/zeads1234/123456/124762
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2020/02/logo_site.png",Com Brasil
+http://4p.vc:80/zeads1234/123456/124763
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/xLyv1oL.png",Porto TV 1 | Portugal
+http://4p.vc:80/zeads1234/123456/124767
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/vbG3enm.png",Rede Premium TV | Osasco - SP - Brasil
+http://4p.vc:80/zeads1234/123456/124772
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png",Rede TV | Tocantins
+http://4p.vc:80/zeads1234/123456/124774
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png",Rede TV | TV Pampa - RS - Brasil
+http://4p.vc:80/zeads1234/123456/124776
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png",SBT | TV Difusora Leste - MA - Brasil
+http://4p.vc:80/zeads1234/123456/124777
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg",SBT | TV Jornal - PE - Brasil
+http://4p.vc:80/zeads1234/123456/124780
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg",SBT | TV Jornal Caruaru - PE - Brasil
+http://4p.vc:80/zeads1234/123456/124781
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png",TV Diário do Sertão | PB - Brasil
+http://4p.vc:80/zeads1234/123456/124788
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole | Caucaia - CE - Brasil
+http://4p.vc:80/zeads1234/123456/124792
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png",TV Mon | Montenegro - RS - Brasil
+http://4p.vc:80/zeads1234/123456/124793
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/6nQrkR6.png",TV Santa Cecília | SP - Brasil
+http://4p.vc:80/zeads1234/123456/124796
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/2Dsd75b.png",TV União Brasília | DF - Brasil
+http://4p.vc:80/zeads1234/123456/124797
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",Euronews HD
+http://4p.vc:80/zeads1234/123456/125038
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/18/ATAJ0500432A_20200923T100451.png",Bachstiftung | Áustria
+http://4p.vc:80/zeads1234/123456/125090
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/13/DEAJ0500427A_20200923T100455.png",Bachstiftung | Alemanha
+http://4p.vc:80/zeads1234/123456/125091
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/08/CHAJ0500432A_20200923T100452.png",Bachstiftung | Suiça
+http://4p.vc:80/zeads1234/123456/125092
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/N632la8.png",BritAsia Live | Reino Unido
+http://4p.vc:80/zeads1234/123456/125096
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Caltex Music | Irã
+http://4p.vc:80/zeads1234/123456/125098
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/a4YXzGU.png",Clubbing TV | França - Rakuten
+http://4p.vc:80/zeads1234/123456/125104
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/a4YXzGU.png",Clubbing TV | Reino Unido - Samsung
+http://4p.vc:80/zeads1234/123456/125106
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://i.imgur.com/hKruqwx.png",Retrô Cartoon
+http://4p.vc:80/zeads1234/123456/125109
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/flash_logo_light.png",Flash
+http://4p.vc:80/zeads1234/123456/125110
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/DEAK0500445A_20200923T100523.png",GoldStar TV | Alemanha
+http://4p.vc:80/zeads1234/123456/125112
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png",QwestTV Jazz & Beyond
+http://4p.vc:80/zeads1234/123456/125142
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png",QwestTV Mix
+http://4p.vc:80/zeads1234/123456/125143
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/jsQmxyV.jpg",Sexy Kpop TV
+http://4p.vc:80/zeads1234/123456/125146
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/z0mmnRk.png",Stingray Qello
+http://4p.vc:80/zeads1234/123456/125148
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/zcpM1Ty.png",Trace Urban
+http://4p.vc:80/zeads1234/123456/125152
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/S5LI4ps.png",V2Beat TV | Re
+http://4p.vc:80/zeads1234/123456/125154
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/wvo2EYr.jpg",Xite | Alemanha
+http://4p.vc:80/zeads1234/123456/125162
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/wvo2EYr.jpg",Xite | Bélgica
+http://4p.vc:80/zeads1234/123456/125163
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://static.black/globo.png",Globo RBS Caxias FHD
+http://4p.vc:80/zeads1234/123456/125165
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/oxa0QfO.png",Drone Channel | Distro TV
+http://4p.vc:80/zeads1234/123456/125181
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/kC9vaKL.jpg",Forest Live
+http://4p.vc:80/zeads1234/123456/125184
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/Nubk9vB.png",Mountain Live
+http://4p.vc:80/zeads1234/123456/125192
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://imgur.com/YKcj09n.png",Nature TV
+http://4p.vc:80/zeads1234/123456/125193
+#EXTINF:-1 group-title="Canais | Internacionais",CA: CTV CALGARY
+http://4p.vc:80/zeads1234/123456/126223
+#EXTINF:-1 group-title="Canais | Internacionais",CO: TV Caracol HD
+http://4p.vc:80/zeads1234/123456/126225
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://xplanetiptv.us/Logotv/countries/canada/cbc-toronto-ca.png",CA: CBC TORONTO FHD
+http://4p.vc:80/zeads1234/123456/126231
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/6TmWzvk.jpg",CBC News (720p)
+http://4p.vc:80/zeads1234/123456/126241
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png",CBC News Highlights (720p)
+http://4p.vc:80/zeads1234/123456/126243
+#EXTINF:-1 group-title="Canais | Ilha Record 2022" tvg-logo="https://pp-vod-img.akamaized.net/ban/pp.260790/playplus_thumb_1600.jpg",Ilha Record 2022 [A]
+http://4p.vc:80/zeads1234/123456/127312
+#EXTINF:-1 group-title="Canais | Esportes - PPV",ES: FORMULA 1 TV HD
+http://4p.vc:80/zeads1234/123456/127354
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild104_v-contentxl.jpg",Anime TV
+http://4p.vc:80/zeads1234/123456/128361
+#EXTINF:-1 group-title="Canais | Temporários (Internacionais)" tvg-logo="https://i.imgur.com/XymK2PR.png",Tele Abruzzo (480p)
+http://4p.vc:80/zeads1234/123456/128593
+#EXTINF:-1 group-title="Canais | Temporários (Internacionais)" tvg-logo="https://i.imgur.com/3oWB2li.jpg",Tele Pavia (720p)
+http://4p.vc:80/zeads1234/123456/128595
+#EXTINF:-1 group-title="Canais | Temporários (Internacionais)" tvg-logo="https://i.imgur.com/alKlcEp.png",Tele Pegaso Catania (404p)
+http://4p.vc:80/zeads1234/123456/128596
+#EXTINF:-1 group-title="Canais | Globo",Globo TV RBS Porto Alegre FHD
+http://4p.vc:80/zeads1234/123456/128615
+#EXTINF:-1 group-title="Canais | Temporários (Internacionais)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png",telePAVIA (720p)
+http://4p.vc:80/zeads1234/123456/128617
+#EXTINF:-1 group-title="Canais | Temporários (Internacionais)" tvg-logo="https://i.imgur.com/crMQmn4.png",TeleVideo Agrigento (480p)
+http://4p.vc:80/zeads1234/123456/128623
+#EXTINF:-1 group-title="Canais | Temporários (Internacionais)" tvg-logo="https://i.imgur.com/154AQjl.png",TV Qui (Modena) (480p)
+http://4p.vc:80/zeads1234/123456/128633
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="https://static.black/globo.png",Globo RBS Caxias HD
+http://4p.vc:80/zeads1234/123456/128636
+#EXTINF:-1 group-title="Canais | Temporários (Internacionais)" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/675px-TVA_Vicenza_-_Logo_2018.svg.png",TVA (Vicenza) (720p)
+http://4p.vc:80/zeads1234/123456/128641
+#EXTINF:-1 group-title="Canais | Temporários (Internacionais)" tvg-logo="https://i.imgur.com/JyslMHb.jpg",World Fashion Channel (1080p)
+http://4p.vc:80/zeads1234/123456/128656
+#EXTINF:-1 group-title="Canais | Premiere [B]",BR: Premiere FC 1 FHD
+http://4p.vc:80/zeads1234/123456/129353
+#EXTINF:-1 group-title="Canais | Internacionais",BR: Record TV Europa
+http://4p.vc:80/zeads1234/123456/129354
+#EXTINF:-1 group-title="Canais | Premiere [B]",BR: Premiere FC 3 HD
+http://4p.vc:80/zeads1234/123456/129356
+#EXTINF:-1 group-title="Canais | Premiere [B]",BR: Premiere FC 4 FHD
+http://4p.vc:80/zeads1234/123456/129357
+#EXTINF:-1 group-title="Canais | Premiere [B]",BR: Premiere FC 5 HD
+http://4p.vc:80/zeads1234/123456/129358
+#EXTINF:-1 group-title="Canais | Esportes",BR: TNT Sports 5 Brasil HD
+http://4p.vc:80/zeads1234/123456/129375
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png",CONMEBOL TV FHD (JOGO 1) [C]
+http://4p.vc:80/zeads1234/123456/130680
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png",CONMEBOL TV FHD (JOGO 2) [C]
+http://4p.vc:80/zeads1234/123456/130681
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png",CONMEBOL TV HD (JOGO 1) [C]
+http://4p.vc:80/zeads1234/123456/130682
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png",CONMEBOL TV HD (JOGO 2) [C]
+http://4p.vc:80/zeads1234/123456/130683
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png",CONMEBOL TV HD (JOGO 3) [C]
+http://4p.vc:80/zeads1234/123456/130685
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png",BR: Conmebol 1 HD [A]
+http://4p.vc:80/zeads1234/123456/130702
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://lh3.googleusercontent.com/-bgrGIi6k65s/YYvRr05SR-I/AAAAAAAAKtM/NMY11dM5d10AH97SuRz9yLt8ZtWYdOONQCLcBGAsYHQ/STAR%2B%252B.png",Star + 1 [B]
+http://4p.vc:80/zeads1234/123456/130721
+#EXTINF:-1 group-title="Canais | SporTV",PT: SPORT TV 1 FHD
+http://4p.vc:80/zeads1234/123456/130729
+#EXTINF:-1 group-title="Canais | SporTV",PT: SPORT TV 2 FHD
+http://4p.vc:80/zeads1234/123456/130731
+#EXTINF:-1 group-title="Canais | SporTV",PT: Sporting TV HD
+http://4p.vc:80/zeads1234/123456/130745
+#EXTINF:-1 group-title="Canais | Abertos",SBT MARANHAO HD
+http://4p.vc:80/zeads1234/123456/132414
+#EXTINF:-1 group-title="Canais | Abertos",RecordTV Maranhão HD
+http://4p.vc:80/zeads1234/123456/132415
+#EXTINF:-1 group-title="Canais | Abertos",SBT Piauí HD
+http://4p.vc:80/zeads1234/123456/132416
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png",CONMEBOL TV HD (JOGO 4) [C]
+http://4p.vc:80/zeads1234/123456/132923
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="https://i.ibb.co/5B76Ccj/CONMEBOL-logo-2017.png",CONMEBOL TV FHD (JOGO 4) [C]
+http://4p.vc:80/zeads1234/123456/132924
+#EXTINF:-1 group-title="Canais | Esportes Internacionais",ES: Barca TV
+http://4p.vc:80/zeads1234/123456/134285
+#EXTINF:-1 group-title="Canais | Variedades",PT: MTV 00s HD
+http://4p.vc:80/zeads1234/123456/134448
+#EXTINF:-1 group-title="Canais | Variedades",PT: MTV Classic HD
+http://4p.vc:80/zeads1234/123456/134450
+#EXTINF:-1 group-title="Canais | Variedades",PT: MTV PORTUGAL HD
+http://4p.vc:80/zeads1234/123456/134456
+#EXTINF:-1 group-title="Canais | Esportes - PPV" tvg-logo="http://6p.vc:80/images/9e2fe93a5a4ef7bb67332c4019904271.jpg",BRASILEIRÃO SEIRE C ( JOGO 1)
+http://4p.vc:80/zeads1234/123456/136960
+#EXTINF:-1 group-title="Canais | Documentários",Animal Planet FHD
+http://4p.vc:80/zeads1234/123456/138019
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png",Combate HD [A]
+http://4p.vc:80/zeads1234/123456/138694
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png",Combate FHD H265 [A]
+http://4p.vc:80/zeads1234/123456/138695
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png",Combate SD [A]
+http://4p.vc:80/zeads1234/123456/138696
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png",COMBATE FHD [H265] [A]
+http://4p.vc:80/zeads1234/123456/138697
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 2 FHD
+http://4p.vc:80/zeads1234/123456/140785
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 2 HD
+http://4p.vc:80/zeads1234/123456/140786
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 3 FHD
+http://4p.vc:80/zeads1234/123456/140787
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 3 HD
+http://4p.vc:80/zeads1234/123456/140788
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 4 FHD
+http://4p.vc:80/zeads1234/123456/140789
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 4 HD
+http://4p.vc:80/zeads1234/123456/140790
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE CLUBES SD H.265
+http://4p.vc:80/zeads1234/123456/140793
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 2 SD H.265
+http://4p.vc:80/zeads1234/123456/140794
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 3 SD H.265
+http://4p.vc:80/zeads1234/123456/140795
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 4 SD H.265
+http://4p.vc:80/zeads1234/123456/140796
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 5 SD H.265
+http://4p.vc:80/zeads1234/123456/140797
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 6 SD H.265
+http://4p.vc:80/zeads1234/123456/140798
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 7 SD H.265
+http://4p.vc:80/zeads1234/123456/140799
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE 8 SD H.265
+http://4p.vc:80/zeads1234/123456/140800
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE CLUBES FHD
+http://4p.vc:80/zeads1234/123456/140801
+#EXTINF:-1 group-title="Canais | Premiere [C]",PREMIERE CLUBES HD
+http://4p.vc:80/zeads1234/123456/140802
+#EXTINF:-1 group-title="Canais | Variedades",PRIME BOX BRASIL FHD
+http://4p.vc:80/zeads1234/123456/140803
+#EXTINF:-1 group-title="Canais | Variedades",PRIME BOX BRASIL HD
+http://4p.vc:80/zeads1234/123456/140804
+#EXTINF:-1 group-title="Canais | Infantis",RA-TIM-BUM FHD
+http://4p.vc:80/zeads1234/123456/140805
+#EXTINF:-1 group-title="Canais | Abertos",RECORD ITAPOAN FHD
+http://4p.vc:80/zeads1234/123456/140806
+#EXTINF:-1 group-title="Canais | Abertos",RECORD NEWS FHD
+http://4p.vc:80/zeads1234/123456/140807
+#EXTINF:-1 group-title="Canais | Abertos",RECORD NEWS HD
+http://4p.vc:80/zeads1234/123456/140808
+#EXTINF:-1 group-title="Canais | Abertos",RECORD SP FULL HD H.265
+http://4p.vc:80/zeads1234/123456/140809
+#EXTINF:-1 group-title="Canais | Abertos",REDE RECORD RS FHD
+http://4p.vc:80/zeads1234/123456/140810
+#EXTINF:-1 group-title="Canais | Abertos",REDE RECORD RS HD
+http://4p.vc:80/zeads1234/123456/140811
+#EXTINF:-1 group-title="Canais | Esportes",COMBATE SD [C]
+http://4p.vc:80/zeads1234/123456/140812
+#EXTINF:-1 group-title="Canais | Variedades",COMEDY CENTRAL SD
+http://4p.vc:80/zeads1234/123456/140813
+#EXTINF:-1 group-title="Canais | Variedades",DISCOVERY H&H SD
+http://4p.vc:80/zeads1234/123456/140814
+#EXTINF:-1 group-title="Canais | Variedades",DISCOVERY TURBO SD
+http://4p.vc:80/zeads1234/123456/140815
+#EXTINF:-1 group-title="Canais | Variedades",E! SD
+http://4p.vc:80/zeads1234/123456/140816
+#EXTINF:-1 group-title="Canais | Esportes",ESPN2 SD
+http://4p.vc:80/zeads1234/123456/140817
+#EXTINF:-1 group-title="Canais | Esportes",ESPN SD
+http://4p.vc:80/zeads1234/123456/140818
+#EXTINF:-1 group-title="Canais | Esportes",ESPN3 SD
+http://4p.vc:80/zeads1234/123456/140819
+#EXTINF:-1 group-title="Canais | Filmes e Séries",FX SD
+http://4p.vc:80/zeads1234/123456/140820
+#EXTINF:-1 group-title="Canais | Filmes e Séries",FILM & ARTS SD
+http://4p.vc:80/zeads1234/123456/140821
+#EXTINF:-1 group-title="Canais | Variedades",FOOD NETWORK SD
+http://4p.vc:80/zeads1234/123456/140822
+#EXTINF:-1 group-title="Canais | Esportes",ESPN4 SD
+http://4p.vc:80/zeads1234/123456/140823
+#EXTINF:-1 group-title="Canais | Esportes",FOX SPORTS 2 SD
+http://4p.vc:80/zeads1234/123456/140824
+#EXTINF:-1 group-title="Canais | Globo",GLOBO NEWS SD
+http://4p.vc:80/zeads1234/123456/140825
+#EXTINF:-1 group-title="Canais | Infantis",GLOOB SD
+http://4p.vc:80/zeads1234/123456/140826
+#EXTINF:-1 group-title="Canais | HBO",HBO SD
+http://4p.vc:80/zeads1234/123456/140827
+#EXTINF:-1 group-title="Canais | HBO",HBO MUNDI SD
+http://4p.vc:80/zeads1234/123456/140828
+#EXTINF:-1 group-title="Canais | HBO",HBO POP SD
+http://4p.vc:80/zeads1234/123456/140829
+#EXTINF:-1 group-title="Canais | HBO",HBO SIGNATURE SD
+http://4p.vc:80/zeads1234/123456/140830
+#EXTINF:-1 group-title="Canais | HBO",HBO+ SD
+http://4p.vc:80/zeads1234/123456/140831
+#EXTINF:-1 group-title="Canais | HBO",HBO2 SD
+http://4p.vc:80/zeads1234/123456/140832
+#EXTINF:-1 group-title="Canais | Documentários",HISTORY2 SD
+http://4p.vc:80/zeads1234/123456/140833
+#EXTINF:-1 group-title="Canais | Variedades",ID-SD
+http://4p.vc:80/zeads1234/123456/140834
+#EXTINF:-1 group-title="Canais | Variedades",LIFE TIME SD
+http://4p.vc:80/zeads1234/123456/140835
+#EXTINF:-1 group-title="Canais | Variedades",MTV SD
+http://4p.vc:80/zeads1234/123456/140836
+#EXTINF:-1 group-title="Canais | Variedades",MAIS SD
+http://4p.vc:80/zeads1234/123456/140837
+#EXTINF:-1 group-title="Canais | Variedades",MULTISHOW SD
+http://4p.vc:80/zeads1234/123456/140838
+#EXTINF:-1 group-title="Canais | Documentários",NATGEO SD
+http://4p.vc:80/zeads1234/123456/140839
+#EXTINF:-1 group-title="Canais | Infantis",NICKELODEON SD
+http://4p.vc:80/zeads1234/123456/140840
+#EXTINF:-1 group-title="Canais | Variedades",OFF SD
+http://4p.vc:80/zeads1234/123456/140841
+#EXTINF:-1 group-title="Canais | Globo",GLOBOSP SD H.265
+http://4p.vc:80/zeads1234/123456/140842
+#EXTINF:-1 group-title="Canais | Globo",GLOBO RJ H.265 SD [B]
+http://4p.vc:80/zeads1234/123456/140843
+#EXTINF:-1 group-title="Canais | SporTV",SPORTV SD H.265
+http://4p.vc:80/zeads1234/123456/140844
+#EXTINF:-1 group-title="Canais | SporTV",SPORTV2 SD H.265
+http://4p.vc:80/zeads1234/123456/140845
+#EXTINF:-1 group-title="Canais | SporTV",SPORTV3 SD H.265
+http://4p.vc:80/zeads1234/123456/140846
+#EXTINF:-1 group-title="Canais | Esportes - PPV",CONMEBOLTV 1 SD H.265
+http://4p.vc:80/zeads1234/123456/140847
+#EXTINF:-1 group-title="Canais | Esportes - PPV",CONMEBOLTV 2 SD H.265
+http://4p.vc:80/zeads1234/123456/140848
+#EXTINF:-1 group-title="Canais | Esportes - PPV",CONMEBOLTV 3 SD H.265
+http://4p.vc:80/zeads1234/123456/140849
+#EXTINF:-1 group-title="Canais | Esportes - PPV",CONMEBOLTV 4 SD H.265
+http://4p.vc:80/zeads1234/123456/140850
+#EXTINF:-1 group-title="Canais | Esportes",COMBATE SD H.265 [C]
+http://4p.vc:80/zeads1234/123456/140851
+#EXTINF:-1 group-title="Canais | Globo",GLOBO EPTV CAMPINAS SD H.265
+http://4p.vc:80/zeads1234/123456/140852
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/3e3c1b67c3c7bcca818824b8a1c4c0e8.png",PT: SPORT TV +
+http://4p.vc:80/zeads1234/123456/140853
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/8daddffa6b1a4dc4ff255019fe43e918.png",PT: SPORT TV + FHD
+http://4p.vc:80/zeads1234/123456/140854
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png",PT: SPORT TV 1
+http://4p.vc:80/zeads1234/123456/140855
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/bab3ba5b1011990bee63a8438964fca8.png",PT: SPORT TV 1 FHD
+http://4p.vc:80/zeads1234/123456/140856
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png",PT: SPORT TV 1 4K
+http://4p.vc:80/zeads1234/123456/140857
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/4d6947a967135a98291a0f61d0321604.png",PT: SPORT TV 2
+http://4p.vc:80/zeads1234/123456/140858
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/3a142ac1e17bb05cfd22f643e2d62da6.png",PT: SPORT TV 3
+http://4p.vc:80/zeads1234/123456/140860
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/522905ee236f0e9f5f275151cf5a5bf0.png",PT: SPORT TV 3 FHD
+http://4p.vc:80/zeads1234/123456/140861
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/3c71a17866a47a476f8b1d5259947326.png",PT: SPORT TV 4
+http://4p.vc:80/zeads1234/123456/140862
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/0840075c360922f71a0d111b95c7c8e2.png",PT: SPORT TV 4 FHD
+http://4p.vc:80/zeads1234/123456/140863
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/2ed61a48d3a44284c49cd0fbe821f0ff.png",PT: SPORT TV 5
+http://4p.vc:80/zeads1234/123456/140864
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/2ed61a48d3a44284c49cd0fbe821f0ff.png",PT: SPORT TV 5 FHD
+http://4p.vc:80/zeads1234/123456/140865
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/2c01898ca7636d4bf37e36d6cfb05a33.png",PT: SPORTV 6
+http://4p.vc:80/zeads1234/123456/140866
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://bomybueno.caesperfeitos.pt:8080/images/0455f1b8df5c800f9b4186e5fb46f81c.png",PT: SPORT TV 6 FHD
+http://4p.vc:80/zeads1234/123456/140867
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/iON4Tnu.png",PT: FOX MOVIES
+http://4p.vc:80/zeads1234/123456/140868
+#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="https://i.imgur.com/iON4Tnu.png",PT: FOX MOVIES FHD
+http://4p.vc:80/zeads1234/123456/140869
+#EXTINF:-1 group-title="Canais | Esportes - PPV",DAZN 01 HD [B]
+http://4p.vc:80/zeads1234/123456/140870
+#EXTINF:-1 group-title="Canais | Esportes - PPV",DAZN 02 HD [B]
+http://4p.vc:80/zeads1234/123456/140871
+#EXTINF:-1 group-title="Canais | Esportes - PPV",DAZN 03 HD [B]
+http://4p.vc:80/zeads1234/123456/140872
+#EXTINF:-1 group-title="Canais | 4K",RECORD SP 4K
+http://4p.vc:80/zeads1234/123456/143549
+#EXTINF:-1 group-title="Canais | 4K",PREMIERE CLUBES 4K
+http://4p.vc:80/zeads1234/123456/143550
+#EXTINF:-1 group-title="Canais | 4K",ESPN4 4K
+http://4p.vc:80/zeads1234/123456/143551
+#EXTINF:-1 group-title="Canais | 4K",DISCOVERY CHANNEL 4K
+http://4p.vc:80/zeads1234/123456/143552
+#EXTINF:-1 group-title="Canais | 4K",SBTRS 4K
+http://4p.vc:80/zeads1234/123456/143553
+#EXTINF:-1 group-title="Canais | 4K",JP NEWS 4K
+http://4p.vc:80/zeads1234/123456/143554
+#EXTINF:-1 group-title="Canais | 4K",RECORD RS 4K
+http://4p.vc:80/zeads1234/123456/143555
+#EXTINF:-1 group-title="Canais | 4K",RBSTV 4K
+http://4p.vc:80/zeads1234/123456/143556
+#EXTINF:-1 group-title="Canais | 4K",Premiere Clube 4K [B]
+http://4p.vc:80/zeads1234/123456/143557
+#EXTINF:-1 group-title="Canais | 4K",PT: Sport TV 1 4K
+http://4p.vc:80/zeads1234/123456/143558
+#EXTINF:-1 group-title="Canais | 4K",PREMIERE CLUBE 4K [A]
+http://4p.vc:80/zeads1234/123456/143559
+#EXTINF:-1 group-title="Canais | 4K",RBS 4K
+http://4p.vc:80/zeads1234/123456/143560
+#EXTINF:-1 group-title="Canais | Filmes e Séries",CINE SKY 1  FHD
+http://4p.vc:80/zeads1234/123456/144517
+#EXTINF:-1 group-title="Canais | Filmes e Séries",CINE SKY 2 FHD
+http://4p.vc:80/zeads1234/123456/144518
+#EXTINF:-1 group-title="Canais | Filmes e Séries",CINE SKY 3  FHD
+http://4p.vc:80/zeads1234/123456/144519
+#EXTINF:-1 group-title="Canais | Filmes e Séries",CINE SKY 4 FHD
+http://4p.vc:80/zeads1234/123456/144520
+#EXTINF:-1 group-title="Canais | Filmes e Séries",CINE SKY 5 FHD
+http://4p.vc:80/zeads1234/123456/144521
+#EXTINF:-1 group-title="Canais | Esportes",COMBATE FHD [H265] [C]
+http://4p.vc:80/zeads1234/123456/144522
+#EXTINF:-1 group-title="Canais | Esportes",COMBATE HD [C]
+http://4p.vc:80/zeads1234/123456/144523
+#EXTINF:-1 group-title="Canais | Globo",EPTV SUL MINAS FHD
+http://4p.vc:80/zeads1234/123456/145188
+#EXTINF:-1 group-title="Canais | Globo",EPTV SUL MINAS HD
+http://4p.vc:80/zeads1234/123456/145189
+#EXTINF:-1 group-title="Canais | Globo",GLOBO ALAGOAS FHD
+http://4p.vc:80/zeads1234/123456/145190
+#EXTINF:-1 group-title="Canais | Globo",GLOBO ALAGOAS HD
+http://4p.vc:80/zeads1234/123456/145191
+#EXTINF:-1 group-title="Canais | Globo",GLOBO BH FHD
+http://4p.vc:80/zeads1234/123456/145192
+#EXTINF:-1 group-title="Canais | Globo",GLOBO BH HD
+http://4p.vc:80/zeads1234/123456/145193
+#EXTINF:-1 group-title="Canais | Globo",GLOBO CENTRO AMÉRICA FHD
+http://4p.vc:80/zeads1234/123456/145194
+#EXTINF:-1 group-title="Canais | Globo",GLOBO CENTRO AMÉRICA HD
+http://4p.vc:80/zeads1234/123456/145195
+#EXTINF:-1 group-title="Canais | Globo",GLOBO EPTV CAMPINAS FHD [B]
+http://4p.vc:80/zeads1234/123456/145196
+#EXTINF:-1 group-title="Canais | Globo",GLOBO EPTV CAMPINAS HD [B]
+http://4p.vc:80/zeads1234/123456/145197
+#EXTINF:-1 group-title="Canais | Globo",GLOBO EPTV RIBEIRÃO PRETO FHD
+http://4p.vc:80/zeads1234/123456/145198
+#EXTINF:-1 group-title="Canais | Globo",GLOBO EPTV RIBEIRÃO PRETO FHD
+http://4p.vc:80/zeads1234/123456/145199
+#EXTINF:-1 group-title="Canais | Globo",GLOBO EPTV RIBEIRÃO PRETO HD
+http://4p.vc:80/zeads1234/123456/145200
+#EXTINF:-1 group-title="Canais | Globo",GLOBO NSC BLUMENAU FHD
+http://4p.vc:80/zeads1234/123456/145202
+#EXTINF:-1 group-title="Canais | Globo",GLOBO NSC CHAPECO FHD
+http://4p.vc:80/zeads1234/123456/145203
+#EXTINF:-1 group-title="Canais | Globo",GLOBO NSC CHAPECO HD
+http://4p.vc:80/zeads1234/123456/145204
+#EXTINF:-1 group-title="Canais | Globo",GLOBO NSC CRICIUMA FHD
+http://4p.vc:80/zeads1234/123456/145205
+#EXTINF:-1 group-title="Canais | Globo",GLOBO NSC CRICIUMA HD
+http://4p.vc:80/zeads1234/123456/145206
+#EXTINF:-1 group-title="Canais | Globo",GLOBO NSC FLORIPA HD
+http://4p.vc:80/zeads1234/123456/145207
+#EXTINF:-1 group-title="Canais | Globo",GLOBO NSC JOINVILLE HD
+http://4p.vc:80/zeads1234/123456/145208
+#EXTINF:-1 group-title="Canais | Globo",GLOBO RJ FHD [B] [H265]
+http://4p.vc:80/zeads1234/123456/145209
+#EXTINF:-1 group-title="Canais | Globo",GLOBO RJ HD [B]
+http://4p.vc:80/zeads1234/123456/145210
+#EXTINF:-1 group-title="Canais | Globo",GLOBO RPC CURITIBA FHD
+http://4p.vc:80/zeads1234/123456/145211
+#EXTINF:-1 group-title="Canais | Globo",GLOBO RPC CURITIBA HD
+http://4p.vc:80/zeads1234/123456/145212
+#EXTINF:-1 group-title="Canais | Globo",GLOBO RPC MARINGA FHD
+http://4p.vc:80/zeads1234/123456/145213
+#EXTINF:-1 group-title="Canais | Globo",GLOBO RPC MARINGA HD
+http://4p.vc:80/zeads1234/123456/145214
+#EXTINF:-1 group-title="Canais | Globo",GLOBO RPC PARANAVAI FHD
+http://4p.vc:80/zeads1234/123456/145215
+#EXTINF:-1 group-title="Canais | Globo",GLOBO RPC PARANAVAI HD
+http://4p.vc:80/zeads1234/123456/145216
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV MORENA MS HD
+http://4p.vc:80/zeads1234/123456/145217
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV NORDESTE FHD
+http://4p.vc:80/zeads1234/123456/145218
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV S.FRANCISCO FHD
+http://4p.vc:80/zeads1234/123456/145219
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV S.FRANCISCO HD
+http://4p.vc:80/zeads1234/123456/145220
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV TEM BAURU FHD
+http://4p.vc:80/zeads1234/123456/145221
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV TEM BAURU HD
+http://4p.vc:80/zeads1234/123456/145222
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV TEM SOROCABA FHD
+http://4p.vc:80/zeads1234/123456/145223
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV TEM SOROCABA HD
+http://4p.vc:80/zeads1234/123456/145224
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FHD
+http://4p.vc:80/zeads1234/123456/145225
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD
+http://4p.vc:80/zeads1234/123456/145226
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV VANGUARDA S. JOSE DOS CAMPOS FHD
+http://4p.vc:80/zeads1234/123456/145229
+#EXTINF:-1 group-title="Canais | Globo",GLOBO TV VANGUARDA S. JOSE DOS CAMPOS HD
+http://4p.vc:80/zeads1234/123456/145230
+#EXTINF:-1 group-title="Canais | Globo",GLOBO VERDES MARES FHD
+http://4p.vc:80/zeads1234/123456/145231
+#EXTINF:-1 group-title="Canais | Globo",GLOBO VERDES MARES HD
+http://4p.vc:80/zeads1234/123456/145232
+#EXTINF:-1 group-title="Canais | Globo",INTER TV DOS VALES FHD
+http://4p.vc:80/zeads1234/123456/145233
+#EXTINF:-1 group-title="Canais | Globo",INTER TV DOS VALES HD
+http://4p.vc:80/zeads1234/123456/145234
+#EXTINF:-1 group-title="Canais | Globo",RBS TV CAXIAS DO SUL FHD
+http://4p.vc:80/zeads1234/123456/145236
+#EXTINF:-1 group-title="Canais | Globo",RBS TV CAXIAS DO SUL HD
+http://4p.vc:80/zeads1234/123456/145237
+#EXTINF:-1 group-title="Canais | Globo",RBS TV CRUZ ALTA FHD
+http://4p.vc:80/zeads1234/123456/145238
+#EXTINF:-1 group-title="Canais | Globo",RBS TV HD
+http://4p.vc:80/zeads1234/123456/145239
+#EXTINF:-1 group-title="Canais | Globo",RBS TV PELOTAS FHD
+http://4p.vc:80/zeads1234/123456/145240
+#EXTINF:-1 group-title="Canais | Globo",RBS TV PELOTAS HD
+http://4p.vc:80/zeads1234/123456/145241
+#EXTINF:-1 group-title="Canais | Globo",RPC FOZ DO IGUA  FHD
+http://4p.vc:80/zeads1234/123456/145242
+#EXTINF:-1 group-title="Canais | Globo",RPC FOZ DO IGUA HD
+http://4p.vc:80/zeads1234/123456/145243
+#EXTINF:-1 group-title="Canais | Globo",RPC PONTA GROSSA FHD
+http://4p.vc:80/zeads1234/123456/145244
+#EXTINF:-1 group-title="Canais | Globo",RPC PONTA GROSSA HD
+http://4p.vc:80/zeads1234/123456/145245
+#EXTINF:-1 group-title="Canais | Globo",TV GLOBO INTEGRA JUIZ DE FORA FHD
+http://4p.vc:80/zeads1234/123456/145246
+#EXTINF:-1 group-title="Canais | Globo",TV GLOBO INTEGRA JUIZ DE FORA HD
+http://4p.vc:80/zeads1234/123456/145247
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE ACTION FHD [H265] [B]
+http://4p.vc:80/zeads1234/123456/149785
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE ACTION HD
+http://4p.vc:80/zeads1234/123456/149786
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE CULT FHD
+http://4p.vc:80/zeads1234/123456/149787
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE CULT HD
+http://4p.vc:80/zeads1234/123456/149788
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE FUN FHD
+http://4p.vc:80/zeads1234/123456/149789
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE FUN HD
+http://4p.vc:80/zeads1234/123456/149790
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE PIPOCA FHD
+http://4p.vc:80/zeads1234/123456/149791
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE PIPOCA HD
+http://4p.vc:80/zeads1234/123456/149792
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE PREMIUM FHD
+http://4p.vc:80/zeads1234/123456/149793
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE PREMIUM HD
+http://4p.vc:80/zeads1234/123456/149794
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE TOUCH FHD
+http://4p.vc:80/zeads1234/123456/149795
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE TOUCH HD
+http://4p.vc:80/zeads1234/123456/149796
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE ACTION SD
+http://4p.vc:80/zeads1234/123456/149797
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE CULT SD
+http://4p.vc:80/zeads1234/123456/149798
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE FUN SD
+http://4p.vc:80/zeads1234/123456/149799
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE PIPOCA SD
+http://4p.vc:80/zeads1234/123456/149800
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE PREMIUM SD
+http://4p.vc:80/zeads1234/123456/149801
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE TOUCH SD
+http://4p.vc:80/zeads1234/123456/149802
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE ACTION FHD H264
+http://4p.vc:80/zeads1234/123456/149803
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE CULT FHD H264
+http://4p.vc:80/zeads1234/123456/149804
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE FUN FHD H264
+http://4p.vc:80/zeads1234/123456/149805
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE PREMIUM FHD H264
+http://4p.vc:80/zeads1234/123456/149806
+#EXTINF:-1 group-title="Canais | Telecine [B]",TELECINE TOUCH FHD H264
+http://4p.vc:80/zeads1234/123456/149807
