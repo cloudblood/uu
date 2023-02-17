@@ -2,1533 +2,1533 @@
 
 ###########################  RBS PELOTAS  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", RBS PELOTAS* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", RBS PELOTAS* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/52542
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", RBS PELOTAS* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", RBS PELOTAS* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/52542
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", RBS PELOTAS* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", RBS PELOTAS* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/52542	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", RBS PELOTAS* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", RBS PELOTAS* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/380569
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", RBS PELOTAS* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", RBS PELOTAS* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/380569
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", RBS PELOTAS* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", RBS PELOTAS* R3
 http://rctv.tech:80/096154/686531/380569
 
 ###########################  SBT RS  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", SBT RS* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", SBT RS* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61889
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", SBT RS* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", SBT RS* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/61889
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", SBT RS* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", SBT RS* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/61889
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", SBT RS* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", SBT RS* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/1002415
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", SBT RS* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", SBT RS* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/1002415
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", SBT RS* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", SBT RS* R3
 http://rctv.tech:80/096154/686531/1002415
 
 ###########################  A&E  ###########################
 
-#EXTINF:-1 tvg-id="AEBrazil.br" group-title="FACTORY 1", A&E [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="AEBrazil.br" group-title="FACTORY 1", A&E F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36929
-#EXTINF:-1 tvg-id="AEBrazil.br" group-title="FACTORY 2", A&E [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="AEBrazil.br" group-title="FACTORY 2", A&E F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36929
-#EXTINF:-1 tvg-id="AEBrazil.br" group-title="FACTORY 3", A&E [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="AEBrazil.br" group-title="FACTORY 3", A&E F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36929	 
-#EXTINF:-1 tvg-id="AEBrazil.br" group-title="RCTV 1   ", A&E [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="AEBrazil.br" group-title="RCTV 1   ", A&E R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5040
-#EXTINF:-1 tvg-id="AEBrazil.br" group-title="RCTV 2   ", A&E [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="AEBrazil.br" group-title="RCTV 2   ", A&E R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5040
-#EXTINF:-1 tvg-id="AEBrazil.br" group-title="RCTV 3   ", A&E [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="AEBrazil.br" group-title="RCTV 3   ", A&E R3
 http://rctv.tech:80/096154/686531/5040
 
 ###########################  AGRO+  ###########################
 
-#EXTINF:-1 tvg-id="AgroMais.br" group-title="FACTORY 1", AGRO+ [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="AgroMais.br" group-title="FACTORY 1", AGRO+ F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/90975
-#EXTINF:-1 tvg-id="AgroMais.br" group-title="FACTORY 2", AGRO+ [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="AgroMais.br" group-title="FACTORY 2", AGRO+ F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/90975
-#EXTINF:-1 tvg-id="AgroMais.br" group-title="FACTORY 3", AGRO+ [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="AgroMais.br" group-title="FACTORY 3", AGRO+ F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/90975
-#EXTINF:-1 tvg-id="AgroMais.br" group-title="RCTV 1   ", AGRO+ [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="AgroMais.br" group-title="RCTV 1   ", AGRO+ R1
 http://rctv.tech:80/priscilaj/tvsmartnew/373933
-#EXTINF:-1 tvg-id="AgroMais.br" group-title="RCTV 2   ", AGRO+ [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="AgroMais.br" group-title="RCTV 2   ", AGRO+ R2
 http://rctv.tech:80/008d878bf/mauriciofv10/373933
-#EXTINF:-1 tvg-id="AgroMais.br" group-title="RCTV 3   ", AGRO+ [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="AgroMais.br" group-title="RCTV 3   ", AGRO+ R3
 http://rctv.tech:80/096154/686531/373933
 
 ###########################  AGROBRASIL TV  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", AGROBRASIL TV* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", AGROBRASIL TV* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/90973
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", AGROBRASIL TV* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", AGROBRASIL TV* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/90973
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", AGROBRASIL TV* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", AGROBRASIL TV* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/90973
 
 ###########################  AMC  ###########################
 
-#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="FACTORY 1", AMC [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="FACTORY 1", AMC F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36928
-#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="FACTORY 2", AMC [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="FACTORY 2", AMC F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36928
-#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="FACTORY 3", AMC [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="FACTORY 3", AMC F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36928	 
-#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="RCTV 1   ", AMC [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="RCTV 1   ", AMC R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5041
-#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="RCTV 2   ", AMC [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="RCTV 2   ", AMC R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5041
-#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="RCTV 3   ", AMC [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="AMCBrazil.br" group-title="RCTV 3   ", AMC R3
 http://rctv.tech:80/096154/686531/5041
 
 ###########################  ANIMAL PLANET  ###########################
 
-#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="FACTORY 1", ANIMAL PLANET [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="FACTORY 1", ANIMAL PLANET F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36992
-#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="FACTORY 2", ANIMAL PLANET [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="FACTORY 2", ANIMAL PLANET F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36992
-#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="FACTORY 3", ANIMAL PLANET [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="FACTORY 3", ANIMAL PLANET F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36992	 
-#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="RCTV 1   ", ANIMAL PLANET [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="RCTV 1   ", ANIMAL PLANET R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5042
-#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="RCTV 2   ", ANIMAL PLANET [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="RCTV 2   ", ANIMAL PLANET R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5042
-#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="RCTV 3   ", ANIMAL PLANET [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" group-title="RCTV 3   ", ANIMAL PLANET R3
 http://rctv.tech:80/096154/686531/5042
 
 ###########################  AXN  ###########################
 
-#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="FACTORY 1", AXN [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="FACTORY 1", AXN F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36991
-#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="FACTORY 2", AXN [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="FACTORY 2", AXN F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36991
-#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="FACTORY 3", AXN [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="FACTORY 3", AXN F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36991	 
-#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="RCTV 1   ", AXN [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="RCTV 1   ", AXN R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5043
-#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="RCTV 2   ", AXN [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="RCTV 2   ", AXN R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5043
-#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="RCTV 3   ", AXN [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="AXNBrazil.br" group-title="RCTV 3   ", AXN R3
 http://rctv.tech:80/096154/686531/5043
 
 ###########################  BAND RS  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", BAND RS* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", BAND RS* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63681
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", BAND RS* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", BAND RS* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/63681
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", BAND RS* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", BAND RS* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/63681	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", BAND RS* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", BAND RS* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/892776
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", BAND RS* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", BAND RS* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/892776
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", BAND RS* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", BAND RS* R3
 http://rctv.tech:80/096154/686531/892776
 
 ###########################  BAND SP  ###########################
 
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="FACTORY 1", BAND SP [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="FACTORY 1", BAND SP F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/41530
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="FACTORY 2", BAND SP [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="FACTORY 2", BAND SP F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/41530
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="FACTORY 3", BAND SP [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="FACTORY 3", BAND SP F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/41530	 
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="RCTV 1   ", BAND SP [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="RCTV 1   ", BAND SP R1
 http://rctv.tech:80/priscilaj/tvsmartnew/453186
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="RCTV 2   ", BAND SP [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="RCTV 2   ", BAND SP R2
 http://rctv.tech:80/008d878bf/mauriciofv10/453186
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="RCTV 3   ", BAND SP [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" group-title="RCTV 3   ", BAND SP R3
 http://rctv.tech:80/096154/686531/453186
 
 ###########################  BANDNEWS  ###########################
 
-#EXTINF:-1 tvg-id="BandNews.br" group-title="FACTORY 1", BANDNEWS [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="BandNews.br" group-title="FACTORY 1", BANDNEWS F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42411
-#EXTINF:-1 tvg-id="BandNews.br" group-title="FACTORY 2", BANDNEWS [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="BandNews.br" group-title="FACTORY 2", BANDNEWS F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/42411
-#EXTINF:-1 tvg-id="BandNews.br" group-title="FACTORY 3", BANDNEWS [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="BandNews.br" group-title="FACTORY 3", BANDNEWS F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/42411	 
-#EXTINF:-1 tvg-id="BandNews.br" group-title="RCTV 1   ", BANDNEWS [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="BandNews.br" group-title="RCTV 1   ", BANDNEWS R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5160
-#EXTINF:-1 tvg-id="BandNews.br" group-title="RCTV 2   ", BANDNEWS [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="BandNews.br" group-title="RCTV 2   ", BANDNEWS R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5160
-#EXTINF:-1 tvg-id="BandNews.br" group-title="RCTV 3   ", BANDNEWS [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="BandNews.br" group-title="RCTV 3   ", BANDNEWS R3
 http://rctv.tech:80/096154/686531/5160
 
 ###########################  BANDSPORTS  ###########################
 
-#EXTINF:-1 tvg-id="BandSports.br" group-title="FACTORY 1", BANDSPORTS [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="BandSports.br" group-title="FACTORY 1", BANDSPORTS F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36989
-#EXTINF:-1 tvg-id="BandSports.br" group-title="FACTORY 2", BANDSPORTS [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="BandSports.br" group-title="FACTORY 2", BANDSPORTS F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36989
-#EXTINF:-1 tvg-id="BandSports.br" group-title="FACTORY 3", BANDSPORTS [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="BandSports.br" group-title="FACTORY 3", BANDSPORTS F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36989	 
-#EXTINF:-1 tvg-id="BandSports.br" group-title="RCTV 1   ", BANDSPORTS [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="BandSports.br" group-title="RCTV 1   ", BANDSPORTS R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5044
-#EXTINF:-1 tvg-id="BandSports.br" group-title="RCTV 2   ", BANDSPORTS [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="BandSports.br" group-title="RCTV 2   ", BANDSPORTS R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5044
-#EXTINF:-1 tvg-id="BandSports.br" group-title="RCTV 3   ", BANDSPORTS [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="BandSports.br" group-title="RCTV 3   ", BANDSPORTS R3
 http://rctv.tech:80/096154/686531/5044
 
 ###########################  BIS  ###########################
 
-#EXTINF:-1 tvg-id="Bis.br" group-title="FACTORY 1", BIS [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="Bis.br" group-title="FACTORY 1", BIS F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36988
-#EXTINF:-1 tvg-id="Bis.br" group-title="FACTORY 2", BIS [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="Bis.br" group-title="FACTORY 2", BIS F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36988
-#EXTINF:-1 tvg-id="Bis.br" group-title="FACTORY 3", BIS [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="Bis.br" group-title="FACTORY 3", BIS F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36988	 
-#EXTINF:-1 tvg-id="Bis.br" group-title="RCTV 1   ", BIS [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="Bis.br" group-title="RCTV 1   ", BIS R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5045
-#EXTINF:-1 tvg-id="Bis.br" group-title="RCTV 2   ", BIS [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="Bis.br" group-title="RCTV 2   ", BIS R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5045
-#EXTINF:-1 tvg-id="Bis.br" group-title="RCTV 3   ", BIS [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="Bis.br" group-title="RCTV 3   ", BIS R3
 http://rctv.tech:80/096154/686531/5045
 
 ###########################  CANAL BRASIL  ###########################
 
-#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="FACTORY 1", CANAL BRASIL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="FACTORY 1", CANAL BRASIL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63636
-#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="FACTORY 2", CANAL BRASIL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="FACTORY 2", CANAL BRASIL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/63636
-#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="FACTORY 3", CANAL BRASIL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="FACTORY 3", CANAL BRASIL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/63636	 
-#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="RCTV 1   ", CANAL BRASIL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="RCTV 1   ", CANAL BRASIL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/68534
-#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="RCTV 2   ", CANAL BRASIL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="RCTV 2   ", CANAL BRASIL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/68534
-#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="RCTV 3   ", CANAL BRASIL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="RCTV 3   ", CANAL BRASIL R3
 http://rctv.tech:80/096154/686531/68534
 
 ###########################  CANAL DO BOI  ###########################
 
-#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="FACTORY 1", CANAL DO BOI [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="FACTORY 1", CANAL DO BOI F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68528
-#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="FACTORY 2", CANAL DO BOI [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="FACTORY 2", CANAL DO BOI F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/68528
-#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="FACTORY 3", CANAL DO BOI [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="FACTORY 3", CANAL DO BOI F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/68528	 
-#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="RCTV 1   ", CANAL DO BOI [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="RCTV 1   ", CANAL DO BOI R1
 http://rctv.tech:80/priscilaj/tvsmartnew/45307
-#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="RCTV 2   ", CANAL DO BOI [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="RCTV 2   ", CANAL DO BOI R2
 http://rctv.tech:80/008d878bf/mauriciofv10/45307
-#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="RCTV 3   ", CANAL DO BOI [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="RCTV 3   ", CANAL DO BOI R3
 http://rctv.tech:80/096154/686531/45307
 
 ###########################  CANAL RURAL  ###########################
 
-#EXTINF:-1 tvg-id="CanalRural.br" group-title="FACTORY 1", CANAL RURAL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="CanalRural.br" group-title="FACTORY 1", CANAL RURAL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63217
-#EXTINF:-1 tvg-id="CanalRural.br" group-title="FACTORY 2", CANAL RURAL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="CanalRural.br" group-title="FACTORY 2", CANAL RURAL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/63217
-#EXTINF:-1 tvg-id="CanalRural.br" group-title="FACTORY 3", CANAL RURAL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="CanalRural.br" group-title="FACTORY 3", CANAL RURAL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/63217
-#EXTINF:-1 tvg-id="CanalRural.br" group-title="RCTV 1   ", CANAL RURAL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="CanalRural.br" group-title="RCTV 1   ", CANAL RURAL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/373935
-#EXTINF:-1 tvg-id="CanalRural.br" group-title="RCTV 2   ", CANAL RURAL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="CanalRural.br" group-title="RCTV 2   ", CANAL RURAL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/373935
-#EXTINF:-1 tvg-id="CanalRural.br" group-title="RCTV 3   ", CANAL RURAL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="CanalRural.br" group-title="RCTV 3   ", CANAL RURAL R3
 http://rctv.tech:80/096154/686531/373935
 
 ###########################  CARTOON NETWORK  ###########################
 
-#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="FACTORY 1", CARTOON NETWORK [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="FACTORY 1", CARTOON NETWORK F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36927
-#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="FACTORY 2", CARTOON NETWORK [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="FACTORY 2", CARTOON NETWORK F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36927
-#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="FACTORY 3", CARTOON NETWORK [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="FACTORY 3", CARTOON NETWORK F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36927	 
-#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="RCTV 1   ", CARTOON NETWORK [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="RCTV 1   ", CARTOON NETWORK R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5047
-#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="RCTV 2   ", CARTOON NETWORK [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="RCTV 2   ", CARTOON NETWORK R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5047
-#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="RCTV 3   ", CARTOON NETWORK [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" group-title="RCTV 3   ", CARTOON NETWORK R3
 http://rctv.tech:80/096154/686531/5047
 
 ###########################  CINECANAL  ###########################
 
-#EXTINF:-1 tvg-id="StarLifeBrazil.br" group-title="FACTORY 1", CINECANAL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" group-title="FACTORY 1", CINECANAL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36918
-#EXTINF:-1 tvg-id="StarLifeBrazil.br" group-title="FACTORY 2", CINECANAL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" group-title="FACTORY 2", CINECANAL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36918
-#EXTINF:-1 tvg-id="StarLifeBrazil.br" group-title="FACTORY 3", CINECANAL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" group-title="FACTORY 3", CINECANAL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36918
 
 ###########################  CINEMAX  ###########################
 
-#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="FACTORY 1", CINEMAX [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="FACTORY 1", CINEMAX F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36926
-#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="FACTORY 2", CINEMAX [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="FACTORY 2", CINEMAX F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36926
-#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="FACTORY 3", CINEMAX [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="FACTORY 3", CINEMAX F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36926	 
-#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="RCTV 1   ", CINEMAX [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="RCTV 1   ", CINEMAX R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5048
-#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="RCTV 2   ", CINEMAX [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="RCTV 2   ", CINEMAX R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5048
-#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="RCTV 3   ", CINEMAX [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" group-title="RCTV 3   ", CINEMAX R3
 http://rctv.tech:80/096154/686531/5048
 
 ###########################  CNN BRASIL  ###########################
 
-#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="FACTORY 1", CNN BRASIL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="FACTORY 1", CNN BRASIL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/65039
-#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="FACTORY 2", CNN BRASIL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="FACTORY 2", CNN BRASIL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/65039
-#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="FACTORY 3", CNN BRASIL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="FACTORY 3", CNN BRASIL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/65039	 
-#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="RCTV 1   ", CNN BRASIL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="RCTV 1   ", CNN BRASIL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5158
-#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="RCTV 2   ", CNN BRASIL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="RCTV 2   ", CNN BRASIL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5158
-#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="RCTV 3   ", CNN BRASIL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="RCTV 3   ", CNN BRASIL R3
 http://rctv.tech:80/096154/686531/5158
 
 ###########################  COMEDY CENTRAL  ###########################
 
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="FACTORY 1", COMEDY CENTRAL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="FACTORY 1", COMEDY CENTRAL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36925
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="FACTORY 2", COMEDY CENTRAL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="FACTORY 2", COMEDY CENTRAL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36925
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="FACTORY 3", COMEDY CENTRAL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="FACTORY 3", COMEDY CENTRAL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36925	 
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="RCTV 1   ", COMEDY CENTRAL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="RCTV 1   ", COMEDY CENTRAL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5050
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="RCTV 2   ", COMEDY CENTRAL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="RCTV 2   ", COMEDY CENTRAL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5050
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="RCTV 3   ", COMEDY CENTRAL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" group-title="RCTV 3   ", COMEDY CENTRAL R3
 http://rctv.tech:80/096154/686531/5050
 
 ###########################  CONMEBOL 01  ###########################
 
-#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="FACTORY 1", CONMEBOL 01 [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="FACTORY 1", CONMEBOL 01 F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75600
-#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="FACTORY 2", CONMEBOL 01 [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="FACTORY 2", CONMEBOL 01 F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/75600
-#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="FACTORY 3", CONMEBOL 01 [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="FACTORY 3", CONMEBOL 01 F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/75600	 
-#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="RCTV 1   ", CONMEBOL 01 [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="RCTV 1   ", CONMEBOL 01 R1
 http://rctv.tech:80/priscilaj/tvsmartnew/1014578
-#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="RCTV 2   ", CONMEBOL 01 [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="RCTV 2   ", CONMEBOL 01 R2
 http://rctv.tech:80/008d878bf/mauriciofv10/1014578
-#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="RCTV 3   ", CONMEBOL 01 [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV1.br" group-title="RCTV 3   ", CONMEBOL 01 R3
 http://rctv.tech:80/096154/686531/1014578
 
 ###########################  CONMEBOL 02  ###########################
 
-#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="FACTORY 1", CONMEBOL 02 [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="FACTORY 1", CONMEBOL 02 F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75601
-#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="FACTORY 2", CONMEBOL 02 [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="FACTORY 2", CONMEBOL 02 F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/75601
-#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="FACTORY 3", CONMEBOL 02 [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="FACTORY 3", CONMEBOL 02 F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/75601	 
-#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="RCTV 1   ", CONMEBOL 02 [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="RCTV 1   ", CONMEBOL 02 R1
 http://rctv.tech:80/priscilaj/tvsmartnew/1014581
-#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="RCTV 2   ", CONMEBOL 02 [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="RCTV 2   ", CONMEBOL 02 R2
 http://rctv.tech:80/008d878bf/mauriciofv10/1014581
-#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="RCTV 3   ", CONMEBOL 02 [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV2.br" group-title="RCTV 3   ", CONMEBOL 02 R3
 http://rctv.tech:80/096154/686531/1014581
 
 ###########################  CONMEBOL 03  ###########################
 
-#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="FACTORY 1", CONMEBOL 03 [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="FACTORY 1", CONMEBOL 03 F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75602
-#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="FACTORY 2", CONMEBOL 03 [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="FACTORY 2", CONMEBOL 03 F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/75602
-#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="FACTORY 3", CONMEBOL 03 [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="FACTORY 3", CONMEBOL 03 F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/75602	 
-#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="RCTV 1   ", CONMEBOL 03 [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="RCTV 1   ", CONMEBOL 03 R1
 http://rctv.tech:80/priscilaj/tvsmartnew/1014584
-#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="RCTV 2   ", CONMEBOL 03 [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="RCTV 2   ", CONMEBOL 03 R2
 http://rctv.tech:80/008d878bf/mauriciofv10/1014584
-#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="RCTV 3   ", CONMEBOL 03 [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV3.br" group-title="RCTV 3   ", CONMEBOL 03 R3
 http://rctv.tech:80/096154/686531/1014584
 
 ###########################  CONMEBOL 04  ###########################
 
-#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="FACTORY 1", CONMEBOL 04 [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="FACTORY 1", CONMEBOL 04 F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/75603
-#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="FACTORY 2", CONMEBOL 04 [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="FACTORY 2", CONMEBOL 04 F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/75603
-#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="FACTORY 3", CONMEBOL 04 [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="FACTORY 3", CONMEBOL 04 F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/75603	 
-#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="RCTV 1   ", CONMEBOL 04 [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="RCTV 1   ", CONMEBOL 04 R1
 http://rctv.tech:80/priscilaj/tvsmartnew/1014587
-#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="RCTV 2   ", CONMEBOL 04 [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="RCTV 2   ", CONMEBOL 04 R2
 http://rctv.tech:80/008d878bf/mauriciofv10/1014587
-#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="RCTV 3   ", CONMEBOL 04 [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="ConmebolTV4.br" group-title="RCTV 3   ", CONMEBOL 04 R3
 http://rctv.tech:80/096154/686531/1014587
 
 ###########################  CURTA!  ###########################
 
-#EXTINF:-1 tvg-id="Curta.br" group-title="FACTORY 1", CURTA! [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="Curta.br" group-title="FACTORY 1", CURTA! F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63646
-#EXTINF:-1 tvg-id="Curta.br" group-title="FACTORY 2", CURTA! [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="Curta.br" group-title="FACTORY 2", CURTA! F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/63646
-#EXTINF:-1 tvg-id="Curta.br" group-title="FACTORY 3", CURTA! [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="Curta.br" group-title="FACTORY 3", CURTA! F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/63646	 
-#EXTINF:-1 tvg-id="Curta.br" group-title="RCTV 1   ", CURTA! [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="Curta.br" group-title="RCTV 1   ", CURTA! R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5413
-#EXTINF:-1 tvg-id="Curta.br" group-title="RCTV 2   ", CURTA! [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="Curta.br" group-title="RCTV 2   ", CURTA! R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5413
-#EXTINF:-1 tvg-id="Curta.br" group-title="RCTV 3   ", CURTA! [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="Curta.br" group-title="RCTV 3   ", CURTA! R3
 http://rctv.tech:80/096154/686531/5413
 
 ###########################  DISCOVERY CHANNEL  ###########################
 
-#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="FACTORY 1", DISCOVERY CHANNEL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="FACTORY 1", DISCOVERY CHANNEL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36985
-#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="FACTORY 2", DISCOVERY CHANNEL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="FACTORY 2", DISCOVERY CHANNEL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36985
-#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="FACTORY 3", DISCOVERY CHANNEL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="FACTORY 3", DISCOVERY CHANNEL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36985	 
-#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="RCTV 1   ", DISCOVERY CHANNEL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="RCTV 1   ", DISCOVERY CHANNEL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5051
-#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="RCTV 2   ", DISCOVERY CHANNEL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="RCTV 2   ", DISCOVERY CHANNEL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5051
-#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="RCTV 3   ", DISCOVERY CHANNEL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" group-title="RCTV 3   ", DISCOVERY CHANNEL R3
 http://rctv.tech:80/096154/686531/5051
 
 ###########################  DISCOVERY HOME & HEALTH  ###########################
 
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="FACTORY 1", DISCOVERY HOME & HEALTH [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="FACTORY 1", DISCOVERY HOME & HEALTH F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37115
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="FACTORY 2", DISCOVERY HOME & HEALTH [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="FACTORY 2", DISCOVERY HOME & HEALTH F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/37115
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="FACTORY 3", DISCOVERY HOME & HEALTH [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="FACTORY 3", DISCOVERY HOME & HEALTH F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/37115	 
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="RCTV 1   ", DISCOVERY HOME & HEALTH [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="RCTV 1   ", DISCOVERY HOME & HEALTH R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5053
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="RCTV 2   ", DISCOVERY HOME & HEALTH [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="RCTV 2   ", DISCOVERY HOME & HEALTH R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5053
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="RCTV 3   ", DISCOVERY HOME & HEALTH [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" group-title="RCTV 3   ", DISCOVERY HOME & HEALTH R3
 http://rctv.tech:80/096154/686531/5053
 
 ###########################  DISCOVERY SCIENCE  ###########################
 
-#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="FACTORY 1", DISCOVERY SCIENCE [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="FACTORY 1", DISCOVERY SCIENCE F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36922
-#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="FACTORY 2", DISCOVERY SCIENCE [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="FACTORY 2", DISCOVERY SCIENCE F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36922
-#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="FACTORY 3", DISCOVERY SCIENCE [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="FACTORY 3", DISCOVERY SCIENCE F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36922	 
-#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="RCTV 1   ", DISCOVERY SCIENCE [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="RCTV 1   ", DISCOVERY SCIENCE R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5055
-#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="RCTV 2   ", DISCOVERY SCIENCE [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="RCTV 2   ", DISCOVERY SCIENCE R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5055
-#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="RCTV 3   ", DISCOVERY SCIENCE [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" group-title="RCTV 3   ", DISCOVERY SCIENCE R3
 http://rctv.tech:80/096154/686531/5055
 
 ###########################  DISCOVERY THEATER  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", DISCOVERY THEATER* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", DISCOVERY THEATER* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36983
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", DISCOVERY THEATER* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", DISCOVERY THEATER* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36983
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", DISCOVERY THEATER* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", DISCOVERY THEATER* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36983	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", DISCOVERY THEATER* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", DISCOVERY THEATER* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5056
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", DISCOVERY THEATER* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", DISCOVERY THEATER* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5056
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", DISCOVERY THEATER* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", DISCOVERY THEATER* R3
 http://rctv.tech:80/096154/686531/5056
 
 ###########################  DISCOVERY TURBO  ###########################
 
-#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="FACTORY 1", DISCOVERY TURBO [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="FACTORY 1", DISCOVERY TURBO F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36982
-#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="FACTORY 2", DISCOVERY TURBO [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="FACTORY 2", DISCOVERY TURBO F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36982
-#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="FACTORY 3", DISCOVERY TURBO [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="FACTORY 3", DISCOVERY TURBO F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36982	 
-#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="RCTV 1   ", DISCOVERY TURBO [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="RCTV 1   ", DISCOVERY TURBO R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5057
-#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="RCTV 2   ", DISCOVERY TURBO [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="RCTV 2   ", DISCOVERY TURBO R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5057
-#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="RCTV 3   ", DISCOVERY TURBO [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" group-title="RCTV 3   ", DISCOVERY TURBO R3
 http://rctv.tech:80/096154/686531/5057
 
 ###########################  DISCOVERY WORLD  ###########################
 
-#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="FACTORY 1", DISCOVERY WORLD [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="FACTORY 1", DISCOVERY WORLD F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36981
-#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="FACTORY 2", DISCOVERY WORLD [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="FACTORY 2", DISCOVERY WORLD F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36981
-#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="FACTORY 3", DISCOVERY WORLD [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="FACTORY 3", DISCOVERY WORLD F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36981	 
-#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="RCTV 1   ", DISCOVERY WORLD [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="RCTV 1   ", DISCOVERY WORLD R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5058
-#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="RCTV 2   ", DISCOVERY WORLD [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="RCTV 2   ", DISCOVERY WORLD R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5058
-#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="RCTV 3   ", DISCOVERY WORLD [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" group-title="RCTV 3   ", DISCOVERY WORLD R3
 http://rctv.tech:80/096154/686531/5058
 
 ###########################  DISNEY CHANNEL  ###########################
 
-#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="FACTORY 1", DISNEY CHANNEL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="FACTORY 1", DISNEY CHANNEL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36921
-#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="FACTORY 2", DISNEY CHANNEL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="FACTORY 2", DISNEY CHANNEL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36921
-#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="FACTORY 3", DISNEY CHANNEL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="FACTORY 3", DISNEY CHANNEL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36921	 
-#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="RCTV 1   ", DISNEY CHANNEL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="RCTV 1   ", DISNEY CHANNEL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5059
-#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="RCTV 2   ", DISNEY CHANNEL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="RCTV 2   ", DISNEY CHANNEL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5059
-#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="RCTV 3   ", DISNEY CHANNEL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" group-title="RCTV 3   ", DISNEY CHANNEL R3
 http://rctv.tech:80/096154/686531/5059
 
 ###########################  ESPN  ###########################
 
-#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="FACTORY 1", ESPN [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="FACTORY 1", ESPN F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37104
-#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="FACTORY 2", ESPN [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="FACTORY 2", ESPN F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/37104
-#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="FACTORY 3", ESPN [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="FACTORY 3", ESPN F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/37104	 
-#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="RCTV 1   ", ESPN [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="RCTV 1   ", ESPN R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5064
-#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="RCTV 2   ", ESPN [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="RCTV 2   ", ESPN R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5064
-#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="RCTV 3   ", ESPN [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="ESPNBrazil.br" group-title="RCTV 3   ", ESPN R3
 http://rctv.tech:80/096154/686531/5064
 
 ###########################  ESPN 2  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", ESPN 2* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", ESPN 2* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36977
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", ESPN 2* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", ESPN 2* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36977
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", ESPN 2* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", ESPN 2* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36977	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", ESPN 2* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", ESPN 2* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5062
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", ESPN 2* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", ESPN 2* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5062
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", ESPN 2* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", ESPN 2* R3
 http://rctv.tech:80/096154/686531/5062
 
 ###########################  ESPN 3  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", ESPN 3* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", ESPN 3* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36976
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", ESPN 3* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", ESPN 3* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36976
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", ESPN 3* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", ESPN 3* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36976	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", ESPN 3* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", ESPN 3* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/465906
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", ESPN 3* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", ESPN 3* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/465906
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", ESPN 3* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", ESPN 3* R3
 http://rctv.tech:80/096154/686531/465906
 
 ###########################  ESPN 4  ###########################
 
-#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="FACTORY 1", ESPN 4 [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="FACTORY 1", ESPN 4 F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36970
-#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="FACTORY 2", ESPN 4 [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="FACTORY 2", ESPN 4 F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36970
-#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="FACTORY 3", ESPN 4 [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="FACTORY 3", ESPN 4 F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36970	 
-#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="RCTV 1   ", ESPN 4 [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="RCTV 1   ", ESPN 4 R1
 http://rctv.tech:80/priscilaj/tvsmartnew/465909
-#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="RCTV 2   ", ESPN 4 [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="RCTV 2   ", ESPN 4 R2
 http://rctv.tech:80/008d878bf/mauriciofv10/465909
-#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="RCTV 3   ", ESPN 4 [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="FoxSportsBrazil.br" group-title="RCTV 3   ", ESPN 4 R3
 http://rctv.tech:80/096154/686531/465909
 
 ###########################  ESPN EXTRA  ###########################
 
-#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="FACTORY 1", ESPN EXTRA [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="FACTORY 1", ESPN EXTRA F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/42910
-#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="FACTORY 2", ESPN EXTRA [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="FACTORY 2", ESPN EXTRA F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/42910
-#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="FACTORY 3", ESPN EXTRA [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="FACTORY 3", ESPN EXTRA F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/42910	 
-#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="RCTV 1   ", ESPN EXTRA [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="RCTV 1   ", ESPN EXTRA R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5065
-#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="RCTV 2   ", ESPN EXTRA [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="RCTV 2   ", ESPN EXTRA R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5065
-#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="RCTV 3   ", ESPN EXTRA [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" group-title="RCTV 3   ", ESPN EXTRA R3
 http://rctv.tech:80/096154/686531/5065
 
 ###########################  FILM&ARTS  ###########################
 
-#EXTINF:-1 tvg-id="FilmArtsBrazil.br" group-title="FACTORY 1", FILM&ARTS [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="FilmArtsBrazil.br" group-title="FACTORY 1", FILM&ARTS F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68536
-#EXTINF:-1 tvg-id="FilmArtsBrazil.br" group-title="FACTORY 2", FILM&ARTS [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="FilmArtsBrazil.br" group-title="FACTORY 2", FILM&ARTS F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/68536
-#EXTINF:-1 tvg-id="FilmArtsBrazil.br" group-title="FACTORY 3", FILM&ARTS [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="FilmArtsBrazil.br" group-title="FACTORY 3", FILM&ARTS F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/68536
 
 ###########################  FOX SPORTS 2  ###########################
 
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="FACTORY 1", FOX SPORTS 2 [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="FACTORY 1", FOX SPORTS 2 F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/50545
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="FACTORY 2", FOX SPORTS 2 [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="FACTORY 2", FOX SPORTS 2 F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/50545
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="FACTORY 3", FOX SPORTS 2 [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="FACTORY 3", FOX SPORTS 2 F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/50545	 
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="RCTV 1   ", FOX SPORTS 2 [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="RCTV 1   ", FOX SPORTS 2 R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5071
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="RCTV 2   ", FOX SPORTS 2 [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="RCTV 2   ", FOX SPORTS 2 R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5071
-#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="RCTV 3   ", FOX SPORTS 2 [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" group-title="RCTV 3   ", FOX SPORTS 2 R3
 http://rctv.tech:80/096154/686531/5071
 
 ###########################  FX  ###########################
 
-#EXTINF:-1 tvg-id="FXBrazil.br" group-title="FACTORY 1", FX [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="FXBrazil.br" group-title="FACTORY 1", FX F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36969
-#EXTINF:-1 tvg-id="FXBrazil.br" group-title="FACTORY 2", FX [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="FXBrazil.br" group-title="FACTORY 2", FX F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36969
-#EXTINF:-1 tvg-id="FXBrazil.br" group-title="FACTORY 3", FX [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="FXBrazil.br" group-title="FACTORY 3", FX F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36969
-#EXTINF:-1 tvg-id="FXBrazil.br" group-title="RCTV 1   ", FX [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="FXBrazil.br" group-title="RCTV 1   ", FX R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5073
-#EXTINF:-1 tvg-id="FXBrazil.br" group-title="RCTV 2   ", FX [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="FXBrazil.br" group-title="RCTV 2   ", FX R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5073
-#EXTINF:-1 tvg-id="FXBrazil.br" group-title="RCTV 3   ", FX [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="FXBrazil.br" group-title="RCTV 3   ", FX R3
 http://rctv.tech:80/096154/686531/5073
 
 ###########################  GLOBO SP  ###########################
 
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="FACTORY 1", GLOBO SP [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="FACTORY 1", GLOBO SP F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37361
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="FACTORY 2", GLOBO SP [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="FACTORY 2", GLOBO SP F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/37361
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="FACTORY 3", GLOBO SP [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="FACTORY 3", GLOBO SP F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/37361	 
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="RCTV 1   ", GLOBO SP [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="RCTV 1   ", GLOBO SP R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5309
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="RCTV 2   ", GLOBO SP [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="RCTV 2   ", GLOBO SP R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5309
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="RCTV 3   ", GLOBO SP [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="RCTV 3   ", GLOBO SP R3
 http://rctv.tech:80/096154/686531/5309
 
 ###########################  GLOBONEWS  ###########################
 
-#EXTINF:-1 tvg-id="GloboNews.br" group-title="FACTORY 1", GLOBONEWS [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="GloboNews.br" group-title="FACTORY 1", GLOBONEWS F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv//36917
-#EXTINF:-1 tvg-id="GloboNews.br" group-title="FACTORY 2", GLOBONEWS [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="GloboNews.br" group-title="FACTORY 2", GLOBONEWS F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr//36917
-#EXTINF:-1 tvg-id="GloboNews.br" group-title="FACTORY 3", GLOBONEWS [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="GloboNews.br" group-title="FACTORY 3", GLOBONEWS F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22//36917	 
-#EXTINF:-1 tvg-id="GloboNews.br" group-title="RCTV 1   ", GLOBONEWS [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="GloboNews.br" group-title="RCTV 1   ", GLOBONEWS R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5074
-#EXTINF:-1 tvg-id="GloboNews.br" group-title="RCTV 2   ", GLOBONEWS [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="GloboNews.br" group-title="RCTV 2   ", GLOBONEWS R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5074
-#EXTINF:-1 tvg-id="GloboNews.br" group-title="RCTV 3   ", GLOBONEWS [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="GloboNews.br" group-title="RCTV 3   ", GLOBONEWS R3
 http://rctv.tech:80/096154/686531/5074
 
 ###########################  HBO  ###########################
 
-#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="FACTORY 1", HBO [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="FACTORY 1", HBO F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36964
-#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="FACTORY 2", HBO [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="FACTORY 2", HBO F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36964
-#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="FACTORY 3", HBO [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="FACTORY 3", HBO F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36964	 
-#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="RCTV 1   ", HBO [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="RCTV 1   ", HBO R1
 http://rctv.tech:80/priscilaj/tvsmartnew/355046
-#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="RCTV 2   ", HBO [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="RCTV 2   ", HBO R2
 http://rctv.tech:80/008d878bf/mauriciofv10/355046
-#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="RCTV 3   ", HBO [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="HBOBrazil.br" group-title="RCTV 3   ", HBO R3
 http://rctv.tech:80/096154/686531/355046
 
 ###########################  HBO 2  ###########################
 
-#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="FACTORY 1", HBO 2 [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="FACTORY 1", HBO 2 F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36966
-#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="FACTORY 2", HBO 2 [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="FACTORY 2", HBO 2 F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36966
-#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="FACTORY 3", HBO 2 [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="FACTORY 3", HBO 2 F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36966	 
-#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="RCTV 1   ", HBO 2 [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="RCTV 1   ", HBO 2 R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5078
-#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="RCTV 2   ", HBO 2 [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="RCTV 2   ", HBO 2 R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5078
-#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="RCTV 3   ", HBO 2 [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="HBO2Brazil.br" group-title="RCTV 3   ", HBO 2 R3
 http://rctv.tech:80/096154/686531/5078
 
 ###########################  HBO FAMILY  ###########################
 
-#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="FACTORY 1", HBO FAMILY [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="FACTORY 1", HBO FAMILY F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36965
-#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="FACTORY 2", HBO FAMILY [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="FACTORY 2", HBO FAMILY F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36965
-#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="FACTORY 3", HBO FAMILY [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="FACTORY 3", HBO FAMILY F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36965	 
-#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="RCTV 1   ", HBO FAMILY [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="RCTV 1   ", HBO FAMILY R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5079
-#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="RCTV 2   ", HBO FAMILY [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="RCTV 2   ", HBO FAMILY R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5079
-#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="RCTV 3   ", HBO FAMILY [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" group-title="RCTV 3   ", HBO FAMILY R3
 http://rctv.tech:80/096154/686531/5079
 
 ###########################  HBO MUNDI  ###########################
 
-#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="FACTORY 1", HBO MUNDI [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="FACTORY 1", HBO MUNDI F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36913
-#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="FACTORY 2", HBO MUNDI [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="FACTORY 2", HBO MUNDI F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36913
-#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="FACTORY 3", HBO MUNDI [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="FACTORY 3", HBO MUNDI F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36913	 
-#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="RCTV 1   ", HBO MUNDI [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="RCTV 1   ", HBO MUNDI R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5087
-#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="RCTV 2   ", HBO MUNDI [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="RCTV 2   ", HBO MUNDI R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5087
-#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="RCTV 3   ", HBO MUNDI [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" group-title="RCTV 3   ", HBO MUNDI R3
 http://rctv.tech:80/096154/686531/5087
 
 ###########################  HBO PLUS  ###########################
 
-#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="FACTORY 1", HBO PLUS [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="FACTORY 1", HBO PLUS F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36963
-#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="FACTORY 2", HBO PLUS [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="FACTORY 2", HBO PLUS F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36963
-#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="FACTORY 3", HBO PLUS [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="FACTORY 3", HBO PLUS F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36963	 
-#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="RCTV 1   ", HBO PLUS [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="RCTV 1   ", HBO PLUS R1
 http://rctv.tech:80/priscilaj/tvsmartnew/923015
-#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="RCTV 2   ", HBO PLUS [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="RCTV 2   ", HBO PLUS R2
 http://rctv.tech:80/008d878bf/mauriciofv10/923015
-#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="RCTV 3   ", HBO PLUS [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="HBOPlusBrazil.br" group-title="RCTV 3   ", HBO PLUS R3
 http://rctv.tech:80/096154/686531/923015
 
 ###########################  HBO POP  ###########################
 
-#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="FACTORY 1", HBO POP [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="FACTORY 1", HBO POP F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36911
-#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="FACTORY 2", HBO POP [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="FACTORY 2", HBO POP F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36911
-#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="FACTORY 3", HBO POP [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="FACTORY 3", HBO POP F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36911	 
-#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="RCTV 1   ", HBO POP [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="RCTV 1   ", HBO POP R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5089
-#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="RCTV 2   ", HBO POP [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="RCTV 2   ", HBO POP R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5089
-#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="RCTV 3   ", HBO POP [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" group-title="RCTV 3   ", HBO POP R3
 http://rctv.tech:80/096154/686531/5089
 
 ###########################  HBO SIGNATURE  ###########################
 
-#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="FACTORY 1", HBO SIGNATURE [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="FACTORY 1", HBO SIGNATURE F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36962
-#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="FACTORY 2", HBO SIGNATURE [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="FACTORY 2", HBO SIGNATURE F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36962
-#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="FACTORY 3", HBO SIGNATURE [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="FACTORY 3", HBO SIGNATURE F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36962	 
-#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="RCTV 1   ", HBO SIGNATURE [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="RCTV 1   ", HBO SIGNATURE R1
 http://rctv.tech:80/priscilaj/tvsmartnew/45334
-#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="RCTV 2   ", HBO SIGNATURE [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="RCTV 2   ", HBO SIGNATURE R2
 http://rctv.tech:80/008d878bf/mauriciofv10/45334
-#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="RCTV 3   ", HBO SIGNATURE [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" group-title="RCTV 3   ", HBO SIGNATURE R3
 http://rctv.tech:80/096154/686531/45334
 
 ###########################  HBO XTREME  ###########################
 
-#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="FACTORY 1", HBO XTREME [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="FACTORY 1", HBO XTREME F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36912
-#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="FACTORY 2", HBO XTREME [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="FACTORY 2", HBO XTREME F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36912
-#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="FACTORY 3", HBO XTREME [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="FACTORY 3", HBO XTREME F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36912	 
-#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="RCTV 1   ", HBO XTREME [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="RCTV 1   ", HBO XTREME R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5088
-#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="RCTV 2   ", HBO XTREME [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="RCTV 2   ", HBO XTREME R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5088
-#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="RCTV 3   ", HBO XTREME [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" group-title="RCTV 3   ", HBO XTREME R3
 http://rctv.tech:80/096154/686531/5088
 
 ###########################  HGTV  ###########################
 
-#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="FACTORY 1", HGTV [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="FACTORY 1", HGTV F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36924
-#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="FACTORY 2", HGTV [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="FACTORY 2", HGTV F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36924
-#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="FACTORY 3", HGTV [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="FACTORY 3", HGTV F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36924	 
-#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="RCTV 1   ", HGTV [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="RCTV 1   ", HGTV R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5052
-#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="RCTV 2   ", HGTV [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="RCTV 2   ", HGTV R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5052
-#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="RCTV 3   ", HGTV [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="HGTVBrazil.br" group-title="RCTV 3   ", HGTV R3
 http://rctv.tech:80/096154/686531/5052
 
 ###########################  HISTORY  ###########################
 
-#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="FACTORY 1", HISTORY [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="FACTORY 1", HISTORY F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36960
-#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="FACTORY 2", HISTORY [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="FACTORY 2", HISTORY F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36960
-#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="FACTORY 3", HISTORY [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="FACTORY 3", HISTORY F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36960	 
-#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="RCTV 1   ", HISTORY [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="RCTV 1   ", HISTORY R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5084
-#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="RCTV 2   ", HISTORY [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="RCTV 2   ", HISTORY R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5084
-#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="RCTV 3   ", HISTORY [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="HistoryBrazil.br" group-title="RCTV 3   ", HISTORY R3
 http://rctv.tech:80/096154/686531/5084
 
 ###########################  HISTORY 2  ###########################
 
-#EXTINF:-1 tvg-id="History2Brazil.br" group-title="FACTORY 1", HISTORY 2 [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="History2Brazil.br" group-title="FACTORY 1", HISTORY 2 F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36961
-#EXTINF:-1 tvg-id="History2Brazil.br" group-title="FACTORY 2", HISTORY 2 [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="History2Brazil.br" group-title="FACTORY 2", HISTORY 2 F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36961
-#EXTINF:-1 tvg-id="History2Brazil.br" group-title="FACTORY 3", HISTORY 2 [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="History2Brazil.br" group-title="FACTORY 3", HISTORY 2 F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36961	 
-#EXTINF:-1 tvg-id="History2Brazil.br" group-title="RCTV 1   ", HISTORY 2 [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="History2Brazil.br" group-title="RCTV 1   ", HISTORY 2 R1
 http://rctv.tech:80/priscilaj/tvsmartnew/923017
-#EXTINF:-1 tvg-id="History2Brazil.br" group-title="RCTV 2   ", HISTORY 2 [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="History2Brazil.br" group-title="RCTV 2   ", HISTORY 2 R2
 http://rctv.tech:80/008d878bf/mauriciofv10/923017
-#EXTINF:-1 tvg-id="History2Brazil.br" group-title="RCTV 3   ", HISTORY 2 [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="History2Brazil.br" group-title="RCTV 3   ", HISTORY 2 R3
 http://rctv.tech:80/096154/686531/923017
 
 ###########################  ID: INVESTIGAÇÃO DISCOVERY  ###########################
 
-#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="FACTORY 1", ID: INVESTIGAÇÃO DISCOVERY [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="FACTORY 1", ID: INVESTIGAÇÃO DISCOVERY F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36959
-#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="FACTORY 2", ID: INVESTIGAÇÃO DISCOVERY [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="FACTORY 2", ID: INVESTIGAÇÃO DISCOVERY F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36959
-#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="FACTORY 3", ID: INVESTIGAÇÃO DISCOVERY [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="FACTORY 3", ID: INVESTIGAÇÃO DISCOVERY F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36959	 
-#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="RCTV 1   ", ID: INVESTIGAÇÃO DISCOVERY [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="RCTV 1   ", ID: INVESTIGAÇÃO DISCOVERY R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5085
-#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="RCTV 2   ", ID: INVESTIGAÇÃO DISCOVERY [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="RCTV 2   ", ID: INVESTIGAÇÃO DISCOVERY R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5085
-#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="RCTV 3   ", ID: INVESTIGAÇÃO DISCOVERY [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" group-title="RCTV 3   ", ID: INVESTIGAÇÃO DISCOVERY R3
 http://rctv.tech:80/096154/686531/5085
 
 ###########################  JOVEM PAN NEWS  ###########################
 
-#EXTINF:-1 tvg-id="JPNews.br" group-title="FACTORY 1", JOVEM PAN NEWS [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="JPNews.br" group-title="FACTORY 1", JOVEM PAN NEWS F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/85005
-#EXTINF:-1 tvg-id="JPNews.br" group-title="FACTORY 2", JOVEM PAN NEWS [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="JPNews.br" group-title="FACTORY 2", JOVEM PAN NEWS F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/85005
-#EXTINF:-1 tvg-id="JPNews.br" group-title="FACTORY 3", JOVEM PAN NEWS [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="JPNews.br" group-title="FACTORY 3", JOVEM PAN NEWS F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/835005	 
-#EXTINF:-1 tvg-id="JPNews.br" group-title="RCTV 1   ", JOVEM PAN NEWS [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="JPNews.br" group-title="RCTV 1   ", JOVEM PAN NEWS R1
 http://rctv.tech:80/priscilaj/tvsmartnew/465362
-#EXTINF:-1 tvg-id="JPNews.br" group-title="RCTV 2   ", JOVEM PAN NEWS [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="JPNews.br" group-title="RCTV 2   ", JOVEM PAN NEWS R2
 http://rctv.tech:80/008d878bf/mauriciofv10/465362
-#EXTINF:-1 tvg-id="JPNews.br" group-title="RCTV 3   ", JOVEM PAN NEWS [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="JPNews.br" group-title="RCTV 3   ", JOVEM PAN NEWS R3
 http://rctv.tech:80/096154/686531/465362
 
 ###########################  LIFETIME ###########################
 
-#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="FACTORY 1", LIFETIME [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="FACTORY 1", LIFETIME F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36914
-#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="FACTORY 2", LIFETIME [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="FACTORY 2", LIFETIME F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36914
-#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="FACTORY 3", LIFETIME [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="FACTORY 3", LIFETIME F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36914	 
-#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="RCTV 1   ", LIFETIME [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="RCTV 1   ", LIFETIME R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5086
-#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="RCTV 2   ", LIFETIME [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="RCTV 2   ", LIFETIME R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5086
-#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="RCTV 3   ", LIFETIME [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" group-title="RCTV 3   ", LIFETIME R3
 http://rctv.tech:80/096154/686531/5086
 
 ###########################  MEGAPIX  ###########################
 
-#EXTINF:-1 tvg-id="Megapix.br" group-title="FACTORY 1", MEGAPIX [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="Megapix.br" group-title="FACTORY 1", MEGAPIX F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36958
-#EXTINF:-1 tvg-id="Megapix.br" group-title="FACTORY 2", MEGAPIX [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="Megapix.br" group-title="FACTORY 2", MEGAPIX F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36958
-#EXTINF:-1 tvg-id="Megapix.br" group-title="FACTORY 3", MEGAPIX [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="Megapix.br" group-title="FACTORY 3", MEGAPIX F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36958	 
-#EXTINF:-1 tvg-id="Megapix.br" group-title="RCTV 1   ", MEGAPIX [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="Megapix.br" group-title="RCTV 1   ", MEGAPIX R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5090
-#EXTINF:-1 tvg-id="Megapix.br" group-title="RCTV 2   ", MEGAPIX [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="Megapix.br" group-title="RCTV 2   ", MEGAPIX R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5090
-#EXTINF:-1 tvg-id="Megapix.br" group-title="RCTV 3   ", MEGAPIX [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="Megapix.br" group-title="RCTV 3   ", MEGAPIX R3
 http://rctv.tech:80/096154/686531/5090
 
 ###########################  MODO VIAGEM  ###########################
 
-#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="FACTORY 1", MODO VIAGEM [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="FACTORY 1", MODO VIAGEM F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/73453
-#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="FACTORY 2", MODO VIAGEM [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="FACTORY 2", MODO VIAGEM F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/73453
-#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="FACTORY 3", MODO VIAGEM [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="FACTORY 3", MODO VIAGEM F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/73453	 
-#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="RCTV 1   ", MODO VIAGEM [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="RCTV 1   ", MODO VIAGEM R1
 http://rctv.tech:80/priscilaj/tvsmartnew/766444
-#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="RCTV 2   ", MODO VIAGEM [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="RCTV 2   ", MODO VIAGEM R2
 http://rctv.tech:80/008d878bf/mauriciofv10/766444
-#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="RCTV 3   ", MODO VIAGEM [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="MaisnaTela.br" group-title="RCTV 3   ", MODO VIAGEM R3
 http://rctv.tech:80/096154/686531/766444
 
 ###########################  MULTISHOW  ###########################
 
-#EXTINF:-1 tvg-id="Multishow.br" group-title="FACTORY 1", MULTISHOW [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="Multishow.br" group-title="FACTORY 1", MULTISHOW F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36957
-#EXTINF:-1 tvg-id="Multishow.br" group-title="FACTORY 2", MULTISHOW [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="Multishow.br" group-title="FACTORY 2", MULTISHOW F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36957
-#EXTINF:-1 tvg-id="Multishow.br" group-title="FACTORY 3", MULTISHOW [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="Multishow.br" group-title="FACTORY 3", MULTISHOW F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36957 
-#EXTINF:-1 tvg-id="Multishow.br" group-title="RCTV 1   ", MULTISHOW [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="Multishow.br" group-title="RCTV 1   ", MULTISHOW R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5092
-#EXTINF:-1 tvg-id="Multishow.br" group-title="RCTV 2   ", MULTISHOW [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="Multishow.br" group-title="RCTV 2   ", MULTISHOW R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5092
-#EXTINF:-1 tvg-id="Multishow.br" group-title="RCTV 3   ", MULTISHOW [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="Multishow.br" group-title="RCTV 3   ", MULTISHOW R3
 http://rctv.tech:80/096154/686531/5092
 
 ###########################  MTV  ###########################
 
-#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="FACTORY 1", MTV [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="FACTORY 1", MTV F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36910
-#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="FACTORY 2", MTV [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="FACTORY 2", MTV F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36910
-#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="FACTORY 3", MTV [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="FACTORY 3", MTV F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36910	 
-#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="RCTV 1   ", MTV [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="RCTV 1   ", MTV R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5091
-#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="RCTV 2   ", MTV [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="RCTV 2   ", MTV R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5091
-#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="RCTV 3   ", MTV [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="MTVBrazil.br" group-title="RCTV 3   ", MTV R3
 http://rctv.tech:80/096154/686531/5091
 
 ###########################  MTV LIVE  ###########################
 
-#EXTINF:-1 tvg-id="MTVLive.uk" group-title="FACTORY 1", MTV LIVE [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="MTVLive.uk" group-title="FACTORY 1", MTV LIVE F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/40518
-#EXTINF:-1 tvg-id="MTVLive.uk" group-title="FACTORY 2", MTV LIVE [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="MTVLive.uk" group-title="FACTORY 2", MTV LIVE F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/40518
-#EXTINF:-1 tvg-id="MTVLive.uk" group-title="FACTORY 3", MTV LIVE [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="MTVLive.uk" group-title="FACTORY 3", MTV LIVE F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/40518
 
 ###########################  MTV 00S  ###########################
 
-#EXTINF:-1 tvg-id="MTV00s.uk" group-title="FACTORY 1", MTV 00S [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="MTV00s.uk" group-title="FACTORY 1", MTV 00S F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36900
-#EXTINF:-1 tvg-id="MTV00s.uk" group-title="FACTORY 2", MTV 00S [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="MTV00s.uk" group-title="FACTORY 2", MTV 00S F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36900
-#EXTINF:-1 tvg-id="MTV00s.uk" group-title="FACTORY 3", MTV 00S [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="MTV00s.uk" group-title="FACTORY 3", MTV 00S F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36900
 
 ###########################  MUSIC BOX BRAZIL  ###########################
 
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="FACTORY 1", MUSIC BOX BRAZIL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="FACTORY 1", MUSIC BOX BRAZIL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63651
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="FACTORY 2", MUSIC BOX BRAZIL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="FACTORY 2", MUSIC BOX BRAZIL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/63651
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="FACTORY 3", MUSIC BOX BRAZIL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="FACTORY 3", MUSIC BOX BRAZIL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/63651	 
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="RCTV 1   ", MUSIC BOX BRAZIL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="RCTV 1   ", MUSIC BOX BRAZIL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5462
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="RCTV 2   ", MUSIC BOX BRAZIL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="RCTV 2   ", MUSIC BOX BRAZIL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5462
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="RCTV 3   ", MUSIC BOX BRAZIL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="RCTV 3   ", MUSIC BOX BRAZIL R3
 http://rctv.tech:80/096154/686531/5462
 
 ###########################  NATIONAL GEOGRAPHIC  ###########################
 
-#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="FACTORY 1", NATIONAL GEOGRAPHIC [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="FACTORY 1", NATIONAL GEOGRAPHIC F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36956
-#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="FACTORY 2", NATIONAL GEOGRAPHIC [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="FACTORY 2", NATIONAL GEOGRAPHIC F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36956
-#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="FACTORY 3", NATIONAL GEOGRAPHIC [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="FACTORY 3", NATIONAL GEOGRAPHIC F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36956 
-#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="RCTV 1   ", NATIONAL GEOGRAPHIC [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="RCTV 1   ", NATIONAL GEOGRAPHIC R1
 http://rctv.tech:80/priscilaj/tvsmartnew/104678
-#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="RCTV 2   ", NATIONAL GEOGRAPHIC [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="RCTV 2   ", NATIONAL GEOGRAPHIC R2
 http://rctv.tech:80/008d878bf/mauriciofv10/104678
-#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="RCTV 3   ", NATIONAL GEOGRAPHIC [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" group-title="RCTV 3   ", NATIONAL GEOGRAPHIC R3
 http://rctv.tech:80/096154/686531/104678
 
 ###########################  NICKELODEON  ###########################
 
-#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="FACTORY 1", NICKELODEON [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="FACTORY 1", NICKELODEON F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36907
-#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="FACTORY 2", NICKELODEON [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="FACTORY 2", NICKELODEON F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36907
-#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="FACTORY 3", NICKELODEON [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="FACTORY 3", NICKELODEON F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36907	 
-#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="RCTV 1   ", NICKELODEON [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="RCTV 1   ", NICKELODEON R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5096
-#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="RCTV 2   ", NICKELODEON [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="RCTV 2   ", NICKELODEON R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5096
-#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="RCTV 3   ", NICKELODEON [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" group-title="RCTV 3   ", NICKELODEON R3
 http://rctv.tech:80/096154/686531/5096
 
 ###########################  PARAMOUNT CHANNEL  ###########################
 
-#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="FACTORY 1", PARAMOUNT CHANNEL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="FACTORY 1", PARAMOUNT CHANNEL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36953
-#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="FACTORY 2", PARAMOUNT CHANNEL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="FACTORY 2", PARAMOUNT CHANNEL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36953
-#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="FACTORY 3", PARAMOUNT CHANNEL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="FACTORY 3", PARAMOUNT CHANNEL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36953	 
-#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="RCTV 1   ", PARAMOUNT CHANNEL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="RCTV 1   ", PARAMOUNT CHANNEL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5099
-#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="RCTV 2   ", PARAMOUNT CHANNEL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="RCTV 2   ", PARAMOUNT CHANNEL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5099
-#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="RCTV 3   ", PARAMOUNT CHANNEL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" group-title="RCTV 3   ", PARAMOUNT CHANNEL R3
 http://rctv.tech:80/096154/686531/5099
 
 ###########################  PREMIERE CLUBES  ###########################
 
-#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="FACTORY 1", PREMIERE CLUBES [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="FACTORY 1", PREMIERE CLUBES F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36948
-#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="FACTORY 2", PREMIERE CLUBES [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="FACTORY 2", PREMIERE CLUBES F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36948
-#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="FACTORY 3", PREMIERE CLUBES [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="FACTORY 3", PREMIERE CLUBES F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36948	 
-#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="RCTV 1   ", PREMIERE CLUBES [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="RCTV 1   ", PREMIERE CLUBES R1
 http://rctv.tech:80/priscilaj/tvsmartnew/372984
-#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="RCTV 2   ", PREMIERE CLUBES [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="RCTV 2   ", PREMIERE CLUBES R2
 http://rctv.tech:80/008d878bf/mauriciofv10/372984
-#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="RCTV 3   ", PREMIERE CLUBES [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="RCTV 3   ", PREMIERE CLUBES R3
 http://rctv.tech:80/096154/686531/372984
 
 ###########################  PREMIERE 2  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 2* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 2* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36952
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 2* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 2* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36952
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 2* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 2* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36952	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 2* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 2* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/128489
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 2* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 2* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/128489
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 2* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 2* R3
 http://rctv.tech:80/096154/686531/128489
 
 ###########################  PREMIERE 3  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 3* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 3* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36951
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 3* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 3* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36951
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 3* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 3* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36951	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 3* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 3* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5101
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 3* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 3* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5101
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 3* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 3* R3
 http://rctv.tech:80/096154/686531/5101
 
 ###########################  PREMIERE 4  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 4* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 4* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36950
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 4* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 4* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36950
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 4* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 4* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36950	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 4* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 4* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5102
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 4* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 4* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5102
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 4* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 4* R3
 http://rctv.tech:80/096154/686531/5102
 
 ###########################  PREMIERE 5  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 5* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 5* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36949
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 5* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 5* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36949
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 5* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 5* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36949	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 5* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 5* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/45345
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 5* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 5* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/45345
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 5* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 5* R3
 http://rctv.tech:80/096154/686531/45345
 
 ###########################  PREMIERE 6  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 6* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 6* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36906
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 6* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 6* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36906
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 6* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 6* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36906	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 6* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 6* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5104
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 6* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 6* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5104
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 6* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 6* R3
 http://rctv.tech:80/096154/686531/5104
 
 ###########################  PREMIERE 7  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 7* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", PREMIERE 7* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36905
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 7* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", PREMIERE 7* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36905
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 7* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", PREMIERE 7* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36905	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 7* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", PREMIERE 7* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5105
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 7* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", PREMIERE 7* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5105
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 7* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", PREMIERE 7* R3
 http://rctv.tech:80/096154/686531/5105
 
 ###########################  PRIME BOX BRAZIL  ###########################
 
-#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" group-title="FACTORY 1", PRIME BOX BRAZIL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" group-title="FACTORY 1", PRIME BOX BRAZIL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68532
-#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" group-title="FACTORY 2", PRIME BOX BRAZIL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" group-title="FACTORY 2", PRIME BOX BRAZIL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/68532
-#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" group-title="FACTORY 3", PRIME BOX BRAZIL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" group-title="FACTORY 3", PRIME BOX BRAZIL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/68532
 
 ###########################  RBS PORTO ALEGRE  ###########################
 
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="FACTORY 1", RBS PORTO ALEGRE [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="FACTORY 1", RBS PORTO ALEGRE F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/40252
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="FACTORY 2", RBS PORTO ALEGRE [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="FACTORY 2", RBS PORTO ALEGRE F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/40252
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="FACTORY 3", RBS PORTO ALEGRE [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="FACTORY 3", RBS PORTO ALEGRE F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/40252 
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="RCTV 1   ", RBS PORTO ALEGRE [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="RCTV 1   ", RBS PORTO ALEGRE R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5310
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="RCTV 2   ", RBS PORTO ALEGRE [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="RCTV 2   ", RBS PORTO ALEGRE R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5310
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="RCTV 3   ", RBS PORTO ALEGRE [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" group-title="RCTV 3   ", RBS PORTO ALEGRE R3
 http://rctv.tech:80/096154/686531/5310
 
 ###########################  RECORD NEWS  ###########################
 
-#EXTINF:-1 tvg-id="RecordNews.br" group-title="FACTORY 1", RECORD NEWS [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="RecordNews.br" group-title="FACTORY 1", RECORD NEWS F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37050
-#EXTINF:-1 tvg-id="RecordNews.br" group-title="FACTORY 2", RECORD NEWS [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="RecordNews.br" group-title="FACTORY 2", RECORD NEWS F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/37050
-#EXTINF:-1 tvg-id="RecordNews.br" group-title="FACTORY 3", RECORD NEWS [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="RecordNews.br" group-title="FACTORY 3", RECORD NEWS F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/37050	 
-#EXTINF:-1 tvg-id="RecordNews.br" group-title="RCTV 1   ", RECORD NEWS [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="RecordNews.br" group-title="RCTV 1   ", RECORD NEWS R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5484
-#EXTINF:-1 tvg-id="RecordNews.br" group-title="RCTV 2   ", RECORD NEWS [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="RecordNews.br" group-title="RCTV 2   ", RECORD NEWS R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5484
-#EXTINF:-1 tvg-id="RecordNews.br" group-title="RCTV 3   ", RECORD NEWS [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="RecordNews.br" group-title="RCTV 3   ", RECORD NEWS R3
 http://rctv.tech:80/096154/686531/5484
 
 ###########################  RECORDTV RS  ###########################
 
-#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="FACTORY 1", RECORDTV RS [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="FACTORY 1", RECORDTV RS F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/62987
-#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="FACTORY 2", RECORDTV RS [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="FACTORY 2", RECORDTV RS F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/62987
-#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="FACTORY 3", RECORDTV RS [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="FACTORY 3", RECORDTV RS F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/62987	 
-#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="RCTV 1   ", RECORDTV RS [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="RCTV 1   ", RECORDTV RS R1
 http://rctv.tech:80/priscilaj/tvsmartnew/35165
-#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="RCTV 2   ", RECORDTV RS [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="RCTV 2   ", RECORDTV RS R2
 http://rctv.tech:80/008d878bf/mauriciofv10/35165
-#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="RCTV 3   ", RECORDTV RS [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVRS.br" group-title="RCTV 3   ", RECORDTV RS R3
 http://rctv.tech:80/096154/686531/35165
 
 ###########################  RECORDTV SP  ###########################
 
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="FACTORY 1", RECORDTV SP [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="FACTORY 1", RECORDTV SP F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36947
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="FACTORY 2", RECORDTV SP [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="FACTORY 2", RECORDTV SP F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36947
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="FACTORY 3", RECORDTV SP [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="FACTORY 3", RECORDTV SP F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36947	 
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="RCTV 1   ", RECORDTV SP [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="RCTV 1   ", RECORDTV SP R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5316
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="RCTV 2   ", RECORDTV SP [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="RCTV 2   ", RECORDTV SP R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5316
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="RCTV 3   ", RECORDTV SP [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" group-title="RCTV 3   ", RECORDTV SP R3
 http://rctv.tech:80/096154/686531/5316
 
 ###########################  REDETV!  ###########################
 
-#EXTINF:-1 tvg-id="RedeTV.br" group-title="FACTORY 1", REDETV! [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="RedeTV.br" group-title="FACTORY 1", REDETV! F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36946
-#EXTINF:-1 tvg-id="RedeTV.br" group-title="FACTORY 2", REDETV! [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="RedeTV.br" group-title="FACTORY 2", REDETV! F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36946
-#EXTINF:-1 tvg-id="RedeTV.br" group-title="FACTORY 3", REDETV! [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="RedeTV.br" group-title="FACTORY 3", REDETV! F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36946	 
-#EXTINF:-1 tvg-id="RedeTV.br" group-title="RCTV 1   ", REDETV! [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="RedeTV.br" group-title="RCTV 1   ", REDETV! R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5108
-#EXTINF:-1 tvg-id="RedeTV.br" group-title="RCTV 2   ", REDETV! [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="RedeTV.br" group-title="RCTV 2   ", REDETV! R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5108
-#EXTINF:-1 tvg-id="RedeTV.br" group-title="RCTV 3   ", REDETV! [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="RedeTV.br" group-title="RCTV 3   ", REDETV! R3
 http://rctv.tech:80/096154/686531/5108
 
 ###########################  SBT SP  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", SBT SP* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", SBT SP* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/61970
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", SBT SP* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", SBT SP* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/61970
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", SBT SP* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", SBT SP* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/61970	 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", SBT SP* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", SBT SP* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/68531
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", SBT SP* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", SBT SP* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/68531
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", SBT SP* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", SBT SP* R3
 http://rctv.tech:80/096154/686531/68531
 
 ###########################  SONY CHANNEL  ###########################
 
-#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="FACTORY 1", SONY CHANNEL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="FACTORY 1", SONY CHANNEL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36987
-#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="FACTORY 2", SONY CHANNEL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="FACTORY 2", SONY CHANNEL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36987
-#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="FACTORY 3", SONY CHANNEL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="FACTORY 3", SONY CHANNEL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36987	 
-#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="RCTV 1   ", SONY CHANNEL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="RCTV 1   ", SONY CHANNEL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5046
-#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="RCTV 2   ", SONY CHANNEL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="RCTV 2   ", SONY CHANNEL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5046
-#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="RCTV 3   ", SONY CHANNEL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" group-title="RCTV 3   ", SONY CHANNEL R3
 http://rctv.tech:80/096154/686531/5046
 
 ###########################  SPACE  ###########################
 
-#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="FACTORY 1", SPACE [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="FACTORY 1", SPACE F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36944
-#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="FACTORY 2", SPACE [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="FACTORY 2", SPACE F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36944
-#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="FACTORY 3", SPACE [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="FACTORY 3", SPACE F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36944	 
-#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="RCTV 1   ", SPACE [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="RCTV 1   ", SPACE R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5109
-#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="RCTV 2   ", SPACE [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="RCTV 2   ", SPACE R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5109
-#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="RCTV 3   ", SPACE [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="SpaceBrazil.br" group-title="RCTV 3   ", SPACE R3
 http://rctv.tech:80/096154/686531/5109
 
 ###########################  SPORTV  ###########################
 
-#EXTINF:-1 tvg-id="SporTV.br" group-title="FACTORY 1", SPORTV [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="SporTV.br" group-title="FACTORY 1", SPORTV F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/37255
-#EXTINF:-1 tvg-id="SporTV.br" group-title="FACTORY 2", SPORTV [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="SporTV.br" group-title="FACTORY 2", SPORTV F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/37255
-#EXTINF:-1 tvg-id="SporTV.br" group-title="FACTORY 3", SPORTV [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="SporTV.br" group-title="FACTORY 3", SPORTV F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/37255	 
-#EXTINF:-1 tvg-id="SporTV.br" group-title="RCTV 1   ", SPORTV [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="SporTV.br" group-title="RCTV 1   ", SPORTV R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5112
-#EXTINF:-1 tvg-id="SporTV.br" group-title="RCTV 2   ", SPORTV [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="SporTV.br" group-title="RCTV 2   ", SPORTV R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5112
-#EXTINF:-1 tvg-id="SporTV.br" group-title="RCTV 3   ", SPORTV [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="SporTV.br" group-title="RCTV 3   ", SPORTV R3
 http://rctv.tech:80/096154/686531/5112
 
 ###########################  SPORTV 2  ###########################
 
-#EXTINF:-1 tvg-id="SporTV2.br" group-title="FACTORY 1", SPORTV 2 [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="FACTORY 1", SPORTV 2 F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36943
-#EXTINF:-1 tvg-id="SporTV2.br" group-title="FACTORY 2", SPORTV 2 [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="FACTORY 2", SPORTV 2 F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36943
-#EXTINF:-1 tvg-id="SporTV2.br" group-title="FACTORY 3", SPORTV 2 [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="FACTORY 3", SPORTV 2 F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36943	 
-#EXTINF:-1 tvg-id="SporTV2.br" group-title="RCTV 1   ", SPORTV 2 [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="RCTV 1   ", SPORTV 2 R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5110
-#EXTINF:-1 tvg-id="SporTV2.br" group-title="RCTV 2   ", SPORTV 2 [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="RCTV 2   ", SPORTV 2 R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5110
-#EXTINF:-1 tvg-id="SporTV2.br" group-title="RCTV 3   ", SPORTV 2 [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="RCTV 3   ", SPORTV 2 R3
 http://rctv.tech:80/096154/686531/5110
 
 ###########################  SPORTV 3  ###########################
 
-#EXTINF:-1 tvg-id="SporTV3.br" group-title="FACTORY 1", SPORTV 3 [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="FACTORY 1", SPORTV 3 F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36942
-#EXTINF:-1 tvg-id="SporTV3.br" group-title="FACTORY 2", SPORTV 3 [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="FACTORY 2", SPORTV 3 F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36942
-#EXTINF:-1 tvg-id="SporTV3.br" group-title="FACTORY 3", SPORTV 3 [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="FACTORY 3", SPORTV 3 F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36942	 
-#EXTINF:-1 tvg-id="SporTV3.br" group-title="RCTV 1   ", SPORTV 3 [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="RCTV 1   ", SPORTV 3 R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5111
-#EXTINF:-1 tvg-id="SporTV3.br" group-title="RCTV 2   ", SPORTV 3 [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="RCTV 2   ", SPORTV 3 R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5111
-#EXTINF:-1 tvg-id="SporTV3.br" group-title="RCTV 3   ", SPORTV 3 [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="RCTV 3   ", SPORTV 3 R3
 http://rctv.tech:80/096154/686531/5111
 
 ###########################  STAR CHANNEL  ###########################
 
-#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="FACTORY 1", STAR CHANNEL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="FACTORY 1", STAR CHANNEL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36972
-#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="FACTORY 2", STAR CHANNEL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="FACTORY 2", STAR CHANNEL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36972
-#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="FACTORY 3", STAR CHANNEL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="FACTORY 3", STAR CHANNEL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36972	 
-#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="RCTV 1   ", STAR CHANNEL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="RCTV 1   ", STAR CHANNEL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5067
-#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="RCTV 2   ", STAR CHANNEL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="RCTV 2   ", STAR CHANNEL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5067
-#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="RCTV 3   ", STAR CHANNEL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" group-title="RCTV 3   ", STAR CHANNEL R3
 http://rctv.tech:80/096154/686531/5067
 
 ###########################  STUDIO UNIVERSAL  ###########################
 
-#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="FACTORY 1", STUDIO UNIVERSAL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="FACTORY 1", STUDIO UNIVERSAL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36904
-#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="FACTORY 2", STUDIO UNIVERSAL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="FACTORY 2", STUDIO UNIVERSAL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36904
-#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="FACTORY 3", STUDIO UNIVERSAL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="FACTORY 3", STUDIO UNIVERSAL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36904	 
-#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="RCTV 1   ", STUDIO UNIVERSAL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="RCTV 1   ", STUDIO UNIVERSAL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5113
-#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="RCTV 2   ", STUDIO UNIVERSAL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="RCTV 2   ", STUDIO UNIVERSAL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5113
-#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="RCTV 3   ", STUDIO UNIVERSAL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" group-title="RCTV 3   ", STUDIO UNIVERSAL R3
 http://rctv.tech:80/096154/686531/5113
 
 ###########################  SYFY  ###########################
 
-#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="FACTORY 1", SYFY [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="FACTORY 1", SYFY F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36903
-#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="FACTORY 2", SYFY [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="FACTORY 2", SYFY F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36903
-#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="FACTORY 3", SYFY [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="FACTORY 3", SYFY F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36903	 
-#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="RCTV 1   ", SYFY [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="RCTV 1   ", SYFY R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5114
-#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="RCTV 2   ", SYFY [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="RCTV 2   ", SYFY R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5114
-#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="RCTV 3   ", SYFY [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="SyfyBrazil.br" group-title="RCTV 3   ", SYFY R3
 http://rctv.tech:80/096154/686531/5114
 
 ###########################  TBS  ###########################
 
-#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="FACTORY 1", TBS [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="FACTORY 1", TBS F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36940
-#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="FACTORY 2", TBS [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="FACTORY 2", TBS F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36940
-#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="FACTORY 3", TBS [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="FACTORY 3", TBS F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36940	 
-#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="RCTV 1   ", TBS [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="RCTV 1   ", TBS R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5115
-#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="RCTV 2   ", TBS [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="RCTV 2   ", TBS R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5115
-#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="RCTV 3   ", TBS [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TBSBrazil.br" group-title="RCTV 3   ", TBS R3
 http://rctv.tech:80/096154/686531/5115
 
 ###########################  TCM  ###########################
 
-#EXTINF:-1 tvg-id="TCMBrazil.br" group-title="FACTORY 1", TCM [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TCMBrazil.br" group-title="FACTORY 1", TCM F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63644
-#EXTINF:-1 tvg-id="TCMBrazil.br" group-title="FACTORY 2", TCM [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TCMBrazil.br" group-title="FACTORY 2", TCM F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/63644
-#EXTINF:-1 tvg-id="TCMBrazil.br" group-title="FACTORY 3", TCM [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TCMBrazil.br" group-title="FACTORY 3", TCM F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/63644
 
 ###########################  TELECINE ACTION  ###########################
 
-#EXTINF:-1 tvg-id="TelecineAction.br" group-title="FACTORY 1", TELECINE ACTION [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TelecineAction.br" group-title="FACTORY 1", TELECINE ACTION F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36939
-#EXTINF:-1 tvg-id="TelecineAction.br" group-title="FACTORY 2", TELECINE ACTION [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TelecineAction.br" group-title="FACTORY 2", TELECINE ACTION F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36939
-#EXTINF:-1 tvg-id="TelecineAction.br" group-title="FACTORY 3", TELECINE ACTION [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TelecineAction.br" group-title="FACTORY 3", TELECINE ACTION F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36939	 
-#EXTINF:-1 tvg-id="TelecineAction.br" group-title="RCTV 1   ", TELECINE ACTION [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TelecineAction.br" group-title="RCTV 1   ", TELECINE ACTION R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5116
-#EXTINF:-1 tvg-id="TelecineAction.br" group-title="RCTV 2   ", TELECINE ACTION [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TelecineAction.br" group-title="RCTV 2   ", TELECINE ACTION R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5116
-#EXTINF:-1 tvg-id="TelecineAction.br" group-title="RCTV 3   ", TELECINE ACTION [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TelecineAction.br" group-title="RCTV 3   ", TELECINE ACTION R3
 http://rctv.tech:80/096154/686531/5116
 
 ###########################  TELECINE CULT  ###########################
 
-#EXTINF:-1 tvg-id="TelecineCult.br" group-title="FACTORY 1", TELECINE CULT [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TelecineCult.br" group-title="FACTORY 1", TELECINE CULT F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36901
-#EXTINF:-1 tvg-id="TelecineCult.br" group-title="FACTORY 2", TELECINE CULT [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TelecineCult.br" group-title="FACTORY 2", TELECINE CULT F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36901
-#EXTINF:-1 tvg-id="TelecineCult.br" group-title="FACTORY 3", TELECINE CULT [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TelecineCult.br" group-title="FACTORY 3", TELECINE CULT F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36901	 
-#EXTINF:-1 tvg-id="TelecineCult.br" group-title="RCTV 1   ", TELECINE CULT [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TelecineCult.br" group-title="RCTV 1   ", TELECINE CULT R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5117
-#EXTINF:-1 tvg-id="TelecineCult.br" group-title="RCTV 2   ", TELECINE CULT [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TelecineCult.br" group-title="RCTV 2   ", TELECINE CULT R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5117
-#EXTINF:-1 tvg-id="TelecineCult.br" group-title="RCTV 3   ", TELECINE CULT [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TelecineCult.br" group-title="RCTV 3   ", TELECINE CULT R3
 http://rctv.tech:80/096154/686531/5117
 
 ###########################  TELECINE FUN  ###########################
 
-#EXTINF:-1 tvg-id="TelecineFun.br" group-title="FACTORY 1", TELECINE FUN [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TelecineFun.br" group-title="FACTORY 1", TELECINE FUN F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36938
-#EXTINF:-1 tvg-id="TelecineFun.br" group-title="FACTORY 2", TELECINE FUN [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TelecineFun.br" group-title="FACTORY 2", TELECINE FUN F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36938
-#EXTINF:-1 tvg-id="TelecineFun.br" group-title="FACTORY 3", TELECINE FUN [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TelecineFun.br" group-title="FACTORY 3", TELECINE FUN F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36938	 
-#EXTINF:-1 tvg-id="TelecineFun.br" group-title="RCTV 1   ", TELECINE FUN [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TelecineFun.br" group-title="RCTV 1   ", TELECINE FUN R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5118
-#EXTINF:-1 tvg-id="TelecineFun.br" group-title="RCTV 2   ", TELECINE FUN [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TelecineFun.br" group-title="RCTV 2   ", TELECINE FUN R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5118
-#EXTINF:-1 tvg-id="TelecineFun.br" group-title="RCTV 3   ", TELECINE FUN [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TelecineFun.br" group-title="RCTV 3   ", TELECINE FUN R3
 http://rctv.tech:80/096154/686531/5118
 
 ###########################  TELECINE PIPOCA  ###########################
 
-#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="FACTORY 1", TELECINE PIPOCA [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="FACTORY 1", TELECINE PIPOCA F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36937
-#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="FACTORY 2", TELECINE PIPOCA [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="FACTORY 2", TELECINE PIPOCA F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36937
-#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="FACTORY 3", TELECINE PIPOCA [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="FACTORY 3", TELECINE PIPOCA F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36937	 
-#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="RCTV 1   ", TELECINE PIPOCA [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="RCTV 1   ", TELECINE PIPOCA R1
 http://rctv.tech:80/priscilaj/tvsmartnew/1084480
-#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="RCTV 2   ", TELECINE PIPOCA [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="RCTV 2   ", TELECINE PIPOCA R2
 http://rctv.tech:80/008d878bf/mauriciofv10/1084480
-#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="RCTV 3   ", TELECINE PIPOCA [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="RCTV 3   ", TELECINE PIPOCA R3
 http://rctv.tech:80/096154/686531/1084480
 
 ###########################  TELECINE PREMIUM  ###########################
 
-#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="FACTORY 1", TELECINE PREMIUM [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="FACTORY 1", TELECINE PREMIUM F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36936
-#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="FACTORY 2", TELECINE PREMIUM [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="FACTORY 2", TELECINE PREMIUM F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36936
-#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="FACTORY 3", TELECINE PREMIUM [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="FACTORY 3", TELECINE PREMIUM F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36936	 
-#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="RCTV 1   ", TELECINE PREMIUM [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="RCTV 1   ", TELECINE PREMIUM R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5120
-#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="RCTV 2   ", TELECINE PREMIUM [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="RCTV 2   ", TELECINE PREMIUM R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5120
-#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="RCTV 3   ", TELECINE PREMIUM [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="RCTV 3   ", TELECINE PREMIUM R3
 http://rctv.tech:80/096154/686531/5120
 
 ###########################  TELECINE TOUCH  ###########################
 
-#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="FACTORY 1", TELECINE TOUCH [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="FACTORY 1", TELECINE TOUCH F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36935
-#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="FACTORY 2", TELECINE TOUCH [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="FACTORY 2", TELECINE TOUCH F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36935
-#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="FACTORY 3", TELECINE TOUCH [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="FACTORY 3", TELECINE TOUCH F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36935	 
-#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="RCTV 1   ", TELECINE TOUCH [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="RCTV 1   ", TELECINE TOUCH R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5121
-#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="RCTV 2   ", TELECINE TOUCH [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="RCTV 2   ", TELECINE TOUCH R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5121
-#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="RCTV 3   ", TELECINE TOUCH [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="RCTV 3   ", TELECINE TOUCH R3
 http://rctv.tech:80/096154/686531/5121
 
 ###########################  TERRA VIVA  ###########################
 
-#EXTINF:-1 tvg-id="TerraViva.br" group-title="FACTORY 1", TERRA VIVA [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TerraViva.br" group-title="FACTORY 1", TERRA VIVA F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/81607
-#EXTINF:-1 tvg-id="TerraViva.br" group-title="FACTORY 2", TERRA VIVA [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TerraViva.br" group-title="FACTORY 2", TERRA VIVA F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/81607
-#EXTINF:-1 tvg-id="TerraViva.br" group-title="FACTORY 3", TERRA VIVA [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TerraViva.br" group-title="FACTORY 3", TERRA VIVA F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/81607
-#EXTINF:-1 tvg-id="TerraViva.br" group-title="RCTV 1   ", TERRA VIVA [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TerraViva.br" group-title="RCTV 1   ", TERRA VIVA R1
 http://rctv.tech:80/priscilaj/tvsmartnew/374284
-#EXTINF:-1 tvg-id="TerraViva.br" group-title="RCTV 2   ", TERRA VIVA [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TerraViva.br" group-title="RCTV 2   ", TERRA VIVA R2
 http://rctv.tech:80/008d878bf/mauriciofv10/374284
-#EXTINF:-1 tvg-id="TerraViva.br" group-title="RCTV 3   ", TERRA VIVA [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TerraViva.br" group-title="RCTV 3   ", TERRA VIVA R3
 http://rctv.tech:80/096154/686531/374284
 
 ###########################  TNT  ###########################
 
-#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="FACTORY 1", TNT [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="FACTORY 1", TNT F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36934
-#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="FACTORY 2", TNT [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="FACTORY 2", TNT F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36934
-#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="FACTORY 3", TNT [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="FACTORY 3", TNT F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36934	 
-#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="RCTV 1   ", TNT [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="RCTV 1   ", TNT R1
 http://rctv.tech:80/priscilaj/tvsmartnew/923057
-#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="RCTV 2   ", TNT [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="RCTV 2   ", TNT R2
 http://rctv.tech:80/008d878bf/mauriciofv10/923057
-#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="RCTV 3   ", TNT [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TNTBrazil.br" group-title="RCTV 3   ", TNT R3
 http://rctv.tech:80/096154/686531/923057
 
 ###########################  TNT SÉRIES  ###########################
 
-#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="FACTORY 1", TNT SÉRIES [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="FACTORY 1", TNT SÉRIES F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36933
-#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="FACTORY 2", TNT SÉRIES [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="FACTORY 2", TNT SÉRIES F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36933
-#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="FACTORY 3", TNT SÉRIES [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="FACTORY 3", TNT SÉRIES F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36933	 
-#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="RCTV 1   ", TNT SÉRIES [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="RCTV 1   ", TNT SÉRIES R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5124
-#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="RCTV 2   ", TNT SÉRIES [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="RCTV 2   ", TNT SÉRIES R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5124
-#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="RCTV 3   ", TNT SÉRIES [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" group-title="RCTV 3   ", TNT SÉRIES R3
 http://rctv.tech:80/096154/686531/5124
 
 ###########################  TOONCAST  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", TOONCAST* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", TOONCAST* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/63647
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", TOONCAST* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", TOONCAST* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/63647
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", TOONCAST* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", TOONCAST* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/63647
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", TOONCAST* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", TOONCAST* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5511
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", TOONCAST* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", TOONCAST* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5511
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", TOONCAST* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", TOONCAST* R3
 http://rctv.tech:80/096154/686531/5511
 
 ###########################  TRAVEL BOX BRAZIL  ###########################
 
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="FACTORY 1", TRAVEL BOX BRAZIL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="FACTORY 1", TRAVEL BOX BRAZIL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/68525
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="FACTORY 2", TRAVEL BOX BRAZIL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="FACTORY 2", TRAVEL BOX BRAZIL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/68525
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="FACTORY 3", TRAVEL BOX BRAZIL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="FACTORY 3", TRAVEL BOX BRAZIL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/68525	 
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="RCTV 1   ", TRAVEL BOX BRAZIL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="RCTV 1   ", TRAVEL BOX BRAZIL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/384894
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="RCTV 2   ", TRAVEL BOX BRAZIL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="RCTV 2   ", TRAVEL BOX BRAZIL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/384894
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="RCTV 3   ", TRAVEL BOX BRAZIL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="RCTV 3   ", TRAVEL BOX BRAZIL R3
 http://rctv.tech:80/096154/686531/384894
 
 ###########################  UNIVERSAL TV  ###########################
 
-#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="FACTORY 1", UNIVERSAL TV [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="FACTORY 1", UNIVERSAL TV F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36932
-#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="FACTORY 2", UNIVERSAL TV [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="FACTORY 2", UNIVERSAL TV F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36932
-#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="FACTORY 3", UNIVERSAL TV [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="FACTORY 3", UNIVERSAL TV F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36932	 
-#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="RCTV 1   ", UNIVERSAL TV [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="RCTV 1   ", UNIVERSAL TV R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5129
-#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="RCTV 2   ", UNIVERSAL TV [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="RCTV 2   ", UNIVERSAL TV R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5129
-#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="RCTV 3   ", UNIVERSAL TV [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" group-title="RCTV 3   ", UNIVERSAL TV R3
 http://rctv.tech:80/096154/686531/5129
 
 ###########################  VIVA  ###########################
 
-#EXTINF:-1 tvg-id="" group-title="FACTORY 1", VIVA* [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 1", VIVA* F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36931
-#EXTINF:-1 tvg-id="" group-title="FACTORY 2", VIVA* [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 2", VIVA* F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36931
-#EXTINF:-1 tvg-id="" group-title="FACTORY 3", VIVA* [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="FACTORY 3", VIVA* F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36931 
-#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", VIVA* [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 1   ", VIVA* R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5131
-#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", VIVA* [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 2   ", VIVA* R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5131
-#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", VIVA* [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="RCTV 3   ", VIVA* R3
 http://rctv.tech:80/096154/686531/5131
 
 ###########################  WARNER CHANNEL  ###########################
 
-#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="FACTORY 1", WARNER CHANNEL [COLOR gray]F1[/COLOR]
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="FACTORY 1", WARNER CHANNEL F1
 http://tv.factoryiptv.com:80/wG4qnAymJM/duoiptv/36930
-#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="FACTORY 2", WARNER CHANNEL [COLOR gray]F2[/COLOR]
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="FACTORY 2", WARNER CHANNEL F2
 http://tv.factoryiptv.com:80/gideaonotebooks/vtrevdvtr/36930
-#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="FACTORY 3", WARNER CHANNEL [COLOR gray]F3[/COLOR]
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="FACTORY 3", WARNER CHANNEL F3
 http://tv.factoryiptv.com:80/Reinaldo21/Reinaldo22/36930	 
-#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="RCTV 1   ", WARNER CHANNEL [COLOR gray]R1[/COLOR]
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="RCTV 1   ", WARNER CHANNEL R1
 http://rctv.tech:80/priscilaj/tvsmartnew/5132
-#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="RCTV 2   ", WARNER CHANNEL [COLOR gray]R2[/COLOR]
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="RCTV 2   ", WARNER CHANNEL R2
 http://rctv.tech:80/008d878bf/mauriciofv10/5132
-#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="RCTV 3   ", WARNER CHANNEL [COLOR gray]R3[/COLOR]
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" group-title="RCTV 3   ", WARNER CHANNEL R3
 http://rctv.tech:80/096154/686531/5132
