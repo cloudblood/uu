@@ -1,1252 +1,1248 @@
 #EXTM3U
 
-#EXTINF:-1, A&E FHD
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff905891-66c9-4811-bfcc-a7d2267b1f2a" group-title="CANAIS | FILMES & SÉRIES", A&E FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415546
-#EXTINF:-1, A&E HD
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff905891-66c9-4811-bfcc-a7d2267b1f2a" group-title="CANAIS | FILMES & SÉRIES", A&E HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415547
-#EXTINF:-1, A&E SD
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff905891-66c9-4811-bfcc-a7d2267b1f2a" group-title="CANAIS | FILMES & SÉRIES", A&E SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415548
-#EXTINF:-1, AGRO BRASIL TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="CANAIS | NOTÍCIAS", AGRO BRASIL TV
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415305
-#EXTINF:-1, AMC FHD
+#EXTINF:-1 tvg-id="AMCBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/52fe6fbf-8cfd-41e8-9de4-977f6dfc25a5" group-title="CANAIS | FILMES & SÉRIES", AMC FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415549
-#EXTINF:-1, AMC HD
+#EXTINF:-1 tvg-id="AMCBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/52fe6fbf-8cfd-41e8-9de4-977f6dfc25a5" group-title="CANAIS | FILMES & SÉRIES", AMC HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415550
-#EXTINF:-1, AMC SD
+#EXTINF:-1 tvg-id="AMCBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/52fe6fbf-8cfd-41e8-9de4-977f6dfc25a5" group-title="CANAIS | FILMES & SÉRIES", AMC SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415551
-#EXTINF:-1, ANIMAL PLANET FHD
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/858bd3b4-da95-48cc-b26f-1e087031087c" group-title="CANAIS | CULTURAIS & VARIEDADES", ANIMAL PLANET FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415371
-#EXTINF:-1, ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/858bd3b4-da95-48cc-b26f-1e087031087c" group-title="CANAIS | CULTURAIS & VARIEDADES", ANIMAL PLANET HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415372
-#EXTINF:-1, ANIMAL PLANET SD
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/858bd3b4-da95-48cc-b26f-1e087031087c" group-title="CANAIS | CULTURAIS & VARIEDADES", ANIMAL PLANET SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415373
-#EXTINF:-1, ANIME STATION
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="CANAIS | INFANTIS", ANIME STATION
 http://suatv.fun:80/canaisp2p/mudar@2021j45/329542
-#EXTINF:-1, ARTE 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/2048px-Arte_1_logo.svg.png" group-title="CANAIS | CULTURAIS & VARIEDADES", ARTE 1 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415640
-#EXTINF:-1, ARTE 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/2048px-Arte_1_logo.svg.png" group-title="CANAIS | CULTURAIS & VARIEDADES", ARTE 1 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415641
-#EXTINF:-1, ARTE 1 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/2048px-Arte_1_logo.svg.png" group-title="CANAIS | CULTURAIS & VARIEDADES", ARTE 1 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415642
-#EXTINF:-1, AXN FHD
+#EXTINF:-1 tvg-id="AXNBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d7b1d684-615e-40da-ba38-fecafd5e17d0" group-title="CANAIS | FILMES & SÉRIES", AXN FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415552
-#EXTINF:-1, AXN FHD H264 (CANAIS LEGENDADOS)
+#EXTINF:-1 tvg-id="AXNBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d7b1d684-615e-40da-ba38-fecafd5e17d0" group-title="CANAIS | FILMES & SÉRIES", AXN FHD H264 (CANAIS LEGENDADOS)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416601
-#EXTINF:-1, AXN HD
+#EXTINF:-1 tvg-id="AXNBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d7b1d684-615e-40da-ba38-fecafd5e17d0" group-title="CANAIS | FILMES & SÉRIES", AXN HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415553
-#EXTINF:-1, AXN HD ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="AXNBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d7b1d684-615e-40da-ba38-fecafd5e17d0" group-title="CANAIS | FILMES & SÉRIES", AXN HD ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416602
-#EXTINF:-1, AXN SD
+#EXTINF:-1 tvg-id="AXNBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d7b1d684-615e-40da-ba38-fecafd5e17d0" group-title="CANAIS | FILMES & SÉRIES", AXN SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415554
-#EXTINF:-1, BABYTV FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS | INFANTIS", BABYTV FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415176
-#EXTINF:-1, BABYTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS | INFANTIS", BABYTV HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415177
-#EXTINF:-1, BABYTV SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS | INFANTIS", BABYTV SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415178
-#EXTINF:-1, BAND SP FHD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND SP FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415245
-#EXTINF:-1, BAND BAHIA HD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND BAHIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/421169
-#EXTINF:-1, BAND BRASILIA HD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND BRASILIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415252
-#EXTINF:-1, BAND CAMPINAS SD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND CAMPINAS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415257
-#EXTINF:-1, BAND MINAS HD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND MINAS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/421170
-#EXTINF:-1, BAND NEWS FHD
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/fbe670ad-8e7e-41f2-9f77-6ef809bb741e" group-title="CANAIS | NOTÍCIAS", BAND NEWS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415609
-#EXTINF:-1, BAND NEWS HD
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/fbe670ad-8e7e-41f2-9f77-6ef809bb741e" group-title="CANAIS | NOTÍCIAS", BAND NEWS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415610
-#EXTINF:-1, BAND NEWS SD
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/fbe670ad-8e7e-41f2-9f77-6ef809bb741e" group-title="CANAIS | NOTÍCIAS", BAND NEWS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415611
-#EXTINF:-1, BAND PARANA HD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND PARANA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415254
-#EXTINF:-1, BAND RJ FHD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND RJ FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415248
-#EXTINF:-1, BAND RJ HD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND RJ HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415249
-#EXTINF:-1, BAND RJ SD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND RJ SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415250
-#EXTINF:-1, BAND RS HD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND RS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415256
-#EXTINF:-1, BAND SERGIPE HD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND SERGIPE HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415251
-#EXTINF:-1, BAND SP HD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND SP HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415246
-#EXTINF:-1, BAND SP SD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND SP SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415247
-#EXTINF:-1, BAND SPORTS FHD
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c5112d4c-a732-40d9-99cb-facf465b37ad" group-title="CANAIS | ESPORTES", BAND SPORTS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415528
-#EXTINF:-1, BAND SPORTS HD
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c5112d4c-a732-40d9-99cb-facf465b37ad" group-title="CANAIS | ESPORTES", BAND SPORTS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415529
-#EXTINF:-1, BAND SPORTS SD
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c5112d4c-a732-40d9-99cb-facf465b37ad" group-title="CANAIS | ESPORTES", BAND SPORTS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415530
-#EXTINF:-1, BAND TV GOIANIA HD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/12b3d817-e8b2-4233-8216-4d23973ce6cb" group-title="CANAIS | ABERTOS", BAND TV GOIANIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/421171
-#EXTINF:-1, BIS FHD
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e48951ea-99f9-4619-a3d6-1ea199e6532e" group-title="CANAIS | CULTURAIS & VARIEDADES", BIS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415643
-#EXTINF:-1, BIS HD
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e48951ea-99f9-4619-a3d6-1ea199e6532e" group-title="CANAIS | CULTURAIS & VARIEDADES", BIS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415644
-#EXTINF:-1, BIS SD
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e48951ea-99f9-4619-a3d6-1ea199e6532e" group-title="CANAIS | CULTURAIS & VARIEDADES", BIS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415645
-#EXTINF:-1, CANÇÃO NOVA
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.cancaonova.com/cnimages/especiais/uploads/sites/11/2014/09/marca_cancao_nova_jpg_v140517.jpg" group-title="CANAIS | RELIGIOSOS", CANÇÃO NOVA
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415737
-#EXTINF:-1, CANAL BRASIL
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2b20bc2e-df5e-45e6-b1fd-14b8511a00e3" group-title="CANAIS | ABERTOS", CANAL BRASIL
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415297
-#EXTINF:-1, CANAL DO BOI
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/edbb3ab3-1602-4177-836f-515b3a5b4cea" group-title="CANAIS | ABERTOS", CANAL DO BOI
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415301
-#EXTINF:-1, CANAL SONY FHD
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/33922bc2-81df-49a9-be3e-7eb7605b38ce" group-title="CANAIS | FILMES & SÉRIES", CANAL SONY FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415555
-#EXTINF:-1, CANAL SONY SD
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/33922bc2-81df-49a9-be3e-7eb7605b38ce" group-title="CANAIS | FILMES & SÉRIES", CANAL SONY SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415557
-#EXTINF:-1, CARTOON NETWORK FHD
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e69a3e4c-51d4-4f31-88b8-721fe0bc6ae2" group-title="CANAIS | INFANTIS", CARTOON NETWORK FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415182
-#EXTINF:-1, CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e69a3e4c-51d4-4f31-88b8-721fe0bc6ae2" group-title="CANAIS | INFANTIS", CARTOON NETWORK HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415183
-#EXTINF:-1, CARTOON NETWORK SD
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e69a3e4c-51d4-4f31-88b8-721fe0bc6ae2" group-title="CANAIS | INFANTIS", CARTOON NETWORK SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415184
-#EXTINF:-1, CARTOONITO FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://marcasmais.com.br/wp-content/uploads/2021/12/cartoonito.png" group-title="CANAIS | INFANTIS", CARTOONITO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415179
-#EXTINF:-1, CARTOONITO HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://marcasmais.com.br/wp-content/uploads/2021/12/cartoonito.png" group-title="CANAIS | INFANTIS", CARTOONITO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415180
-#EXTINF:-1, CARTOONITO SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://marcasmais.com.br/wp-content/uploads/2021/12/cartoonito.png" group-title="CANAIS | INFANTIS", CARTOONITO SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415181
-#EXTINF:-1, CINE CANAL FHD
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" tvg-logo="https://www.latinspots.com/files/notas/Gnota_38881.jpg" group-title="CANAIS | FILMES & SÉRIES", CINE CANAL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415579
-#EXTINF:-1, CINE CANAL HD
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" tvg-logo="https://www.latinspots.com/files/notas/Gnota_38881.jpg" group-title="CANAIS | FILMES & SÉRIES", CINE CANAL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415580
-#EXTINF:-1, CINE CANAL SD
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" tvg-logo="https://www.latinspots.com/files/notas/Gnota_38881.jpg" group-title="CANAIS | FILMES & SÉRIES", CINE CANAL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415581
-#EXTINF:-1, CINE SKY 01
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 01
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415150
-#EXTINF:-1, CINE SKY 02
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 02
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415151
-#EXTINF:-1, CINE SKY 03
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 03
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415152
-#EXTINF:-1, CINE SKY 04
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 04
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415153
-#EXTINF:-1, CINE SKY 05
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 05
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415154
-#EXTINF:-1, CINE SKY 06
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 06
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415155
-#EXTINF:-1, CINE SKY 07
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 07
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415156
-#EXTINF:-1, CINE SKY 08
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 08
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415157
-#EXTINF:-1, CINE SKY 09
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 09
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415158
-#EXTINF:-1, CINE SKY 10
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 10
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415159
-#EXTINF:-1, CINE SKY 11
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 11
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416827
-#EXTINF:-1, CINE SKY 12
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 12
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416828
-#EXTINF:-1, CINE SKY 13
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 13
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416829
-#EXTINF:-1, CINE SKY 14
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Skytvold1.png" group-title="CANAIS | FILMES & SÉRIES", CINE SKY 14
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416830
-#EXTINF:-1, CINEMAX FHD
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e43e3b13-c9cb-487f-9a16-6ea2ff7d2422" group-title="CANAIS | FILMES & SÉRIES", CINEMAX FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415558
-#EXTINF:-1, CINEMAX HD
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e43e3b13-c9cb-487f-9a16-6ea2ff7d2422" group-title="CANAIS | FILMES & SÉRIES", CINEMAX HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415559
-#EXTINF:-1, CINEMAX SD
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e43e3b13-c9cb-487f-9a16-6ea2ff7d2422" group-title="CANAIS | FILMES & SÉRIES", CINEMAX SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415560
-#EXTINF:-1, CNN BRASIL FHD
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS", CNN BRASIL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415612
-#EXTINF:-1, CNN BRASIL HD
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS", CNN BRASIL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415613
-#EXTINF:-1, CNN BRASIL SD
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS", CNN BRASIL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415614
-#EXTINF:-1, CNN ESPANHO HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/234-2346850_cnn-en-espanol-logo-png-transparent-logo-cnn.png" group-title="CANAIS | NOTÍCIAS", CNN ESPANHOL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415616
-#EXTINF:-1, CNN INTER HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1-1.png" group-title="CANAIS | NOTÍCIAS", CNN INTER HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415615
-#EXTINF:-1, CNT
+#EXTINF:-1 tvg-id="" tvg-logo="https://abratel.org.br/wp-content/uploads/2020/12/Abratel_CNT.png" group-title="CANAIS | ABERTOS", CNT
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416834
-#EXTINF:-1, COMBATE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTES", COMBATE FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415531
-#EXTINF:-1, COMBATE HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTES", COMBATE HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415532
-#EXTINF:-1, COMBATE SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="CANAIS | ESPORTES", COMBATE SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415533
-#EXTINF:-1, COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9e2a3f20-e7ce-4e16-aeae-cea6194d9b27" group-title="CANAIS | CULTURAIS & VARIEDADES", COMEDY CENTRAL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415649
-#EXTINF:-1, COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9e2a3f20-e7ce-4e16-aeae-cea6194d9b27" group-title="CANAIS | CULTURAIS & VARIEDADES", COMEDY CENTRAL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415650
-#EXTINF:-1, COMEDY CENTRAL SD
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9e2a3f20-e7ce-4e16-aeae-cea6194d9b27" group-title="CANAIS | CULTURAIS & VARIEDADES", COMEDY CENTRAL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415651
-#EXTINF:-1, CONMEBOL 1 HD
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" group-title="CANAIS | CONMEBOL", CONMEBOL 1 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439601
-#EXTINF:-1, CONMEBOL 2 FHD
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" group-title="CANAIS | CONMEBOL", CONMEBOL 2 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439603
-#EXTINF:-1, CONMEBOL 2 HD
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" group-title="CANAIS | CONMEBOL", CONMEBOL 2 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439604
-#EXTINF:-1, CONMEBOL 2 SD
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" group-title="CANAIS | CONMEBOL", CONMEBOL 2 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439605
-#EXTINF:-1, CONMEBOL 3 FHD
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" group-title="CANAIS | CONMEBOL", CONMEBOL 3 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439606
-#EXTINF:-1, CONMEBOL 3 SD
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" group-title="CANAIS | CONMEBOL", CONMEBOL 3 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439608
-#EXTINF:-1, CONMEBOL 4 FHD
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" group-title="CANAIS | CONMEBOL", CONMEBOL 4 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439609
-#EXTINF:-1, CONMEBOL 4 HD
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b053ea85-84dd-44d7-9c17-5b3a4ed0b2eb" group-title="CANAIS | CONMEBOL", CONMEBOL 4 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439610
-#EXTINF:-1, COPA DO BRASIL PRIME VIDEO 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.oficinadanet.com.br/imagens/post/39901/chamada-copa-do-brasil-2022-prime-video.jpg" group-title="CANAIS | ESPORTES", COPA DO BRASIL PRIME VIDEO 1
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439598
-#EXTINF:-1, CRISTO VIVE
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU-qtFgQMCW51bwPTnOBeaXb-ONGvLkjyquzfOk=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | RELIGIOSOS", CRISTO VIVE
 http://suatv.fun:80/canaisp2p/mudar@2021j45/425782
-#EXTINF:-1, CURTA! FHD
+#EXTINF:-1 tvg-id="Curta.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/34a595f2-9ca4-44bc-959a-877b7d273930" group-title="CANAIS | CULTURAIS & VARIEDADES", CURTA! FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415646
-#EXTINF:-1, CURTA! HD
+#EXTINF:-1 tvg-id="Curta.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/34a595f2-9ca4-44bc-959a-877b7d273930" group-title="CANAIS | CULTURAIS & VARIEDADES", CURTA! HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415647
-#EXTINF:-1, DAZN 02
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1562563520012640257/2JfCU8P5_400x400.png" group-title="CANAIS | ESPORTES", DAZN 02
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439613
-#EXTINF:-1, DAZN 03
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1562563520012640257/2JfCU8P5_400x400.png" group-title="CANAIS | ESPORTES", DAZN 03
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439614
-#EXTINF:-1, DAZN 04
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1562563520012640257/2JfCU8P5_400x400.png" group-title="CANAIS | ESPORTES", DAZN 04
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439615
-#EXTINF:-1, DAZN 05
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1562563520012640257/2JfCU8P5_400x400.png" group-title="CANAIS | ESPORTES", DAZN 05
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439616
-#EXTINF:-1, DAZN 06
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1562563520012640257/2JfCU8P5_400x400.png" group-title="CANAIS | ESPORTES", DAZN 06
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439617
-#EXTINF:-1, DAZN 07
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1562563520012640257/2JfCU8P5_400x400.png" group-title="CANAIS | ESPORTES", DAZN 07
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439618
-#EXTINF:-1, DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a492cecc-28b9-4461-a4c9-29d970a3b007" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY CHANNEL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415374
-#EXTINF:-1, DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a492cecc-28b9-4461-a4c9-29d970a3b007" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY CHANNEL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415375
-#EXTINF:-1, DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a492cecc-28b9-4461-a4c9-29d970a3b007" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY CHANNEL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415376
-#EXTINF:-1, DISCOVERY H&H FHD
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/eddd4da0-ebac-4ffc-9834-7af3a3937768" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY H&H FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415415
-#EXTINF:-1, DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/eddd4da0-ebac-4ffc-9834-7af3a3937768" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY H&H HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415416
-#EXTINF:-1, DISCOVERY H&H SD
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/eddd4da0-ebac-4ffc-9834-7af3a3937768" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY H&H SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415417
-#EXTINF:-1, DISCOVERY KIDS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="CANAIS | INFANTIS", DISCOVERY KIDS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415188
-#EXTINF:-1, DISCOVERY KIDS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="CANAIS | INFANTIS", DISCOVERY KIDS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415189
-#EXTINF:-1, DISCOVERY KIDS SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="CANAIS | INFANTIS", DISCOVERY KIDS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415190
-#EXTINF:-1, DISCOVERY SCIENCE FHD
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d2aeb0f8-5793-4810-bc6d-68da1c42e50a" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY SCIENCE FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415377
-#EXTINF:-1, DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d2aeb0f8-5793-4810-bc6d-68da1c42e50a" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY SCIENCE HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415378
-#EXTINF:-1, DISCOVERY SCIENCE SD
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d2aeb0f8-5793-4810-bc6d-68da1c42e50a" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY SCIENCE SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415379
-#EXTINF:-1, DISCOVERY THEATER FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a1f14a1f-d40c-4be2-b09f-0eae8a4fe438" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY THEATER FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415380
-#EXTINF:-1, DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a1f14a1f-d40c-4be2-b09f-0eae8a4fe438" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY THEATER HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415381
-#EXTINF:-1, DISCOVERY THEATER SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a1f14a1f-d40c-4be2-b09f-0eae8a4fe438" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY THEATER SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415382
-#EXTINF:-1, DISCOVERY TURBO FHD
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/561c4b50-3742-483f-8f8f-d938f7a75e3d" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY TURBO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415383
-#EXTINF:-1, DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/561c4b50-3742-483f-8f8f-d938f7a75e3d" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY TURBO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415384
-#EXTINF:-1, DISCOVERY TURBO SD
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/561c4b50-3742-483f-8f8f-d938f7a75e3d" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY TURBO SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415385
-#EXTINF:-1, DISCOVERY WORLD FHD
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5fe8897d-ec45-4a9e-aa1e-91e92c485eb0" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY WORLD FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415386
-#EXTINF:-1, DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5fe8897d-ec45-4a9e-aa1e-91e92c485eb0" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY WORLD HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415387
-#EXTINF:-1, DISCOVERY WORLD SD
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5fe8897d-ec45-4a9e-aa1e-91e92c485eb0" group-title="CANAIS | CULTURAIS & VARIEDADES", DISCOVERY WORLD SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415388
-#EXTINF:-1, DISNEY CHANNEL FHD
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff34400f-d35b-4d31-828c-2c2ac1b25764" group-title="CANAIS | INFANTIS", DISNEY CHANNEL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415185
-#EXTINF:-1, DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff34400f-d35b-4d31-828c-2c2ac1b25764" group-title="CANAIS | INFANTIS", DISNEY CHANNEL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415186
-#EXTINF:-1, DISNEY CHANNEL SD
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff34400f-d35b-4d31-828c-2c2ac1b25764" group-title="CANAIS | INFANTIS", DISNEY CHANNEL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415187
-#EXTINF:-1, E! FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="CANAIS | CULTURAIS & VARIEDADES", E! FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415652
-#EXTINF:-1, E! HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="CANAIS | CULTURAIS & VARIEDADES", E! HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415653
-#EXTINF:-1, ELEVEN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES", ELEVEN SPORTS 1
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439619
-#EXTINF:-1, ELEVEN SPORTS 10
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES", ELEVEN SPORTS 10
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439628
-#EXTINF:-1, ELEVEN SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES", ELEVEN SPORTS 5
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439623
-#EXTINF:-1, ELEVEN SPORTS 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES", ELEVEN SPORTS 6
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439624
-#EXTINF:-1, ELEVEN SPORTS 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES", ELEVEN SPORTS 7
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439625
-#EXTINF:-1, ELEVEN SPORTS 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES", ELEVEN SPORTS 8
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439626
-#EXTINF:-1, ELEVEN SPORTS 9
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES", ELEVEN SPORTS 9
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439627
-#EXTINF:-1, ESPN 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES", ESPN 2 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415421
-#EXTINF:-1, ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES", ESPN 2 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415422
-#EXTINF:-1, ESPN 2 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES", ESPN 2 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415423
-#EXTINF:-1, ESPN 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/80/25/da/8025da6fe34dab220f3ba9d08cf5ceeb.jpg" group-title="CANAIS | ESPORTES", ESPN 3 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415424
-#EXTINF:-1, ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/80/25/da/8025da6fe34dab220f3ba9d08cf5ceeb.jpg" group-title="CANAIS | ESPORTES", ESPN 3 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415425
-#EXTINF:-1, ESPN 3 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/80/25/da/8025da6fe34dab220f3ba9d08cf5ceeb.jpg" group-title="CANAIS | ESPORTES", ESPN 3 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415426
-#EXTINF:-1, ESPN 4 FHD
+#EXTINF:-1 tvg-id="FoxSportsBrazil.br" tvg-logo="https://static.wikia.nocookie.net/telepedia/images/3/3f/Sem_t%C3%ADtulo.jpg/revision/latest?cb=20220117124447&path-prefix=pt-br" group-title="CANAIS | ESPORTES", ESPN 4 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415427
-#EXTINF:-1, ESPN 4 HD
+#EXTINF:-1 tvg-id="FoxSportsBrazil.br" tvg-logo="https://static.wikia.nocookie.net/telepedia/images/3/3f/Sem_t%C3%ADtulo.jpg/revision/latest?cb=20220117124447&path-prefix=pt-br" group-title="CANAIS | ESPORTES", ESPN 4 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415428
-#EXTINF:-1, ESPN 4 SD
+#EXTINF:-1 tvg-id="FoxSportsBrazil.br" tvg-logo="https://static.wikia.nocookie.net/telepedia/images/3/3f/Sem_t%C3%ADtulo.jpg/revision/latest?cb=20220117124447&path-prefix=pt-br" group-title="CANAIS | ESPORTES", ESPN 4 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415429
-#EXTINF:-1, ESPN EXTRA FHD
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" tvg-logo="https://2.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KU/aixrkQ0WADEodtE0hoNr9hr4uXfwZ1RdgCPcBGAYYCw/s1600/espnextra.png" group-title="CANAIS | ESPORTES", ESPN EXTRA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415430
-#EXTINF:-1, ESPN EXTRA HD
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" tvg-logo="https://2.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KU/aixrkQ0WADEodtE0hoNr9hr4uXfwZ1RdgCPcBGAYYCw/s1600/espnextra.png" group-title="CANAIS | ESPORTES", ESPN EXTRA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415431
-#EXTINF:-1, ESPN EXTRA SD
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" tvg-logo="https://2.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KU/aixrkQ0WADEodtE0hoNr9hr4uXfwZ1RdgCPcBGAYYCw/s1600/espnextra.png" group-title="CANAIS | ESPORTES", ESPN EXTRA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415432
-#EXTINF:-1, ESPN FHD
+#EXTINF:-1 tvg-id="ESPNBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3665dc44-a5c4-469f-9e9a-605eb3312476" group-title="CANAIS | ESPORTES", ESPN FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415418
-#EXTINF:-1, ESPN HD
+#EXTINF:-1 tvg-id="ESPNBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3665dc44-a5c4-469f-9e9a-605eb3312476" group-title="CANAIS | ESPORTES", ESPN HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415419
-#EXTINF:-1, ESPN SD
+#EXTINF:-1 tvg-id="ESPNBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3665dc44-a5c4-469f-9e9a-605eb3312476" group-title="CANAIS | ESPORTES", ESPN SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415420
-#EXTINF:-1, FASHION TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="CANAIS | CULTURAIS & VARIEDADES", FASHION TV
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415658
-#EXTINF:-1, FILM & ARTS FHD
+#EXTINF:-1 tvg-id="FilmArtsBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/855ed7c7-fb22-4742-a4ea-74b263c68f19" group-title="CANAIS | FILMES & SÉRIES", FILM & ARTS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415561
-#EXTINF:-1, FILM & ARTS HD
+#EXTINF:-1 tvg-id="FilmArtsBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/855ed7c7-fb22-4742-a4ea-74b263c68f19" group-title="CANAIS | FILMES & SÉRIES", FILM & ARTS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415562
-#EXTINF:-1, FILM & ARTS SD
+#EXTINF:-1 tvg-id="FilmArtsBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/855ed7c7-fb22-4742-a4ea-74b263c68f19" group-title="CANAIS | FILMES & SÉRIES", FILM & ARTS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415563
-#EXTINF:-1, FISH TV FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://bravi.tv/wp-content/uploads/2019/09/Logo-Fish-TV-versao-mono-principal-1-1.png" group-title="CANAIS | CULTURAIS & VARIEDADES", FISH TV FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415537
-#EXTINF:-1, FISH TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://bravi.tv/wp-content/uploads/2019/09/Logo-Fish-TV-versao-mono-principal-1-1.png" group-title="CANAIS | CULTURAIS & VARIEDADES", FISH TV HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415538
-#EXTINF:-1, FISH TV SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://bravi.tv/wp-content/uploads/2019/09/Logo-Fish-TV-versao-mono-principal-1-1.png" group-title="CANAIS | CULTURAIS & VARIEDADES", FISH TV SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415539
-#EXTINF:-1, FOOD NETWORK FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="CANAIS | CULTURAIS & VARIEDADES", FOOD NETWORK FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415655
-#EXTINF:-1, FOOD NETWORK HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="CANAIS | CULTURAIS & VARIEDADES", FOOD NETWORK HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415656
-#EXTINF:-1, FOOD NETWORK SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="CANAIS | CULTURAIS & VARIEDADES", FOOD NETWORK SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415657
-#EXTINF:-1, FOX SPORTS 2 FHD
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/14b027cf-9187-4ac2-a77d-60400e5d4e77" group-title="CANAIS | ESPORTES", FOX SPORTS 2 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415534
-#EXTINF:-1, FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/14b027cf-9187-4ac2-a77d-60400e5d4e77" group-title="CANAIS | ESPORTES", FOX SPORTS 2 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415535
-#EXTINF:-1, FOX SPORTS 2 SD
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/14b027cf-9187-4ac2-a77d-60400e5d4e77" group-title="CANAIS | ESPORTES", FOX SPORTS 2 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415536
-#EXTINF:-1, FrenchLover TV
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415024
-#EXTINF:-1, FURACAO SPORT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.virtualproleague.com/portal/assets/images/escudos/escudo_time_11673_1589263500.png" group-title="CANAIS | ESPORTES", FURACÃO SPORT
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439630
-#EXTINF:-1, FUTURA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS | CULTURAIS & VARIEDADES", FUTURA
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415293
-#EXTINF:-1, FX FHD
+#EXTINF:-1 tvg-id="FXBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6bddef89-adac-41b4-b53c-abbd25c32973" group-title="CANAIS | FILMES & SÉRIES", FX FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415564
-#EXTINF:-1, FX HD
+#EXTINF:-1 tvg-id="FXBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6bddef89-adac-41b4-b53c-abbd25c32973" group-title="CANAIS | FILMES & SÉRIES", FX HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415565
-#EXTINF:-1, FX SD
+#EXTINF:-1 tvg-id="FXBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6bddef89-adac-41b4-b53c-abbd25c32973" group-title="CANAIS | FILMES & SÉRIES", FX SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415566
-#EXTINF:-1, GLN TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account967-i968/channel/83/thumb_gln_tv1-1639779049.png" group-title="CANAIS | FILMES & SÉRIES", GLN TV
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415312
-#EXTINF:-1, GLOBO PRESIDENTE PRUDENTE SP HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO PRESIDENTE PRUDENTE SP HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416537
-#EXTINF:-1, GLOBO BAHIA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO BAHIA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416453
-#EXTINF:-1, GLOBO BAHIA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO BAHIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416454
-#EXTINF:-1, GLOBO BAHIA SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO BAHIA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416455
-#EXTINF:-1, GLOBO BRASILIA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO BRASILIA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416420
-#EXTINF:-1, GLOBO BRASILIA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO BRASILIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416421
-#EXTINF:-1, GLOBO BRASILIA SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO BRASILIA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416422
-#EXTINF:-1, GLOBO EPTV CAMPINAS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO EPTV CAMPINAS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416525
-#EXTINF:-1, GLOBO EPTV CAMPINAS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO EPTV CAMPINAS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416526
-#EXTINF:-1, GLOBO EPTV CAMPINAS SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO EPTV CAMPINAS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416527
-#EXTINF:-1, GLOBO EPTV RIBEIRAO PRETO HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO EPTV RIBEIRAO PRETO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416538
-#EXTINF:-1, GLOBO EPTV RIBEIRAO PRETO SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO EPTV RIBEIRAO PRETO SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416539
-#EXTINF:-1, GLOBO EPTV SAO CARLOS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO EPTV SAO CARLOS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416541
-#EXTINF:-1, GLOBO EPTV SUL DE MINAS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO EPTV SUL DE MINAS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416399
-#EXTINF:-1, GLOBO EPTV SUL DE MINAS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO EPTV SUL DE MINAS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416400
-#EXTINF:-1, GLOBO EPTV SUL DE MINAS SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO EPTV SUL DE MINAS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416401
-#EXTINF:-1, GLOBO GLOBO PRESIDENTE PRUDENTE SP FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO GLOBO PRESIDENTE PRUDENTE SP FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416536
-#EXTINF:-1, GLOBO GLOBO RPC PARANA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO GLOBO RPC PARANA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416482
-#EXTINF:-1, GLOBO GLOBO TV SERGIPE HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO GLOBO TV SERGIPE HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416462
-#EXTINF:-1, GLOBO GLOBO TV TRIBUNA SANTOS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO GLOBO TV TRIBUNA SANTOS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416543
-#EXTINF:-1, GLOBO INTER TV CABO FRIO HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO INTER TV CABO FRIO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416390
-#EXTINF:-1, GLOBO INTER TV RJ FHD ( REGIAO SERRANA)
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO INTER TV RJ FHD ( REGIAO SERRANA)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416387
-#EXTINF:-1, GLOBO INTER TV RJ HD (REGIAO SERRANA)
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO INTER TV RJ HD (REGIAO SERRANA)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416388
-#EXTINF:-1, GLOBO INTER TV RJ SD (REGIAO SERRANA)
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO INTER TV RJ SD (REGIAO SERRANA)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416389
-#EXTINF:-1, GLOBO JOAÇABA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO JOAÇABA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416508
-#EXTINF:-1, GLOBO JOAÇABA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO JOAÇABA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416509
-#EXTINF:-1, GLOBO JOAÇABA SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO JOAÇABA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416510
-#EXTINF:-1, GLOBO JUIZ DE FORA MG FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO JUIZ DE FORA MG FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416402
-#EXTINF:-1, GLOBO JUIZ DE FORA MG HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO JUIZ DE FORA MG HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416403
-#EXTINF:-1, GLOBO JUIZ DE FORA MG SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO JUIZ DE FORA MG SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416404
-#EXTINF:-1, GLOBO MINAS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO MINAS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416396
-#EXTINF:-1, GLOBO MINAS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO MINAS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416397
-#EXTINF:-1, GLOBO MINAS SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO MINAS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416398
-#EXTINF:-1, GLOBO MOGI DAS CRUZES FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO MOGI DAS CRUZES FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416546
-#EXTINF:-1, GLOBO MOGI DAS CRUZES HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO MOGI DAS CRUZES HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416547
-#EXTINF:-1, GLOBO MONTES CLAROS MG FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO MONTES CLAROS MG FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416405
-#EXTINF:-1, GLOBO MONTES CLAROS MG HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO MONTES CLAROS MG HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416406
-#EXTINF:-1, GLOBO MONTES CLAROS MG SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO MONTES CLAROS MG SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416407
-#EXTINF:-1, GLOBO NEWS FHD
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd67d008-2597-4820-8417-0f69e1bdc018" group-title="CANAIS | NOTÍCIAS", GLOBO NEWS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415617
-#EXTINF:-1, GLOBO NEWS HD
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd67d008-2597-4820-8417-0f69e1bdc018" group-title="CANAIS | NOTÍCIAS", GLOBO NEWS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415618
-#EXTINF:-1, GLOBO NEWS SD
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd67d008-2597-4820-8417-0f69e1bdc018" group-title="CANAIS | NOTÍCIAS", GLOBO NEWS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415619
-#EXTINF:-1, GLOBO NORDESTE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NORDESTE FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416450
-#EXTINF:-1, GLOBO NORDESTE HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NORDESTE HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416451
-#EXTINF:-1, GLOBO NORDESTE SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NORDESTE SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416452
-#EXTINF:-1, GLOBO NSC BLUMENAU FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSC BLUMENAU FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416499
-#EXTINF:-1, GLOBO NSC BLUMENAU HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSC BLUMENAU HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416500
-#EXTINF:-1, GLOBO NSC BLUMENAU SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSC BLUMENAU SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416501
-#EXTINF:-1, GLOBO NSC TV CHAPECO FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSC TV CHAPECO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416505
-#EXTINF:-1, GLOBO NSC TV CHAPECO HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSC TV CHAPECO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416506
-#EXTINF:-1, GLOBO NSC TV CHAPECO SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSC TV CHAPECO SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416507
-#EXTINF:-1, GLOBO NSC TV SANTA CATARINA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSC TV SANTA CATARINA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416495
-#EXTINF:-1, GLOBO NSCTV FLORIANOPOLIS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSCTV FLORIANOPOLIS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416496
-#EXTINF:-1, GLOBO NSCTV FLORIANOPOLIS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSCTV FLORIANOPOLIS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416497
-#EXTINF:-1, GLOBO NSCTV FLORIANOPOLIS SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSCTV FLORIANOPOLIS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416498
-#EXTINF:-1, GLOBO NSCTV JOINVILLE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSCTV JOINVILLE FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416502
-#EXTINF:-1, GLOBO NSCTV JOINVILLE HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSCTV JOINVILLE HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416503
-#EXTINF:-1, GLOBO NSCTV JOINVILLE SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO NSCTV JOINVILLE SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416504
-#EXTINF:-1, GLOBO RBS CAXIAS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS CAXIAS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416514
-#EXTINF:-1, GLOBO RBS CAXIAS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS CAXIAS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416515
-#EXTINF:-1, GLOBO RBS CAXIAS SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS CAXIAS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416516
-#EXTINF:-1, GLOBO RBS PASSO FUNDO FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS PASSO FUNDO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416520
-#EXTINF:-1, GLOBO RBS PASSO FUNDO HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS PASSO FUNDO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416521
-#EXTINF:-1, GLOBO RBS PASSO FUNDO SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS PASSO FUNDO SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416522
-#EXTINF:-1, GLOBO RBS PELOTAS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS PELOTAS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416517
-#EXTINF:-1, GLOBO RBS PELOTAS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS PELOTAS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416518
-#EXTINF:-1, GLOBO RBS PELOTAS SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS PELOTAS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416519
-#EXTINF:-1, GLOBO RBS PORTO ALEGRE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS PORTO ALEGRE FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416511
-#EXTINF:-1, GLOBO RBS PORTO ALEGRE HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS PORTO ALEGRE HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416512
-#EXTINF:-1, GLOBO RBS PORTO ALEGRE SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RBS PORTO ALEGRE SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416513
-#EXTINF:-1, GLOBO REDE AMAZONICA BOA VISTA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO REDE AMAZONICA BOA VISTA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416448
-#EXTINF:-1, GLOBO REDE AMAZONICA BOA VISTA ROIMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO REDE AMAZONICA BOA VISTA ROIMA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416449
-#EXTINF:-1, GLOBO REDE AMAZONICA MANAUS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO REDE AMAZONICA MANAUS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416442
-#EXTINF:-1, GLOBO REDE AMAZONICA MANAUS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO REDE AMAZONICA MANAUS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416443
-#EXTINF:-1, GLOBO REDE AMAZONICA MANAUS SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO REDE AMAZONICA MANAUS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416444
-#EXTINF:-1, GLOBO REDE AMAZONICA PORTO VELHO FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO REDE AMAZONICA PORTO VELHO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416445
-#EXTINF:-1, GLOBO REDE AMAZONICA PORTO VELHO SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO REDE AMAZONICA PORTO VELHO SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416447
-#EXTINF:-1, GLOBO RJ FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RJ FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416384
-#EXTINF:-1, GLOBO RJ HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RJ HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416385
-#EXTINF:-1, GLOBO RJ SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RJ SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416386
-#EXTINF:-1, GLOBO RPC CASCAVEL FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC CASCAVEL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416489
-#EXTINF:-1, GLOBO RPC CASCAVEL HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC CASCAVEL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416490
-#EXTINF:-1, GLOBO RPC CASCAVEL SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC CASCAVEL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416491
-#EXTINF:-1, GLOBO RPC CURITIBA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC CURITIBA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416483
-#EXTINF:-1, GLOBO RPC CURITIBA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC CURITIBA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416484
-#EXTINF:-1, GLOBO RPC CURITIBA SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC CURITIBA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416485
-#EXTINF:-1, GLOBO RPC FOZ DO IGUAÇU FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC FOZ DO IGUAÇU FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416492
-#EXTINF:-1, GLOBO RPC FOZ DO IGUAÇU HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC FOZ DO IGUAÇU HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416493
-#EXTINF:-1, GLOBO RPC FOZ DO IGUAÇU SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC FOZ DO IGUAÇU SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416494
-#EXTINF:-1, GLOBO RPC PARANAVAI FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC PARANAVAI FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416486
-#EXTINF:-1, GLOBO RPC PARANAVAI HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC PARANAVAI HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416487
-#EXTINF:-1, GLOBO RPC PARANAVAI SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC PARANAVAI SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416488
-#EXTINF:-1, GLOBO RPC PONTA GROSSA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO RPC PONTA GROSSA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/423498
-#EXTINF:-1, GLOBO SP FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO SP FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416381
-#EXTINF:-1, GLOBO SP HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO SP HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416382
-#EXTINF:-1, GLOBO SP SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO SP SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416383
-#EXTINF:-1, GLOBO TV SAO FRANCISCO FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV SAO FRANCISCO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416457
-#EXTINF:-1, GLOBO TV SAO FRANCISCO HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV SAO FRANCISCO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416458
-#EXTINF:-1, GLOBO TV ANHAGUERA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ANHAGUERA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416423
-#EXTINF:-1, GLOBO TV ANHAGUERA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ANHAGUERA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416424
-#EXTINF:-1, GLOBO TV ANHANGUERA ANAPOLIS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ANHANGUERA ANAPOLIS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416426
-#EXTINF:-1, GLOBO TV ANHANGUERA ANAPOLIS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ANHANGUERA ANAPOLIS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416427
-#EXTINF:-1, GLOBO TV ANHANGUERA ANAPOLIS SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ANHANGUERA ANAPOLIS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416428
-#EXTINF:-1, GLOBO TV ANHANGUERA CATALAO FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ANHANGUERA CATALAO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416429
-#EXTINF:-1, GLOBO TV ANHANGUERA CATALAO HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ANHANGUERA CATALAO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416431
-#EXTINF:-1, GLOBO TV ANHANGUERA CATALAO HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ANHANGUERA CATALAO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416430
-#EXTINF:-1, GLOBO TV ANHANGUERA ITUMBIARA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ANHANGUERA ITUMBIARA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416432
-#EXTINF:-1, GLOBO TV ANHANGUERA SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ANHANGUERA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416425
-#EXTINF:-1, GLOBO TV ASA BRANCA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ASA BRANCA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416470
-#EXTINF:-1, GLOBO TV ASA BRANCA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ASA BRANCA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416471
-#EXTINF:-1, GLOBO TV ASA BRANCA SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV ASA BRANCA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416472
-#EXTINF:-1, GLOBO TV CABO BRANCO JOAO PESSOA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV CABO BRANCO JOAO PESSOA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416473
-#EXTINF:-1, GLOBO TV CABO BRANCO JOAO PESSOA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV CABO BRANCO JOAO PESSOA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416474
-#EXTINF:-1, GLOBO TV CABO BRANCO JOAO PESSOA SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV CABO BRANCO JOAO PESSOA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416475
-#EXTINF:-1, GLOBO TV CABUGI FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV CABUGI FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416479
-#EXTINF:-1, GLOBO TV CABUGI HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV CABUGI HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416480
-#EXTINF:-1, GLOBO TV CABUGI SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV CABUGI SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416481
-#EXTINF:-1, GLOBO TV CENTRO AMERICA CUIABA
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV CENTRO AMERICA CUIABA
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416438
-#EXTINF:-1, GLOBO TV GAZETA ALAGOAS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV GAZETA ALAGOAS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416464
-#EXTINF:-1, GLOBO TV GAZETA ALAGOAS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV GAZETA ALAGOAS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416465
-#EXTINF:-1, GLOBO TV GAZETA ALAGOAS SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV GAZETA ALAGOAS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416466
-#EXTINF:-1, GLOBO TV GAZETA VITORIA ES FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV GAZETA VITORIA ES FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416393
-#EXTINF:-1, GLOBO TV GAZETA VITORIA ES HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV GAZETA VITORIA ES HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416394
-#EXTINF:-1, GLOBO TV GAZETA VITORIA ES SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV GAZETA VITORIA ES SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416395
-#EXTINF:-1, GLOBO TV INTEGRAÇÃO ARAXÁ FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV INTEGRAÇÃO ARAXÁ FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416417
-#EXTINF:-1, GLOBO TV INTEGRAÇÃO ARAXÁ HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV INTEGRAÇÃO ARAXÁ HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416418
-#EXTINF:-1, GLOBO TV INTEGRAÇÃO ARAXÁ SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV INTEGRAÇÃO ARAXÁ SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416419
-#EXTINF:-1, GLOBO TV IINTEGRAÇÃO DIVINÓPOLIS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV IINTEGRAÇÃO DIVINÓPOLIS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416408
-#EXTINF:-1, GLOBO TV INTEGRAÇÃO DIVINÓPOLIS SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV INTEGRAÇÃO DIVINÓPOLIS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416410
-#EXTINF:-1, GLOBO TV INTEGRAÇÃO UBERABA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV INTEGRAÇÃO UBERABA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416414
-#EXTINF:-1, GLOBO TV INTEGRAÇÃO UBERABA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV INTEGRAÇÃO UBERABA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416415
-#EXTINF:-1, GLOBO TV INTEGRAÇÃO UBERABA SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV INTEGRAÇÃO UBERABA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416416
-#EXTINF:-1, GLOBO TV INTER DO VALE MG FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV INTER DO VALE MG FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416411
-#EXTINF:-1, GLOBO TV INTER DO VALE MG HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV INTER DO VALE MG HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416412
-#EXTINF:-1, GLOBO TV INTER DO VALE MG SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV INTER DO VALE MG SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416413
-#EXTINF:-1, GLOBO TV LIBERAL BELEM FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV LIBERAL BELEM FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416439
-#EXTINF:-1, GLOBO TV LIBERAL BELEM HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV LIBERAL BELEM HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416440
-#EXTINF:-1, GLOBO TV LIBERAL BELEM SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV LIBERAL BELEM SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416441
-#EXTINF:-1, GLOBO TV MIRANTE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV MIRANTE FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416476
-#EXTINF:-1, GLOBO TV MIRANTE HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV MIRANTE HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416477
-#EXTINF:-1, GLOBO TV MIRANTE SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV MIRANTE SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416478
-#EXTINF:-1, GLOBO TV MORENA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV MORENA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416435
-#EXTINF:-1, GLOBO TV MORENA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV MORENA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416436
-#EXTINF:-1, GLOBO TV MORENA SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV MORENA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416437
-#EXTINF:-1, GLOBO TV RIO SUL FHD (INTERIOR RJ)
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV RIO SUL FHD (INTERIOR RJ)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416391
-#EXTINF:-1, GLOBO TV RIO SUL HD (INTERIOR RJ)
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV RIO SUL HD (INTERIOR RJ)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416392
-#EXTINF:-1, GLOBO TV SANTA CRUZ BAHIA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV SANTA CRUZ BAHIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416456
-#EXTINF:-1, GLOBO TV TEM BAURU FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV TEM BAURU FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416533
-#EXTINF:-1, GLOBO TV TEM BAURU HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV TEM BAURU HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416534
-#EXTINF:-1, GLOBO TV TEM BAURU SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV TEM BAURU SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416535
-#EXTINF:-1, GLOBO TV TEM ITAPETININGA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV TEM ITAPETININGA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416531
-#EXTINF:-1, GLOBO TV TEM ITAPETININGA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV TEM ITAPETININGA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416532
-#EXTINF:-1, GLOBO TV TEM SAO JOSE DO RIO PRETO HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV TEM SAO JOSE DO RIO PRETO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416540
-#EXTINF:-1, GLOBO TV TEM SOROCABA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV TEM SOROCABA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416528
-#EXTINF:-1, GLOBO TV TEM SOROCABA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV TEM SOROCABA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416529
-#EXTINF:-1, GLOBO TV TEM SOROCABA SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV TEM SOROCABA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416530
-#EXTINF:-1, GLOBO TV TRIBUNA SANTOS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV TRIBUNA SANTOS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416542
-#EXTINF:-1, GLOBO TV TRIBUNA SANTOS SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV TRIBUNA SANTOS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416544
-#EXTINF:-1, GLOBO TV VANGUARDA S.J DOS CAMPOS
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV VANGUARDA S.J DOS CAMPOS
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416545
-#EXTINF:-1, GLOBO TV VERDES MARES FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV VERDES MARES FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416459
-#EXTINF:-1, GLOBO TV VERDES MARES HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV VERDES MARES HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416460
-#EXTINF:-1, GLOBO TV VERDES MARES SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/06167493-f7bd-4dea-98c2-e3dba9a36132" group-title="CANAIS | GLOBO", GLOBO TV VERDES MARES SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416461
-#EXTINF:-1, GLOOB FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="CANAIS | INFANTIS", GLOOB FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415200
-#EXTINF:-1, GLOOB HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="CANAIS | INFANTIS", GLOOB HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415201
-#EXTINF:-1, GLOOB SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="CANAIS | INFANTIS", GLOOB SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415202
-#EXTINF:-1, GLOOBINHO FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/2560px-Gloobinho_logo.svg.png" group-title="CANAIS | INFANTIS", GLOOBINHO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415197
-#EXTINF:-1, GLOOBINHO HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/2560px-Gloobinho_logo.svg.png" group-title="CANAIS | INFANTIS", GLOOBINHO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415198
-#EXTINF:-1, GLOOBINHO SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/2560px-Gloobinho_logo.svg.png" group-title="CANAIS | INFANTIS", GLOOBINHO SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415199
-#EXTINF:-1, GNT FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Gnt_logo.jpg" group-title="CANAIS | CULTURAIS & VARIEDADES", GNT FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415659
-#EXTINF:-1, GNT HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Gnt_logo.jpg" group-title="CANAIS | CULTURAIS & VARIEDADES", GNT HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415660
-#EXTINF:-1, GNT SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Gnt_logo.jpg" group-title="CANAIS | CULTURAIS & VARIEDADES", GNT SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415661
-#EXTINF:-1, H2 FHD
+#EXTINF:-1 tvg-id="History2Brazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b40497c5-5e9b-42f0-9579-01a7dc3ab736" group-title="CANAIS | CULTURAIS & VARIEDADES", H2 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415396
-#EXTINF:-1, H2 HD
+#EXTINF:-1 tvg-id="History2Brazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b40497c5-5e9b-42f0-9579-01a7dc3ab736" group-title="CANAIS | CULTURAIS & VARIEDADES", H2 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415397
-#EXTINF:-1, H2 SD
+#EXTINF:-1 tvg-id="History2Brazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b40497c5-5e9b-42f0-9579-01a7dc3ab736" group-title="CANAIS | CULTURAIS & VARIEDADES", H2 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415398
-#EXTINF:-1, HBO 2 FHD
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/83296ed4-3130-454e-b6b9-e602745c0d1c" group-title="CANAIS | FILMES & SÉRIES", HBO 2 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415350
-#EXTINF:-1, HBO 2 HD
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/83296ed4-3130-454e-b6b9-e602745c0d1c" group-title="CANAIS | FILMES & SÉRIES", HBO 2 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415351
-#EXTINF:-1, HBO 2 SD
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/83296ed4-3130-454e-b6b9-e602745c0d1c" group-title="CANAIS | FILMES & SÉRIES", HBO 2 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415352
-#EXTINF:-1, HBO FAMILY FHD
+#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a87dc47b-b952-4efe-b5fd-675ab69c2419" group-title="CANAIS | FILMES & SÉRIES", HBO FAMILY FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415353
-#EXTINF:-1, HBO FAMILY HD
+#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a87dc47b-b952-4efe-b5fd-675ab69c2419" group-title="CANAIS | FILMES & SÉRIES", HBO FAMILY HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415354
-#EXTINF:-1, HBO FAMILY SD
+#EXTINF:-1 tvg-id="HBOFamilyBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a87dc47b-b952-4efe-b5fd-675ab69c2419" group-title="CANAIS | FILMES & SÉRIES", HBO FAMILY SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415355
-#EXTINF:-1, HBO FHD
+#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/147ad1b3-c586-4a77-8ea2-9dbc1d93a512" group-title="CANAIS | FILMES & SÉRIES", HBO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415347
-#EXTINF:-1, HBO FHD H264 ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/147ad1b3-c586-4a77-8ea2-9dbc1d93a512" group-title="CANAIS | FILMES & SÉRIES", HBO FHD H264 ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416615
-#EXTINF:-1, HBO HD
+#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/147ad1b3-c586-4a77-8ea2-9dbc1d93a512" group-title="CANAIS | FILMES & SÉRIES", HBO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415348
-#EXTINF:-1, HBO MAX 2
+#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2021/02/11/675x450/1_hbomax-6526949.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO MAX 2
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439632
-#EXTINF:-1, HBO MAX 4
+#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2021/02/11/675x450/1_hbomax-6526949.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO MAX 4
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439634
-#EXTINF:-1, HBO MAX 5
+#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2021/02/11/675x450/1_hbomax-6526949.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO MAX 5
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439635
-#EXTINF:-1, HBO MUNDI FHD
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/8204ef18-510b-42c8-bec3-3229a18156a2" group-title="CANAIS | FILMES & SÉRIES", HBO MUNDI FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415362
-#EXTINF:-1, HBO MUNDI FHD ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/8204ef18-510b-42c8-bec3-3229a18156a2" group-title="CANAIS | FILMES & SÉRIES", HBO MUNDI FHD ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416620
-#EXTINF:-1, HBO MUNDI HD
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/8204ef18-510b-42c8-bec3-3229a18156a2" group-title="CANAIS | FILMES & SÉRIES", HBO MUNDI HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415363
-#EXTINF:-1, HBO MUNDI HD ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/8204ef18-510b-42c8-bec3-3229a18156a2" group-title="CANAIS | FILMES & SÉRIES", HBO MUNDI HD ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416621
-#EXTINF:-1, HBO MUNDI SD
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/8204ef18-510b-42c8-bec3-3229a18156a2" group-title="CANAIS | FILMES & SÉRIES", HBO MUNDI SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415364
-#EXTINF:-1, HBO PLUS FHD
+#EXTINF:-1 tvg-id="HBOPlusBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5171f266-eca1-407b-9134-b034fce174bb" group-title="CANAIS | FILMES & SÉRIES", HBO PLUS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415356
-#EXTINF:-1, HBO PLUS FHD H264 ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="HBOPlusBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5171f266-eca1-407b-9134-b034fce174bb" group-title="CANAIS | FILMES & SÉRIES", HBO PLUS FHD H264 ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416616
-#EXTINF:-1, HBO PLUS HD
+#EXTINF:-1 tvg-id="HBOPlusBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5171f266-eca1-407b-9134-b034fce174bb" group-title="CANAIS | FILMES & SÉRIES", HBO PLUS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415357
-#EXTINF:-1, HBO PLUS HD ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="HBOPlusBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5171f266-eca1-407b-9134-b034fce174bb" group-title="CANAIS | FILMES & SÉRIES", HBO PLUS HD ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416617
-#EXTINF:-1, HBO PLUS SD
+#EXTINF:-1 tvg-id="HBOPlusBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5171f266-eca1-407b-9134-b034fce174bb" group-title="CANAIS | FILMES & SÉRIES", HBO PLUS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415358
-#EXTINF:-1, HBO POP FHD
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ad1f9efb-bbdf-4f58-897e-76b18a3d40e8" group-title="CANAIS | FILMES & SÉRIES", HBO POP FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415365
-#EXTINF:-1, HBO POP FHD H264 ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ad1f9efb-bbdf-4f58-897e-76b18a3d40e8" group-title="CANAIS | FILMES & SÉRIES", HBO POP FHD H264 ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416622
-#EXTINF:-1, HBO POP HD
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ad1f9efb-bbdf-4f58-897e-76b18a3d40e8" group-title="CANAIS | FILMES & SÉRIES", HBO POP HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415366
-#EXTINF:-1, HBO POP HD ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ad1f9efb-bbdf-4f58-897e-76b18a3d40e8" group-title="CANAIS | FILMES & SÉRIES", HBO POP HD ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416623
-#EXTINF:-1, HBO POP SD
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ad1f9efb-bbdf-4f58-897e-76b18a3d40e8" group-title="CANAIS | FILMES & SÉRIES", HBO POP SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415367
-#EXTINF:-1, HBO SD
+#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/147ad1b3-c586-4a77-8ea2-9dbc1d93a512" group-title="CANAIS | FILMES & SÉRIES", HBO SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415349
-#EXTINF:-1, HBO SIGNATURE FHD
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ef6cbc01-8f70-4757-8f55-ad0d2ad0f120" group-title="CANAIS | FILMES & SÉRIES", HBO SIGNATURE FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415359
-#EXTINF:-1, HBO SIGNATURE FHD H264 ( CANAIS LEGENDADOS)
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ef6cbc01-8f70-4757-8f55-ad0d2ad0f120" group-title="CANAIS | FILMES & SÉRIES", HBO SIGNATURE FHD H264 ( CANAIS LEGENDADOS)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416618
-#EXTINF:-1, HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ef6cbc01-8f70-4757-8f55-ad0d2ad0f120" group-title="CANAIS | FILMES & SÉRIES", HBO SIGNATURE HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415360
-#EXTINF:-1, HBO SIGNATURE HD ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ef6cbc01-8f70-4757-8f55-ad0d2ad0f120" group-title="CANAIS | FILMES & SÉRIES", HBO SIGNATURE HD ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416619
-#EXTINF:-1, HBO SIGNATURE SD
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ef6cbc01-8f70-4757-8f55-ad0d2ad0f120" group-title="CANAIS | FILMES & SÉRIES", HBO SIGNATURE SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415361
-#EXTINF:-1, HBO XTREME FHD
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/60acdc7f-6833-4e3c-bfb8-6af6cf62db67" group-title="CANAIS | FILMES & SÉRIES", HBO XTREME FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415368
-#EXTINF:-1, HBO XTREME FHD H264 ( CANAIS LEGENDADOS)
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/60acdc7f-6833-4e3c-bfb8-6af6cf62db67" group-title="CANAIS | FILMES & SÉRIES", HBO XTREME FHD H264 ( CANAIS LEGENDADOS)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416624
-#EXTINF:-1, HBO XTREME HD
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/60acdc7f-6833-4e3c-bfb8-6af6cf62db67" group-title="CANAIS | FILMES & SÉRIES", HBO XTREME HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415369
-#EXTINF:-1, HBO XTREME SD
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/60acdc7f-6833-4e3c-bfb8-6af6cf62db67" group-title="CANAIS | FILMES & SÉRIES", HBO XTREME SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415370
-#EXTINF:-1, HGTV FHD
+#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6586443a-90b6-4f77-a736-7794c0d3b550" group-title="CANAIS | CULTURAIS & VARIEDADES", HGTV FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415390
-#EXTINF:-1, HGTV HD
+#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6586443a-90b6-4f77-a736-7794c0d3b550" group-title="CANAIS | CULTURAIS & VARIEDADES", HGTV HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415391
-#EXTINF:-1, HGTV SD
+#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6586443a-90b6-4f77-a736-7794c0d3b550" group-title="CANAIS | CULTURAIS & VARIEDADES", HGTV SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415392
-#EXTINF:-1, HISTORY CHANNEL FHD
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2fc8eb97-0752-40f4-b64e-dc4b36f5df80" group-title="CANAIS | CULTURAIS & VARIEDADES", HISTORY CHANNEL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415393
-#EXTINF:-1, HISTORY CHANNEL HD
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2fc8eb97-0752-40f4-b64e-dc4b36f5df80" group-title="CANAIS | CULTURAIS & VARIEDADES", HISTORY CHANNEL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415394
-#EXTINF:-1, HISTORY CHANNEL SD
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2fc8eb97-0752-40f4-b64e-dc4b36f5df80" group-title="CANAIS | CULTURAIS & VARIEDADES", HISTORY CHANNEL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415395
-#EXTINF:-1, JP NEWS FHD
+#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Jovem_Pan_News_Marca_2022.jpg/800px-Jovem_Pan_News_Marca_2022.jpg" group-title="CANAIS | NOTÍCIAS", JP NEWS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415623
-#EXTINF:-1, JP NEWS HD
+#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Jovem_Pan_News_Marca_2022.jpg/800px-Jovem_Pan_News_Marca_2022.jpg" group-title="CANAIS | NOTÍCIAS", JP NEWS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415624
-#EXTINF:-1, JP NEWS SD
+#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Jovem_Pan_News_Marca_2022.jpg/800px-Jovem_Pan_News_Marca_2022.jpg" group-title="CANAIS | NOTÍCIAS", JP NEWS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415625
-#EXTINF:-1, LIFETIME FHD
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/58688f77-2431-45ef-aa43-ccd5d72548a9" group-title="CANAIS | CULTURAIS & VARIEDADES", LIFETIME FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415567
-#EXTINF:-1, LIFETIME HD
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/58688f77-2431-45ef-aa43-ccd5d72548a9" group-title="CANAIS | CULTURAIS & VARIEDADES", LIFETIME HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415568
-#EXTINF:-1, LIFETIME SD
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/58688f77-2431-45ef-aa43-ccd5d72548a9" group-title="CANAIS | CULTURAIS & VARIEDADES", LIFETIME SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415569
-#EXTINF:-1, LOVE NATURE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="rent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" group-title="CANAIS | CULTURAIS & VARIEDADES", LOVE NATURE FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415399
-#EXTINF:-1, MAIS GLOBOSAT FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2560px-Mais_Globosat_logo_2016.svg.png" group-title="CANAIS | CULTURAIS & VARIEDADES", MAIS GLOBOSAT FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415672
-#EXTINF:-1, MAIS GLOBOSAT HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2560px-Mais_Globosat_logo_2016.svg.png" group-title="CANAIS | CULTURAIS & VARIEDADES", MAIS GLOBOSAT HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415673
-#EXTINF:-1, MAIS GLOBOSAT SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2560px-Mais_Globosat_logo_2016.svg.png" group-title="CANAIS | CULTURAIS & VARIEDADES", MAIS GLOBOSAT SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415674
-#EXTINF:-1, MANCHETE
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Manchete_M_logo.svg" group-title="CANAIS | INFANTIS", MANCHETE
 http://suatv.fun:80/canaisp2p/mudar@2021j45/429242
-#EXTINF:-1, MEGAPIX FHD
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b9581fa5-11d0-4ee9-afe9-9ccea6844d6e" group-title="CANAIS | FILMES & SÉRIES", MEGAPIX FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415570
-#EXTINF:-1, MEGAPIX HD
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b9581fa5-11d0-4ee9-afe9-9ccea6844d6e" group-title="CANAIS | FILMES & SÉRIES", MEGAPIX HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415571
-#EXTINF:-1, MEGAPIX SD
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b9581fa5-11d0-4ee9-afe9-9ccea6844d6e" group-title="CANAIS | FILMES & SÉRIES", MEGAPIX SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415572
-#EXTINF:-1, MMA
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://www.pngall.com/wp-content/uploads/3/MMA-Logo-Transparent.png" group-title="CANAIS | ESPORTES", MMA
 http://suatv.fun:80/canaisp2p/mudar@2021j45/425783
-#EXTINF:-1, MTV FHD
+#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d979d889-4dd0-4c29-9625-b0d7999a4beb" group-title="CANAIS | CULTURAIS & VARIEDADES", MTV FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415668
-#EXTINF:-1, MTV HD
+#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d979d889-4dd0-4c29-9625-b0d7999a4beb" group-title="CANAIS | CULTURAIS & VARIEDADES", MTV HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415669
-#EXTINF:-1, MTV LIVE
+#EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/4c776253-dc4c-4ec2-a604-54e9e7d16c67" group-title="CANAIS | CULTURAIS & VARIEDADES", MTV LIVE
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415671
-#EXTINF:-1, MTV SD
+#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d979d889-4dd0-4c29-9625-b0d7999a4beb" group-title="CANAIS | CULTURAIS & VARIEDADES", MTV SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415670
-#EXTINF:-1, MULTISHOW FHD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/1139cc46-c8f1-4cb6-bf17-1aae391f9660" group-title="CANAIS | CULTURAIS & VARIEDADES", MULTISHOW FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415662
-#EXTINF:-1, MULTISHOW HD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/1139cc46-c8f1-4cb6-bf17-1aae391f9660" group-title="CANAIS | CULTURAIS & VARIEDADES", MULTISHOW HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415663
-#EXTINF:-1, MULTISHOW SD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/1139cc46-c8f1-4cb6-bf17-1aae391f9660" group-title="CANAIS | CULTURAIS & VARIEDADES", MULTISHOW SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415664
-#EXTINF:-1, MUSIC BOX BRAZIL
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/30e5eaae-9dc9-4f32-92ed-e9937b47fd80" group-title="CANAIS | CULTURAIS & VARIEDADES", MUSIC BOX BRAZIL
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415667
-#EXTINF:-1, NATGEO FHD
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-logo="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1900&h=1161" group-title="CANAIS | CULTURAIS & VARIEDADES", NATGEO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415403
-#EXTINF:-1, NATGEO HD
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-logo="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1900&h=1161" group-title="CANAIS | CULTURAIS & VARIEDADES", NATGEO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415404
-#EXTINF:-1, NATGEO SD
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-logo="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1900&h=1161" group-title="CANAIS | CULTURAIS & VARIEDADES", NATGEO SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415405
-#EXTINF:-1, NHK
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/2560px-NHK_World-Japan_TV.svg.png" group-title="CANAIS | NOTÍCIAS", NHK
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415626
-#EXTINF:-1, NICK JR FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS | INFANTIS", NICK JR FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415203
-#EXTINF:-1, NICK JR HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS | INFANTIS", NICK JR HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415204
-#EXTINF:-1, NICK JR SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS | INFANTIS", NICK JR SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415205
-#EXTINF:-1, NICKELODEON FHD
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/83805167-1ab0-4eb0-987b-3fadddc6b0c0" group-title="CANAIS | INFANTIS", NICKELODEON FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415209
-#EXTINF:-1, NICKELODEON HD
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/83805167-1ab0-4eb0-987b-3fadddc6b0c0" group-title="CANAIS | INFANTIS", NICKELODEON HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415210
-#EXTINF:-1, NICKELODEON SD
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/83805167-1ab0-4eb0-987b-3fadddc6b0c0" group-title="CANAIS | INFANTIS", NICKELODEON SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415211
-#EXTINF:-1, NOVO TEMPO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/f0/f1/a3/f0f1a3f6816ca266c78812e9acfccec9.png" group-title="CANAIS | RELIGIOSOS", NOVO TEMPO
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415735
-#EXTINF:-1, OFF FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="CANAIS | ESPORTES", OFF FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415541
-#EXTINF:-1, OFF HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="CANAIS | ESPORTES", OFF HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415540
-#EXTINF:-1, OFF SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="CANAIS | ESPORTES", OFF SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415542
-#EXTINF:-1, PARAMOUNT CHANNEL FHD
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e57b25df-1f6c-4f81-ae0d-d665205df7f8" group-title="CANAIS | FILMES & SÉRIES", PARAMOUNT CHANNEL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415573
-#EXTINF:-1, PARAMOUNT CHANNEL HD
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e57b25df-1f6c-4f81-ae0d-d665205df7f8" group-title="CANAIS | FILMES & SÉRIES", PARAMOUNT CHANNEL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415574
-#EXTINF:-1, PARAMOUNT CHANNEL SD
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e57b25df-1f6c-4f81-ae0d-d665205df7f8" group-title="CANAIS | FILMES & SÉRIES", PARAMOUNT CHANNEL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415575
-#EXTINF:-1, PREMIERE 2 HD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 2 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415714
-#EXTINF:-1, PREMIERE 2 SD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 2 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415715
-#EXTINF:-1, PREMIERE 3 FHD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 3 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415716
-#EXTINF:-1, PREMIERE 3 HD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 3 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415717
-#EXTINF:-1, PREMIERE 3 SD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 3 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415718
-#EXTINF:-1, PREMIERE 4 FHD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 4 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415719
-#EXTINF:-1, PREMIERE 4 SD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 4 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415721
-#EXTINF:-1, PREMIERE 5 FHD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 5 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415722
-#EXTINF:-1, PREMIERE 5 HD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 5 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415723
-#EXTINF:-1, PREMIERE 5 SD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 5 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415724
-#EXTINF:-1, PREMIERE 6 FHD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 6 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415725
-#EXTINF:-1, PREMIERE 6 HD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 6 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415726
-#EXTINF:-1, PREMIERE 6 SD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 6 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415727
-#EXTINF:-1, PREMIERE 7 HD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 7 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415729
-#EXTINF:-1, PREMIERE 7 SD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE 7 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415730
-#EXTINF:-1, PREMIERE CLUBES FHD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE CLUBES FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415710
-#EXTINF:-1, PREMIERE CLUBES HD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE CLUBES HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415711
-#EXTINF:-1, PREMIERE CLUBES SD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="CANAIS | PREMIERE", PREMIERE CLUBES SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415712
-#EXTINF:-1, RECORD BELEM SD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD BELEM SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416567
-#EXTINF:-1, RECORD BRASILIA HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD BRASILIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416558
-#EXTINF:-1, RECORD BRASILIA SD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD BRASILIA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416559
-#EXTINF:-1, RECORD CAMPINAS FHD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD CAMPINAS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416575
-#EXTINF:-1, RECORD ITAPOAN HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD ITAPOAN HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416563
-#EXTINF:-1, RECORD ITAPOAN SD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD ITAPOAN SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416564
-#EXTINF:-1, RECORD MANAUS HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD MANAUS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416573
-#EXTINF:-1, RECORD MINAS FHD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD MINAS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416554
-#EXTINF:-1, Record MINAS HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", Record MINAS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416555
-#EXTINF:-1, RECORD MINAS SD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD MINAS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416556
-#EXTINF:-1, RECORD NEWS FHD
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f00ef465-6047-4515-adbb-e525d02ecc97" group-title="CANAIS | NOTÍCIAS", RECORD NEWS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415620
-#EXTINF:-1, RECORD NEWS HD
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f00ef465-6047-4515-adbb-e525d02ecc97" group-title="CANAIS | NOTÍCIAS", RECORD NEWS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415621
-#EXTINF:-1, RECORD NEWS SD
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f00ef465-6047-4515-adbb-e525d02ecc97" group-title="CANAIS | NOTÍCIAS", RECORD NEWS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415622
-#EXTINF:-1, RECORD RJ FHD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD RJ FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416551
-#EXTINF:-1, RECORD RJ HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD RJ HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416552
-#EXTINF:-1, RECORD RJ SD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD RJ SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416553
-#EXTINF:-1, RECORD RS FHD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD RS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416571
-#EXTINF:-1, Record RS HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", Record RS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416572
-#EXTINF:-1, RECORD SANTA CATARINA HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD SANTA CATARINA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416570
-#EXTINF:-1, RECORD SAO JOSE RIO PRETO HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD SAO JOSE RIO PRETO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416576
-#EXTINF:-1, RECORD SP FHD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD SP FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416548
-#EXTINF:-1, RECORD SP HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD SP HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416549
-#EXTINF:-1, RECORD SP SD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD SP SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416550
-#EXTINF:-1, RECORD TV ATALAIA HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD TV ATALAIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416565
-#EXTINF:-1, RECORD TV BELEM HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD TV BELEM HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416566
-#EXTINF:-1, RECORD TV CABRALIA HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD TV CABRALIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416562
-#EXTINF:-1, RECORD TV GOIANIA FHD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD TV GOIANIA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416560
-#EXTINF:-1, RECORD TV GOIANIA HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD TV GOIANIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416561
-#EXTINF:-1, RECORD TV PARANÁ FHD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD TV PARANÁ FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416568
-#EXTINF:-1, RECORD TV PARANÁ HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD TV PARANÁ HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416569
-#EXTINF:-1, RECORD UBERLANDIA HD
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="CANAIS | ABERTOS", RECORD UBERLANDIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416557
-#EXTINF:-1, REDBULL TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/268/862/png-transparent-red-bull-tv-roku-television-film-red-bull-television-text-logo.png" group-title="CANAIS | ESPORTES", REDBULL TV
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416835
-#EXTINF:-1, REDE BRASIL
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="CANAIS | ABERTOS", REDE BRASIL
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415298
-#EXTINF:-1, REDE VIDA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS | RELIGIOSOS", REDE VIDA
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415739
-#EXTINF:-1, REDETV! FHD
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2d327fe9-315b-44ca-a4c6-9a79937d2b03" group-title="CANAIS | ABERTOS", REDETV! FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415289
-#EXTINF:-1, REDETV! HD
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2d327fe9-315b-44ca-a4c6-9a79937d2b03" group-title="CANAIS | ABERTOS", REDETV! HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415290
-#EXTINF:-1, REDETV! SD
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2d327fe9-315b-44ca-a4c6-9a79937d2b03" group-title="CANAIS | ABERTOS", REDETV! SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415291
-#EXTINF:-1, RIT TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Rede_Internacional_de_Televis%C3%A3o.png" group-title="CANAIS | ABERTOS", RIT TV
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415734
-#EXTINF:-1, SBT BA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT BA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415696
-#EXTINF:-1, SBT BRASILIA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT BRASILIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415697
-#EXTINF:-1, SBT CAMPINAS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT CAMPINAS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415695
-#EXTINF:-1, SBT GOIANIA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT GOIANIA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415698
-#EXTINF:-1, SBT PARANA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT PARANA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415702
-#EXTINF:-1, SBT REDE MASSA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT REDE MASSA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415701
-#EXTINF:-1, SBT RJ FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT RJ FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415692
-#EXTINF:-1, SBT RJ HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT RJ HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415693
-#EXTINF:-1, SBT RJ SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT RJ SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415694
-#EXTINF:-1, SBT RS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT RS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415707
-#EXTINF:-1, SBT SP FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT SP FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415689
-#EXTINF:-1, SBT SP HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT SP HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415690
-#EXTINF:-1, SBT SP SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT SP SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415691
-#EXTINF:-1, SBT TV Alterosa MG HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/78d59867-e930-47f3-bb33-6f689f84eb65" group-title="CANAIS | ABERTOS", SBT TV Alterosa MG HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415705
-#EXTINF:-1, SHOP TIME
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-1vDRGhMmNRk/XHW93-lj6uI/AAAAAAABSd8/UHTXbPlM7aUhBIYSxQWpVvqAyUDCMRARgCPcBGAYYCw/s640/shoptime_novologo.png" group-title="CANAIS | CULTURAIS & VARIEDADES", SHOP TIME
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415304
-#EXTINF:-1, SMITHSONIAN CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="CANAIS | CULTURAIS & VARIEDADES", SMITHSONIAN CHANNEL
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415406
-#EXTINF:-1, SPACE FHD
+#EXTINF:-1 tvg-id="SpaceBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3f5548b7-de30-4539-93b5-3f8478546a8e" group-title="CANAIS | FILMES & SÉRIES", SPACE FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415582
-#EXTINF:-1, SPACE HD
+#EXTINF:-1 tvg-id="SpaceBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3f5548b7-de30-4539-93b5-3f8478546a8e" group-title="CANAIS | FILMES & SÉRIES", SPACE HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415583
-#EXTINF:-1, SPACE SD
+#EXTINF:-1 tvg-id="SpaceBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3f5548b7-de30-4539-93b5-3f8478546a8e" group-title="CANAIS | FILMES & SÉRIES", SPACE SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415584
-#EXTINF:-1, SPORTV 2 FHD
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3ae12f1e-355d-4e89-8ab3-e3a755c7acb6" group-title="CANAIS | ESPORTES", SPORTV 2 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/398916
-#EXTINF:-1, SPORTV 2 HD
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3ae12f1e-355d-4e89-8ab3-e3a755c7acb6" group-title="CANAIS | ESPORTES", SPORTV 2 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/398917
-#EXTINF:-1, SPORTV 2 SD
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3ae12f1e-355d-4e89-8ab3-e3a755c7acb6" group-title="CANAIS | ESPORTES", SPORTV 2 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/398918
-#EXTINF:-1, SPORTV 3 FHD
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/61067ad9-28b9-4f3e-9a3a-7066f6b1c651" group-title="CANAIS | ESPORTES", SPORTV 3 FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/398919
-#EXTINF:-1, SPORTV 3 HD
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/61067ad9-28b9-4f3e-9a3a-7066f6b1c651" group-title="CANAIS | ESPORTES", SPORTV 3 HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/398920
-#EXTINF:-1, SPORTV 3 SD
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/61067ad9-28b9-4f3e-9a3a-7066f6b1c651" group-title="CANAIS | ESPORTES", SPORTV 3 SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/398921
-#EXTINF:-1, SPORTV FHD
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2f347b4a-1694-44f6-827d-ebd4d4c847df" group-title="CANAIS | ESPORTES", SPORTV FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/398913
-#EXTINF:-1, SPORTV HD
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2f347b4a-1694-44f6-827d-ebd4d4c847df" group-title="CANAIS | ESPORTES", SPORTV HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/398914
-#EXTINF:-1, SPORTV SD
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2f347b4a-1694-44f6-827d-ebd4d4c847df" group-title="CANAIS | ESPORTES", SPORTV SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/398915
-#EXTINF:-1, STAR + 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="CANAIS | FILMES & SÉRIES", STAR + 1
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439639
-#EXTINF:-1, STAR + 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="CANAIS | FILMES & SÉRIES", STAR + 2
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439640
-#EXTINF:-1, STAR + 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="CANAIS | FILMES & SÉRIES", STAR + 3
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439641
-#EXTINF:-1, STAR + 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="CANAIS | FILMES & SÉRIES", STAR + 4
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439642
-#EXTINF:-1, STAR + 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="CANAIS | FILMES & SÉRIES", STAR + 5
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439643
-#EXTINF:-1, STAR + 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="CANAIS | FILMES & SÉRIES", STAR + 6
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439644
-#EXTINF:-1, STAR + 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="CANAIS | FILMES & SÉRIES", STAR + 7
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439645
-#EXTINF:-1, STAR CHANNEL FHD
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c9885407-f226-49d9-ba39-9e72293c5b33" group-title="CANAIS | FILMES & SÉRIES", STAR CHANNEL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415576
-#EXTINF:-1, STAR CHANNEL FHD H264 ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c9885407-f226-49d9-ba39-9e72293c5b33" group-title="CANAIS | FILMES & SÉRIES", STAR CHANNEL FHD H264 ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416626
-#EXTINF:-1, STAR CHANNEL HD
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c9885407-f226-49d9-ba39-9e72293c5b33" group-title="CANAIS | FILMES & SÉRIES", STAR CHANNEL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415577
-#EXTINF:-1, STAR CHANNEL HD ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c9885407-f226-49d9-ba39-9e72293c5b33" group-title="CANAIS | FILMES & SÉRIES", STAR CHANNEL HD ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416627
-#EXTINF:-1, STAR CHANNEL SD
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c9885407-f226-49d9-ba39-9e72293c5b33" group-title="CANAIS | FILMES & SÉRIES", STAR CHANNEL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415578
-#EXTINF:-1, STUDIO UNIVERSAL FHD
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/722786dd-923a-4edc-b940-3f824c2d544c" group-title="CANAIS | FILMES & SÉRIES", STUDIO UNIVERSAL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415585
-#EXTINF:-1, STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/722786dd-923a-4edc-b940-3f824c2d544c" group-title="CANAIS | FILMES & SÉRIES", STUDIO UNIVERSAL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415586
-#EXTINF:-1, STUDIO UNIVERSAL SD
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/722786dd-923a-4edc-b940-3f824c2d544c" group-title="CANAIS | FILMES & SÉRIES", STUDIO UNIVERSAL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415587
-#EXTINF:-1, SYFY FHD
+#EXTINF:-1 tvg-id="SyfyBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/1304a80c-7c25-4e2f-a40b-26cdfd659dbe" group-title="CANAIS | FILMES & SÉRIES", SYFY FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415588
-#EXTINF:-1, SYFY HD
+#EXTINF:-1 tvg-id="SyfyBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/1304a80c-7c25-4e2f-a40b-26cdfd659dbe" group-title="CANAIS | FILMES & SÉRIES", SYFY HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415589
-#EXTINF:-1, SYFY SD
+#EXTINF:-1 tvg-id="SyfyBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/1304a80c-7c25-4e2f-a40b-26cdfd659dbe" group-title="CANAIS | FILMES & SÉRIES", SYFY SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415590
-#EXTINF:-1, TBS FHD
+#EXTINF:-1 tvg-id="TBSBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2b0ecf7f-c5f9-4fdd-b332-743b0141c562" group-title="CANAIS | FILMES & SÉRIES", TBS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415591
-#EXTINF:-1, TBS HD
+#EXTINF:-1 tvg-id="TBSBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2b0ecf7f-c5f9-4fdd-b332-743b0141c562" group-title="CANAIS | FILMES & SÉRIES", TBS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415592
-#EXTINF:-1, TBS SD
+#EXTINF:-1 tvg-id="TBSBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2b0ecf7f-c5f9-4fdd-b332-743b0141c562" group-title="CANAIS | FILMES & SÉRIES", TBS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415593
-#EXTINF:-1, TC ACTION FHD
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | TELECINE", TC ACTION FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415329
-#EXTINF:-1, TC ACTION HD
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | TELECINE", TC ACTION HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415330
-#EXTINF:-1, TC ACTION SD
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | TELECINE", TC ACTION SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415331
-#EXTINF:-1, TC CULT FHD
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Fun-4.jpg" group-title="CANAIS | TELECINE", TC CULT FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415332
-#EXTINF:-1, TC CULT HD
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Fun-4.jpg" group-title="CANAIS | TELECINE", TC CULT HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415333
-#EXTINF:-1, TC CULT SD
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Fun-4.jpg" group-title="CANAIS | TELECINE", TC CULT SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415334
-#EXTINF:-1, TC FUN FHD
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Fun-7.jpg" group-title="CANAIS | TELECINE", TC FUN FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415335
-#EXTINF:-1, TC FUN HD
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Fun-7.jpg" group-title="CANAIS | TELECINE", TC FUN HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415336
-#EXTINF:-1, TC FUN SD
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Fun-7.jpg" group-title="CANAIS | TELECINE", TC FUN SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415337
-#EXTINF:-1, TC PIPOCA FHD
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/telecinepipoca.jpg" group-title="CANAIS | TELECINE", TC PIPOCA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415338
-#EXTINF:-1, TC PIPOCA HD
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/telecinepipoca.jpg" group-title="CANAIS | TELECINE", TC PIPOCA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415339
-#EXTINF:-1, TC PIPOCA SD
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/telecinepipoca.jpg" group-title="CANAIS | TELECINE", TC PIPOCA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415340
-#EXTINF:-1, TC PREMIUM FHD
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Premium-2.jpg" group-title="CANAIS | TELECINE", TC PREMIUM FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415341
-#EXTINF:-1, TC PREMIUM HD
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Premium-2.jpg" group-title="CANAIS | TELECINE", TC PREMIUM HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415342
-#EXTINF:-1, TC PREMIUM SD
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Premium-2.jpg" group-title="CANAIS | TELECINE", TC PREMIUM SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415343
-#EXTINF:-1, TC TOUCH SD
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Touch-3.jpg" group-title="CANAIS | TELECINE", TC TOUCH SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415346
-#EXTINF:-1, TC TOUCH FHD
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Touch-3.jpg" group-title="CANAIS | TELECINE", TC TOUCH FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415344
-#EXTINF:-1, TC TOUCH HD
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Touch-3.jpg" group-title="CANAIS | TELECINE", TC TOUCH HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415345
-#EXTINF:-1, TCM FHD
+#EXTINF:-1 tvg-id="TCMBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES & SÉRIES", TCM FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415594
-#EXTINF:-1, TCM HD
+#EXTINF:-1 tvg-id="TCMBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES & SÉRIES", TCM HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415595
-#EXTINF:-1, TCM SD
+#EXTINF:-1 tvg-id="TCMBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES & SÉRIES", TCM SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415596
-#EXTINF:-1, TELECINE ACTION HD (CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | TELECINE", TELECINE ACTION HD (CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416608
-#EXTINF:-1, TELECINE CULT FHD H264 (CANAIS LEGENDADOS)
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Fun-4.jpg" group-title="CANAIS | TELECINE", TELECINE CULT FHD H264 (CANAIS LEGENDADOS)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416613
-#EXTINF:-1, TELECINE CULT HD ( CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Fun-4.jpg" group-title="CANAIS | TELECINE", TELECINE CULT HD ( CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416614
-#EXTINF:-1, TELECINE FUN FHD H264 (CANAIS LEGENDADOS)
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Fun-7.jpg" group-title="CANAIS | TELECINE", TELECINE FUN FHD H264 (CANAIS LEGENDADOS)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416611
-#EXTINF:-1, TELECINE FUN HD H264 (CANAIS LEGENDADOS )
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Fun-7.jpg" group-title="CANAIS | TELECINE", TELECINE FUN HD H264 (CANAIS LEGENDADOS )
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416612
-#EXTINF:-1, TELECINE PIPOCA FHD H264 (CANAIS LEGENDADOS)
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/telecinepipoca.jpg" group-title="CANAIS | TELECINE", TELECINE PIPOCA FHD H264 (CANAIS LEGENDADOS)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416603
-#EXTINF:-1, TELECINE PIPOCA HD (CANAIS LEGENDADOS)
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/telecinepipoca.jpg" group-title="CANAIS | TELECINE", TELECINE PIPOCA HD (CANAIS LEGENDADOS)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416604
-#EXTINF:-1, TELECINE PREMIUM FHD H264 (CANAIS LEGENDADOS)
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Premium-2.jpg" group-title="CANAIS | TELECINE", TELECINE PREMIUM FHD H264 (CANAIS LEGENDADOS)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416605
-#EXTINF:-1, TELECINE PREMIUM HD (CANAIS LEGENDADOS)
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Premium-2.jpg" group-title="CANAIS | TELECINE", TELECINE PREMIUM HD (CANAIS LEGENDADOS)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416606
-#EXTINF:-1, TELECINE TOUCH FHD H264 (CANAIS LEGENDADOS)
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Touch-3.jpg" group-title="CANAIS | TELECINE", TELECINE TOUCH FHD H264 (CANAIS LEGENDADOS)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416609
-#EXTINF:-1, TELECINE TOUCH HD ( CANAIS LEGENDADOS)
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Touch-3.jpg" group-title="CANAIS | TELECINE", TELECINE TOUCH HD ( CANAIS LEGENDADOS)
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416610
-#EXTINF:-1, TLC FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180614/aku/kisspng-tlc-discovery-channel-discovery-inc-logo-televis-5b22f04516b9d1.0903906715290163890931.jpg" group-title="CANAIS | CULTURAIS & VARIEDADES", TLC FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415412
-#EXTINF:-1, TLC HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180614/aku/kisspng-tlc-discovery-channel-discovery-inc-logo-televis-5b22f04516b9d1.0903906715290163890931.jpg" group-title="CANAIS | CULTURAIS & VARIEDADES", TLC HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415413
-#EXTINF:-1, TLC SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.gratispng.com/20180614/aku/kisspng-tlc-discovery-channel-discovery-inc-logo-televis-5b22f04516b9d1.0903906715290163890931.jpg" group-title="CANAIS | CULTURAIS & VARIEDADES", TLC SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415414
-#EXTINF:-1, TNT FHD
+#EXTINF:-1 tvg-id="TNTBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/7821f5f8-5b19-454d-a776-5f0de94b1e9f" group-title="CANAIS | FILMES & SÉRIES", TNT FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415597
-#EXTINF:-1, TNT HD
+#EXTINF:-1 tvg-id="TNTBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/7821f5f8-5b19-454d-a776-5f0de94b1e9f" group-title="CANAIS | FILMES & SÉRIES", TNT HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415598
-#EXTINF:-1, TNT SÉRIES FHD
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/7c1d64aa-c13f-47fb-bf93-08e90e568149" group-title="CANAIS | FILMES & SÉRIES", TNT SÉRIES FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415600
-#EXTINF:-1, TNT SD
+#EXTINF:-1 tvg-id="TNTBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/7821f5f8-5b19-454d-a776-5f0de94b1e9f" group-title="CANAIS | FILMES & SÉRIES", TNT SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415599
-#EXTINF:-1, TNT SERIES HD
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/7c1d64aa-c13f-47fb-bf93-08e90e568149" group-title="CANAIS | FILMES & SÉRIES", TNT SERIES HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415601
-#EXTINF:-1, TNT SERIES SD
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/7c1d64aa-c13f-47fb-bf93-08e90e568149" group-title="CANAIS | FILMES & SÉRIES", TNT SERIES SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415602
-#EXTINF:-1, TNT SPORTS 3
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="CANAIS | ESPORTES", TNT SPORTS 3
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439668
-#EXTINF:-1, TNT SPORTS 4
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="CANAIS | ESPORTES", TNT SPORTS 4
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439669
-#EXTINF:-1, TNT SPORTS 5
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="CANAIS | ESPORTES", TNT SPORTS 5
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439670
-#EXTINF:-1, TOONCAST FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ac3be97a-1bc4-4669-8727-0f988f086472" group-title="CANAIS | INFANTIS", TOONCAST FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415212
-#EXTINF:-1, TOONCAST HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ac3be97a-1bc4-4669-8727-0f988f086472" group-title="CANAIS | INFANTIS", TOONCAST HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415213
-#EXTINF:-1, TOONCAST SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ac3be97a-1bc4-4669-8727-0f988f086472" group-title="CANAIS | INFANTIS", TOONCAST SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415214
-#EXTINF:-1, TRU TV FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="CANAIS | CULTURAIS & VARIEDADES", TRU TV FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415686
-#EXTINF:-1, TRU TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="CANAIS | CULTURAIS & VARIEDADES", TRU TV HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415687
-#EXTINF:-1, TRU TV SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="CANAIS | CULTURAIS & VARIEDADES", TRU TV SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415688
-#EXTINF:-1, TV APARECIDA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS | RELIGIOSOS", TV APARECIDA
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415733
-#EXTINF:-1, TV BRASIL
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1280px-TV_Brasil_logo_2019.svg.png" group-title="CANAIS | ABERTOS", TV BRASIL
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415295
-#EXTINF:-1, TV BRASIL 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TVBrasil2.png" group-title="CANAIS | ABERTOS", TV BRASIL 2
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415296
-#EXTINF:-1, TV CAMARA
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS | ABERTOS", TV CAMARA
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415299
-#EXTINF:-1, TV CEI
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbr-str.srvsite.com/arquivos/9100/cabecalho-9100-20221008094632.png" group-title="CANAIS | ABERTOS", TV CEI
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415307
-#EXTINF:-1, TV CULTURA
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="CANAIS | ABERTOS", TV CULTURA
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415294
-#EXTINF:-1, TV ESCOLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="CANAIS | ABERTOS", TV ESCOLA
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415311
-#EXTINF:-1, TV EVANGELIZAR
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="CANAIS | RELIGIOSOS", TV EVANGELIZAR
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415736
-#EXTINF:-1, TV GAZETA
+#EXTINF:-1 tvg-id="" tvg-logo="https://neamp.pucsp.br/images/logos/tv-gazeta.png" group-title="CANAIS | ABERTOS", TV GAZETA
 http://suatv.fun:80/canaisp2p/mudar@2021j45/417241
-#EXTINF:-1, TV MAX
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png/v1/fill/w_289,h_289,al_c/0f057e_8a28dc905a0949ecaeba9368cd313d0d~mv2.png" group-title="CANAIS | CULTURAIS & VARIEDADES", TV MAX
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415310
-#EXTINF:-1, TV NSPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.esm.com.br/assets/img/logos/tvnsports-pos.jpg" group-title="CANAIS | ESPORTES", TV NSPORTS 3
 http://suatv.fun:80/canaisp2p/mudar@2021j45/439674
-#EXTINF:-1, TV PAI ETERNO
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="CANAIS | RELIGIOSOS", TV PAI ETERNO
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415738
-#EXTINF:-1, TV RA TIM BUM FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS | INFANTIS", TV RA TIM BUM FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415215
-#EXTINF:-1, TV RA TIM BUM HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS | INFANTIS", TV RA TIM BUM HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415216
-#EXTINF:-1, TV RA TIM BUM SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS | INFANTIS", TV RA TIM BUM SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415217
-#EXTINF:-1, TV SÉCULO 21
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Rede_S%C3%A9culo_21.jpg" group-title="CANAIS | RELIGIOSOS", TV SÉCULO 21
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415741
-#EXTINF:-1, TV SENADO
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="CANAIS | ABERTOS", TV SENADO
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415300
-#EXTINF:-1, TV TERRA VIVA
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" group-title="CANAIS | ABERTOS", TV TERRA VIVA
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415302
-#EXTINF:-1, UNIVERSAL CHANNEL FHD
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/722786dd-923a-4edc-b940-3f824c2d544c" group-title="CANAIS | FILMES & SÉRIES", UNIVERSAL CHANNEL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415603
-#EXTINF:-1, UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/722786dd-923a-4edc-b940-3f824c2d544c" group-title="CANAIS | FILMES & SÉRIES", UNIVERSAL CHANNEL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415604
-#EXTINF:-1, UNIVERSAL CHANNEL SD
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/722786dd-923a-4edc-b940-3f824c2d544c" group-title="CANAIS | FILMES & SÉRIES", UNIVERSAL CHANNEL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415605
-#EXTINF:-1, VH1 MEGAHITS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/680px-LOGO_VH1_MEGA_HITS.svg.png" group-title="CANAIS | CULTURAIS & VARIEDADES", VH1 MEGAHITS FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415678
-#EXTINF:-1, VH1 MEGAHITS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/680px-LOGO_VH1_MEGA_HITS.svg.png" group-title="CANAIS | CULTURAIS & VARIEDADES", VH1 MEGAHITS HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415679
-#EXTINF:-1, VH1 MEGAHITS SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/680px-LOGO_VH1_MEGA_HITS.svg.png" group-title="CANAIS | CULTURAIS & VARIEDADES", VH1 MEGAHITS SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415680
-#EXTINF:-1, VIVA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b1b29d58-c580-4644-aa7e-e75ad48392a8" group-title="CANAIS | CULTURAIS & VARIEDADES", VIVA FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415675
-#EXTINF:-1, VIVA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b1b29d58-c580-4644-aa7e-e75ad48392a8" group-title="CANAIS | CULTURAIS & VARIEDADES", VIVA HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415676
-#EXTINF:-1, VIVA SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b1b29d58-c580-4644-aa7e-e75ad48392a8" group-title="CANAIS | CULTURAIS & VARIEDADES", VIVA SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415677
-#EXTINF:-1, VIVIDI RED
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415118
-#EXTINF:-1, WARNER CHANNEL FHD
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5683ea1c-d0af-4316-91d7-2b2d775e0664" group-title="CANAIS | FILMES & SÉRIES", WARNER CHANNEL FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415606
-#EXTINF:-1, WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5683ea1c-d0af-4316-91d7-2b2d775e0664" group-title="CANAIS | FILMES & SÉRIES", WARNER CHANNEL HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415607
-#EXTINF:-1, WARNER CHANNEL SD
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5683ea1c-d0af-4316-91d7-2b2d775e0664" group-title="CANAIS | FILMES & SÉRIES", WARNER CHANNEL SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415608
-#EXTINF:-1, WOOHOO FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS | CULTURAIS & VARIEDADES", WOOHOO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415543
-#EXTINF:-1, WOOHOO HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS | CULTURAIS & VARIEDADES", WOOHOO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415544
-#EXTINF:-1, WOOHOO SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS | CULTURAIS & VARIEDADES", WOOHOO SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415545
-#EXTINF:-1, ZOOMOO FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS", ZOOMOO FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415218
-#EXTINF:-1, ZOOMOO HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS", ZOOMOO HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415219
-#EXTINF:-1, ZOOMOO SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS", ZOOMOO SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415220
-#EXTINF:-1, ID - INVESTIGACAO DISCOVERY FHD
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f08eba3f-2fc8-4316-80f7-92db3f925330" group-title="CANAIS | CULTURAIS & VARIEDADES", ID - INVESTIGACAO DISCOVERY FHD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415409
-#EXTINF:-1, ID - INVESTIGACAO DISCOVERY HD
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f08eba3f-2fc8-4316-80f7-92db3f925330" group-title="CANAIS | CULTURAIS & VARIEDADES", ID - INVESTIGACAO DISCOVERY HD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415410
-#EXTINF:-1, ID - INVESTIGACAO DISCOVERY SD
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f08eba3f-2fc8-4316-80f7-92db3f925330" group-title="CANAIS | CULTURAIS & VARIEDADES", ID - INVESTIGACAO DISCOVERY SD
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415411
