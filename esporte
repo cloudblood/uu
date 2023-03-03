@@ -1,0 +1,110 @@
+#EXTM3U
+
+
+################### CANAIS TNT ###################
+
+#EXTINF:-1 tvg-id="Like.br" tvg-name="ESTADIO TNT SPORT 01 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 01 [HD] PPV
+http://lmtv.me:80/B8c5eB/Kyqsth/89977
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 02 [HD] PPV
+http://lmtv.me:80/B8c5eB/Kyqsth/89978
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 03 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 03 [HD] PPV
+http://lmtv.me:80/B8c5eB/Kyqsth/89979
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 04 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 04 [HD] PPV
+http://lmtv.me:80/B8c5eB/Kyqsth/89980
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 05 [HD] PPV" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/TNT%20SPORTS.png" group-title="CANAIS | TNT STADIO",ESTADIO TNT SPORT 05 [HD] PPV
+http://lmtv.me:80/B8c5eB/Kyqsth/89981
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT [HD]" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/TNT%20FILM.png" group-title="CANAIS | FILMES E SERIES",TNT [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90393
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT [SD]" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/TNT%20FILM.png" group-title="CANAIS | FILMES E SERIES",TNT [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90394
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES [HD]" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/TNT%20SERIES.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90397
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES [SD]" tvg-logo="http://storage.newbp.xyz/lives/FILMES%20E%20SERIES/TNT%20SERIES.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90398
+
+################### CANAIS HBO MAX ###############
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 03 [M]" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="CANAIS | ESPORTES",HBO MAX STAR+ 03 [M]
+http://lmtv.me:80/B8c5eB/Kyqsth/90108
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 02 [M]" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="CANAIS | ESPORTES",HBO MAX STAR+ 02 [M]
+http://lmtv.me:80/B8c5eB/Kyqsth/90107
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="HBO MAX STAR+ 01 [M]" tvg-logo="http://storage.newbp.xyz/lives/HBO/HBO%20MAX.png" group-title="CANAIS | ESPORTES",HBO MAX STAR+ 01 [M]
+http://lmtv.me:80/B8c5eB/Kyqsth/90106
+
+
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV.png" group-title="CANAIS | ESPORTES",SPORTV [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90330
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%202.png" group-title="CANAIS | ESPORTES",SPORTV 2 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90321
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%202.png" group-title="CANAIS | ESPORTES",SPORTV 2 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90322
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%203.png" group-title="CANAIS | ESPORTES",SPORTV 3 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90325
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/SPORTV%203.png" group-title="CANAIS | ESPORTES",SPORTV 3 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90326
+
+################## CANAIS ESPN ######################
+
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN.png" group-title="CANAIS | ESPORTES",ESPN 2 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89971
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN.png" group-title="CANAIS | ESPORTES",ESPN 2 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89972
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%203.png" group-title="CANAIS | ESPORTES",ESPN 3 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89975
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%203.png" group-title="CANAIS | ESPORTES",ESPN 3 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89976
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%204.png" group-title="CANAIS | ESPORTES",ESPN 4 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/95436
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%204.png" group-title="CANAIS | ESPORTES",ESPN 4 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/95438
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%20BRASIL.png" group-title="CANAIS | ESPORTES",ESPN BRASIL [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89963
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%20BRASIL.png" group-title="CANAIS | ESPORTES",ESPN BRASIL [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89964
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%20EXTRA.png" group-title="CANAIS | ESPORTES",ESPN EXTRA [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89967
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/ESPN%20EXTRA.png" group-title="CANAIS | ESPORTES",ESPN EXTRA [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89968
+
+################ CANAIS FOX #######################
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS.png" group-title="CANAIS | ESPORTES",FOX SPORTS [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90003
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS.png" group-title="CANAIS | ESPORTES",FOX SPORTS [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90004
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS%202.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/89999
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/FOX%20SPORTS%202.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90000
+
+##################### CANAIS PREMIERE ################
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90237
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90238
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 2 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90213
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 2 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90214
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 3 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90217
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 3 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90218
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 4 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90221
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 4 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90222
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 5 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90225
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 5 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90226
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 6 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90229
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 6 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90230
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 [HD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 7 [HD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90233
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 7 [SD]
+http://lmtv.me:80/B8c5eB/Kyqsth/90234
