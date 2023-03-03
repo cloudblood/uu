@@ -108,3 +108,58 @@ http://lmtv.me:80/B8c5eB/Kyqsth/90230
 http://lmtv.me:80/B8c5eB/Kyqsth/90233
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 [SD]" tvg-logo="http://storage.newbp.xyz/lives/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 7 [SD]
 http://lmtv.me:80/B8c5eB/Kyqsth/90234
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/ANIMAL%20PLANET%204K.png" group-title="CANAIS | UHD 4K",ANIMAL PLANET [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95648
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/BAND%204K.png" group-title="CANAIS | UHD 4K",BAND [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95649
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/CARTOOM%20NETWORK%204K.png" group-title="CANAIS | UHD 4K",CARTOON NETWORK [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95650
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/COMBATE%204K.png" group-title="CANAIS | UHD 4K",COMBATE [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95651
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL TV 1 [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/CONMEBOL%20LIBERTADORES%204K.png" group-title="CANAIS | UHD 4K",CONMEBOL TV 1 [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95652
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/DISCOVERY%20CHANNEL%204K.png" group-title="CANAIS | UHD 4K",DISCOVERY CHANNEL [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95653
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/ESPN%204K.png" group-title="CANAIS | UHD 4K",ESPN [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95654
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/FOX%20SPORTS%204K.png" group-title="CANAIS | UHD 4K",FOX SPORTS [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95655
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/FOX%20SPORTS%202%204K.png" group-title="CANAIS | UHD 4K",FOX SPORTS 2 [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95656
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/GLOBO%204K.png" group-title="CANAIS | UHD 4K",GLOBO [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95657
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/HBO%204K.png" group-title="CANAIS | UHD 4K",HBO [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95658
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/HBO%20XTREME%204K.png" group-title="CANAIS | UHD 4K",HBO XTREME [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95659
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/MEGAPIX%204K.png" group-title="CANAIS | UHD 4K",MEGAPIX [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95660
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/MULTISHOW%204K.png" group-title="CANAIS | UHD 4K",MULTISHOW [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95661
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/NATIONAL%20GEOGRAPHIC%204K.png" group-title="CANAIS | UHD 4K",NATIONAL GEOGRAPHIC [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95662
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/RECORD%20TV%204K.png" group-title="CANAIS | UHD 4K",RECORD [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95664
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/REDE%20TV%204K.png" group-title="CANAIS | UHD 4K",REDE TV [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95665
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/SBT%204K.png" group-title="CANAIS | UHD 4K",SBT [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95666
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/SPACE%204K.png" group-title="CANAIS | UHD 4K",SPACE [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95667
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/SPORTV%204K.png" group-title="CANAIS | UHD 4K",SPORTV [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95669
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/STAR%20CHANNEL%204K.png" group-title="CANAIS | UHD 4K",STAR CHANNEL [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95670
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/TELECINE%20PIPOCA%204K.png" group-title="CANAIS | UHD 4K",TELECINE PIPOCA [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95671
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/TELECINE%20PREMIUM%204K.png" group-title="CANAIS | UHD 4K",TELECINE PREMIUM [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95672
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/TNT%204K.png" group-title="CANAIS | UHD 4K",TNT [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95673
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/TNT%20SERIES%204K.png" group-title="CANAIS | UHD 4K",TNT SERIES [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95674
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/GAZETA.png" group-title="CANAIS | UHD 4K",TV GAZETA [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95675
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES [4K]" tvg-logo="http://storage.newbp.xyz/lives/4K/PREMIERE%204K.png" group-title="CANAIS | UHD 4K",PREMIERE CLUBES [4K]
+http://lmtv.me:80/B8c5eB/Kyqsth/95676
