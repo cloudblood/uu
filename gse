@@ -3,10 +3,6 @@
 http://xx.scorpionplay.tech:80/douglas/102030/1876404
 #EXTINF:-1 tvg-id="sbt.br" tvg-name=" SBT" tvg-logo="http://xx.tigeruhd.fun:80/images/73e6fdac5647863acae3a6f6e505cb14.png" group-title="CANAIS || SBT", SBT
 http://xx.scorpionplay.tech:80/douglas/102030/1876391
-#EXTINF:-1 tvg-id="" tvg-name="001 TESTE" tvg-logo="http://xx.tigeruhd.fun:80/images/ff4c6734618145cb42cb67951e983453.png" group-title="CANAIS || ABERTOS",001 TESTE
-http://xx.scorpionplay.tech:80/douglas/102030/1876126
-#EXTINF:-1 tvg-id="" tvg-name="002 TESTE" tvg-logo="http://xx.tigeruhd.fun:80/images/ff4c6734618145cb42cb67951e983453.png" group-title="CANAIS || ABERTOS",002 TESTE
-http://xx.scorpionplay.tech:80/douglas/102030/2417311
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="http://xx.tigeruhd.fun:80/images/968326125b38dbe4c7878adc4fafd088.png" group-title="CANAIS || FILMES & SERIES",A&E FHD
 http://xx.scorpionplay.tech:80/douglas/102030/2191649
 #EXTINF:-1 tvg-id="86" tvg-name="A&E FHD [H265]" tvg-logo="http://xx.tigeruhd.fun:80/images/6d6b47ee0e11f1f6ced1cd133be054ce.png" group-title="CANAIS || FHD H265",A&E FHD [H265]
